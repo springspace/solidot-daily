@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 07 Jun 2026 23:25:19 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月07日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+            &lt;li&gt;
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84507" target="_blank"&gt;加州伯克利的 CS 课程不及格率上升&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                数据显示，2026 年春季加州伯克利 CS 10 课（The Beauty and Joy of Computing）的不及格率高达 35.3%，CS 61A 课（计算机程序的构造和解释）的不及格率达到了 10.6%。而在 2025 年和 2024 年春季，这两门课的不及格率均未超过 10%。教这两门课的教授 Dan Garcia 认为不及格率上升与学生使用大模型相关：学生被发现使用大模型如 Claude、ChatGPT 和 Google Gemini 考试作弊，或过于依赖大模型完成作业但对知识一知半解因此未能对考试做好准备。其它原因包括数学基础薄弱以及师资力量不足。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84508" target="_blank"&gt;印度人口可能会更早开始下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 1970 年代，Parul Gayen 生活在德里的贫民窟，那儿到处都是孩子。她的母亲有 6 个兄弟姐妹，她的祖父有 11 个兄弟姐妹。她的丈夫 Swapan 有 6 个兄弟姐妹——第 7 个夭折了，两人在 16 岁时结婚，有 3 个孩子。如今她已经 58 岁，但他们的孩子只有两个决定生育，而且只生 1 个。时代变了。她说，一个孩子会感到孤独。印度如今是世界人口最多的国家，但它正走在中国的人口开始减少的道路上——中国人口自 2021 年起开始减少。印度生育率下降的速度比预期的更快也更早。印度人口众多的贫困邦的生育率正向富裕邦看齐：人口 7700 万的泰米尔纳德邦和人口约 1 亿的西孟加拉邦的总和生育率均为 1.3，与芬兰相同。印度城市的平均总和生育率为 1.5。印度人口的峰值预计为 15.5 亿。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84509" target="_blank"&gt;美国政府考虑在 AI 公司持有股份&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国政府考虑持有 AI 公司股份。OpenAI CEO Sam Altman 正与白宫就政府可能入股这家 AI 公司进行持续磋商。双方的讨论已持续一年多，本周 Altman 在华盛顿会见了多位议员和官员，就监管和 AI 的最新发展进行了磋商。作为潜在协议的一部分，OpenAI 可能会向美国政府捐赠股权，用于建立某种公共财富基金。该基金可以“投资于多元化的长期资产”，让公民能获取 AI 发展的“收益”。在特朗普的第二个任期内，政府已入股了英特尔、IBM 以及量子和关键矿产公司。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-07</guid><pubDate>Sun, 07 Jun 2026 23:25:19 +0000</pubDate></item></channel></rss>
