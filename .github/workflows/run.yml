@@ -2,8 +2,8 @@ name: Generate Daily Solidot RSS
 
 on:
   schedule:
-    - cron: '0 14 * * *'  # UTC 时间 14:00，等于北京时间每天晚上 22:00
-  workflow_dispatch:      # 允许我们手动点击按钮立即触发测试
+    - cron: '0 14 * * *'  # 北京时间每天晚上 22:00
+  workflow_dispatch:      # 允许手动点击触发
 
 jobs:
   build-and-run:
@@ -11,10 +11,10 @@ jobs:
     
     steps:
     - name: 1. 下载仓库代码
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4.2.2 # 显式指定内置了更高 Node 兼容的最新补丁版本
 
     - name: 2. 设置 Python 环境
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v5.3.0 # 使用已修复 Node 兼容性的稳定版本
       with:
         python-version: '3.10'
 
@@ -30,7 +30,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # 检查是否有文件更新，防止没有新新闻时报错
         if [ -f "solidot_daily.xml" ]; then
           git add solidot_daily.xml
           git commit -m "自动更新: Solidot 每日简报" || echo "没有新内容需要提交"
