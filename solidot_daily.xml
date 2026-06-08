@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 07 Jun 2026 23:29:53 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月07日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 08 Jun 2026 12:20:15 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
                 &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84507" target="_blank"&gt;加州伯克利的 CS 课程不及格率上升&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
                 数据显示，2026 年春季加州伯克利 CS 10 课（The Beauty and Joy of Computing）的不及格率高达 35.3%，CS 61A 课（计算机程序的构造和解释）的不及格率达到了 10.6%。而在 2025 年和 2024 年春季，这两门课的不及格率均未超过 10%。教这两门课的教授 Dan Garcia 认为不及格率上升与学生使用大模型相关：学生被发现使用大模型如 Claude、ChatGPT 和 Google Gemini 考试作弊，或过于依赖大模型完成作业但对知识一知半解因此未能对考试做好准备。其它原因包括数学基础薄弱以及师资力量不足。
@@ -17,4 +17,81 @@
                 美国政府考虑持有 AI 公司股份。OpenAI CEO Sam Altman 正与白宫就政府可能入股这家 AI 公司进行持续磋商。双方的讨论已持续一年多，本周 Altman 在华盛顿会见了多位议员和官员，就监管和 AI 的最新发展进行了磋商。作为潜在协议的一部分，OpenAI 可能会向美国政府捐赠股权，用于建立某种公共财富基金。该基金可以“投资于多元化的长期资产”，让公民能获取 AI 发展的“收益”。在特朗普的第二个任期内，政府已入股了英特尔、IBM 以及量子和关键矿产公司。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-07</guid><pubDate>Sun, 07 Jun 2026 23:29:53 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84510" target="_blank"&gt;科学家精准编辑人类胚胎基因&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国科学家贺建奎在 2018 年披露使用 CRISPR 基因编辑技术修改了人类胚胎诞生了两名基因编辑女婴。他后来因此被判入狱三年。CRISPR 不是一种非常精准的基因编辑技术，容易出现脱靶效应。现在哥伦比亚大学发育细胞生物学副教授 Dieter Egli 与 DNA 测试初创公司 Nucleus Genomics 的 Nathan Treff 等人合作，使用更精准的基因编辑技术碱基编辑编辑了人类胚胎基因，该技术能靶向 DNA 序列中的单个碱基，能减少副作用。最新研究针对了两个基因，其一是增加患心脏病风险的基因，其二是与镰状细胞贫血症等血液疾病相关的基因。研究人员表示这项技术有助于修复胚胎中的致病突变，但距离特制胎儿还很遥远。实验发现，这些基因编辑并未均匀发生在所有细胞中，一些细胞完成了碱基改造，另一部分则仍保留着原始碱基，这种现象被称为嵌合效应。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84511" target="_blank"&gt;AI 威胁数十亿人的自然资源&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                联合国大学水、环境与健康研究所发布了报告《AI 能耗的环境成本：碳、水和土地足迹》。报告预计到 2030 年，为全球人工智能（AI）提供支持的数据中心，每年将消耗 945 TWh 的电力，相关用水量将相当于 13 亿人一年的基本生活用水需求，而土地占用面积将超过 14500 平方公里。研究发现，支撑 AI 运行的每 1 千瓦时电力，都同时对应3种环境足迹，即来自能源生产过程的碳足迹、来自发电和冷却过程的水足迹，以及能源基础设施建设和资源开采带来的土地足迹。报告显示，训练 GPT-5 预计需要约 100 GWh 电力，相当于撒哈拉以南非洲约 77 万人一年的居民用电量，相关用水量约为 10 亿升，土地占用量约为 1.5 平方公里。训练只是 AI 生命周期中的一部分。随着模型投入应用，真正持续消耗资源的是推理过程，也就是模型不断响应用户请求、生成内容的过程。报告估计，推理环节占 AI 总能耗的 80%-90%。2025 年全球数据中心消耗了 448 TWh 的电力。如果将其视为一个国家，它们将成为全球第 11 大电力消费国，排在法国之后，沙特阿拉伯之前。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84512" target="_blank"&gt;新药功能性治愈部分乙肝患者&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                葛兰素史克公布了其实验乙肝治疗药物 bepirovirsen(bepi)的两项重复双盲试验结果：疫苗功能性治愈了 19% 的患者。全世界大约有 2.4 亿人感染了慢性乙肝，每年 110 万人死亡。大部分慢性乙肝患者没有接受治疗。完全治愈乙肝非常困难，因此评估药物的疗效主要是功能性治愈——即检测不到病毒。在 1220 名注射 bepirovirsen 的患者中有 233 人功能性治愈，对照组无人功能性治愈。研究人员强调 bepirovirsen 对大部分慢性乙肝患者效果有限。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84513" target="_blank"&gt;2025 年国际 Ｃ语言混乱代码大赛公布获奖结果&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2025 年第 29 届国际 Ｃ 语言混乱代码大赛（IOCCC, The International Obfuscated C Code Contest）公布了获奖作品。IOCCC 是一项国际程序设计赛事，旨在写出最有创意和最让人难以理解的 C 语言代码。IOCCC29 的 22 部获奖作品包括：Nick Craig-Wood 开发的 GBA 模拟器，其源代码就像一部 GBA 游戏机；虚拟机的代码规模通常比较大，比如 QEMU 有大约 200 万行代码，而 Adrian Cable 开发的虚拟机只有 366 个字节，它能运行 DOOM；台湾开发者 jingp49 获奖作品的源代码形状来自《神秘博士》的时间机器塔迪斯（Tardis）。IOCCC 主办方表示，22 个获奖程序都极富创意，参赛作品数量和质量都达到历史最高水平。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84518" target="_blank"&gt;免费领取价值30/90美金的NVIDIA DLI自学课程并测试获得证书&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                领取规则：未注册过开发者的用户可以通过如下链接免费选择一门 DLI 在线自主培训的付费课程，配套云端实验环境和可获得 NVIDIA 培训证书。每位用户（每个邮箱账号）仅可选择一门。
+https://developer.nvidia.cn/login?ncid=ref-dev-557858&amp;amp;sfdcid=Zhiding&lt;br /&gt;
+&lt;br /&gt;
+
+目前可选课程包括 7 门英文课，5 门中文课，目前课程列表如下，随时下架，免费名额有限，先到先得：
+
+&lt;br /&gt;
+
+
+
+领取指南：
+总共分四步，即可领取课程并学习测试获得证书
+一、新注册开发者用户
+填写未注册过的邮箱——设置密码——完善资料
+
+
+&lt;br /&gt;
+
+
+二、免费领取一节免费课程
+下滑到NVIDIA 培训和认证模块，点击立即领取，并补充个人信息
+注意：年龄仅限18岁以上，Location选择China
+
+
+
+三、领取一节您感兴趣的中文或者英文课程
+右上角可选择语言挑选中/英文课程
+
+四、开始学习并通过测试获得NVIDIA培训证书
+学习前，请阅读下图四步进行环境确认
+自测链接：http://websocketstest.courses.nvidia.com
+
+
+&lt;span class="lark-record-clipboard"&gt;&lt;/span&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84519" target="_blank"&gt;微软再次加强 Xbox 内容独占&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在索尼之后，微软重新加强游戏独占策略。索尼停止将其第一方 3A 游戏移植到 PC 平台，而微软的 Xbox 平台此前开始将其 3A 游戏移植到索尼的 PS 平台，但新 CEO Asha Sharma 上任之后，她改变了这一做法，强调 Xbox 平台“必须有独占内容和服务”。在周日的 XBOX Games Showcase 上，微软宣布其《Gears of War: E-Day》和《Clockwork Revolution》将是 Xbox 独占，并且不是限时独占。微软表示，此前宣布支持 PS5 的游戏如《Halo: Campaign Evolved》和《Forza Horizon 6》仍然会按计划推出。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84520" target="_blank"&gt;GLP-1 减肥药与更低的乳腺癌风险相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《JCO Oncology Practice》期刊上的一项研究，服用 GLP-1 减肥药与女性更低的乳腺癌风险相关。对逾 11 万名年龄在 45 岁至 80 岁之间的回顾性分析发现，服用 GLP-1 药物的女性患乳腺癌的风险比未服用的女性低约 30%。这是一项观察性研究，GLP-1 减肥药与降低乳腺癌发病率之间是否存在关联还有待进一步研究。GLP-1 药物模拟了人体天然激素 glucagon‑like peptide‑1，该激素有助于调节血糖和食欲。GLP-1 药物最初被用于减肥，如今被发现还可能有助于预防癌症。研究人员指出，GLP-1 药物会影响许多与癌症发展相关的靶点和通路，因此值得进一步展开研究。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-08</guid><pubDate>Mon, 08 Jun 2026 12:20:15 +0000</pubDate></item></channel></rss>
