@@ -1,67 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 09 Jun 2026 12:05:50 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 10 Jun 2026 12:22:16 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84522" target="_blank"&gt;韦伯首次测量早期宇宙休眠黑洞质量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                天文学家利用韦伯太空望远镜以及引力透镜效应首次测量了一个早期宇宙休眠黑洞质量。该黑洞是 MRG-M0138 星系的中心，星系已经不再形成恒星，而黑洞也不再吞噬周围的物质而处于休眠状态。MRG-M0138 位于一个巨大星系团的背后，被引力透镜效应放大了约 30 倍。黑洞距离地球大约 100 亿光年，其质量为太阳的 60 亿倍。天文学家组合了引力透镜以及黑洞引力对恒星运动的影响确定了其质量。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84532" target="_blank"&gt;Falcon 9 火箭第一级 B 1067 执行了 35 次发射任务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月内执行了两次发射，SpaceX 的目标是火箭第一级能重复使用 40 次，B 1067 正接近这一目标。B 1067 发射次数比竞争对手联合发射联盟（ULA）过去五年的总发射次数还要多（ULA 完成了 29 次发射）。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84523" target="_blank"&gt;肥胖会影响精子质量改变表观遗传标记&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Current Obesity Reports》期刊上的一项研究，肥胖并非只是个人选择的结果，肥胖风险的遗传率高达 40%-70%，能通过复杂的生物和环境因素代代相传。最新证据表明，肥胖会影响精子质量，改变表观遗传标记。这些变化可能会影响儿童的食欲调节、新陈代谢和长期患病风险。好消息是这些变化是可逆转的。生活方式改变以及减肥可改善精子健康，改变与肥胖相关的表观遗传模式。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84533" target="_blank"&gt;iPhone 与美国生育率下降相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国总生育率自 2007 年以来下降了 22%，这一下降趋势难以用经济状况、避孕、住房或托儿成本等进行解释，智能手机的普及被认为与生育率下降相关，2007 年就是第一代 iPhone 发布之年。在美国，从 2007 年 6 月到 2011 年 2 月，iPhone 仅在 AT&amp;amp;T 网络销售。这就是为研究智能手机对生育影响提供了一个天然的实验环境。研究人员利用 AT&amp;amp;T 移动网络覆盖范围的差异去识别 iPhone 对生育的影响。结果显示，iPhone 的普及使 15-19 岁女性的生育率下降了 4.5%-8.0%，20-24 岁女性的生育率下降了 3.2%-6.6%。iPhone 的普及加速了 30 岁以下女性生育率的下降，抑制了 30 岁以上女性生育率的上升。研究人员称，iPhone 的普及能解释 15-44 岁女性总体生育率下降的 33%-52%。原因被认为是智能手机减少了线下的面对面人际交往，增加了色情内容的使用，降低了性生活频率。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84524" target="_blank"&gt;OpenAI 申请 IPO&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenAI 已秘密提交了 IPO 申请。秘密提交上市申请允许企业在不公开披露财务信息的情况下推进上市计划。OpenAI 以及 SpaceX 和 Anthropic 是近期最受瞩目的 IPO 事件，三家公司的市值有可能达到 4 万亿美元。OpenAI 在声明中表示它尚未决定上市日期，它也未披露将会出售多少股份。OpenAI 表示将在最佳的时机选择上市。OpenAI 最近一轮融资是在今年 3 月，融资 1220 亿美元估值 8520 亿美元，它的估值已经落后于主要竞争对手 Anthropic。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84534" target="_blank"&gt;Donut Lab 的全固态电池被认为就是普通锂离子电池&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 CES 2026 上芬兰初创企业 Donut Lab 宣称其研发出一款能量密度达 400Wh/kg、循环寿命 10 万次、5 分钟即可充满电，并且在 -30℃-100℃ 的温度范围内，仍能保持 99% 以上容量的固态电池。由 20 多位业内独立专家开展的调查证实，全固态电池系造假，实为普通锂离子电池。证据包括：其电压曲线与现有液态高镍三元锂离子电池特征完全吻合；电池充电时离子会嵌入负极材料，使电池产生规律性膨胀，采用石墨负极的电池，在电量充至 50% 至 70% 区间时，膨胀曲线会出现一处明显拐点，这是离子在石墨层状结构中重新排布所形成的独有特征，Donut Lab 的这款电池，曲线中恰好出现了这一标志性拐点。电池的实际能量密度约为 298Wh/kg，属于当前三元锂电池的正常水平。调查团队发现，Donut Lab 之所以如此欺诈宣传，核心是为了从资本市场获利，在该公司 1300 余名股东中，逾 900 人持股不超过 50 股，单笔投入估计在 3000 至 23000 美元之间。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84525" target="_blank"&gt;苹果宣布 Google Gemini 驱动的 Siri AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                苹果在 2026 年 WWDC 开发者大会上宣布了 Google Gemini 驱动的新一代 Apple 智能和 Siri AI。驱动 AI 功能的运算运行在设备上或者私有云上。苹果称，“Siri 能够利用对个人情境的理解，搜索信息、邮件、照片等内容，并通过更加全系统化的 app 操作，完成跨 app 任务。Siri AI 能够回答与用户屏幕上的内容相关的问题，也可以利用广博的世界知识，上网获取最新信息，生成有用的答案。通过专门的 Siri app，用户可重新访问过往对话或发起新对话，并利用 iCloud 在用户的各种设备上私密同步对话历史记录。”由于欧盟的隐私和消费者保护监管规定，AI 智能暂时不会在欧盟推出，苹果表示，“Apple 智能推出时间依监管部门审批情况而定，Siri AI 和其他新的 Apple 智能功能在中国大陆尚不可用。”
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84535" target="_blank"&gt;NASA 公布了 Artemis III 任务宇航员名单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登月任务目前共执行了两次，第一次是无人绕月飞行，第二次是载人绕月飞行，第三次也就是  Artemis III 计划最早于 2027 年夏季执行，仍然是一次载人绕月飞行，第四次任务计划在 2028 年进行，这将是阿波罗登月任务以来的首次载人登月。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84526" target="_blank"&gt;被时尚潮流占据的社交网络&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                社交网络不再是为了社交，而是为了跟随时尚潮流。今天的社交活动主要发生在消息应用上。社交媒体正演变成类似电视的被动式平台，但不同于需要遥控器去切换电视频道，社媒平台的算法已经为你量身定制了内容，平台利用你的信息获利，作为回报它提供的内容是免费的。社交平台的核心商业模式仍然是广告，而且其收入还在持续增长。2026 年全球社交媒体广告收入将达到 3170 亿美元，超过 2025 年的 2770 亿美元。其中 Meta 的广告收入将达到 2430 亿美元，预计将首次超过 Google。Instagram 和 TikTok 之类的大型平台越来越注重娱乐和发现内容，而 WhatsApp 之类的应用则变成社交活动的主要场所，但此类消息应用的变现比较难。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84536" target="_blank"&gt;Google Chrome 准备移除对 Manifest V2 的支持，杀死 uBlock Origin&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google Chrome 准备完全移除对 Manifest V2 的支持，彻底杀死 uBlock Origin。Chrome 将只支持 Manifest v3 扩展，开发者声称 Chrome 默认禁用 Manifest V2 扩展已有一年多时间，继续支持相关功能存在技术上的挑战，Chrome 未来发布的版本将逐步移除 Manifest V2 相关功能，最终彻底将其移除：Chromium 150 移除 ExtensionManifestV2Disabled 选项，Chromium 151 将移除 ExtensionManifestV2Unsupported 选项，Chromium 151 将移除 ExtensionManifestV2Availability 选项，Chromium 151 预计将移除 AllowLegacyMV2Extensions 选项。基于 Chromium 的浏览器预计将会跟随，主要浏览器开发商中 Mozilla 公开声明会继续支持 Manifest v2 扩展。流行的广告屏蔽扩展 uBlock Origin 基于 Manifest V2，想要继续使用该扩展的用户可能只能迁移到 Firefox 了。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84527" target="_blank"&gt;网信办对网络评测进行设限&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                国家网信办、市场监管总局联合发布了《网络测评活动规范》。网信办称，制定该规范的原因是“一些网络测评存在夸大宣传、只评不测、商测一体等问题，不仅影响消费者信任度和购物体验，也扰乱市场环境”。《规范》要求：&lt;i&gt;
-三、网络测评所选取的样本，应当是消费者可以从市场上购买到的普通商品且来源可以追溯，不得是为测评活动准备的特殊物品。从事网络测评活动，接受第三方委托、赞助或者与测评样本相关方存在利益关系的，应当作出显著提示。&lt;br /&gt;
-四、从事网络测评活动，涉及对产品功能、性能等项目测试，应当委托具有法定检验检测资质许可的检验检测机构按照相关标准以及技术规范开展测试，并明示测试依据的标准以及技术规范，按照规定保留测试样本以及测试数据、图片、视频等记录，确保测试数据、结果可以追溯。&lt;br /&gt;
-五、未对产品开展测试，仅凭感知、观察、体验等主观感受对产品进行评价，应当进行说明，并在信息展示过程中显著标明“仅为个人体验”或者“主观感受，仅供参考”等内容。
-
-&lt;/i&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84537" target="_blank"&gt;Starlink 硬件从一次性付费转向月租&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Starlink 硬件从一次性付费转向 10 美元月租费。Starlink 硬件包括一个接收卫星信号的终端和一个放在家中的路由器。该费用不包含在网络服务费中。Starlink 的 100Mbps 套餐每月收费 55 美元，200Mbps 套餐每月收费 85 美元，400Mbps 的 Max 套餐每月收费 130 美元。Starlink 还提供专业安装服务，一次性收费 199 美元，Max 套餐用户免收安装费。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84528" target="_blank"&gt;企业批准员工以宗教理由不使用 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国企业在强推 AI 之际公众对 AI 的抵触情绪也日益高涨。现在一名叫 Erin Maus 的 34 岁软件工程师找到了一种变通方法，以宗教理由豁免于使用 AI。她信仰普救一位神教（Unitarian Universalism），这是一个开明、包容的宗教，接受多元化和互联性，致力促进个人灵性成长。她以 AI 的环境和伦理问题为由称使用 AI 与其宗教信仰不符。她的雇主上个月批准了宗教豁免。Maus 说，她现在仍然手写代码，自己审查代码，就和两年前一样。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84538" target="_blank"&gt;比亚迪一年 200 次 OTA，次数远超竞争对手&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                威尔森的数据显示，2025 年比亚迪针对自身“海洋”和“王朝”系列车型实际进行了 200 次软件更新（Over the Air 或 OTA），在汽车企业中次数最多。特斯拉在中国国内更新软件的次数为 16 次，丰田为 8 次，大众为 5 次。比亚迪之所以能够频繁更新软件，是因为 OTA 所需要的半导体、作为通信基础的操作系统、实际运行的硬件全部自主开发。相关负责人表示：“只要是自主设计，就可以迅速且准确地实现更新”。在价格竞争加剧导致中国国内销量下滑的背景下，比亚迪的目的是通过 OTA 来提升吸引力、扩大销售。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84529" target="_blank"&gt;世界杯可能有 97 场比赛受高温影响&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                气候中心（Climate Central）发布分析结果称，美加墨世界杯比赛将遭遇全球变暖带来的高温天气，球员表现受到负面影响的可能性升高。此次世界杯将在 16 个场馆共举行 104 场比赛，其中 97 场比赛可能出现导致恢复能力等下降的炎热天气。不仅球员的健康风险上升，比赛的质量也可能受到影响。本届世界杯由美国、墨西哥、加拿大共同主办，赛程为当地时间 6 月 11 日至 7 月 19 日。基于以往数据对赛事期间气温的预测显示，有较高概率在 97 场比赛中出现超过 28 度的气温。此前研究指出，超过 28 度会对球员的跑动速度、距离与恢复时间产生影响，也会影响到战术和比赛风格。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84540" target="_blank"&gt;德国法庭裁决 Google 要对 AI Overviews 内容承担责任&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他们向 Google 发去了禁止通知函(cease-and-desist letter)，但搜索巨人未正确回应。法院认为，Google 的 AI Overviews 与传统搜索结果不同，AI 会“用自己的语言按照自己的结构”重写和评判搜索结果，而它引用的链接与其内容有矛盾，因此该内容是 Google 自己的陈述。Google 开发了 AI，将其提供给用户，因此 Google 拥有 AI 所生成内容的所有权，“因为只有 Google 才能影响 AI 提供的服务以及 AI 运行所使用的算法。”搜索引擎责任规则不适用于 AI 搜索。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84530" target="_blank"&gt;微软开源工具被植入窃取凭证的恶意代码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软下线了数十个托管在 GitHub 上的开源项目，原因是安全公司发现这些项目被入侵植入了窃取密码等敏感凭证的恶意代码。微软在一份声明中表示，它正对此展开调查，部分下线的项目在审核之后已恢复上线，作为调查的一部分，它通知了下载受影响项目的一小部分用户。调查显示，至少 73 个项目受到影响。这是过去一个月微软第二次开源项目库遭到入侵。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84531" target="_blank"&gt;联合国报告警告海洋承受巨大压力&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                最新发布的《世界海洋评估》报告警告，气候变化、污染、过度开发等多重压力正在持续削弱海洋健康，而海洋的未来与人类的未来紧密相连。报告指出，即便远离海岸，海洋依然深刻影响着每个人的生活。海洋吸收了地球大部分额外热量和温室气体，在减缓气候变化方面发挥关键作用。海洋还为全球数十亿人口提供食物、氧气和药物资源，并支撑着全球贸易、旅游业和大量就业岗位。报告强调，海洋环境恶化不仅会影响沿海地区，还将波及粮食安全、供应链稳定以及全球经济发展。评估显示，海洋变暖和海平面上升正在加速。由于冰盖融化和海水热膨胀，全球海平面上升速度已从 2015 年前每年最高 1.9 毫米增加到 2023 年的 4.3 毫米。北极升温速度达到全球平均水平的四倍。与此同时，海洋缺氧区面积已扩大至约 450 万平方公里，大量海洋生物生存空间受到挤压。自 1970 年代以来，加勒比地区约 80% 的珊瑚礁已经消失。如果全球升温超过工业化前水平 1.5 摄氏度，全球 90% 的珊瑚礁可能面临消失风险。报告显示，每年约有 5200 万吨塑料垃圾进入海洋，形成约 24 万亿个微塑料颗粒，已影响 4000 多种海洋生物。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-09</guid><pubDate>Tue, 09 Jun 2026 12:05:50 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-10</guid><pubDate>Wed, 10 Jun 2026 12:22:16 +0000</pubDate></item></channel></rss>
