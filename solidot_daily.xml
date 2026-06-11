@@ -1,50 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 10 Jun 2026 12:22:16 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 11 Jun 2026 12:47:19 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月11日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84532" target="_blank"&gt;Falcon 9 火箭第一级 B 1067 执行了 35 次发射任务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月内执行了两次发射，SpaceX 的目标是火箭第一级能重复使用 40 次，B 1067 正接近这一目标。B 1067 发射次数比竞争对手联合发射联盟（ULA）过去五年的总发射次数还要多（ULA 完成了 29 次发射）。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84541" target="_blank"&gt;半导体月销售额首次突破 1100 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科技优先生产 AI 用内存产品，导致通用内存产品的供求关系趋于紧张。按区域来看，拉动销售额增长的是美国和亚洲。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84533" target="_blank"&gt;iPhone 与美国生育率下降相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国总生育率自 2007 年以来下降了 22%，这一下降趋势难以用经济状况、避孕、住房或托儿成本等进行解释，智能手机的普及被认为与生育率下降相关，2007 年就是第一代 iPhone 发布之年。在美国，从 2007 年 6 月到 2011 年 2 月，iPhone 仅在 AT&amp;amp;T 网络销售。这就是为研究智能手机对生育影响提供了一个天然的实验环境。研究人员利用 AT&amp;amp;T 移动网络覆盖范围的差异去识别 iPhone 对生育的影响。结果显示，iPhone 的普及使 15-19 岁女性的生育率下降了 4.5%-8.0%，20-24 岁女性的生育率下降了 3.2%-6.6%。iPhone 的普及加速了 30 岁以下女性生育率的下降，抑制了 30 岁以上女性生育率的上升。研究人员称，iPhone 的普及能解释 15-44 岁女性总体生育率下降的 33%-52%。原因被认为是智能手机减少了线下的面对面人际交往，增加了色情内容的使用，降低了性生活频率。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84542" target="_blank"&gt;双星系统的化学构成差异揭示了行星被恒星吞噬的命运&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家研究一个名为 HD 81809 的特殊双星系统时，发现两颗同时诞生的恒星拥有截然不同的化学组成。一般而言，双星诞生于同一个分子云，因此元素组成通常相当接近。但在 HD 81809 系统中，其中一颗恒星的铁含量明显偏低，而另一颗则拥有接近太阳的金属丰度，两颗恒星的铁元素含量相差约 3.7 倍，远超过一般双星演化模型能解释的范围。天文学家因此怀疑，其中一颗恒星可能曾吞噬自己的行星，改变了表面的化学组成。HD 81809 双星系统距离地球约 113 光年，由两颗类似太阳的 G 型恒星组成。其中主星 HD 81809A 已演化成次巨星，另一颗 HD 81809B 则仍停留在主序星阶段。这个系统年龄约达 100 亿年。除了铁元素异常外，HD 81809B 还具有偏高的锂元素含量。由于低质量老年恒星通常会在演化过程中逐渐耗尽锂元素，因此这种高锂元素含量现象，被视为可能曾发生行星吞噬事件的重要线索。研究人员发现，如果要让 HD 81809B 的金属量提升至目前观测值，恒星必须在近期吞噬约 25 至 75 个地球质量的富金属物质，相当于海王星到土星之间的金属核心总量。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84534" target="_blank"&gt;Donut Lab 的全固态电池被认为就是普通锂离子电池&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 CES 2026 上芬兰初创企业 Donut Lab 宣称其研发出一款能量密度达 400Wh/kg、循环寿命 10 万次、5 分钟即可充满电，并且在 -30℃-100℃ 的温度范围内，仍能保持 99% 以上容量的固态电池。由 20 多位业内独立专家开展的调查证实，全固态电池系造假，实为普通锂离子电池。证据包括：其电压曲线与现有液态高镍三元锂离子电池特征完全吻合；电池充电时离子会嵌入负极材料，使电池产生规律性膨胀，采用石墨负极的电池，在电量充至 50% 至 70% 区间时，膨胀曲线会出现一处明显拐点，这是离子在石墨层状结构中重新排布所形成的独有特征，Donut Lab 的这款电池，曲线中恰好出现了这一标志性拐点。电池的实际能量密度约为 298Wh/kg，属于当前三元锂电池的正常水平。调查团队发现，Donut Lab 之所以如此欺诈宣传，核心是为了从资本市场获利，在该公司 1300 余名股东中，逾 900 人持股不超过 50 股，单笔投入估计在 3000 至 23000 美元之间。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84543" target="_blank"&gt;npm v12 将不再自动执行依赖项&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 Node.js 生态系统发生了一系列严重安全事件之后，npm 管理工具的下一个大版本 v12 将在安全方面进行重大调整：除非明确允许，npm install 不再自动执行依赖项的 preinstall、install、postinstall 脚本。来自 Git、文件和链接依赖项的准备脚本也会以同样的方式被阻止。npm v12 将于 2026 年 7 月推出。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84535" target="_blank"&gt;NASA 公布了 Artemis III 任务宇航员名单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登月任务目前共执行了两次，第一次是无人绕月飞行，第二次是载人绕月飞行，第三次也就是  Artemis III 计划最早于 2027 年夏季执行，仍然是一次载人绕月飞行，第四次任务计划在 2028 年进行，这将是阿波罗登月任务以来的首次载人登月。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84544" target="_blank"&gt;FCC 计划在美国推行手机实名制&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国联邦通信委员会(FCC)想要杀死匿名的一次性手机，计划通过法律强制要求电信公司存储手机用户的个人信息，相关个人信息包括政府颁发的身份识别号码和实际地址。此举引发了隐私倡导者和民权活动人士的担忧，认为美国在向专制国家看齐。FCC 给出的理由是打击诈骗，旨在阻止诈骗分子接入电信网络，“执法人员能更好地识别诈骗分子”。FCC 将这些措施比作银行为防止洗钱而收集的数据。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84536" target="_blank"&gt;Google Chrome 准备移除对 Manifest V2 的支持，杀死 uBlock Origin&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google Chrome 准备完全移除对 Manifest V2 的支持，彻底杀死 uBlock Origin。Chrome 将只支持 Manifest v3 扩展，开发者声称 Chrome 默认禁用 Manifest V2 扩展已有一年多时间，继续支持相关功能存在技术上的挑战，Chrome 未来发布的版本将逐步移除 Manifest V2 相关功能，最终彻底将其移除：Chromium 150 移除 ExtensionManifestV2Disabled 选项，Chromium 151 将移除 ExtensionManifestV2Unsupported 选项，Chromium 151 将移除 ExtensionManifestV2Availability 选项，Chromium 151 预计将移除 AllowLegacyMV2Extensions 选项。基于 Chromium 的浏览器预计将会跟随，主要浏览器开发商中 Mozilla 公开声明会继续支持 Manifest v2 扩展。流行的广告屏蔽扩展 uBlock Origin 基于 Manifest V2，想要继续使用该扩展的用户可能只能迁移到 Firefox 了。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84545" target="_blank"&gt;人类习惯于左转逆时针行走&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                研究人员在疫情期间进行了一系列实验，观察在保持安全距离的情况下多少人能共享同一空间。在回看视频时，他们注意到大多数人都逆时针方向行走。这一意外发现促使科学家展开了更多实验，发现人类总是倾向于逆时针行走。他们的研究报告发表在《Nature Communications》期刊上。科学家尚不清楚这种偏好的来源。男性和女性都存在该偏好行为，儿童中间更为明显。动物中间也有类似行为，如岩蚁（rock ants）探索未知巢穴时偏好左转。科学家怀疑与生物机械学有关，但确切机制仍然是个谜团。奥运会的田径比赛最初让运动员沿顺时针跑道跑，但后来因运动员认为这种跑法不自然而改为沿逆时针跑道跑，原因这可能是人口中的右腿优势。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84537" target="_blank"&gt;Starlink 硬件从一次性付费转向月租&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Starlink 硬件从一次性付费转向 10 美元月租费。Starlink 硬件包括一个接收卫星信号的终端和一个放在家中的路由器。该费用不包含在网络服务费中。Starlink 的 100Mbps 套餐每月收费 55 美元，200Mbps 套餐每月收费 85 美元，400Mbps 的 Max 套餐每月收费 130 美元。Starlink 还提供专业安装服务，一次性收费 199 美元，Max 套餐用户免收安装费。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84546" target="_blank"&gt;美国太阳能发电量首次超过煤炭&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据能源智库 Ember 的分析，2026 年 5 月美国太阳能发电量首次超过煤炭：太阳能发电量占到了美国电力供应的 12.8%，煤炭则下降至 12.2%。五年前的 5 月煤炭发电量占美国发电量的 19.7%，太阳能发电量则仅占 5.4%。2026 年 5 月美国太阳能发电量达到创纪录的 45.5 TWh，比去年同期增长 17%，高于去年 7 月创下的纪录。太阳能发电量通常在六月或七月达到峰值，Ember 估计今年夏天可能会再次打破纪录。太阳能首次成为美国第三大电力来源，仅次于天然气和核能。煤炭发电量则在下滑，2026 年 4 月煤炭发电量创历史新低为 39.3 太TWh。5 月发电量小幅上升至 43.4 TWh，但比 2025 年 5 月低 11%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84538" target="_blank"&gt;比亚迪一年 200 次 OTA，次数远超竞争对手&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                威尔森的数据显示，2025 年比亚迪针对自身“海洋”和“王朝”系列车型实际进行了 200 次软件更新（Over the Air 或 OTA），在汽车企业中次数最多。特斯拉在中国国内更新软件的次数为 16 次，丰田为 8 次，大众为 5 次。比亚迪之所以能够频繁更新软件，是因为 OTA 所需要的半导体、作为通信基础的操作系统、实际运行的硬件全部自主开发。相关负责人表示：“只要是自主设计，就可以迅速且准确地实现更新”。在价格竞争加剧导致中国国内销量下滑的背景下，比亚迪的目的是通过 OTA 来提升吸引力、扩大销售。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84547" target="_blank"&gt;Visa 支付网络集成 ChatGPT&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84540" target="_blank"&gt;德国法庭裁决 Google 要对 AI Overviews 内容承担责任&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他们向 Google 发去了禁止通知函(cease-and-desist letter)，但搜索巨人未正确回应。法院认为，Google 的 AI Overviews 与传统搜索结果不同，AI 会“用自己的语言按照自己的结构”重写和评判搜索结果，而它引用的链接与其内容有矛盾，因此该内容是 Google 自己的陈述。Google 开发了 AI，将其提供给用户，因此 Google 拥有 AI 所生成内容的所有权，“因为只有 Google 才能影响 AI 提供的服务以及 AI 运行所使用的算法。”搜索引擎责任规则不适用于 AI 搜索。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84548" target="_blank"&gt;Meta 放宽言论限制后对政客的威胁增加了两倍&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Meta 去年以言论监管过严为由放宽了限制。Center for Countering Digital Hate(CCDH)的一项研究调查了这一变化带来的直接影响。研究人员分析了约 800 万 Facebook 评论，发现新规实施后六个月内，针对共和党和民主党议员的辱骂性和种族主义评论增加了两倍，暴力威胁和仇恨言论在同期内增加了三倍。研究人员还发现，针对特朗普总统的威胁增加了一倍多。研究人员表示，直接威胁总统生命安全的评论可能构成重罪。违反 Meta 有关暴力威胁政策的评论数量增至四倍，从政策改变前六个月的 1800 条增加到改变后六个月的 7600 条。仇恨言论评论也翻了两倍，从 6900 条增加到 30000条。违反 Meta 关于欺凌和骚扰规则的评论数量增加了一倍，从 15700 条增加到 39900 条。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-10</guid><pubDate>Wed, 10 Jun 2026 12:22:16 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84549" target="_blank"&gt;科学家发现最大鲸类墓地&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国科学院深海科学与工程研究所主导的“全球深渊探索计划”在东南印度洋迪亚曼蒂纳深渊观察到大量鲸类化石和完整鲸落生态系统。这里也成为目前全球已知深度最深、规模最大的鲸类化石群与鲸落分布区。鲸落是鲸鱼死亡后沉入海底形成的特殊生态系统。2023 年科考团队搭乘“探索一号”科考船，使用“奋斗者”号载人深潜器，在绵延 1200 公里的迪亚曼蒂纳深渊沟底完成 32 次下潜作业，在水深 4616 米至 7001 米处，共发现 5 处化能自养阶段的鲸落、476 处鲸类化石堆积。该区域鲸类遗骸密度达每平方公里 759.5 具，经推算，整片海域鲸类残骸总量或超 1000 万具。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84550" target="_blank"&gt;酷澎因用户信息泄露被罚逾 6 千亿韩元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                韩国电商巨头酷澎（coupang）因其数千万用户信息泄露被罚 6247 亿韩元（约合人民币 27.7 亿元）。韩国个人信息保护委员会认定，酷澎在认证签名密钥管理及访问控制等方面存在疏漏，基本安全管理体系不完善，导致约 3750 万名用户个人信息泄露，并就此处以 4235.75 亿韩元罚款。这是针对单一个人信息泄露事故开出的最高罚款。委员会还认定，酷澎在缺乏法律依据的情况下，擅自收集约 1117 万名访问其他公司网站和应用程序用户的在线活动记录，并在可识别个人身份的状态下将相关信息储存到数据库中，因此另行处以 2011.066 亿韩元罚款。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-11</guid><pubDate>Thu, 11 Jun 2026 12:47:19 +0000</pubDate></item></channel></rss>
