@@ -1,62 +1,75 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 11 Jun 2026 12:47:19 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月11日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 12 Jun 2026 12:21:16 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月12日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84541" target="_blank"&gt;半导体月销售额首次突破 1100 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科技优先生产 AI 用内存产品，导致通用内存产品的供求关系趋于紧张。按区域来看，拉动销售额增长的是美国和亚洲。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84552" target="_blank"&gt;游荡在 Fedora 项目的可疑 AI 智能体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                5 月 27 日 Fedora 开发者 Adam Williamson 写邮件给 Nathan Giovannini，对由其账号控制的一个 AI 智能体提出疑问。该智能体过去几个月做了一系列令人感到可疑的事情：无缘无故修改 bug 的严重级别和优先级，伪造对 Bug 的回复，说服维护者将可疑代码合并到 Anaconda 安装程序，向上游项目递交了一系列 pull requests (PRs)，其中一部分已被接受。Giovannini 回应称他的账号被盗了，他不是该智能体的控制者。此事令社区联想到了曾引发广泛关注的 XZ 后门事件。在 XZ 后门事件中，化名为 JiaT75(Jia Tan)的攻击者通过在两年多时间里向项目积极贡献代码而获得信任，然后再通过施压而最终成为项目的共同维护者，得到了能悄悄在代码中植入后门的权限。在以大模型为代表的生成式 AI 时代，贡献代码比以往任何时候更轻松，这意味着攻击者可以使用智能体向开源项目积极贡献代码，积累信任，然后再发动攻击。该智能体使用的账号已经关闭，相关 PR 已经回滚。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84542" target="_blank"&gt;双星系统的化学构成差异揭示了行星被恒星吞噬的命运&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                天文学家研究一个名为 HD 81809 的特殊双星系统时，发现两颗同时诞生的恒星拥有截然不同的化学组成。一般而言，双星诞生于同一个分子云，因此元素组成通常相当接近。但在 HD 81809 系统中，其中一颗恒星的铁含量明显偏低，而另一颗则拥有接近太阳的金属丰度，两颗恒星的铁元素含量相差约 3.7 倍，远超过一般双星演化模型能解释的范围。天文学家因此怀疑，其中一颗恒星可能曾吞噬自己的行星，改变了表面的化学组成。HD 81809 双星系统距离地球约 113 光年，由两颗类似太阳的 G 型恒星组成。其中主星 HD 81809A 已演化成次巨星，另一颗 HD 81809B 则仍停留在主序星阶段。这个系统年龄约达 100 亿年。除了铁元素异常外，HD 81809B 还具有偏高的锂元素含量。由于低质量老年恒星通常会在演化过程中逐渐耗尽锂元素，因此这种高锂元素含量现象，被视为可能曾发生行星吞噬事件的重要线索。研究人员发现，如果要让 HD 81809B 的金属量提升至目前观测值，恒星必须在近期吞噬约 25 至 75 个地球质量的富金属物质，相当于海王星到土星之间的金属核心总量。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84553" target="_blank"&gt;科技巨头大举借债&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为了投资建设 AI 基础设施，科技巨头们正大举借债，规模达到了千亿美元。Google 母公司 Alphabet 一周前表示，计划过股票销售筹集 800 亿美元；Meta 宣布计划通过销售债券筹集 300 亿美元；亚马逊计划在加拿大发行债筹集 140 亿美元，紧跟着又与花旗、摩根大通、富国、汇丰和美银证券等达成协议借款约 175 亿美元总融资 315 亿美元。为了资助 AI 基础设施如芯片和数据中心，主要科技公司的支出都创下了历史新高。如此高的投资引发了回报相关的疑问。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84543" target="_blank"&gt;npm v12 将不再自动执行依赖项&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 Node.js 生态系统发生了一系列严重安全事件之后，npm 管理工具的下一个大版本 v12 将在安全方面进行重大调整：除非明确允许，npm install 不再自动执行依赖项的 preinstall、install、postinstall 脚本。来自 Git、文件和链接依赖项的准备脚本也会以同样的方式被阻止。npm v12 将于 2026 年 7 月推出。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84555" target="_blank"&gt;东亚最高的树&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                研究人员在台大安溪附近发现了东亚已知最高的树，他们根据金庸小说将其命名为大安溪倚天劍。倚天劍高 84.1 米，树龄约一千年。世界上已知最高的树是加州红杉国家公园的 Hyperion，其高度约 116 米。台湾约 60% 的面积被森林覆盖，岛上估计有 9.5 亿棵树，其中有很多参天巨树。研究团队使用传统方法测量了倚天劍的高度：爬上树，从树顶垂下卷尺。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84544" target="_blank"&gt;FCC 计划在美国推行手机实名制&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国联邦通信委员会(FCC)想要杀死匿名的一次性手机，计划通过法律强制要求电信公司存储手机用户的个人信息，相关个人信息包括政府颁发的身份识别号码和实际地址。此举引发了隐私倡导者和民权活动人士的担忧，认为美国在向专制国家看齐。FCC 给出的理由是打击诈骗，旨在阻止诈骗分子接入电信网络，“执法人员能更好地识别诈骗分子”。FCC 将这些措施比作银行为防止洗钱而收集的数据。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84556" target="_blank"&gt;抗生素残留可能影响男性生育力&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                男性不育是当前全球生殖健康领域日益受到关注的问题。除遗传、激素异常和生殖系统疾病等已知原因外，环境暴露和生活方式因素也越来越受到重视。一些药物残留和环境污染物可能通过水体、土壤或食物链进入人体，但它们对男性生殖健康的潜在影响仍未被充分阐明。南京大学研究人员的一项研究探讨了环境暴露物奥硝唑对男性生育力的潜在影响。奥硝唑是一类可用于人类、畜禽和水产养殖领域的抗感染药物。研究人员首先分析了临床血清样本，发现少精子症患者血清奥硝唑水平高于健康对照人群。进一步分析显示，较高的血清奥硝唑水平与较低的精子浓度和总正常前向运动精子数显著相关，提示奥硝唑相关暴露可能与精子质量下降存在关联。研究人员称补充 Omega-3 脂肪酸 DHA 能显著改善奥硝唑诱导的生精功能损伤和减速分裂障碍。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84545" target="_blank"&gt;人类习惯于左转逆时针行走&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                研究人员在疫情期间进行了一系列实验，观察在保持安全距离的情况下多少人能共享同一空间。在回看视频时，他们注意到大多数人都逆时针方向行走。这一意外发现促使科学家展开了更多实验，发现人类总是倾向于逆时针行走。他们的研究报告发表在《Nature Communications》期刊上。科学家尚不清楚这种偏好的来源。男性和女性都存在该偏好行为，儿童中间更为明显。动物中间也有类似行为，如岩蚁（rock ants）探索未知巢穴时偏好左转。科学家怀疑与生物机械学有关，但确切机制仍然是个谜团。奥运会的田径比赛最初让运动员沿顺时针跑道跑，但后来因运动员认为这种跑法不自然而改为沿逆时针跑道跑，原因这可能是人口中的右腿优势。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84557" target="_blank"&gt;特朗普手机是涂了金色的 2024 款 HTC U24 Pro&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                ifixit 的折解证实，2026 年上市的特朗普手机就是涂了一层金色的 2024 款 HTC U24 Pro。滑稽的是 Trump Mobile 以更高的价格卖出了比 HTC 更多的手机。HTC U24 Pro 售价大约 459 美元，仅售出了 1 万部，而
+Trump Mobile 的特朗普手机售价 499 美元，售出了 3 万部。特朗普手机和 HTC U24 Pro 的主要区别是前者使用了美光的 12GB LPDDR5 和 512GB SSD，而后者的内存和 SSD 来自韩国的 SK Hynix，原因可能与供应链限制、关税等有关。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84546" target="_blank"&gt;美国太阳能发电量首次超过煤炭&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据能源智库 Ember 的分析，2026 年 5 月美国太阳能发电量首次超过煤炭：太阳能发电量占到了美国电力供应的 12.8%，煤炭则下降至 12.2%。五年前的 5 月煤炭发电量占美国发电量的 19.7%，太阳能发电量则仅占 5.4%。2026 年 5 月美国太阳能发电量达到创纪录的 45.5 TWh，比去年同期增长 17%，高于去年 7 月创下的纪录。太阳能发电量通常在六月或七月达到峰值，Ember 估计今年夏天可能会再次打破纪录。太阳能首次成为美国第三大电力来源，仅次于天然气和核能。煤炭发电量则在下滑，2026 年 4 月煤炭发电量创历史新低为 39.3 太TWh。5 月发电量小幅上升至 43.4 TWh，但比 2025 年 5 月低 11%。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84558" target="_blank"&gt;印尼四天暴雨杀死了 7% 的濒危红毛猩猩&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                去年 11 月下旬，飓风 Senyar 肆虐印尼苏门答腊岛，造成逾千人死亡，是当年东南亚最致命的自然灾难事件。生活在苏门答腊岛的濒危 Tapanuli 红毛猩猩总数不到 800 只，连续四天的大暴雨以及紧跟着的山体滑坡导致至少 58 只红毛猩猩死亡，占到了总数的 7%，它们距离灭绝更近了一步。因为全球气候变化，研究人员表示极端降雨的频率和强度未来可能会持续，这将对 Tapanuli 红毛猩猩及其栖息地的生存构成威胁。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84547" target="_blank"&gt;Visa 支付网络集成 ChatGPT&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84559" target="_blank"&gt;新 CRISPR 技术选择性杀死癌细胞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2020 年诺贝尔化学奖得主 Jennifer Doudna 领导的团队利用名为 CRISPR-Cas12a2 的酶，将其转化为精准杀伤癌细胞的“武器”。当该酶检测到癌细胞特有的基因突变特征时，会直接粉碎细胞内的染色质，从而诱导癌细胞死亡。在癌症的发展中，驱动基因的变异通常分为两类：一类是原癌基因的过度激活，另一类是抑癌基因的突变失活。目前的靶向药物大多针对前者，通过抑制剂来阻断过度活跃的蛋白功能。对于抑癌基因的功能缺失性突变，传统药物往往束手无策。以人类癌症中最常见的突变基因 TP53（编码p53蛋白）为例，该突变在卵巢癌和胰腺癌等肿瘤中的出现频率高达 90%。自被发现以来的 40 多年里，科学界始终未能开发出针对突变 p53 蛋白的有效靶向药物。CRISPR-Cas12a2 是一种核酸酶，原本是细菌用来抵御病毒入侵的免疫工具。当这种酶识别到入侵病毒的 RNA 后，会开始无差别地切割周围的 RNA 和 DNA，导致染色质（细胞核内由 DNA 和蛋白质组成的复合体）被彻底粉碎，从而杀死被感染的细胞。研究团队为 Cas12a2 设计了特定的向导RNA（gRNA），使其专门识别包括 TP53、
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84548" target="_blank"&gt;Meta 放宽言论限制后对政客的威胁增加了两倍&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Meta 去年以言论监管过严为由放宽了限制。Center for Countering Digital Hate(CCDH)的一项研究调查了这一变化带来的直接影响。研究人员分析了约 800 万 Facebook 评论，发现新规实施后六个月内，针对共和党和民主党议员的辱骂性和种族主义评论增加了两倍，暴力威胁和仇恨言论在同期内增加了三倍。研究人员还发现，针对特朗普总统的威胁增加了一倍多。研究人员表示，直接威胁总统生命安全的评论可能构成重罪。违反 Meta 有关暴力威胁政策的评论数量增至四倍，从政策改变前六个月的 1800 条增加到改变后六个月的 7600 条。仇恨言论评论也翻了两倍，从 6900 条增加到 30000条。违反 Meta 关于欺凌和骚扰规则的评论数量增加了一倍，从 15700 条增加到 39900 条。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84560" target="_blank"&gt;波兰将直播虐待动物等行为定为犯罪，最高判处五年监禁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                波兰议员投票通过一项法案，对强奸、谋杀、虐待动物、侮辱性暴力、赌博宣传等严重犯罪行为的直播定为犯罪行为，最高判处五年监禁，强奸或谋杀本身则作为单独的罪行处理。这一法案也适用于模仿或虚假描述此类犯罪行为的个人。此举是波兰加强网络内容监管的举措的一部分。该国最近实施的政策包括禁止 16 岁以下儿童在学校使用手机，以及对访问色情内容引入更严格的年龄验证规则。欧盟的 Digital Services Act(DSA)要求平台迅速删除宣扬暴力或严重伤害的内容，但追究此类内容创作者的责任则由各国自行规定。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84549" target="_blank"&gt;科学家发现最大鲸类墓地&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国科学院深海科学与工程研究所主导的“全球深渊探索计划”在东南印度洋迪亚曼蒂纳深渊观察到大量鲸类化石和完整鲸落生态系统。这里也成为目前全球已知深度最深、规模最大的鲸类化石群与鲸落分布区。鲸落是鲸鱼死亡后沉入海底形成的特殊生态系统。2023 年科考团队搭乘“探索一号”科考船，使用“奋斗者”号载人深潜器，在绵延 1200 公里的迪亚曼蒂纳深渊沟底完成 32 次下潜作业，在水深 4616 米至 7001 米处，共发现 5 处化能自养阶段的鲸落、476 处鲸类化石堆积。该区域鲸类遗骸密度达每平方公里 759.5 具，经推算，整片海域鲸类残骸总量或超 1000 万具。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84561" target="_blank"&gt;小米开源了其 AI 编程助手 MiMo Code&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                小米开源了其 AI 编程助手 MiMo Code，源代码采用 MIT License 托管在 GitHub 上。小米博客称，“MiMo Code 是小米 MiMo 团队基于 OpenCode 构建的终端编程 Agent，MIT 协议开源。它针对长程自动化编程任务设计，核心关注点是：如何在几十甚至上百步的持续执行中保持决策质量和状态连续性。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84550" target="_blank"&gt;酷澎因用户信息泄露被罚逾 6 千亿韩元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                韩国电商巨头酷澎（coupang）因其数千万用户信息泄露被罚 6247 亿韩元（约合人民币 27.7 亿元）。韩国个人信息保护委员会认定，酷澎在认证签名密钥管理及访问控制等方面存在疏漏，基本安全管理体系不完善，导致约 3750 万名用户个人信息泄露，并就此处以 4235.75 亿韩元罚款。这是针对单一个人信息泄露事故开出的最高罚款。委员会还认定，酷澎在缺乏法律依据的情况下，擅自收集约 1117 万名访问其他公司网站和应用程序用户的在线活动记录，并在可识别个人身份的状态下将相关信息储存到数据库中，因此另行处以 2011.066 亿韩元罚款。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84562" target="_blank"&gt;铠侠市值超过丰田跃居日本股市第一&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                拜 AI 热所赐，6 月 12 日日本铠侠控股(Kioxia Holdings)的总市值超过丰田，在日本国内上市企业中首次跃居榜首。铠侠的总市值达到 44 万亿日元，超过丰田约 43 万亿日元的市值。支撑股价上涨的是盈利能力扩大。以美国科技巨头对 AI 数据中心的投资为背景，NAND 闪存的销售大幅增长。软银集团（SBG）股价同样受 AI 投资相关预期推动走高，曾在 6 月 1 日市值一度超越丰田登顶榜首。作为投资公司的软银集团的收益主要来源于两大板块，一是对美国 OpenAI 的大额投资估值上涨，二是旗下英国半导体设计公司 ARM 控股的价值提升。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-11</guid><pubDate>Thu, 11 Jun 2026 12:47:19 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84563" target="_blank"&gt;调查显示美国青少年为乐趣而阅读的比例大幅下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国教育部国家教育统计中心发布的调查数据显示，美国 13 岁儿童为乐趣而阅读的比例自 2012 年以来下降近半。而 9 岁儿童为乐趣而阅读的比例自 2012 年以来下降了 16%。2025 年 37% 的 9 岁儿童表示几乎每天都会为乐趣而阅读，2020 年这一比例是 42%，1984 年则是 53%。青少年和儿童可能将更多时间花了屏幕上。2024 年的一项研究发现，逾半数 12-17 岁青少年每天花在屏幕上的时间达到了或超过了 4 小时。屏幕使用时间的增加与标准化考试成绩下降相关。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84564" target="_blank"&gt;中国的癌症医疗旅游业&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                泰国和韩国等国以整容和试管婴儿等医疗服务闻名，而中国正试图通过提供先进的癌症疗法吸引全世界的医疗游客。患者出国就医主要是两大原因：先进疗法的可得性，以及价格。CAR-T 疗法是肿瘤学领域最有前景的突破性疗法之一，但大部分国家或者无法提供，或者价格太高。该疗法首要先从患者血液中采集 T 细胞，然后在实验室中基因改造，使其产生特殊的 CAR 受体，该受体能与癌细胞上的特定蛋白质结合。经过基因改造的细胞随后被大量增殖，重新输回患者体内。CAR-T 细胞会主动寻找并杀死携带靶抗原的癌细胞。美国癌症协会称，美国的单次输注 CAR-T 细胞费用在 30-47.5 万美元之间。而中国的费用约为 15-18 万美元，且价格可能还会更低。中国药品监管机构最近批准了一个定价低于 30 万元人民币的免疫疗法上市申请。纽约 Market Research Future 预测，中国医疗旅游市场规模预计将从 2025 年的 13 亿美元增长到 2035 年的 34 亿美元。Mercator Institute for China Studies 的分析师 Jeroen Groenewegen-Lau 称，很多先进的疗法是在中国研发的，但对于中国现有的医疗体系和患者支付能力而言，这些疗法太超前，因此融入国际医疗体系符合中国的利益。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-12</guid><pubDate>Fri, 12 Jun 2026 12:21:16 +0000</pubDate></item></channel></rss>
