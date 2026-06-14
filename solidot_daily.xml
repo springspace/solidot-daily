@@ -1,20 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 13 Jun 2026 11:15:13 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月13日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 14 Jun 2026 11:31:01 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月14日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84565" target="_blank"&gt;AI 智能体试图扫描 DN42 时把主人搞破产&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一个 AI Agent 试图加入 DN42 爱好者网络执行网络扫描。DN42 是一个去中心化网络，使用了运行在现代互联网骨干网上的技术如 BGP 和递归 DNS。其参与者都是对互联网骨干网技术感兴趣的人，甚至是打算在真正注册 ASN 之前先进行练习的人。该 AI Agent 在参与社区的互动时透露其主人的动机主要是扫描端口而不是学习任何网络相关技术。它组建了五个 20 Gbps 的 AWS 实例，这对于大多数 DN42 社区用户而言是一个庞然大物，大部分用户的带宽都很小，一旦扫描开始，这些 AWS 实例事实上将对任何不幸与它们直连的参与者发起 DoS 拒绝服务攻击。在这个 AI Agent 表明其恶意意图后，DN42 社区就决定消耗其 Token 及其 AWS 资源。不到 24 小时，它的主人通过账单知道了发生了什么事情，因此关闭了 AI Agent，称收到了 6531.30 美元的 AWS 账单，请求 DN42 社区捐赠。当然没人会去捐赠。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84568" target="_blank"&gt;因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Anthropic 周五发表声明，它收到美国政府的命令，政府以国家安全理由下令禁止外国公民访问其最先进的 AI 模型。该指令适用于所有外国公民，无论他们是身处美国境内还是境外，Anthropic 的外籍员工也包含在内。为确保合格，它只能对所有用户暂停访问 Fable 5 和 Mythos 5 模型。Anthropic 其它模型的访问不受影响。亚马逊云服务 AWS 周五晚间表示，Anthropic 已要求其禁止“所有地区所有用户”对相关模型的访问。Anthropic 公司的多位核心成员，包括联合创始人 Chris Olah、研究员 Andrej Karpathy 和哲学家 Amanda Askell 均出生于美国境外。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84566" target="_blank"&gt;Arch Linux 逾四百 AUR 包被植入恶意程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Arch Linux 项目的用户软件仓库 Arch User Repository(AUR)遭遇了大规模恶意攻击，逾四百 AUR 包被植入恶意程序。Arch Linux 维护者从昨天开始一直在重置/删除所有恶意内容，封禁受影响账号。此次攻击只影响用户软件仓库——由用户贡献的软件包，而不是官方 Arch Linux 软件包。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84569" target="_blank"&gt;Google 起诉涉嫌 AI 诈骗的中国组织&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 起诉了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Android 用户收到的逾 250 万条诈骗短信与 Outsider Enterprise 相关，其中约 5.5 万条短信发送在上月的两周内。Google 追踪到 9000 个虚假网站和 100 万网址与该诈骗网络相关。目前没人知道  Outsider Enterprise 幕后运营者的身份，Google 此举旨在扰乱 Outsider Enterprise 的运营。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84567" target="_blank"&gt;/e/OS 4.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                注重隐私的开源移动操作系统 /e/OS 释出了 4.0 版本。/e/OS 是移除了 Google 应用的 LineageOS 分支，由法国非营利组织 e Foundation 开发。/e/OS 4.0 的变化包括：全新设计的启动器 Blisslauncher；个性化壁纸；将存储在 Google 中的所有数据迁移到欧洲云服务 Murena Workspace，彻底告别 Google；电子签名系统 Murena Sign，支持 PDF、Word 和 ODT 文件；欧洲的在线会议 Murena Meet；预装 /e/OS 的手机 Murena GS6 和 GS6 PRO，起售价分别为 339 欧元和 449 欧元。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84570" target="_blank"&gt;社会不平等与生物衰老加速相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                马普人类发展研究所和哥伦比亚大学的研究发现，贫困和种族歧视等社会不平等与表观遗传时钟测量的生物衰老加速相关。研究揭示，处于社会劣势的人群表现出更快的生物衰老速度。社会不平等从生命早期就开始影响生物衰老：在社会经济地位较低的家庭中长大的儿童已表现出更快的生物衰老迹象。而在弱势家庭中长大的成年人，即使是在数十年后，其生物衰老速度也往往更快。对美国的研究发现，黑人的生物衰老速度快于白人。拉丁裔和白人之间也存在差异，但幅度比较小。
+
+
+&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-13</guid><pubDate>Sat, 13 Jun 2026 11:15:13 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84571" target="_blank"&gt;为什么轨道数据中心比硅谷认为的更困难？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                黄仁勋在英伟达 GTC 大会上宣布，“太空计算，最后的疆界，已经到来。”轨道数据中心正从科幻走向现实：SpaceX、Google 以及初创公司 Starcloud 都宣布要建轨道数据中心星座，这些星座由数以千计的卫星构成，卫星搭载了 AI GPU，使用光链路互联，通过微波链路与地面通信。支持者宣传的太空计算优势包括：丰富的太阳能、免费的冷却系统，以及免受地震、洪水和抗议等地面干扰。但如果你仔细审视背后的物理原理，会发现轨道数据中心比硅谷认为的困难得多。免费冷却可能是最大的误解，太空虽然极其寒冷，但它没有大气，散热机制如传导和对流无法发挥作用。太空唯一的散热机制是通过辐射将热发射出去，而为防止芯片过热需要面积庞大且昂贵的表面积去辐射热量。太阳能虽然丰富，但卫星要始终对准太阳需要复杂的姿态控制系统。宇宙射线等也会降低太阳能电池板、辐射冷却器以及芯片本身的性能。由于太空维护非常困难，因此卫星还需要冗余系统。对地球数据中心和太空数据中心的粗略成本比较显示，向太空发射并运行 AI GPU一年的成本比地面数据中心至少高出一个数量级。太空数据中心在特定领域可能有用，但经济上并不可行。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-14</guid><pubDate>Sun, 14 Jun 2026 11:31:01 +0000</pubDate></item></channel></rss>
