@@ -1,29 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 14 Jun 2026 11:31:01 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月14日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 15 Jun 2026 15:16:25 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月15日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84568" target="_blank"&gt;因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Anthropic 周五发表声明，它收到美国政府的命令，政府以国家安全理由下令禁止外国公民访问其最先进的 AI 模型。该指令适用于所有外国公民，无论他们是身处美国境内还是境外，Anthropic 的外籍员工也包含在内。为确保合格，它只能对所有用户暂停访问 Fable 5 和 Mythos 5 模型。Anthropic 其它模型的访问不受影响。亚马逊云服务 AWS 周五晚间表示，Anthropic 已要求其禁止“所有地区所有用户”对相关模型的访问。Anthropic 公司的多位核心成员，包括联合创始人 Chris Olah、研究员 Andrej Karpathy 和哲学家 Amanda Askell 均出生于美国境外。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84575" target="_blank"&gt;科学家再生受损膝关节软骨逆转关节炎&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                骨关节炎是最常见的关节炎类型，美国有五分之一成年人患有骨关节炎。它会逐渐破坏关节软骨，导致疼痛、僵硬和肿胀。现有疗法主要是缓解疼痛，病情严重则需进行关节置换手术。尚无药物能减缓、阻止或逆转关节炎。名为 15-PGDH 的蛋白质与软骨的衰老相关，研究人员对比了年轻和年长小鼠的软骨，发现 15-PGDH 的水平随年龄增长翻了一番。研究人员测试了一种能阻断 15-PGDH 活性的小分子药物，发现它能修复年长小鼠受损的膝关节软骨，预防严重关节损伤后关节炎的发生。人体组织测试也表现出了类似的效果。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84569" target="_blank"&gt;Google 起诉涉嫌 AI 诈骗的中国组织&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 起诉了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Android 用户收到的逾 250 万条诈骗短信与 Outsider Enterprise 相关，其中约 5.5 万条短信发送在上月的两周内。Google 追踪到 9000 个虚假网站和 100 万网址与该诈骗网络相关。目前没人知道  Outsider Enterprise 幕后运营者的身份，Google 此举旨在扰乱 Outsider Enterprise 的运营。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84576" target="_blank"&gt;本田思域容易遭到“邪恶女佣攻击”&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                邪恶女佣攻击（Evil maid attack）是对无人值守设备的一种攻击方式，具有物理访问权限的攻击者，用某种无法检测的手段对设备进行更改，以便后续访问该设备或设备中的数据。本田思域也很容易面临类似的攻击，比如邪恶的酒店代客泊车员。研究人员发现，本田汽车使用的 Android 软件包使用了公开的 AOSP 测试密钥进行签名，只要能物理访问汽车的 USB 接口，就可以刷入任意软件包，执行任意代码。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84570" target="_blank"&gt;社会不平等与生物衰老加速相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                马普人类发展研究所和哥伦比亚大学的研究发现，贫困和种族歧视等社会不平等与表观遗传时钟测量的生物衰老加速相关。研究揭示，处于社会劣势的人群表现出更快的生物衰老速度。社会不平等从生命早期就开始影响生物衰老：在社会经济地位较低的家庭中长大的儿童已表现出更快的生物衰老迹象。而在弱势家庭中长大的成年人，即使是在数十年后，其生物衰老速度也往往更快。对美国的研究发现，黑人的生物衰老速度快于白人。拉丁裔和白人之间也存在差异，但幅度比较小。
-
-
-&lt;br /&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84577" target="_blank"&gt;Linux 7.1 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                因所在时区差异 Linus Torvalds 在美国时间周日早晨释出了 Linux 7.1。主要新特性包括：移除了部分基于 486 的旧架构；龙芯加入高内存支持；因缺乏维护移除 RISC-V 立即执行支持；新 clone()flags 简化进程管理；io_uring 子系统加入 BPF 支持；ublk 用户空间块驱动支持零拷贝 I/O；sched_ext 初步支持子调度器（sub-scheduler）；改进交换机制；完全重写 NTFS 实现，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84571" target="_blank"&gt;为什么轨道数据中心比硅谷认为的更困难？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                黄仁勋在英伟达 GTC 大会上宣布，“太空计算，最后的疆界，已经到来。”轨道数据中心正从科幻走向现实：SpaceX、Google 以及初创公司 Starcloud 都宣布要建轨道数据中心星座，这些星座由数以千计的卫星构成，卫星搭载了 AI GPU，使用光链路互联，通过微波链路与地面通信。支持者宣传的太空计算优势包括：丰富的太阳能、免费的冷却系统，以及免受地震、洪水和抗议等地面干扰。但如果你仔细审视背后的物理原理，会发现轨道数据中心比硅谷认为的困难得多。免费冷却可能是最大的误解，太空虽然极其寒冷，但它没有大气，散热机制如传导和对流无法发挥作用。太空唯一的散热机制是通过辐射将热发射出去，而为防止芯片过热需要面积庞大且昂贵的表面积去辐射热量。太阳能虽然丰富，但卫星要始终对准太阳需要复杂的姿态控制系统。宇宙射线等也会降低太阳能电池板、辐射冷却器以及芯片本身的性能。由于太空维护非常困难，因此卫星还需要冗余系统。对地球数据中心和太空数据中心的粗略成本比较显示，向太空发射并运行 AI GPU一年的成本比地面数据中心至少高出一个数量级。太空数据中心在特定领域可能有用，但经济上并不可行。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84578" target="_blank"&gt;内存成本占到了手机成本的五成以上&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Nothing CEO 兼联合创始人 Carl Pei 说，如果你考虑升级手机，最佳时机是昨天。Carl Pei 称，内存短缺影响到了 Nothing 的中端手机。内存已成为智能手机最昂贵的组件，比处理器更贵，比显示屏更贵，可能占到硬件总成本的五成以上。以 Phone (4a)为例，自决定生产这款设备到它上市，内存成本翻了一番。此后又翻了一番。手机价格在上涨，明年还会继续涨。自 2 月以来，新上市手机比上一代产品贵了 100 美元。印度售价 3 万卢比以上的手机价格涨了 7000 卢比或更多。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-14</guid><pubDate>Sun, 14 Jun 2026 11:31:01 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84579" target="_blank"&gt;人类管理推动水稻产量过去五十年翻倍&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                伊利诺伊大学厄巴纳-香槟分校科学家的一项最新研究表明，尽管气候变化带来重重挑战，但全球水稻产量在过去半个世纪依然几乎翻了一番。研究揭示，水稻增产的秘诀并非天公作美，而是人类的管理决策，比如扩大灌溉、增施养料，以及推行能有效提升单产的耕作方式，共同维持了水稻产量，并抵消了气候相关因素带来的损失。这表明，未来的粮食安全不仅取决于环境条件，更取决于人们如何管理和调整水稻生产系统，以适应不断变化的世界。研究揭示，气候变化是导致水稻减产的首要因素。在 2006-2015 年间，因气温升高、热害频发和水资源短缺，全球水稻产量估计减少了 7%。然而大气中二氧化碳浓度的升高也成了主要的增产推手，因为它能增强光合作用、提升水分利用效率。这些发现共同描绘了一幅复杂的图景：环境变化对农业生产的影响是多面的，甚至彼此对立。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84580" target="_blank"&gt;黄金并不是惰性的&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                黄金是少数几乎不会被氧化的金属之一，但黄金的纳米粒子却能充当催化剂。根据发表在《Physical Review Letters》期刊上的一项研究，科学家指出黄金的惰性并非源于原子本身，而是源于黄金晶体形成的表面。黄金会形成晶体。如果沿着不同的原子平面切割晶体，会得到不同的表面排列。在黄金中，部分平面呈正方晶格，部分平面呈六方晶格。研究人员测试了不同黄金晶体表面对氧分子的吸附能力。结果显示，最常见的六方晶格黄金晶体对氧的吸附力较弱，而正方晶格则很容易吸附氧分子，能促使其发生形变至分裂，在这种情况下黄金被氧化了。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84581" target="_blank"&gt;中国高校撤掉了 1.2 万个过时专业&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国高校正在大规模课程重组，撤掉了数千个“过时”专业，转而开设以科技为导向的新兴专业。这场教育改革正值中国力争成为众多高科技未来产业的全球领导者，解决严重的毕业生就业危机之际。这场危机已导致数百万年轻人难以找到工作。根据新华社援引教育部的数据，2021-2025 年间，中国高校撤销或暂停了 12200 个本科专业，同时新增了 10200 个专业，意味着逾三成的高校课程进行了调整。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84582" target="_blank"&gt;中国就食品安全问题约谈山姆&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国市场监管部门因食品安全问题约谈沃尔玛旗下的山姆会员店(Sam's Club)，对这家在全球第二大经济体快速扩张的仓储式连锁业务带来挑战。国家市场监督管理总局周一表示，“针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题”，已对该公司进行约谈。通报补充说，监管机构要求沃尔玛严格遵守中国食品安全法律，但并未说明会面具体时间，也未披露涉嫌违规的具体情况。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84583" target="_blank"&gt;测试显示 AI 的数学解题能力仍然不如人类专家&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AI 模型的解题水平仍不及顶尖数学家。这项测试隶属 First Proof 项目，旨在评估 AI 解决复杂数学难题的能力。研究人员向 4 款 AI 系统提出 10 道科研级数学难题，再由相关数学领域的匿名专家评审团对作答结果进行打分。这次测试首次同时满足三大核心标准：题目均为前沿科研级数学问题、所有题目从未出现在模型训练数据中、由专业数学家评阅。10 名来自不同数学细分领域的研究人员，各自拿出一道本人研究过程中已解答但尚未公开发表的原创题目。这次测试中，各大推理模型依然频繁出现幻觉问题，这也是大语言模型的通病。而且所有 AI 作答在文献引用方面都“严重缺失”，全程没有标注来源。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84584" target="_blank"&gt;英国将禁止 16 岁以下青少年访问社交媒体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                英国首相 Keir Starmer 宣布，英国将禁止 16 岁以下青少年访问社交媒体。英国的社媒禁令范围以及强度都高于澳大利亚的类似禁令。社媒禁令涵盖所有社交媒体，对包含聊天功能的游戏等网络产品也有单独限制，如禁止青少年与陌生人聊天。Starmer 说政府总要做出选择，他认为全面禁令是正确的选择。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84585" target="_blank"&gt;数百万学生就读学校位于有毒污染场地 5 公里内&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据智库 Centre for Global Development 的地理分析，数百万儿童就读的学校附近存在已知的铅、汞、砷和杀虫剂等有毒污染。研究发现，亚洲、非洲和拉丁美洲 17 个国家的逾 25.2 万所学校位于有毒污染场地 5 公里范围内。这些学校有 4300 多万名儿童，其中 520 万名儿童位于 1 公里范围内。发达国家受污染影响的负担不成比例的落在贫困学生和非白人学生身上，但在发展中国家污染集中在富裕人群居住的城市，城市学校的规模通常更大，因此学生也更多——以菲律宾为例，9% 的学校靠近污染场地，而这些学校的学生总数占到全国学生总数的 27%。分析还显示，私立学校比公立学校更有可能位于污染场地附近。加纳 41% 的私立学校靠近污染场地，而公立学校的这一比例仅为 18%。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-15</guid><pubDate>Mon, 15 Jun 2026 15:16:25 +0000</pubDate></item></channel></rss>
