@@ -1,62 +1,80 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 16 Jun 2026 13:28:45 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月16日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 17 Jun 2026 12:52:13 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月17日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84587" target="_blank"&gt;Arch Linux 遭遇新一轮 AUR 恶意程序攻击&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Arch Linux 项目的用户软件仓库 Arch User Repository(AUR)上周遭遇了大规模恶意攻击，在处理了逾 1500 个软件包之后开发者认为问题已经得到了控制。然而仅仅过了一天，AUR 遭遇了新一轮的恶意攻击，这一次攻击者使用了代码混淆技术掩盖其意图。AUR 是用户贡献的软件包库，并非官方软件库，Arch Linux 项目可能需要暂时下线 AUR 以免遭遇一轮又一轮的恶意攻击。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84597" target="_blank"&gt;Commodore 宣布反社交网络的翻盖手机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                曾经的家用 PC 巨人 Commodore 又回来了，它宣布了一款翻盖手机 Callback 8020，运行基于 Linux 的 Sailfish OS 操作系统，不支持任何社交媒体、浏览器或工作应用如电子邮件，但支持地图、播客、拼车、以及流行的消息应用如 WhatsApp、Signal、Telegram 和微信（WeChat）——因为对很多人而言没有这些应用手机什么也不是。这款手机是 Commodore 公司推出的，当然也有 Commodore 模拟器。选择翻盖手机是因为它是作为一种多用途工具，你打开翻盖就是为了用它。这款手机不便宜，6 月 30 日开放预购，售价 499 美元，主要配置是 4GB 内存，64 GB SSD，索尼 4800 万像素相机，显示屏分辨率 480 x 640，电池可移除，容量为 1550mAh。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84588" target="_blank"&gt;俄罗斯计划退役漏气的国际空间站 PrK 模块&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但本月早些时候报告漏气再次加剧，该模块的裂缝总数达到 16 处。10 天前俄罗斯宇航员试图用锯子拆除该模块的一个承重支架，此举招致了 NASA 的强烈反对，认为可能会产生严重后果，下令宇航员进入与空间站对接的 Crew Dragon 飞船，穿上宇航服，准备必要时紧急撤离。俄罗斯航天局最终放弃了拆支架的计划。双方在幕后反复的拉锯之后，最终俄罗斯通知 NASA 将退役 PrK 模块。这意味着宇航员将不再进入 PrK 模块，或再次尝试对其进行加压。而俄罗斯将需要使用其它端口向空间站转移补给。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84598" target="_blank"&gt;亚马逊数据中心 2025 年使用了 25 亿加仑的水&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据亚马逊公布的数据，它的数据中心在 2025 年使用了 25 亿加仑的水。电商巨人声称它的用水量远低于主要竞争对手。亚马逊称，其数据中心用水量为每千瓦时 0.12 升（L/kWh），称微软在 2025 年的用水量为每千瓦时 0.27 升，Meta 在 2024 年的用水量为每千瓦时 0.19 升，Google 最糟糕达到每千瓦时 1.15 升。亚马逊表示，其设施约 90% 的时间都采用“自然空气冷却”，即引入室外空气使其流经服务器吸收热量，无需用水——但在最炎热的天气里会使用水蒸发降温。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84589" target="_blank"&gt;瑞士选民否决了将人口设限千万的提案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                瑞士于 6 月 14 日举行全民公投，决定是否在 2050 年前将全国常住人口限制在一千万以内。瑞士的人口出生率为每名妇女生育 1.29 个孩子，远低于 2.1 的人口替代率，它的人口增长主要归因于外来移民。目前瑞士人口已超过 900 万，官方数据显示，2024 年外国公民占到了瑞士总人口的 27% 以上。右翼的瑞士人民党（Swiss People's Party）支持的提案要求“2050 年前瑞士常住人口不得超过 1000 万，且瑞士应放弃与欧盟的自由流动协议”。瑞士选民最终否决了这一被称为“瑞士脱欧”的提案，有 54.79% 的选民反对，45.21% 的选民支持，投票率为 58.86%。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84599" target="_blank"&gt;GLP-1 减肥药在降低体重的同时也降低了骨折率&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                GLP-1 减肥药如 Ozempic、Wegovy、Rybelsus 能快速降低体重，此前有担忧认为快速的体重下降可能导致骨质疏松，增加骨折风险。然而最新研究发现，相比其它起效较慢的减肥药，GLP-1 减肥药能将骨折风险降低 15%。研究人员承认需要更多研究去证实相关性。研究人员分析了逾 59,000 名患者，其中 26,324 名服用了 GLP-1 减肥药，对照组的 33,555 人服用的是非 GLP-1 减肥药。结果显示，实验组发生 794 例骨折，对照组则发生 1045 例。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84590" target="_blank"&gt;微软求助于 AWS 以满足 GitHub 上 AI 驱动的负载增长需求&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软旗下的代码托管平台 GitHub 最近一段时间宕机事件频发，它正将服务迁移到微软的云计算平台 Azure，但仍然无法满足不断增长的需求，因此它正求助于最大的竞争对手亚马逊 AWS，以确保平台能正常运行。亚马逊表示不会对个别客户发表评论。对微软而言，GitHub 宕机的风险已经超过了向 AWS 付费所带来的负面影响。GitHub 首席运营官 Kyle Daigle 此前表示，该平台用户的提交(Commits)数将从 2025 年的 10 亿飙升到 2026 年 140 亿次。GitHub 在 2025 年 10 月计划将平台容量提高 10 倍，但到了 2026 年 2 月它发现需要提高 30 倍，原因是 AI 编程导致平台工作负荷大幅提升。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84600" target="_blank"&gt;垂直绿化给城市降温&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                气候变化和城市化加剧了热岛效应，城市地区的温度显著高于农村地区，而更高的温度又推动了制冷需求和加剧了电网压力，形成某种恶性循环。日本大阪府大学 Jihui Yuan 副教授领导的团队调查了垂直绿化等城市降温策略。他们的研究显示，朝南绿墙可将室内热条件改善最多 1.7°C；低反照率外表面能改善室外热舒适度最多 1.5°C；高反照率外表面则有助于降低室内温度。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84591" target="_blank"&gt;女性头部摄药量与经期相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                小鼠和人类实验显示，头部通过经鼻给物法摄入的药量存在性别差异，其中雌性摄药量与经期密切相关。研究人员通过小鼠实验发现，在动情前期与动情期，即雌激素奔涌至最高的阶段，雌性头部区域摄取的药物显著多于雄性；随着周期进入动情后期，雌激素跌向其最低值，两性之间基本不存在差异。研究人员在人类身上观察到了相似的现象：女性趋于更高的峰浓度，女性最高峰值逾男性最高峰值的两倍。男性则保留药物更久。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84601" target="_blank"&gt;Peter Thiel 的秘密社交网络曝光&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                黑客行动主义者曝光了 Peter Thiel 于 2006 年创办的秘密组织 Dialog 的成员信息和内部记录。Dialog 每年都会组织非公开的活动，邀请美国官员、外国政府官员和硅谷高管参加。2026 年活动定于 8 月 12 日至 16 日在爱尔兰都柏林的 Powerscourt Hotel 举行，注册的与会者共 222 人，并标明了他们是活跃会员还是特邀嘉宾（guest），会议讨论的主题包括“金钱能买到幸福吗？”“恢复核能”“应对第三次世界大战”“性生活”“建立邪教（Build-a-Cult）”“建立一个党（Build-a-Party）”等等。2025 年上任的北约欧洲盟军指挥官 Alexus Grynkewich 将军自 2021 年起就参与了 Dialog 活动。名单中的名人还有 Palantir 联合创始人 Joe Lonsdale、美财长 Scott Bessent、参议员 Ted Cruz、陆军部长 Dan Driscoll、参与监管 Pantir 的众议员 Jim Hime，以及 Google 和 DeepMind 高管、经济学诺奖得主 Roger Myerson 等。Dialog 还扮演了某种媒人的角色，询问与会者是否在寻找爱情，还提供了约会应用，该应用的口号是“为杰出人士建立有意义的联系”。Dialog 在  2014 年的活动邀请了 Jeffrey Epstein，但并不知道他有没有出席。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84592" target="_blank"&gt;Firefox 152 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 释出了 Firefox 152。主要变化包括：默认编译了 JPEG-XL 支持代码，但默认仍然没有启用，用户需要去 Firefox Labs 调整设置启用，JPEG-XL 是新的免专利图像格式，相关编解码器使用了 Rust 语言开发；重新设计了设置界面、在 Windows 不同硬件配置下支持 HDR 视频、支持 CSS 的 field-sizing 属性，以及一系列面向开发者的新功能，等等。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84602" target="_blank"&gt;微软考虑使用 DeepSeek 的开源模型降低成本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                最大化词元使用（tokenmaxxing）对微软的 AI 工具 Copilot 产生了不利影响，软件巨人正在考虑使用 DeepSeek 的开源模型以降低成本。微软考虑使用的是 DeepSeek-V4 自托管版本的修改版，它将作为一种低成本选项用于驱动微软的 Copilot Cowork。Copilot Cowork 目前运行在 Anthropic 和 OpenAI 的模型上，两家公司不断涨价，Copilot 也从无限量使用切换到了基于使用量的定价模式，此举招致了用户的强烈不满。更便宜的型号有助于降低成本让用户满意，但可能会让特朗普政府不满意。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84593" target="_blank"&gt;朱雀二号火箭解体产生上百碎片&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                蓝箭航天于 6 月 9 日在东风发射场发射了朱雀二号改进型遥六运载火箭（ZQ-2E Y6），将搭载的千帆 DTC 01 星和中国移动 02 星送入预定轨道。但火箭上面级随后在太空发生解体事件，碎片散落在近地轨道，其中部分与国际空间站和 SpaceX Starlink 宽带网络的轨道重叠。LeoLabs 的高级技术研究员 Darren McKnight 表示此次事件可能产生了 100-150 块碎片。其中一块碎片是火箭的第二级，长约 8 米直径约 3.35 米。火箭上面级的主体在距离地球 335-424 公里的轨道上运行，轨道倾角 54.5 度。好消息是轨道高度足够低，空气阻力将使大部分火箭碎片在几个月内重返大气层烧毁。如果轨道高度超过 650 公里，那么碎片将需要数十年甚至更长时间才能重返大气层。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84603" target="_blank"&gt;ChatGPT 市场份额首次跌破 50%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据 Sensor Tower 的《State of AI Report for 2026》报告，在 ChatGPT 发布三年半之后，其市场份额首次跌破 50%，而用户正在 Google Gemini、Anthropic Claude 等不同 AI 助手之间切换。ChatGPT 是最快达到 10 亿月活用户的应用，它的月活用户目前超过 11 亿，之后是 Gemini 的 6.62 亿 和 Claude 的 2.45 亿。ChatGPT 在今年 1 月市场份额还超过 50%，但到了 5 月底降至 46.4%，Gemini 占 27.7% 和 Claude 占 10.3%，Grok、Perplexity、DeepSeek 和 Meta AI 都低于 5%。 Sensor Tower 估计，2026 年上半年，AI 应用下载量预计将接近 23 亿次，用户支出将超过 42 亿美元。相比之下 2025 年上半年的 AI 支出为 18.3 亿美元——这表明 AI 行业正将重心从增长转向盈利。但下载量和支出增长率均已放缓，表明即使绝对数量在继续攀升，市场可能正走向成熟。中国和印度的 AI 应用下载量出现了下滑，2026 年第一季度亚洲下载量下降了 3.3%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84594" target="_blank"&gt;curl 暂停一个月接受漏洞报告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                curl 项目维护者 Daniel Stenberg 宣布，curl 将于 7 月 1 日至 8 月 3 日期间暂停接收漏洞报告，除非提交者拥有付费支持合同。他称之为“curl 的极乐夏日”。Stenberg 称过去四个月一直承受着巨大的压力，他们需要休息一下。GitHub 上的项目 issue 和 pull-request 保持开放，curl 8.22.0 的发布日期推迟两周至 2026 年 9 月 2 日发布。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84604" target="_blank"&gt;Mozilla 公布 Firefox 路线图&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Mozilla 在宣布 Firefox 152 的同时，公布了将在未来推出的一系列新功能，其中包括：更新 UI 的 Project Nova；自定义快捷键；改进 PDF 编辑功能——支持在浏览器上直接拆分、合并和重组 PDF 文档；Multi-Account Containers 从扩展变成原生功能；移动版本将内置免费 VPN（可能只限于少数国家）；通过语音向浏览器提问获得 AI 生成答案的 Quick Answers；隐私 AI 浏览 Smart Window；省电模式（Power Saving Mode）识别手机上消耗资源最多的标签页，自动降低其资源占用，从而延长电池续航时间，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84595" target="_blank"&gt;开源模型能否战胜 OpenAI？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中美两国的 AI 公司采取了不同的发布策略：中国侧重于开源权重模型，美国公司如 OpenAI 和 Anthropic 则采用闭源策略。Hugging Face 前亚太生态系统高管 Tiezhen Wang 表示，OpenAI 和 Anthropic 指责中国 AI 公司蒸馏其模型，他认为蒸馏是中性的，美国 AI 公司是通过抓取互联网上的信息训练模型，它们并非知识的创造者，却试图阻止其他人重复利用知识，有点讽刺。所有 AI 生成的内容都应该没有版权，否则拥有算力的人能滥用权力，生成各种组合内容然后对所有内容都申请版权。他发现中国公司和美国公司在最大化使用 token 上有明显差异，因为中国有很多开源权重模型，其使用成本没有美国大，因此中国互联网公司都鼓励员工最大化使用 token，鼓励员工成为 AI 原生开发者，甚至禁止他们手动完成撰写文档之类的日常工作。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84605" target="_blank"&gt;地下真菌网络长度超过 10 万万亿公里&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《科学》期刊上的一项研究，地下真菌网络长度达到 11 万万亿公里(或 110 京公里，1 京等于 1 千万亿)，是地日距离的 7.5 亿倍。丛枝菌根真菌（Arbuscular mycorrhizal fungi）是由被称为菌丝的管状细胞构成的网络。它们通过与逾七成的植物建立共生关系维系着地球上的生命。这种网络已存在约 4.75 亿年，它们通过向植物提供养分和水分换取植物产生的碳，它们还通过将碳吸收到土壤中帮助调节气候。Society for the Protection of Underground Networks(Spun)组织的研究团队利用机器学习模型，结合世界各地逾 16000 个土壤样本的数据，绘制出第一张丛枝菌根真菌网络的全球地图。研究人员称，仅仅一茶匙土壤就可能存在长达 10 米的菌根网络。研究还发现，农耕会破坏真菌网络，农田菌根网络密度平均比野生生态系统低 47.3%。草原地区拥有最密集的菌丝系统，但这些地区缺乏保护，正日益退化。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84596" target="_blank"&gt;禁止使用科技产品提升了学生的阅读能力&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在数字化时代，一名教师的低科技实验显示学生的阅读能力有了显著提升。明尼阿波利斯 Washburn 高中的 AP 文学和英语教师 Maureen Mulvaney 在学生抄袭、注意力不集中以及阅读能力下降等问题之后开始了低科技实验，在家长的支持下，她禁止学生使用手机和笔记本电脑，要求所有作业都必须用纸笔完成。尽管学生一开始有抵触，但效果立竿见影：实验前的 2025 年 9 月只有 46% 的学生对阅读能力有信心，到了今年 2 月该比例飙升至 95%。大多数学生能写至少两页部分学生甚至能写五六页英文文章。79% 的学生表示在纸上写作和组织思路比在屏幕上更容易。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84606" target="_blank"&gt;GLP-1 减肥药有助于提高男性睾酮水平和精子质量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据内分泌学会年会上发表的报告，多项研究显示 GLP-1 减肥药有助于提高男性睾酮水平和精子质量。一项研究对 1600多 名开具减肥药处方的男性患者的电子健康记录进行了分析，发现在接受 GLP-1 药物或双重激素受体激动剂治疗后，参与者的睾酮水平增加了约 30%。另一项回顾性研究同样分析了 215 名接受减肥药物治疗男性的记录，发现治疗后他们的平均睾酮水平比治疗前高出约 20%。睾酮是精子产生和维持生育能力不可或缺的激素，而肥胖会降低睾酮水平已是医学界的共识。脂肪细胞中含有高水平的酶，能将睾酮转化为主要的女性性激素雌二醇。此外肥胖引起的代谢变化和体内炎症水平升高也会直接影响睾酮的产生。当 GLP-1 药物帮助患者有效减重时，这些负面因素也随之减弱，从而促使生殖激素网络恢复正常。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-16</guid><pubDate>Tue, 16 Jun 2026 13:28:45 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84607" target="_blank"&gt;泄漏财务数据显示 2025 年 OpenAI 净亏损约 80 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                泄漏财务数据显示 2025 年 OpenAI 净亏损约 80 亿美元。数据显示，OpenAI 的营收从 2024 年的 37 亿美元增至 2025 年的 130.7 亿美元。研发支出从 2024 年的 78.1 亿美元飙升至 2025 年的 191.8 亿美元，其中仅支付给微软的研发费用就高达 105.9 亿美元。产品生产和分销支出从 2024 年的 26.5 亿美元增至 2025 年的 75 亿美元。销售和市场营销支出从 2024 年的 11.1 亿美元增至 2025 年的 57.3 亿美元。OpenAI 的运营亏损从  2024 年的 87.8 亿美元增至 2025 年的 209.2 亿美元，净亏损从 2024 年略高于 50 亿美元飙升至 2025 年的近 390 亿美元。但其中包含了一笔大约 300 亿美元的从非盈利结构转为盈利性结构的估值相关会计支出，如果不计入这笔费用，OpenAI 在 2025 年净亏损约为 80 亿美元。OpenAI 披露 ChatGPT 周活跃用户逾 9 亿，但付费用户只有 5000 万。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84608" target="_blank"&gt;Firefox 用 Zlib 的 Rust 语言版本替代了 C 语言版本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Firefox 浏览器从 v151 开始，Gzip 压缩/解压缩就依赖于 zlib-rs 库，用 Rust 语言开发的版本替代了 C 语言版本改进了性能，提供了更好的内存安全性，以及带来了英特尔第 13 代/第 14 代酷睿 CPU 不稳定导致的崩溃问题。致力于用 Rust 语言重写关键库的非盈利组织 Trifecta Tech Foundation 在 2024 年夏天就与 Mozilla 讨论在浏览器中集成 zlib-rs，但从测试到落地花了两年时间，一个重要原因就是 zlib-rs 触发了臭名昭著的英特尔 CPU bug。测试中 zlib-rs 中的一些代码导致英特尔 Raptor Lake CPU 频繁崩溃，开发者最终发现问题与 Huffman 编码写入内存的一个特定指令相关，识别问题之后解决起来就容易了，开发者通过加入一段“不安全代码”修复了该问题。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=84609" target="_blank"&gt;恶意墙纸瞄准中俄 Steam 用户窃取其账号&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                俄罗斯安全公司卡巴斯基对中俄 Steam 用户发出警告，恶意墙纸正在 Steam 创意工坊快速扩散，其目的是劫持他们的账号。攻击者利用了热门墙纸应用 Wallpaper Engine 创意工坊分享功能的漏洞，恶意程序隐藏在分享的壁纸包中。运行被感染的壁纸会导致 Steam 账号被盗，或者系统被植入后门或加密货币挖矿程序。安全研究人员在创意工坊发现了数十款恶意壁纸，每一款都被下载了数千次，甚至数万次。黑客主要针对中国 Steam 用户，墙纸的艺术风格和标题都专门针对中国玩家量身定制，中国玩家的下载量最多，占到了总下载量的&amp;nbsp; 89.4%，其次是俄罗斯的 5.5%，新加坡 (1.4%)、香港 (0.9%)、德国 (0.9%)、越南 (0.9%)、印度 (0.5%) 和加拿大 (0.5%)。Steam 目前已经移除了包含恶意程序的墙纸。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-17</guid><pubDate>Wed, 17 Jun 2026 12:52:13 +0000</pubDate></item></channel></rss>
