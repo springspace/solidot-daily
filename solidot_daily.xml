@@ -1,80 +1,74 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 17 Jun 2026 12:52:13 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月17日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 18 Jun 2026 12:27:47 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月18日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84597" target="_blank"&gt;Commodore 宣布反社交网络的翻盖手机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                曾经的家用 PC 巨人 Commodore 又回来了，它宣布了一款翻盖手机 Callback 8020，运行基于 Linux 的 Sailfish OS 操作系统，不支持任何社交媒体、浏览器或工作应用如电子邮件，但支持地图、播客、拼车、以及流行的消息应用如 WhatsApp、Signal、Telegram 和微信（WeChat）——因为对很多人而言没有这些应用手机什么也不是。这款手机是 Commodore 公司推出的，当然也有 Commodore 模拟器。选择翻盖手机是因为它是作为一种多用途工具，你打开翻盖就是为了用它。这款手机不便宜，6 月 30 日开放预购，售价 499 美元，主要配置是 4GB 内存，64 GB SSD，索尼 4800 万像素相机，显示屏分辨率 480 x 640，电池可移除，容量为 1550mAh。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84610" target="_blank"&gt;GLP-1 减肥药有助于抑制暴力冲动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                大量研究表明 GLP-1 药物不仅仅能减肥，它几乎无所不能。根据发表在《Criminology》期刊上的一项新研究，GLP-1 减肥药有助于抑制暴力冲动。研究人员强调这是一项观察性研究，并没有证明两者之间存在因果。GLP-1 药物在减轻体重过程中除了降低食欲外还会对行为产生影响，比如遏制对酒精的渴望。这一结果可能源于药物对冲动控制和奖赏处理感知的影响。而冲动和酒精饮用都是公认的暴力行为风险因素。研究人员分析了 7521 名美国成年人的调查数据，其中 821 人曾服用过 GLP-1 减肥药，597 人正在服用该药，受访者被询问了饮酒和冲动行为。结果显示正在服用 GLP-1 药物的人中冲动行为和暴力行为之间的关联减弱了 62%，饮酒行为与暴力行为之间的关联性减弱了 52%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84598" target="_blank"&gt;亚马逊数据中心 2025 年使用了 25 亿加仑的水&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据亚马逊公布的数据，它的数据中心在 2025 年使用了 25 亿加仑的水。电商巨人声称它的用水量远低于主要竞争对手。亚马逊称，其数据中心用水量为每千瓦时 0.12 升（L/kWh），称微软在 2025 年的用水量为每千瓦时 0.27 升，Meta 在 2024 年的用水量为每千瓦时 0.19 升，Google 最糟糕达到每千瓦时 1.15 升。亚马逊表示，其设施约 90% 的时间都采用“自然空气冷却”，即引入室外空气使其流经服务器吸收热量，无需用水——但在最炎热的天气里会使用水蒸发降温。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84611" target="_blank"&gt;六成美国消费者对品牌中的 AI 表示反感&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据 WordPress VIP 的报告《Future of the Web Report》，六成美国消费者对品牌信息中的 AI 表示反感。74% 的消费者认为今天的互联网没有 10 年前有人味；普通人冲浪 40 分钟就会产生在线互动缺乏真实感的感受——这被称为 Bot fatigue；16% 的消费者认为没有品牌真正有效利用了 AI，六成消费者认为品牌信息中的 AI 会让人倒胃口。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84599" target="_blank"&gt;GLP-1 减肥药在降低体重的同时也降低了骨折率&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                GLP-1 减肥药如 Ozempic、Wegovy、Rybelsus 能快速降低体重，此前有担忧认为快速的体重下降可能导致骨质疏松，增加骨折风险。然而最新研究发现，相比其它起效较慢的减肥药，GLP-1 减肥药能将骨折风险降低 15%。研究人员承认需要更多研究去证实相关性。研究人员分析了逾 59,000 名患者，其中 26,324 名服用了 GLP-1 减肥药，对照组的 33,555 人服用的是非 GLP-1 减肥药。结果显示，实验组发生 794 例骨折，对照组则发生 1045 例。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84612" target="_blank"&gt;Epic Games 推出开源版本控制系统 Lore&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Epic Games 宣布了新版本控制系统 Lore，源代码采用 MIT 许可证托管在 GitHub 上。Git 是最流行的版本控制系统，但它最初的是为 Linux 这一大型去中心化项目设计的，并没有为游戏或封闭环境下的大型私有软件开发优化。Git 不太适合游戏公司的纹理、3D 模型、音频等文件的协同开发，因此游戏领域流行的版本控制系统是私有的  Perforce，开源的 Lore 瞄准的就是该私有软件。Epic Games 称，“Lore是一个集中式、内容寻址的版本控制系统，使用默克尔树和不可变的版本链来表示仓库状态，并针对二进制优先存储、重复数据删除以及大规模的稀疏/按需数据水合进行了优化。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84600" target="_blank"&gt;垂直绿化给城市降温&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                气候变化和城市化加剧了热岛效应，城市地区的温度显著高于农村地区，而更高的温度又推动了制冷需求和加剧了电网压力，形成某种恶性循环。日本大阪府大学 Jihui Yuan 副教授领导的团队调查了垂直绿化等城市降温策略。他们的研究显示，朝南绿墙可将室内热条件改善最多 1.7°C；低反照率外表面能改善室外热舒适度最多 1.5°C；高反照率外表面则有助于降低室内温度。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84613" target="_blank"&gt;美国暂缓将 DeepSeek 加入黑名单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国暂缓将 DeepSeek 和长鑫存储等公司加入贸易黑名单以免中美关系再次紧张。如果被加入贸易实体清单，美国公司未经许可不得向其出口商品、软件和技术，而许可通常不会被批准。美国自去年十月以来就没有再更新实体清单。是否将某个实体列入黑名单的决定由一个跨部门委员会做出，该委员会成员包括美国商务部、国防部、能源部、国务院，偶尔还有财政部官员。该委员会已批准将一些公司列入黑名单，但商务部尚未公布名单。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84601" target="_blank"&gt;Peter Thiel 的秘密社交网络曝光&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                黑客行动主义者曝光了 Peter Thiel 于 2006 年创办的秘密组织 Dialog 的成员信息和内部记录。Dialog 每年都会组织非公开的活动，邀请美国官员、外国政府官员和硅谷高管参加。2026 年活动定于 8 月 12 日至 16 日在爱尔兰都柏林的 Powerscourt Hotel 举行，注册的与会者共 222 人，并标明了他们是活跃会员还是特邀嘉宾（guest），会议讨论的主题包括“金钱能买到幸福吗？”“恢复核能”“应对第三次世界大战”“性生活”“建立邪教（Build-a-Cult）”“建立一个党（Build-a-Party）”等等。2025 年上任的北约欧洲盟军指挥官 Alexus Grynkewich 将军自 2021 年起就参与了 Dialog 活动。名单中的名人还有 Palantir 联合创始人 Joe Lonsdale、美财长 Scott Bessent、参议员 Ted Cruz、陆军部长 Dan Driscoll、参与监管 Pantir 的众议员 Jim Hime，以及 Google 和 DeepMind 高管、经济学诺奖得主 Roger Myerson 等。Dialog 还扮演了某种媒人的角色，询问与会者是否在寻找爱情，还提供了约会应用，该应用的口号是“为杰出人士建立有意义的联系”。Dialog 在  2014 年的活动邀请了 Jeffrey Epstein，但并不知道他有没有出席。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84614" target="_blank"&gt;苹果准备涨价&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果成为 AI 热导致内存短缺而涨价的最新一家公司。即将卸任的苹果 CEO 库克（Tim Cook）表示，内存供应状况“难以为继”，涨价“不可避免”。他没有透露何时涨价，也没有说明哪些产品会涨价，以及即将于 9 月发布的下一代 iPhone 18 是否会受到影响 。库克说，“在消费者急需设备时内存供应在减少，而内存厂商却选择大幅涨价。我们迫切需要内存价格和供应恢复到消费产品的合理水平。这是最为重要的。”内存价格自 2025 年 10 月以来翻了一番多。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84602" target="_blank"&gt;微软考虑使用 DeepSeek 的开源模型降低成本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                最大化词元使用（tokenmaxxing）对微软的 AI 工具 Copilot 产生了不利影响，软件巨人正在考虑使用 DeepSeek 的开源模型以降低成本。微软考虑使用的是 DeepSeek-V4 自托管版本的修改版，它将作为一种低成本选项用于驱动微软的 Copilot Cowork。Copilot Cowork 目前运行在 Anthropic 和 OpenAI 的模型上，两家公司不断涨价，Copilot 也从无限量使用切换到了基于使用量的定价模式，此举招致了用户的强烈不满。更便宜的型号有助于降低成本让用户满意，但可能会让特朗普政府不满意。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84615" target="_blank"&gt;中国汽车占欧洲新车销售的比例将超过 10%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                智库 Rhodium Group 的统计显示，截至 2025 年 12 月，中国生产的汽车占欧盟新车销售的 9.3%，比 2023 年 1 月上升 7.1 个百分点。预计 2026 年将超过 10%。从中国以外的第三国出口到欧洲等的中国品牌车的比例也在 2025 年 12 月达到 6.2%，增加 5.5 个百分点。欧盟从 2024 年秋季开始对中国产纯电动汽车加征关税。不过，中国企业增加了不属于加征对象的插电式混合动力车（PHV）的出口，势头并未减弱。 中国整车企业也陆续开设欧洲基地，进行采购和生产。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84603" target="_blank"&gt;ChatGPT 市场份额首次跌破 50%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 Sensor Tower 的《State of AI Report for 2026》报告，在 ChatGPT 发布三年半之后，其市场份额首次跌破 50%，而用户正在 Google Gemini、Anthropic Claude 等不同 AI 助手之间切换。ChatGPT 是最快达到 10 亿月活用户的应用，它的月活用户目前超过 11 亿，之后是 Gemini 的 6.62 亿 和 Claude 的 2.45 亿。ChatGPT 在今年 1 月市场份额还超过 50%，但到了 5 月底降至 46.4%，Gemini 占 27.7% 和 Claude 占 10.3%，Grok、Perplexity、DeepSeek 和 Meta AI 都低于 5%。 Sensor Tower 估计，2026 年上半年，AI 应用下载量预计将接近 23 亿次，用户支出将超过 42 亿美元。相比之下 2025 年上半年的 AI 支出为 18.3 亿美元——这表明 AI 行业正将重心从增长转向盈利。但下载量和支出增长率均已放缓，表明即使绝对数量在继续攀升，市场可能正走向成熟。中国和印度的 AI 应用下载量出现了下滑，2026 年第一季度亚洲下载量下降了 3.3%。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84616" target="_blank"&gt;法国物理学家和科普名人因论文抄袭被剥夺博士学位&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                法国物理学家和科普名人 Étienne Klein 因论文抄袭被剥夺博士学位。他是 Alternative Energies and Atomic Energy Commission (CEA)的物理学家，出版了 30 多本书，主持一档每周播出的科普节目。自 2016 年以来他就面临着科普文章抄袭的指控。2024 年 8 月他的博士论文也受到质疑。他是在 1999 年获得博士学位，他的大学目前被合并为巴黎城市大學。分析显示，这篇博士论文五分之一的版面涉嫌抄袭，抄袭的内容包括作家加缪（Albert Camus）、物理学家德布罗意（Louis de Broglie），甚至还有论文委员会成员的论文。巴黎城市大學随后展开了调查，发现论文近三分之二的内容存在抄袭，因此撤销了他的博士学位。Klein 回应了指控，辩解称他阅读了大量书籍，可能不知觉的将其吸收的内容写入到论文中。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84604" target="_blank"&gt;Mozilla 公布 Firefox 路线图&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 在宣布 Firefox 152 的同时，公布了将在未来推出的一系列新功能，其中包括：更新 UI 的 Project Nova；自定义快捷键；改进 PDF 编辑功能——支持在浏览器上直接拆分、合并和重组 PDF 文档；Multi-Account Containers 从扩展变成原生功能；移动版本将内置免费 VPN（可能只限于少数国家）；通过语音向浏览器提问获得 AI 生成答案的 Quick Answers；隐私 AI 浏览 Smart Window；省电模式（Power Saving Mode）识别手机上消耗资源最多的标签页，自动降低其资源占用，从而延长电池续航时间，等等。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84617" target="_blank"&gt;调查显示中国三分之一青少年睡眠质量差&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                山西大学研究人员在 PLOS One 上发表了一篇论文，指出青少年的心理健康、体重指数以及屏幕时间与睡眠质量有显著联系，且女孩和生活在农村地区的青少年睡眠质量往往较差。研究人员调查了中国六个城市的 5,713 名 13-18 岁青少年，这六个城市分别是：上海、苏州、太原、婺源、兴义和乌鲁木齐。他们使用匹兹堡睡眠质量指数（PSQI）收集了睡眠质量数据，同时还收集了 BMI、体质健康、静坐时间、屏幕使用时间及心理健康等数据。此外还获得了每位参与者的居住地（城市或农村）和性别信息。总体上有 33.71% 的受访者睡眠质量不佳。他们发现不同居住地点和性别之间存在显著差异。农村青少年睡眠质量不佳的比率高于城市青少年（分别为 35.78% 和 31.90%），在入睡时间、睡眠时长和睡眠干扰几个方面的表现均较差。女孩在几乎所有睡眠衡量指标方面上的表现均不及男孩，女孩睡眠质量较差者的比率为 38.40%，而男孩为 29.20%。较高的体重指数对女孩的睡眠有更显著的不利影响。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84605" target="_blank"&gt;地下真菌网络长度超过 10 万万亿公里&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《科学》期刊上的一项研究，地下真菌网络长度达到 11 万万亿公里(或 110 京公里，1 京等于 1 千万亿)，是地日距离的 7.5 亿倍。丛枝菌根真菌（Arbuscular mycorrhizal fungi）是由被称为菌丝的管状细胞构成的网络。它们通过与逾七成的植物建立共生关系维系着地球上的生命。这种网络已存在约 4.75 亿年，它们通过向植物提供养分和水分换取植物产生的碳，它们还通过将碳吸收到土壤中帮助调节气候。Society for the Protection of Underground Networks(Spun)组织的研究团队利用机器学习模型，结合世界各地逾 16000 个土壤样本的数据，绘制出第一张丛枝菌根真菌网络的全球地图。研究人员称，仅仅一茶匙土壤就可能存在长达 10 米的菌根网络。研究还发现，农耕会破坏真菌网络，农田菌根网络密度平均比野生生态系统低 47.3%。草原地区拥有最密集的菌丝系统，但这些地区缺乏保护，正日益退化。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84618" target="_blank"&gt;科学家将鼠疫追溯到 5500 年前&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家发现了已知最古老的鼠疫证据，将其出现的时间追溯到约 5500 年前——比之前认为的早了约 200 年。研究人员在西伯利亚贝加尔湖附近的四个墓地寻找鼠疫杆菌的痕迹。他们在 18 位古代狩猎采集者的牙齿中发现了鼠疫 DNA 残留。对骨骼碳年代测定显示，发现这场瘟疫引发了两波疫情，第一波出现在 5500 年前。病菌可能是通过土拨鼠传播的，当地人可能是通过食用生内脏或屠宰过程中接触携带病菌的兽皮而感染鼠疫。死者中有很多是 8-11 岁幼童。早期的鼠疫和中世纪的黑死病同样致命，不仅摧毁人口稠密的城市，也摧毁小型游牧狩猎采集群体。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84606" target="_blank"&gt;GLP-1 减肥药有助于提高男性睾酮水平和精子质量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据内分泌学会年会上发表的报告，多项研究显示 GLP-1 减肥药有助于提高男性睾酮水平和精子质量。一项研究对 1600多 名开具减肥药处方的男性患者的电子健康记录进行了分析，发现在接受 GLP-1 药物或双重激素受体激动剂治疗后，参与者的睾酮水平增加了约 30%。另一项回顾性研究同样分析了 215 名接受减肥药物治疗男性的记录，发现治疗后他们的平均睾酮水平比治疗前高出约 20%。睾酮是精子产生和维持生育能力不可或缺的激素，而肥胖会降低睾酮水平已是医学界的共识。脂肪细胞中含有高水平的酶，能将睾酮转化为主要的女性性激素雌二醇。此外肥胖引起的代谢变化和体内炎症水平升高也会直接影响睾酮的产生。当 GLP-1 药物帮助患者有效减重时，这些负面因素也随之减弱，从而促使生殖激素网络恢复正常。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84619" target="_blank"&gt;诺和诺德 1.3 TB 内部数据被盗，被勒索 2500 万美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                勒索组织 FulcrumSec 宣称入侵了制药巨头诺和诺德（Novo Nordisk）的网络，窃取了约 1.3 TB 的数据，包括源代码、药物研究、临床试验记录、员工和医生信息、生产系统信息以及内部 AI 模型数据。它向诺和诺德勒索 2500 万美元赎金，但未获成功，因此考虑出售部分数据。FulcrumSec 称诺和诺德的代表于 6 月 3 日联系了他们。FulcrumSec 表示考虑通过开源来遏制企业不想支付赎金的情况。诺和诺德发言人表示它正与相关机构保持联系。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84607" target="_blank"&gt;泄漏财务数据显示 2025 年 OpenAI 净亏损约 80 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                泄漏财务数据显示 2025 年 OpenAI 净亏损约 80 亿美元。数据显示，OpenAI 的营收从 2024 年的 37 亿美元增至 2025 年的 130.7 亿美元。研发支出从 2024 年的 78.1 亿美元飙升至 2025 年的 191.8 亿美元，其中仅支付给微软的研发费用就高达 105.9 亿美元。产品生产和分销支出从 2024 年的 26.5 亿美元增至 2025 年的 75 亿美元。销售和市场营销支出从 2024 年的 11.1 亿美元增至 2025 年的 57.3 亿美元。OpenAI 的运营亏损从  2024 年的 87.8 亿美元增至 2025 年的 209.2 亿美元，净亏损从 2024 年略高于 50 亿美元飙升至 2025 年的近 390 亿美元。但其中包含了一笔大约 300 亿美元的从非盈利结构转为盈利性结构的估值相关会计支出，如果不计入这笔费用，OpenAI 在 2025 年净亏损约为 80 亿美元。OpenAI 披露 ChatGPT 周活跃用户逾 9 亿，但付费用户只有 5000 万。
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84620" target="_blank"&gt;摩根大通高盛禁止香港员工使用 Anthropic 模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国投行摩根大通已禁止香港员工访问 Anthropic 的模型，显示这一技术在美国境外的应用正面临极其严格的审查。由于 Anthropic 与摩根大通的许可协议中有关“使用条款”的特定措辞，摩根大通已将 Claude 模型从其驻港员工获批使用的大型语言模型（LLM）内部名单中移除。在此之前，高盛也做出了类似决定，于 4 月将 Claude 从其香港员工的获准使用工具名单中剔除。今年 4 月 Anthropic 首次向少数企业和机构开放 Mythos 模型测试，并警告该模型具备发现网络安全漏洞的能力，不宜广泛推广。6 月初 Anthropic 发布了 Mythos 级模型的首个公开版本 Fable 5，但为管控其突破网络漏洞的能力，同步设置了许多限制措施。然而华盛顿仍以国家安全为由下达紧急出口管制令，迫使 Anthropic 在全球范围内关停 Mythos 5 和 Fable 5 模型。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84608" target="_blank"&gt;Firefox 用 Zlib 的 Rust 语言版本替代了 C 语言版本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Firefox 浏览器从 v151 开始，Gzip 压缩/解压缩就依赖于 zlib-rs 库，用 Rust 语言开发的版本替代了 C 语言版本改进了性能，提供了更好的内存安全性，以及带来了英特尔第 13 代/第 14 代酷睿 CPU 不稳定导致的崩溃问题。致力于用 Rust 语言重写关键库的非盈利组织 Trifecta Tech Foundation 在 2024 年夏天就与 Mozilla 讨论在浏览器中集成 zlib-rs，但从测试到落地花了两年时间，一个重要原因就是 zlib-rs 触发了臭名昭著的英特尔 CPU bug。测试中 zlib-rs 中的一些代码导致英特尔 Raptor Lake CPU 频繁崩溃，开发者最终发现问题与 Huffman 编码写入内存的一个特定指令相关，识别问题之后解决起来就容易了，开发者通过加入一段“不安全代码”修复了该问题。
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84621" target="_blank"&gt;三个安全启动证书即将过期&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用。安全启动使用加密签名确保启动过程中加载的每个固件都受到计算机制造商的信任，它旨在建立信任链，防止攻击者用恶意固件替换预期的启动固件。但在 2023 年研究人员发现了存在于几乎所有 Windows 和 Linux 系统 UEFI 启动过程中的严重漏洞 LogoFail。该漏洞存在于启动时显示硬件制造商徽标的软件中，攻击者能利用其图像解析 bug 绕过安全启动，用恶意固件感染 UEFI。微软因此移除了三个在 2011 年颁发的旧证书，用 2023 年颁发的新证书取代。Windows 用户可通过 Windows 安全设置 &amp;gt; 设备安全性 &amp;gt; 安全启动 去检查证书是否已经更新。Linux 用户可关注名叫 shim 的程序更新。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=84609" target="_blank"&gt;恶意墙纸瞄准中俄 Steam 用户窃取其账号&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                俄罗斯安全公司卡巴斯基对中俄 Steam 用户发出警告，恶意墙纸正在 Steam 创意工坊快速扩散，其目的是劫持他们的账号。攻击者利用了热门墙纸应用 Wallpaper Engine 创意工坊分享功能的漏洞，恶意程序隐藏在分享的壁纸包中。运行被感染的壁纸会导致 Steam 账号被盗，或者系统被植入后门或加密货币挖矿程序。安全研究人员在创意工坊发现了数十款恶意壁纸，每一款都被下载了数千次，甚至数万次。黑客主要针对中国 Steam 用户，墙纸的艺术风格和标题都专门针对中国玩家量身定制，中国玩家的下载量最多，占到了总下载量的&amp;nbsp; 89.4%，其次是俄罗斯的 5.5%，新加坡 (1.4%)、香港 (0.9%)、德国 (0.9%)、越南 (0.9%)、印度 (0.5%) 和加拿大 (0.5%)。Steam 目前已经移除了包含恶意程序的墙纸。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-17</guid><pubDate>Wed, 17 Jun 2026 12:52:13 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-18</guid><pubDate>Thu, 18 Jun 2026 12:27:47 +0000</pubDate></item></channel></rss>
