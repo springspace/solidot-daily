@@ -1,74 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 18 Jun 2026 12:27:47 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月18日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 19 Jun 2026 12:47:03 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84610" target="_blank"&gt;GLP-1 减肥药有助于抑制暴力冲动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                大量研究表明 GLP-1 药物不仅仅能减肥，它几乎无所不能。根据发表在《Criminology》期刊上的一项新研究，GLP-1 减肥药有助于抑制暴力冲动。研究人员强调这是一项观察性研究，并没有证明两者之间存在因果。GLP-1 药物在减轻体重过程中除了降低食欲外还会对行为产生影响，比如遏制对酒精的渴望。这一结果可能源于药物对冲动控制和奖赏处理感知的影响。而冲动和酒精饮用都是公认的暴力行为风险因素。研究人员分析了 7521 名美国成年人的调查数据，其中 821 人曾服用过 GLP-1 减肥药，597 人正在服用该药，受访者被询问了饮酒和冲动行为。结果显示正在服用 GLP-1 药物的人中冲动行为和暴力行为之间的关联减弱了 62%，饮酒行为与暴力行为之间的关联性减弱了 52%。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84622" target="_blank"&gt;地球的海洋来自何处？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                地球之水来自何处？科学家其实并不真正了解。水的来源有多种假说，其中最主流的是彗星说——撞击地球的彗星将水带到了地球；此外还有小行星说——撞击地球的小行星将水带到了地球，以及水由地球自身创造说。1986 年 Giotto 探测器对哈雷彗星的观测数据基本上否定了彗星假说，因为地球水的化学特性与彗星水完全不同。后续对  Hale-Bopp 彗星以及 Rosetta 探测器对 Churyumov-Gerasimenko 彗星的观测也都证实彗星之水与地球之水截然不同。那么地球之水是否可能来自小行星？科学家发现小行星上的惰性元素比例与地球也存在差异。那么地球上的海洋是否主要是由它自身形成的？早期地球的岩浆海洋富含氧气，而大气富含氢气，但氢气和氧气并不会自然结合。过去几年科学家做了一系列实验探索早期地球环境氢气和氧气是否能发生反应形成水。实验证实，地球上至少有一部分水能靠自身形成，但是否能形成今天覆盖整个地球的海洋，还无法下定论。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84611" target="_blank"&gt;六成美国消费者对品牌中的 AI 表示反感&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 WordPress VIP 的报告《Future of the Web Report》，六成美国消费者对品牌信息中的 AI 表示反感。74% 的消费者认为今天的互联网没有 10 年前有人味；普通人冲浪 40 分钟就会产生在线互动缺乏真实感的感受——这被称为 Bot fatigue；16% 的消费者认为没有品牌真正有效利用了 AI，六成消费者认为品牌信息中的 AI 会让人倒胃口。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84623" target="_blank"&gt;战争改变野生动物活动模式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《科学》期刊上的一项研究，乌克兰研究人员利用相机陷阱调查了武装冲突对野生动物的影响，将 2022 年观察到的情况与 2021 年同期进行了对比。他们发现哺乳动物会通过行为调整应对武装冲突，其中包括减少夜间活动。武装冲突对卷入其中的人类是可怕的；野生动物也同样会被殃及。然而由于研究人员难以进入武装冲突地区且会面临危险，因此要理解此类冲突的影响会充满挑战。研究人员利用已运作中的相机陷阱来了解战争对野生动物的影响。他们发现冲突对该地区的哺乳动物产生了明显影响，其中包括这些动物的活动减少，尤其是在激烈冲突期间。此类影响证实，政治动荡所伤害的不仅是直接卷入其中的人类。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84612" target="_blank"&gt;Epic Games 推出开源版本控制系统 Lore&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Epic Games 宣布了新版本控制系统 Lore，源代码采用 MIT 许可证托管在 GitHub 上。Git 是最流行的版本控制系统，但它最初的是为 Linux 这一大型去中心化项目设计的，并没有为游戏或封闭环境下的大型私有软件开发优化。Git 不太适合游戏公司的纹理、3D 模型、音频等文件的协同开发，因此游戏领域流行的版本控制系统是私有的  Perforce，开源的 Lore 瞄准的就是该私有软件。Epic Games 称，“Lore是一个集中式、内容寻址的版本控制系统，使用默克尔树和不可变的版本链来表示仓库状态，并针对二进制优先存储、重复数据删除以及大规模的稀疏/按需数据水合进行了优化。”
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84613" target="_blank"&gt;美国暂缓将 DeepSeek 加入黑名单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国暂缓将 DeepSeek 和长鑫存储等公司加入贸易黑名单以免中美关系再次紧张。如果被加入贸易实体清单，美国公司未经许可不得向其出口商品、软件和技术，而许可通常不会被批准。美国自去年十月以来就没有再更新实体清单。是否将某个实体列入黑名单的决定由一个跨部门委员会做出，该委员会成员包括美国商务部、国防部、能源部、国务院，偶尔还有财政部官员。该委员会已批准将一些公司列入黑名单，但商务部尚未公布名单。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84614" target="_blank"&gt;苹果准备涨价&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                苹果成为 AI 热导致内存短缺而涨价的最新一家公司。即将卸任的苹果 CEO 库克（Tim Cook）表示，内存供应状况“难以为继”，涨价“不可避免”。他没有透露何时涨价，也没有说明哪些产品会涨价，以及即将于 9 月发布的下一代 iPhone 18 是否会受到影响 。库克说，“在消费者急需设备时内存供应在减少，而内存厂商却选择大幅涨价。我们迫切需要内存价格和供应恢复到消费产品的合理水平。这是最为重要的。”内存价格自 2025 年 10 月以来翻了一番多。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84615" target="_blank"&gt;中国汽车占欧洲新车销售的比例将超过 10%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                智库 Rhodium Group 的统计显示，截至 2025 年 12 月，中国生产的汽车占欧盟新车销售的 9.3%，比 2023 年 1 月上升 7.1 个百分点。预计 2026 年将超过 10%。从中国以外的第三国出口到欧洲等的中国品牌车的比例也在 2025 年 12 月达到 6.2%，增加 5.5 个百分点。欧盟从 2024 年秋季开始对中国产纯电动汽车加征关税。不过，中国企业增加了不属于加征对象的插电式混合动力车（PHV）的出口，势头并未减弱。 中国整车企业也陆续开设欧洲基地，进行采购和生产。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84616" target="_blank"&gt;法国物理学家和科普名人因论文抄袭被剥夺博士学位&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                法国物理学家和科普名人 Étienne Klein 因论文抄袭被剥夺博士学位。他是 Alternative Energies and Atomic Energy Commission (CEA)的物理学家，出版了 30 多本书，主持一档每周播出的科普节目。自 2016 年以来他就面临着科普文章抄袭的指控。2024 年 8 月他的博士论文也受到质疑。他是在 1999 年获得博士学位，他的大学目前被合并为巴黎城市大學。分析显示，这篇博士论文五分之一的版面涉嫌抄袭，抄袭的内容包括作家加缪（Albert Camus）、物理学家德布罗意（Louis de Broglie），甚至还有论文委员会成员的论文。巴黎城市大學随后展开了调查，发现论文近三分之二的内容存在抄袭，因此撤销了他的博士学位。Klein 回应了指控，辩解称他阅读了大量书籍，可能不知觉的将其吸收的内容写入到论文中。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84617" target="_blank"&gt;调查显示中国三分之一青少年睡眠质量差&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                山西大学研究人员在 PLOS One 上发表了一篇论文，指出青少年的心理健康、体重指数以及屏幕时间与睡眠质量有显著联系，且女孩和生活在农村地区的青少年睡眠质量往往较差。研究人员调查了中国六个城市的 5,713 名 13-18 岁青少年，这六个城市分别是：上海、苏州、太原、婺源、兴义和乌鲁木齐。他们使用匹兹堡睡眠质量指数（PSQI）收集了睡眠质量数据，同时还收集了 BMI、体质健康、静坐时间、屏幕使用时间及心理健康等数据。此外还获得了每位参与者的居住地（城市或农村）和性别信息。总体上有 33.71% 的受访者睡眠质量不佳。他们发现不同居住地点和性别之间存在显著差异。农村青少年睡眠质量不佳的比率高于城市青少年（分别为 35.78% 和 31.90%），在入睡时间、睡眠时长和睡眠干扰几个方面的表现均较差。女孩在几乎所有睡眠衡量指标方面上的表现均不及男孩，女孩睡眠质量较差者的比率为 38.40%，而男孩为 29.20%。较高的体重指数对女孩的睡眠有更显著的不利影响。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84618" target="_blank"&gt;科学家将鼠疫追溯到 5500 年前&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                科学家发现了已知最古老的鼠疫证据，将其出现的时间追溯到约 5500 年前——比之前认为的早了约 200 年。研究人员在西伯利亚贝加尔湖附近的四个墓地寻找鼠疫杆菌的痕迹。他们在 18 位古代狩猎采集者的牙齿中发现了鼠疫 DNA 残留。对骨骼碳年代测定显示，发现这场瘟疫引发了两波疫情，第一波出现在 5500 年前。病菌可能是通过土拨鼠传播的，当地人可能是通过食用生内脏或屠宰过程中接触携带病菌的兽皮而感染鼠疫。死者中有很多是 8-11 岁幼童。早期的鼠疫和中世纪的黑死病同样致命，不仅摧毁人口稠密的城市，也摧毁小型游牧狩猎采集群体。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84619" target="_blank"&gt;诺和诺德 1.3 TB 内部数据被盗，被勒索 2500 万美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                勒索组织 FulcrumSec 宣称入侵了制药巨头诺和诺德（Novo Nordisk）的网络，窃取了约 1.3 TB 的数据，包括源代码、药物研究、临床试验记录、员工和医生信息、生产系统信息以及内部 AI 模型数据。它向诺和诺德勒索 2500 万美元赎金，但未获成功，因此考虑出售部分数据。FulcrumSec 称诺和诺德的代表于 6 月 3 日联系了他们。FulcrumSec 表示考虑通过开源来遏制企业不想支付赎金的情况。诺和诺德发言人表示它正与相关机构保持联系。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84620" target="_blank"&gt;摩根大通高盛禁止香港员工使用 Anthropic 模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国投行摩根大通已禁止香港员工访问 Anthropic 的模型，显示这一技术在美国境外的应用正面临极其严格的审查。由于 Anthropic 与摩根大通的许可协议中有关“使用条款”的特定措辞，摩根大通已将 Claude 模型从其驻港员工获批使用的大型语言模型（LLM）内部名单中移除。在此之前，高盛也做出了类似决定，于 4 月将 Claude 从其香港员工的获准使用工具名单中剔除。今年 4 月 Anthropic 首次向少数企业和机构开放 Mythos 模型测试，并警告该模型具备发现网络安全漏洞的能力，不宜广泛推广。6 月初 Anthropic 发布了 Mythos 级模型的首个公开版本 Fable 5，但为管控其突破网络漏洞的能力，同步设置了许多限制措施。然而华盛顿仍以国家安全为由下达紧急出口管制令，迫使 Anthropic 在全球范围内关停 Mythos 5 和 Fable 5 模型。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84621" target="_blank"&gt;三个安全启动证书即将过期&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用。安全启动使用加密签名确保启动过程中加载的每个固件都受到计算机制造商的信任，它旨在建立信任链，防止攻击者用恶意固件替换预期的启动固件。但在 2023 年研究人员发现了存在于几乎所有 Windows 和 Linux 系统 UEFI 启动过程中的严重漏洞 LogoFail。该漏洞存在于启动时显示硬件制造商徽标的软件中，攻击者能利用其图像解析 bug 绕过安全启动，用恶意固件感染 UEFI。微软因此移除了三个在 2011 年颁发的旧证书，用 2023 年颁发的新证书取代。Windows 用户可通过 Windows 安全设置 &amp;gt; 设备安全性 &amp;gt; 安全启动 去检查证书是否已经更新。Linux 用户可关注名叫 shim 的程序更新。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-18</guid><pubDate>Thu, 18 Jun 2026 12:27:47 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-19</guid><pubDate>Fri, 19 Jun 2026 12:47:03 +0000</pubDate></item></channel></rss>
