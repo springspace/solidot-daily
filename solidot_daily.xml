@@ -1,14 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 19 Jun 2026 12:47:03 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 20 Jun 2026 11:20:01 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月20日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84622" target="_blank"&gt;地球的海洋来自何处？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                地球之水来自何处？科学家其实并不真正了解。水的来源有多种假说，其中最主流的是彗星说——撞击地球的彗星将水带到了地球；此外还有小行星说——撞击地球的小行星将水带到了地球，以及水由地球自身创造说。1986 年 Giotto 探测器对哈雷彗星的观测数据基本上否定了彗星假说，因为地球水的化学特性与彗星水完全不同。后续对  Hale-Bopp 彗星以及 Rosetta 探测器对 Churyumov-Gerasimenko 彗星的观测也都证实彗星之水与地球之水截然不同。那么地球之水是否可能来自小行星？科学家发现小行星上的惰性元素比例与地球也存在差异。那么地球上的海洋是否主要是由它自身形成的？早期地球的岩浆海洋富含氧气，而大气富含氢气，但氢气和氧气并不会自然结合。过去几年科学家做了一系列实验探索早期地球环境氢气和氧气是否能发生反应形成水。实验证实，地球上至少有一部分水能靠自身形成，但是否能形成今天覆盖整个地球的海洋，还无法下定论。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84624" target="_blank"&gt;Modos 推出 13.3 英寸开源彩色电子纸显示屏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在成功推出开源电子纸显示屏 DIY 工具包 Paper Monitor 和 Dev Kit 后，创业公司 Modos 准备推出一款完整的量产版显示屏。它在 Crowd Supply 上发起了众筹活动，筹款目标是 17.5 万美元，该目标已经达成，目前的金额达到了 45.6 万美元。Crowd Supply 计划推出的是 13.3 英寸、分辨率 3,200 x 2,400，支持触控，刷新率达到 60-Hz 的电子纸显示屏，其中黑白版本的众筹价格是 619 美元，彩色版本价格 719 美元。公司的两位联合创始人 Alexander Soto 和 Wenting Zhang 接受了 IEEE Spectrum 的采访。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84623" target="_blank"&gt;战争改变野生动物活动模式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《科学》期刊上的一项研究，乌克兰研究人员利用相机陷阱调查了武装冲突对野生动物的影响，将 2022 年观察到的情况与 2021 年同期进行了对比。他们发现哺乳动物会通过行为调整应对武装冲突，其中包括减少夜间活动。武装冲突对卷入其中的人类是可怕的；野生动物也同样会被殃及。然而由于研究人员难以进入武装冲突地区且会面临危险，因此要理解此类冲突的影响会充满挑战。研究人员利用已运作中的相机陷阱来了解战争对野生动物的影响。他们发现冲突对该地区的哺乳动物产生了明显影响，其中包括这些动物的活动减少，尤其是在激烈冲突期间。此类影响证实，政治动荡所伤害的不仅是直接卷入其中的人类。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84625" target="_blank"&gt;PCB 价格因中东冲突一月内上涨四成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，4 月 6 日和 7 日还遭到导弹袭击。陶氏化学 CEO Jim Fitterling 此前表示公司预计物流和供应链恢复正常至少需要 275 天。高盛报告称 3 月到 4 月间 PCB 价格上涨了 40%。全球最大 PCB 制造商之一的胜宏科技警告中东冲突可能会推高铜和树脂的价格。替代树脂需要重新设计电路板、重新进行可靠性和性能测试，以及重新获得认证。环氧树脂原料的交货期已经从三周延长到了十五周。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-19</guid><pubDate>Fri, 19 Jun 2026 12:47:03 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84626" target="_blank"&gt;水稻为什么会“午睡”&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在正午高光、高温双重胁迫下，农作物光合作用会被大幅抑制，光能利用效率大幅下降，造成作物平均减产 30% 左右。这种作物“午睡”现象长期制约着光能利用效率与产量提升，自 1910 年被发现至今，困扰科学界长达百年。根据发表在《细胞》期刊上的一项研究，中科院等研究团队通过 10 年跨学科联合攻关，发现植物体内一种名为 MBS1 的超小蛋白可响应强光，形成凝聚体小液滴，通过类似“防护服”的保护作用过滤强光实现“防晒”。研究团队随后在海南、北京、吉林、黑龙江等地开展大田试验。测产结果显示，与底盘对照品种稻花香相比，增强表达 MBS1 的材料在光热胁迫较轻的吉林等地，增产约 10%~15%；在北京等中等光热地区，增产达 20%~30%；而在强光高热的海南，增产幅度高达 40%。这为应对全球气候变暖、实现粮食增产提供了新的基础理论与技术路径。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84627" target="_blank"&gt;特朗普政府停止拆除洋流观测系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在美国国会参议院周三通过一项法案阻止政府拆除 3.68 亿美元的海洋观测计划（Ocean Observatories Initiative）之后，特朗普政府表示将撤销拆除决定。海洋观测计划由逾 900 台深海仪器构成，用于监测洋流、海洋生态系统、碳吸收、热浪、渔业、沿海洪水和气候变化。每个观测站由多个锚定装置组成。这些设备测量从水面到数千英尺深处的洋流以及化学生物状况。仪器经过加固能承受深海的压力、腐蚀性海水以及可能损坏电子设备的海洋动植物。锚定装置周围的遥控机器人和滑翔机负责收集数据并将其传输到研究实验室。它于 2016 年投入运作，原计划运行 25 年，每年的运行成本为 4800 万美元。管理该项目的国家科学基金会已经宣布即日起停止移除设备，将继续运行和维护现有设备。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84628" target="_blank"&gt;加州亿万富翁税提案获得足够签名有资格在 11 月公投&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                加州亿万富翁税提案获得足够签名达到在 11 月公投的资格。亿万富翁税（California Billionaire Tax Act）将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。该税遭到了加州亿万富翁们的强烈反对，Google 联合创始人 Sergey Brin 一人至少投入了 8200 万美元反对该税，并搬到了靠近加州的内华达州居住。Palantir 联合创始人 Peter Thiel、Google 前 CEO Eric Sc​​hmidt、加密货币亿万富翁 Chris Larsen 以及DoorDash CEO Tony Xu 等也捐出了数百万美元反对该税。英伟达 CEO 黄仁勋则对该税没有异议，称会继续居住在加州。尽管提案已获得足够的签名，但相关组织必须在 6 月 25 日之前决定是否继续推进，或者与州政府达成协议。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-20</guid><pubDate>Sat, 20 Jun 2026 11:20:01 +0000</pubDate></item></channel></rss>
