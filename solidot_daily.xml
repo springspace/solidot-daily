@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 20 Jun 2026 11:20:01 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月20日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 21 Jun 2026 11:46:33 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月21日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84624" target="_blank"&gt;Modos 推出 13.3 英寸开源彩色电子纸显示屏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在成功推出开源电子纸显示屏 DIY 工具包 Paper Monitor 和 Dev Kit 后，创业公司 Modos 准备推出一款完整的量产版显示屏。它在 Crowd Supply 上发起了众筹活动，筹款目标是 17.5 万美元，该目标已经达成，目前的金额达到了 45.6 万美元。Crowd Supply 计划推出的是 13.3 英寸、分辨率 3,200 x 2,400，支持触控，刷新率达到 60-Hz 的电子纸显示屏，其中黑白版本的众筹价格是 619 美元，彩色版本价格 719 美元。公司的两位联合创始人 Alexander Soto 和 Wenting Zhang 接受了 IEEE Spectrum 的采访。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84629" target="_blank"&gt;挪威限制小学生使用 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                挪威首相 Jonas Gahr Stoere 周五表示，挪威将限制小学生使用生成式 AI 工具。他表示，使用 AI 会增加儿童跳过重要教育阶段的风险。儿童在学校里最重要的是学会阅读、写作和数学。挪威政府表示，6-13 岁或一至七年级学生不应使用 AI；14-16 岁初中生可在教师指导下谨慎使用 AI 工具，17-19 岁高中学生应学习如何正确使用 AI 以便为未来的学习和工作做好准备。挪威政府还表示将立法为课堂使用更多书籍提供资金以扭转平板电脑普及的趋势。新标准将从 8 月下旬的新学年开始实施。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84625" target="_blank"&gt;PCB 价格因中东冲突一月内上涨四成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，4 月 6 日和 7 日还遭到导弹袭击。陶氏化学 CEO Jim Fitterling 此前表示公司预计物流和供应链恢复正常至少需要 275 天。高盛报告称 3 月到 4 月间 PCB 价格上涨了 40%。全球最大 PCB 制造商之一的胜宏科技警告中东冲突可能会推高铜和树脂的价格。替代树脂需要重新设计电路板、重新进行可靠性和性能测试，以及重新获得认证。环氧树脂原料的交货期已经从三周延长到了十五周。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84630" target="_blank"&gt;AI 使用是否会导致技能退化？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                随着越来越多的专业人士开始在工作中依赖 AI 工具，他们来之不易的技能会不会逐渐退化？此种担忧不无道理。有证据表明，AI 驱动的技能退化现象正在医学、计算机科学等领域发生。研究人员正探讨如何在 AI 时代保留重要的人类专业知识。一项针对波兰内窥镜医生的研究表明，AI 工具会迅速削弱人类的能力。这些医生在其职业生涯至少进行 2000 例结肠镜检查。研究人员让他们使用一套 AI 系统，能实时分析结肠镜图像，标记名为腺瘤的肠道癌前期病变。一旦医生开始使用该系统，每当系统不可用时，他们的诊断能力会显著下降。在引入 AI 工具前三个月里医生在 28.4% 的结肠镜检查中发现了至少一个腺瘤。而在引入 AI 工具后三个月里，在没有 AI 辅助的情况下腺瘤检出率下降至 22.4%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84626" target="_blank"&gt;水稻为什么会“午睡”&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在正午高光、高温双重胁迫下，农作物光合作用会被大幅抑制，光能利用效率大幅下降，造成作物平均减产 30% 左右。这种作物“午睡”现象长期制约着光能利用效率与产量提升，自 1910 年被发现至今，困扰科学界长达百年。根据发表在《细胞》期刊上的一项研究，中科院等研究团队通过 10 年跨学科联合攻关，发现植物体内一种名为 MBS1 的超小蛋白可响应强光，形成凝聚体小液滴，通过类似“防护服”的保护作用过滤强光实现“防晒”。研究团队随后在海南、北京、吉林、黑龙江等地开展大田试验。测产结果显示，与底盘对照品种稻花香相比，增强表达 MBS1 的材料在光热胁迫较轻的吉林等地，增产约 10%~15%；在北京等中等光热地区，增产达 20%~30%；而在强光高热的海南，增产幅度高达 40%。这为应对全球气候变暖、实现粮食增产提供了新的基础理论与技术路径。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84631" target="_blank"&gt;软银将其持有的波士顿动力剩余股份全部出售给现代汽车&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2020 年 12 月现代汽车以 8.8 亿美元从软银手中收购波士顿动力 80% 的控股权，该交易对波士顿动力的估值为 11 亿美元。收购协议包含了一项卖出期权，允许软银在未来某个时候将剩余股份出售给现代汽车。现在软银行使了卖出期权，以 3.25 亿美元将其持有的剩余股份出售给现代汽车。波士顿动力已有逾三十年历史，但其机器人的商业化一直进展缓慢。四足机器人 Spot 是首个取得商业成功的产品，而其人形机器人 Atlas 要证明其商业价值仍然面临重重困难。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84627" target="_blank"&gt;特朗普政府停止拆除洋流观测系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在美国国会参议院周三通过一项法案阻止政府拆除 3.68 亿美元的海洋观测计划（Ocean Observatories Initiative）之后，特朗普政府表示将撤销拆除决定。海洋观测计划由逾 900 台深海仪器构成，用于监测洋流、海洋生态系统、碳吸收、热浪、渔业、沿海洪水和气候变化。每个观测站由多个锚定装置组成。这些设备测量从水面到数千英尺深处的洋流以及化学生物状况。仪器经过加固能承受深海的压力、腐蚀性海水以及可能损坏电子设备的海洋动植物。锚定装置周围的遥控机器人和滑翔机负责收集数据并将其传输到研究实验室。它于 2016 年投入运作，原计划运行 25 年，每年的运行成本为 4800 万美元。管理该项目的国家科学基金会已经宣布即日起停止移除设备，将继续运行和维护现有设备。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84633" target="_blank"&gt;德国 2025 年人口出现下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                德国联邦统计局的数据显示，尽管有大量移民补充，2025 年德国人口同比仍减少了约 11 万人，这是自 2020 年以来首次出现年度人口下降。德国去年的净移民数量为 23.5 万，但这不足以抵消死亡人数超过出生人数的缺口，2025 年德国死亡人数比出生人数多出 35.2 万人。截至 2025 年底，德国人口为 8350 万，即去年人口降幅约为 0.13%。德国上一次出现年度人口萎缩是在 2020 年，当时新冠疫情期间实施的严格旅行限制导致移民数量急剧下降。去年德国出生率也创下历史新低。与此同时人口老龄化趋势正在加速。60-79 岁年龄段的人口持续增加，去年新增 35.8 万人，而所谓“婴儿潮一代”进入退休年龄。作为纳税主力的 20-59 岁年龄段人口，其降幅远超平均水平，去年这个年龄段的人口收缩了1.0%，即减少了 40.9 万人。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84628" target="_blank"&gt;加州亿万富翁税提案获得足够签名有资格在 11 月公投&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                加州亿万富翁税提案获得足够签名达到在 11 月公投的资格。亿万富翁税（California Billionaire Tax Act）将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。该税遭到了加州亿万富翁们的强烈反对，Google 联合创始人 Sergey Brin 一人至少投入了 8200 万美元反对该税，并搬到了靠近加州的内华达州居住。Palantir 联合创始人 Peter Thiel、Google 前 CEO Eric Sc​​hmidt、加密货币亿万富翁 Chris Larsen 以及DoorDash CEO Tony Xu 等也捐出了数百万美元反对该税。英伟达 CEO 黄仁勋则对该税没有异议，称会继续居住在加州。尽管提案已获得足够的签名，但相关组织必须在 6 月 25 日之前决定是否继续推进，或者与州政府达成协议。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84634" target="_blank"&gt;疑似黑客劫持短信预警系统在巴西各地发送警报短信&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                巴西政府称周六上午巴西多州的手机收到了一条未经授权的“极端”类别警报短信，其中包含文字 misantropi4。该单词将葡萄牙语 misantropia 的最后一个字母 a 替换为 4，这是黑客常用的做法。misantropia 的意思是厌恶人类。巴西的紧急短信系统类似美国的 AMBER Alert，允许政府官员直接向特定地理区域内的移动设备发送紧急短信。巴西政府表示其 National Civil Defense 警报平台已经下线，它认为这是一次黑客攻击，正对此展开调查。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-20</guid><pubDate>Sat, 20 Jun 2026 11:20:01 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-21</guid><pubDate>Sun, 21 Jun 2026 11:46:33 +0000</pubDate></item></channel></rss>
