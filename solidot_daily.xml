@@ -1,86 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 24 Jun 2026 11:45:20 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月24日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 25 Jun 2026 11:40:38 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84654" target="_blank"&gt;当代年轻人生物衰老速度更快&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                华盛顿大学医学院 Yin Cao 博士领导的团队分析了英国生物银行 (UK Biobank) 的超过 15.4 万名参与者的数据，以及美国 NIH All of Us Research Program 项目逾万名参与者的数据，评估了他们的系统性衰老和器官衰老。研究人员发现，1965-1974 年出生的英国人相比 1950-1954 年出生的英国人，在排除实际年龄的影响后，前者的生物衰老速度更快，这一差异具有统计上的显著性，达到了 0.23 个标准差。美国的数据也出现类似的模式：相比 1965-1969 年出生的美国人，1990-1999 年出生人群的生物衰老速度更快，统计显著性达到了 0.92 个标准差。年轻人群的生物衰老速度加速与早发性癌症风险增加相关。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84668" target="_blank"&gt;中国一季度 PC 出货量下滑 2%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据市场分析公司 Omdia 的数据，中国一季度 PC 出货量下滑 2%，平板电脑下滑 5%。PC 出货量降至 890 万台，平板电脑出货量降至 830 万台。笔记本电脑（含移动工作站）出货量同比下降 19%，而台式机（含台式工作站）出货量同比增长 41%，分别达到 530 万台和 360 万台。Omdia 称市场疲软的原因是组件成本上涨导致设备价格上涨，以及消费者补贴力度减弱。Omdia 预测 2026 年全年 PC 出货量将下降 14% 至 3600 万台，平板电脑出货量预计将下降 11% 至 3200 万台。最主要 PC 制造商包括联想、华为、苹果、软通动力和惠普。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84655" target="_blank"&gt;维基百科联合创始人 Larry Sanger 被封禁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                拥抱保守派、支持 MAGA 的维基百科联合创始人 Larry Sanger 再次现身维基百科，理由是帮助维基百科进行改革——aka 将其从自由派手中夺回来。他发起了“WikiProject Intellectual Diversity”提案，想要增加更多保守派的声音。他通过其社交媒体账号宣传该提案，违反了维基百科关于“隐蔽拉票（Stealth canvassing）”的政策，他在维基社区引发了争议，最终被封禁。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84669" target="_blank"&gt;科学家将早期人类用火时间上溯至 180 万年前&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家在南非 Wonderwerk 洞穴发现了新证据，表明人类祖先在 107-179 万年前就开始使用火，这是已知最早的人类用火记录。研究人员在洞穴深处约 30 米处发现了反复用火的痕迹，这些地点远离自然野火可能影响的范围，因此表明早期人类有意将自然产生的火带入洞穴并持续燃烧。早期人类不能随意生火，他们很可能是从闪电引发的火或草原野火收集火源。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84656" target="_blank"&gt;甲骨文过去一年裁员 2.1 万&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据甲骨文的最新年报，该公司过去一年在全球裁员约 2.1 万人，原因是它正围绕 AI 重塑业务。截至 2026 年 5 月 31 日，甲骨文全职员工总数约 14.1 万人，而去年同期为 16.2 万人。甲骨文在其报告中称，AI 技术在运营中的部署已经导致且可能继续导致员工总数减少。裁员人数约占甲骨文员工总数的 13%。就业追踪公司估计，过去一年中有逾 10 万科技从业者被裁员。甲骨文称，过去一年它支付了 18 亿美元的遣散费和其它重组费用。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84670" target="_blank"&gt;Anthropic 指控阿里巴巴蒸馏其模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Anthropic 指控阿里巴巴的 Qwen AI 实验室非法蒸馏其 AI 模型。Anthropic 在给美国议员的信中称，阿里巴巴的上述行动发生在今年 4 月 22 日至 6 月 5 日期间，通过近 2.5 万个欺诈账户与 Claude 进行了超过 2880 万次交互。这封日期为 6 月 10 日的信在一场有关 AI 的听证会前发送给美国参议院银行委员会主席蒂姆·斯科特和资深成员伊丽莎白·沃伦。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84657" target="_blank"&gt;中国新超算灵晟登顶 Top500 榜单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Top500 公布了最新的超算榜单，深圳国家超算中心的灵晟首次亮相即登顶榜单。灵晟理论峰值 2.736 Exaflop/s，在 HPL 测试中达到了 2.198 Exaflop/s，是 Top500 榜单中首个仅靠 CPU 实现持续双精度浮点性能逾 2 Exaflops 的超算系统。灵晟使用了 304 个核心的 LX2 CPU，总共 1379 万个核心，运行频率 1.55 GHz，操作系统是麒麟，功耗为 42.2 兆瓦。榜单前五的超算性能都超过了 Exaflops：灵晟；美国劳伦斯利弗莫尔国家实验室的 El Capitan，使用 AMD 第四代 EPYC 处理器，性能 1.809 Exaflop/s；橡树岭国家实验室（ORNL）的 Frontier，使用 AMD 第三代 EPYC，性能 1.353 Exaflop/s；阿贡国家实验室 Aurora 使用英特尔 Xeon CPU，性能 1.012 Exaflop/s，德国 Jülich 超算中心的 JUPITER Booster，使用英伟达 GH Superchip 72C 3GHz，性能 1 Exaflop/s。之后还有意大利 HPC7，微软 Microsoft Azure 超算 Eagle，意大利 HPC6，日本超算富岳(Fugaku)，瑞士 Alps。排名前十的超算有四台使用了 AMD EPYC 处理器，两台英伟达处理器，两台英特尔处理器，灵晟的 CPU 架构没有说明。在 Top 500 中，美国有 162 台，日本 44 台，德国 41 台，中国 30 台；联想制造的超算最多有 129 台，其次是 HPE 的 124 台，BULL 的 58 台，戴尔的 49 台，英伟达的 37 台。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84671" target="_blank"&gt;LG 和三星智能电视应用三分之一嵌入了住宅代理 SDK&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                对 LG 和三星智能电视应用的扫描发现，6038 款电视应用中有 2058 款嵌入了住宅代理 SDK，也就是会出售用户的家用 IP 作为代理服务使用。智能电视是理想的代理主机，它基本上一直处于插入电源状态，同时接入了家用 WIFI，但不像 PC 没人会去检查其可疑后台活动。电视应用上的广告可能会让用户不满，但默默运行的住宅代理则能在最小化用户不满的同时给运营商带来收入。但住宅代理会有滥用的风险，Kimwolf 僵尸网络就滥用了住宅代理进行传播和扩散。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84658" target="_blank"&gt;高温干旱高 CO2 下大豆蛋白质含量会下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                大豆是重要的蛋白质来源，但气候变化正日益影响其产量和营养品质。根据发表在《Food Research International》上的一项研究，高浓度二氧化碳会使大豆种子产量增加最高 142%，而高温和干旱则分别会使产量降低 91% 和 60%。在高浓度二氧化碳+高温+干旱三重效应下，大豆种子产量可能会增加 50%，可溶性糖含量增加 35%，氨基酸含量增加 175%，同时淀粉含量降低 20%，蛋白质含量降低 6%。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84672" target="_blank"&gt;给拼写错误的单词引入波浪线的人&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                我们习以为常的图形 UI 中的每一个小细节，无论多么微小，都是由某个人在某个时间点想出来的。举例来说：拼写错误的单词下方的小红色波浪线。这种设计已成为每个文本编辑字段司空见惯的元素，以至于无人特意去思考它。然而它确实是由某个人发明的，微软资深程序员 Raymond Chen 说，这个人是 Tony Krueger。早期的 Word 版本中，拼写检查功能需要用户手动调用，然后等待程序查找所有可能拼写错误的单词，逐一向用户展示，由用户决定如何处理每一个错误。Word 引入了自动拼写检查功能，在用户空闲时运行拼写检查，当用户点击拼写检查按钮时，结果已准备就绪。然而自动拼写检查仍然是一个阻塞操作。很多用户选择关闭它，因为它总是会在你想做其它事情如保存并退出时突然决定“现在是检查文档拼写的好时机”，迫使你等待拼写检查完成。Tony 让拼写检查器变得更不显眼，不会干扰用户的当前工作。当它发现问题时，不会触发拼写检查，而是立即在可能拼写错误的单词下画上红色波浪线，后来在可能语法错误的单词下画上绿色波浪线。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84659" target="_blank"&gt;Valve 称它无法与内存厂商沟通报价&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Valve 宣布了起售价逾一千美元的 Steam Machine，它表示这一定价反映了过去 6 个月确保能获得的内存和存储组件的价格。DDR5 和 SSD 过去半年的价格上涨了数倍之多。Valve 在接受采访时表示，他们在采购内存时根本无法选择，只能接受厂商的报价，想要协商根本不可能，协商价格的结果会是完全断货。一位 Valve 员工说，内存厂商“每个月都给我们报个价，说‘你们可以买这么多’，只有答应或拒绝两种选择。如果我们拒绝，他们就再也不理我们了。”Steam Machine 的内存配置有两种：其一是两条 8GB DDR5 内存条，其二是单条 16GB DDR5 内存条，Valve 称它的测试显示两种配置性能相差无几。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84674" target="_blank"&gt;白宫应用自动下载到政府配发手机上且无法卸载&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国白宫今年五月宣布其白宫应用将自动下载到政府配发手机上。该应用无法卸载，即使政府雇员尝试卸载，应用也会很快重新安装。美国农业部、国务院和劳工部员工匿名接受采访时表示，这款应用出现在手机上时让他们感到不安，有人试图删除它，但失败了。“我把它删了，测试下，结果它立刻又出现了，”一位美国农业部雇员说。白宫应用内有一个按钮，允许用户“给特朗普总统发短消息”，点击后会自动弹出一个写着“史上最伟大总统”的文本框。应用的社交部分可看到来自白宫 X 账号推文、特朗普 Truth Social 账号发布的帖子，以及官方账号在 TikTok 和 Instagram 等平台上分享的视频。新闻部分包含了白宫新闻稿、简报和情况说明书，以及来自 Fox, Breitbart, Reuters, The New York Post 等媒体的精选文章，这些内容要么对本届政府政策大加赞扬，要么攻击民主党。一位政府雇员说这是赤裸裸的宣传。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84660" target="_blank"&gt;计划在伦敦举行的极端高温会议因极端高温预警取消&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                原计划本周在伦敦举行的极端高温会议《Extreme Heat: Improving governance and strengthening action around the world》因英国气象局宣布的极端高温红色预警而取消。根据气象局发布的罕见高温红色预警，伦敦、英格兰中部部分地区、威尔士东南部和英格兰南部受到影响，时间从周三 09:00 BST 持续到周四 21:00 BST ，气象局警告高温可能会有重病或死亡风险。预计英格兰南部气温将升至 37-38 摄氏度左右，周三最高气温甚至可能达到 39 摄氏度。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84675" target="_blank"&gt;微软称 8GB 内存对 Windows 11 足够用了&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软更新了 Surface 购买指南，声称 8GB 内存对 Windows 11 足够日常使用了，如浏览、视频串流、作业和生产力应用。它同时表示 16GB 或以上的内存才能解锁 Copilot+ PC 功能。由于内存短缺且价格翻了数倍，PC 厂商不得不开始提供 8GB 内存的设备，但 8GB 内存对 Windows 11 而言非常勉强，而过去两年微软的宣传是 16GB 内存是获得良好 Windows 11 体验的必要条件。作为主要 AI 基础设施提供商，微软当然也是造成今天这一局面的罪魁祸首之一了。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84661" target="_blank"&gt;德国铁路因 IT 故障而停运&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                德国铁路网络周二晚上因 IT 故障而全国停运。凌晨一点国家铁路运营商 Deutsche Bahn 宣布问题已经解决，服务正在逐步恢复。铁路公司称问题是铁路网络内部通信使用的 GSM-R 数字通信系统出现全国故障导致的，它表示已查明原因但未具体说明。铁路公司在故障期间向乘客发放了出租车和酒店代金券，并在条件允许下，在车站提供可供旅客乘坐的列车。该公司就此次事故表示歉意。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84676" target="_blank"&gt;英国维基百科员工寻求成立工会&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                英国维基百科员工率先寻求成立工会。维基媒体基金会英国员工于 6 月 24 日星期三致函管理层，请求由 Communication Workers Union(CWU)下辖分支 United Tech and Allied Workers (UTAW) 代表他们的权利。员工呼吁维基基金会作为这家全球非营利机构的实际管理者，履行其领导层最近作出的公开承诺，即保障员工组织和组建工会的权利。逾千名维基志愿者和社区成员签署了请愿书声援这些员工。英国是仅次于美国的维基媒体基金会第二大员工来源国。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84662" target="_blank"&gt;GCC 编译器加入对海光苏州 x86 CPU 的支持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                GCC 编译器合并了支持海光代号苏州的 Model 8 c86-4g-m8 处理器的补丁。海光最早是与 AMD 合作的半导体企业，授权提供 AMD Zen 1 CPU的本地化版本，其产品仅供国内市场使用。几个月前 GCC 编译器合并了支持海光 C86-4G CPU 的补丁。Model 8 苏州 CPU 是上一代 Model 7 成都 CPU 的继任者，目前关于该处理器的信息很少，其指令集架构与上一代相差无几，支持包括 AVX-512 在内的指令集。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84677" target="_blank"&gt;OpenAI 宣布了专用于推理的自研 AI 芯片 Jalapeño&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                OpenAI 宣布了首款自研芯片 Jalapeño，由 OpenAI 与博通公司合作设计和制造，专门用于 AI 推理。OpenAI 没有披露技术方面的细节，只是称初步测试显示每瓦性能显著优于目前最先进的同类产品。OpenAI 与博通是在去年 10 月正式宣布合作，OpenAI 声称利用其模型加速了芯片的设计。自研 AI 芯片旨在减少对英伟达的依赖，Google 和亚马逊也都开发了自研芯片。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84663" target="_blank"&gt;心率同步程度可判断社交投入程度&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在 PNAS Nexus 期刊上的一项研究，心率同步程度可判断社交投入程度。当人与人在身体与情感层面彼此亲近时，双方心率会逐渐同步。研究团队依托 72 名学生参与音频工程竞赛、赴纽约市期间采集的数据集开展研究。学生借助可收录环境噪音的助听器、监测心率的手环以及记录定位信息的手机采集各类数据。研究规定，人与人相距 20 米以内即为物理近距离接触。受试者共处时心率同步性更强，近距离互动、共同关注同一外界刺激（例如一同听课）时同步效应尤为明显。出行前便彼此熟悉的受试者，心率同步水平显著更高。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84678" target="_blank"&gt;中国科学家研发出降低镉吸收能力的水稻&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                镉不是植物生长的必要元素，但其通过土壤—水稻—食物链进入人体长期摄入后，会引发肾功能损伤、癌症、骨质疏松等严重健康问题。OsNramp5 是水稻中负责从根部往茎部运输镉的关键转运蛋白，但也同时负责锰离子等植物生长必需的金属离子的运输，敲除 OsNramp5 可以有效降低镉的运输，但也会造成其他必要金属元素的缺乏，使水稻大幅减产。根据发表在 PNAS 期刊上的研究，中国科学院遗传与发育生物学研究所等通过碱基替换技术，靶向编辑水稻负责吸收镉元素的核心转运基因 OsNramp5，创制了优异人工等位变异，发现了特异降低镉吸收而不影响锰等其他关键金属离子吸收的新机制，解决了低镉与高产难以兼顾的难题，为镉污染农田安全生产主粮提供了可落地的育种新方案。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84664" target="_blank"&gt;阿里巴巴起诉美国国防部&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                阿里巴巴及其美国子公司共同以美国国防部为被告，向加州联邦地区法院递交诉状，请求法院宣告美国国防部 6 月 8 日公布的对阿里巴巴的认定决定无效。阿里巴巴在美国设有分支机构，在美国开展电商与云计算业务。即便被列入该名单，企业理论上仍可同美国企业开展合作，但美国国防部有权对与名单内中企合作的美国企业采取解约等限制措施。阿里巴巴在诉状中主张，此次认定缺乏事实依据、相关流程不合规。该认定致使公司无法继续聘用游说机构等，自身合法权益遭受侵害，此举同时违反美国宪法。
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84679" target="_blank"&gt;卵巢绝经后可能转变为具有免疫功能的器官&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                生殖专家曾认为，女性绝经后，卵巢会像阑尾一样变得无用。在对 50-75 岁女性的卵巢进行检查时，研究人员发现该器官的细胞会随着年龄增长产生不同的蛋白质。为了更深入研究卵巢的年龄相关变化，研究人员转向了实验小鼠。尽管小鼠不会出现雌激素急剧下降等人类更年期特有特征，但这些动物在 2 年生命周期的后期，卵巢功能也会停止。研究人员分别从年轻小鼠、处于生殖期末期的小鼠以及“绝经”后小鼠体内摘取了卵巢。对每只动物，他们对其中一侧卵巢的 RNA 进行了测序，以测量基因表达情况。对另一侧卵巢，他们对组织进行了显微镜下视觉分析，以识别不同的细胞群，并测量纤维化的发展程度，纤维化是指随着年龄增长自然发生的硬化组织堆积现象。但对“绝经”后卵巢的分析显示，其中各类免疫细胞的水平均高于年轻小鼠的典型水平。此外，老年小鼠的卵巢中，编码各种促炎化合物的基因活性更高，这些免疫分子可能被分泌到血液中并随血液流向身体其他部位。尚不清楚衰老的卵巢究竟是真正发挥着免疫信号传导的作用，还是仅仅是免疫细胞的意外聚集地。这一发现或许有助于解释，为何女性尽管寿命更长，但随着年龄增长，健康状况往往不如男性。绝经后的卵巢可能会分泌某些分子，导致女性在更年期出现慢性炎症。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84665" target="_blank"&gt;伊朗断网期间仅约 2000 个 IP 能访问外网&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                伊朗今年早些时候全国范围断网，持续数月之久。在断网期间，伊朗实施了白名单制度，也就是只有处于白名单内的极少数 IP 地址才能访问外网。研究人员利用位于伊朗境内的一台 VPS 以及位于匈牙利、美国以及日本的 VPS，根据伊朗自治系统通过 BGP 宣布的 IP 段总数约 11,766,454 个 IP 地址，伪造这些 IP 地址进行穷举，观察哪些 IP 能访问外网。结果显示，能访问外网的 IP 大约有 2000 个。研究人员还发现，即使这些 IP 能访问外网，它们也不能随意访问任何网站，而是受到了基于 SNI 的过滤机制的约束。但白名单 IP 地址也不是所有都受到 SNI 过滤，测试的 IP 至少有半数不受任何 SNI 过滤。这意味着白名单 IP 也存在不同的访问策略。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=84666" target="_blank"&gt;欧洲是变暖速度最快的大陆&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                本周英国、法国、意大利和西班牙都发布了红色高温预警，欧洲正经历五月以来第二波热浪。全球气温比工业化前时期——1850-1900 年——的水平高出约 1.4C，而根据欧盟哥白尼气候变化服务中心的数据，欧洲气温比工业化前水平高出约 2.4C。全球平均气温的持续上升主要是由于燃烧石油、天然气和煤炭产生的温室气体排放，但由于多种因素的共同作用，不同地区的升温幅度不同。陆地升温速度快于海洋，因为水可以吸收更多热量并通过蒸发冷却。哥白尼气候变化服务中心称，大气环流的变化导致欧洲夏季热浪更频繁强度更大。另一个主要原因是地理位置，欧洲与北极相连，北极气温比工业化前水平高出 3.2C。北极地区气温上升的部分原因是反照率。明亮的冰雪会将大部分太阳热量反射回太空，但冰雪融化会露出颜色较深吸收热量的陆地。欧洲冬季降雪频繁的地区，积雪覆盖面积正在减少，露出了深色的陆地。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;14. &lt;a href="https://www.solidot.org/story?sid=84667" target="_blank"&gt;幼儿早期的屏幕使用时间与较差的学习成绩和较弱的工作记忆相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                随屏幕在幼儿生活中几乎无处不在，一项研究调查了其对学习表现的影响。研究跟踪了 1-8 岁的儿童，发现屏幕观看时间更长与 9 岁时较差的学习表现以及 10.5 岁时较弱的工作记忆存在关联。研究结果表明，屏幕接触的时机可能与屏幕使用的总时长同样重要。WHO 和美国儿科学会建议幼儿在 18–24 个月前不要接触屏幕，2-5 岁儿童每天使用屏幕时间不超过 1 小时。但很多幼儿都超过了这些限制。最新研究追踪了 502 名儿童从婴儿期到童年中期的发育过程，发现在特定发育阶段屏幕观看时间较长的儿童，后期学业表现较差，工作记忆较弱。这种关联在婴儿期和学龄初期最为显著，表明这些阶段可能是认知发展的特别敏感窗口期。在整个童年期屏幕接触总量较高的儿童，学业表现也通常较差。研究结果表明，屏幕使用的时机可能与总暴露量同样重要。研究结果支持“越少越好”的原则，即儿童的屏幕时间越少越好。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-24</guid><pubDate>Wed, 24 Jun 2026 11:45:20 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-25</guid><pubDate>Thu, 25 Jun 2026 11:40:38 +0000</pubDate></item></channel></rss>
