@@ -1,34 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 27 Jun 2026 10:57:48 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月27日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 28 Jun 2026 11:07:45 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月28日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84687" target="_blank"&gt;美光与其大客户签署了长达五年的供货协议&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美光 CEO Sanjay Mehrotra 在最新的财报电话会议上披露，该公司与 16 家大客户签署了“战略客户协议”，大部分协议涵盖的时间从 2026 年一直持续到 2030 年，客户承诺购买一定数量的产品，支付价格处于设有最低和最高价格的定价区间内。这意味着如果内存价格进一步上涨，客户基本不会受到的影响。美光 CEO 称，客户意识到，内存和存储设备的供应短缺需要相当长的时间才能缓解。美光预计供应将在 2028 年逐步改善，但目前无法预测内存供应何时才能赶上持续增长的需求。他说客户同意预付款项，该公司将利用这笔资金扩建晶圆厂。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84691" target="_blank"&gt;空客被要求对 A380 的机翼进行紧急检查&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                欧盟航空安全局（EASA）下令对阿联酋航空和澳洲航空运营的 16 架空客 A380 飞机进行紧急检查，此前部分  A380 飞机的机翼部件发现了裂纹。EASA 表示，裂纹是在此前对机翼翼梁结构的检查中发现的，它认定这些裂纹可能会降低机翼的结构完整性。为解决潜在安全隐患，空客必须进行额外的专项细查。16 架 A380 客机中有 15 架由阿联酋航空运营，1 架由澳洲航空运营。A380 是载客量最高的民航客机，共制造了 254 架，目前已经停产。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84688" target="_blank"&gt;每小时走五分钟有助于抵消久坐的危害&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                久坐是一种健康风险，但对久坐行为的干预需要考虑可行性和有效性。根据发表在《British Journal of Sports Medicine》期刊上的一项研究，研究人员评估了每隔 30 分钟、60 分钟或 120 分钟就站起来步行 5 分钟的干预措施。有 19342 名成年人参与了研究，其中 11484 人分成三组执行上述三种不同的干预方法。结果显示，所有干预组参与者报告疲劳和负面情绪显著降低，正面情绪显著提升。在考虑了可行性和有效性等因素之后，研究人员指出每小时站起来走 5 分钟在可行性和有效性之间取得了最佳平衡。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84692" target="_blank"&gt;BBC 关闭长波广播&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                BBC 宣布于 6 月 27 日停播 Radio 4 长波广播，6 月 30 日关闭长波平台。BBC 将此归咎于维护过时技术的成本过高。Radio 4 长波设备使用的电子管早就停产，而 BBC 早在 1997 年就将相关信号塔出售给了私营公司，这些设备由私营公司运营。随着越来越多的人转向流媒体，维持全国性的广播和电视覆盖在经济上意义不大。在关闭长波之后，英国接着准备淘汰地面电视，相比使用人数很少的长波，地面电视的关闭将会影响很多人。英国政府计划最早 2034 年最晚 2044 年关闭地面电视。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84689" target="_blank"&gt;大型猿类笑声节奏与人类相似，存在了 1500 万年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Communications Biology》期刊上的一项研究，大猿的笑声节奏可能与现代人类相似，而这一现象已持续了至少 1500 万年。研究结果还表明，在大猿的演化过程中，笑声变得更快、变化更多，且越来越受到所处情境的影响。所有大猿（人科动物）都会笑，包括与人类亲缘关系较近的物种，如倭黑猩猩，以及亲缘关系较远的物种，如婆罗洲猩猩。然而笑声的节奏随时间如何演变，及其可能与人类语言的演化有何关联，此前尚不清楚。
-
-在研究中，英国华威大学的研究人员分析了 4 只婆罗洲猩猩（Pongo pygmaeus）、两只大猩猩（Gorilla gorilla）、3只倭黑猩猩（Pan paniscus）、4只黑猩猩（Pan troglodytes）以及4个人的笑声录音，这些个体的年龄在6个月至7岁之间。
-
-科学家研究了140段笑声序列，并测量了每次发声之间的时间间隔。研究发现，所有物种的笑声都遵循一种规律的节律模式，连续发声之间的间隔均匀。由于这种模式在所有研究物种中均存在，研究人员推测，这种有节奏的笑声可能早在 1500 万年前就已存在于它们的共同祖先身上。
-
-他们还推断，随着时间的推移，笑声变得更快、更多样化，比如人类会根据情境改变笑声的速度，如被挠痒时发出的笑声比玩耍时更快，而其他猿类则不会。此外，与人类亲缘关系越近的猿类，其笑声节奏的变化性就越大。
-
-这些发现表明，在大猿和人类的演化过程中，发声的灵活性和控制力可能逐渐增强，作者推测这可能促成了语言的出现，未来需要通过更大样本量的研究证实这些发现。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84694" target="_blank"&gt;美国政府允许 Anthropic 将 Mythos 5 模型提供给少数客户使用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在要求 OpenAI 分阶段发布其新模型之后，美国政府显然也对 Anthropic 提出了相同的要求。根据商务部长  Howard Lutnick 给 Anthropic 的信函，美国政府允许 Anthropic 重新发布其新模型 Mythos 5，但现阶段只提供给少数客户。Mythos 5 的访问权限将提供给约 100 家机构，其中包括政府机构和私营公司。OpenAI 的新模型 GPT-5.6 也采用类似的发布模式。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84690" target="_blank"&gt;从赞美美德到歌颂堕落&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                英国伦敦大学玛丽皇后学院的研究人员分析了 1960-2023 年间发行的逾 38 万首歌曲的歌词后发现，流行音乐中使用的情感语言和道德语言发生了显著变化。表达关怀和体面等道德美德的词语随时间推移变得越来越少见，而与伤害、欺骗、颠覆和堕落相关的语言逐渐增多。研究人员指出，“音乐不仅仅是娱乐。它是社会讲述自身故事的方式之一。通过分析几十年来的歌词，我们可以开始看到情感表达和道德叙事随时间如何演变。”研究还发现，女性艺术家更多与关爱和忠诚等美德联系在一起，而男性艺术家和男女混合组合则更多与反映伤害、颠覆和堕落等负面主题的联系在一起。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84695" target="_blank"&gt;AI 促使数学家思考数学对他们的意义&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                几十年来计算加速了数学的进步。50 年前数学家利用计算机证明了四色定理，以一种人类几乎不可能实际验证的方式证明任何地图可以用不超过四种颜色着色。但在整个计算时代，人类数学家的作用仍然至关重要。人类凭借直觉提出猜想，凭借创造力和经验设计证明策略，最终验证证明是否正确。今天 AI 正在挑战这一模式。短短几年内，大模型就从只知道复述的“随机鹦鹉”演变成高级数学推理机器。UCLA 教授陶哲轩认为 AI 能作为催化剂推动向他所谓的“大数学”的转变，设想未来人类与机器将进行大规模、去中心化的协作，复杂的数学任务被分解，人类负责创造性部分，而 AI 则承担大部分技术性工作。陶哲轩已在实践这一理念。AI 正迫使数学家思考数学对他们的意义。一位数学家称，数学塑造了其思维方式，使其能以非常逻辑和理性的方式思考，对生活各个方面都有帮助。随着 AI 改变数学，研究人员想知道未来的数学家是否也能这样说。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-27</guid><pubDate>Sat, 27 Jun 2026 10:57:48 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-28</guid><pubDate>Sun, 28 Jun 2026 11:07:45 +0000</pubDate></item></channel></rss>
