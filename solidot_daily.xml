@@ -1,68 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 29 Jun 2026 13:07:28 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月29日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 30 Jun 2026 11:45:03 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月30日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84697" target="_blank"&gt;法国本周的热浪超过对 2050 年的可怕想象&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2014 年世界气象组织 (WMO) 协调组织了一场活动，其中包括预测 2050 年的天气。法国主持人 ïvelyne Dhéliat 的预测是到 2050 年该国最高气温将达到 43 摄氏度。本周法国的热浪将这一预测提前 24 年实现，且超过了预测。法国周三 43 个地点有 19 个地点超过了对 2050 年的预测，最高气温高达 44.3 摄氏度。法国 1947 年以来的热浪半数发生在 2010 年之后。法国气象局表示，到 2100 年热浪可能会持续两个月。随着地球暖化，极端高温将变得越来越常见。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84709" target="_blank"&gt;AMS 新发现挑战现有宇宙模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                超新星爆炸将碳、氮、氧等组成生命的元素散布到宇宙中。这些粒子成为宇宙射线在宇宙中跋涉数百万年后，如今正不断撞击地球大气。搭载于国际太空站上的阿尔法磁谱仪（AMS-02）所收集数据的新发现为我们揭开了这些粒子的奥秘。AMS-02 自 2011 年启用以来，已累积收集超过 230 兆个宇宙射线事件。研究团队深入分析了周期表上介于氦与铁之间的 20 种元素，惊人地发现这些宇宙射线并非随机分布，而是可以归纳为四个独特的类别：两种「主要宇宙射线」（源自深空未受破坏的原始射线）及两种「次要宇宙射线」（在旅途中与星际气体碰撞产生的混合粒子）。粒子中质子数的奇偶性（奇数或偶数）与其演化路径密切相关，显示恒星内部的元素合成机制深刻影响了它们在太空中的行为。新发现直接挑战了现行的宇宙射线模型。目前科学家尚无法完全解释这些观测结果，这意味着现有理论可能遗漏了某些关键物理机制。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84698" target="_blank"&gt;马克斯普朗克的两篇论文被撤稿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                1918 年诺贝尔物理学家得主马克斯普朗克（Max Planck）的两篇论文在 2011 年被撤下。两篇论文于 1940 年代发表在德国期刊《Naturwissenschaften》上，如今隶属于 Springer Nature 集团，《Naturwissenschaften》撤稿的理由是侵犯版权。马克斯普朗克的做法是一稿多发，在以前很常见，但如今被认为“自我剽窃”会引发版权纠纷。魁北克大学物理史学家 Yves Gingras 和科学史学家 Mahdi Khelfaoui 对此做法提出批评。尤其滑稽的是 Springer Nature 以空白 PDF 的形式撤稿，而该空白 PDF 仍然以 39.95 美元的价格出售访问权限。他们怀疑自然集团是使用算法自动撤稿的。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84710" target="_blank"&gt;因 AI 未能达到预期福特公司重聘人类工程师&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                福特公司是众多拥抱 AI 的公司之一，该公司在质检等运营环节部署了 AI。福特 CEO Jim Farley 去年 6 月表示，AI 将让大量白领落在后面。首席运营官 Kumar Galhotra 去年 10 月表示公司在整个工业系统部署 AI。福特汽车硬件工程副总裁 Charles Poon 如今表示 AI 驱动的质量检查未能达到预期。自动化工具缺少资深技术人员的训练和知识，他表示资深技术人员在公司能利用其知识改进技术前已离开了公司。这些员工已重新聘用，负责训练系统并指导年轻员工。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84699" target="_blank"&gt;科学家再次尝试编辑人类胚胎&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                继哥伦比亚大学 Dieter Egli 团队之后，第二个科研团队报告称，利用高精度基因编辑技术改造了人类胚胎 DNA。多名科研人员表示，该实验的成功，让关于胚胎基因编辑的伦理讨论变得更加紧迫。这一次英国剑桥大学的 Kathy Niakan 带领研究人员使用单碱基编辑技术敲除了编码 NANOG 蛋白的基因。实验所用的精子、卵子与胚胎均来自科研捐献，胚胎仅培养约 1 周时间。经过编辑的胚胎无法形成完整外胚层，也就是未来发育成人体各类组织的细胞团；但胚胎仍能分化出胎盘、卵黄囊等胚胎附属支撑结构的前体细胞。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84711" target="_blank"&gt;世界各地的学生使用智能眼镜在考试中作弊&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                世界各地的学生正使用 AI 驱动的智能眼镜在考试中作弊，而各国也开始加强对考生眼镜的检查。本月初的中国高考有逾千万学生参加，政府要求检查所有学生的眼镜。英格兰考试监管机构负责人警告，AI 眼镜和智能耳机等设备可能会加剧考试作弊现象。韩国报告了首起利用 AI 眼镜作弊的案例。专家担心相关个案可能预示着智能眼镜作弊正成为更为普遍的问题。研究过智能眼镜应用的 Thomas Corbin 说，“如果我们看到有些案例被报道，那么肯定还有更多案例没有被报道。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84701" target="_blank"&gt;币安因未取得牌照停止在欧盟提供服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                币安已告知欧盟客户，由于该公司无法取得在欧盟运营所需的牌照，将从下周起停止向他们提供服务。这对这家全球最大的加密货币交易所来说，是一次重大挫折。自 7 月 1 日起，所有在欧盟经营的加密货币公司，都必须依据欧盟《加密资产市场监管条例》(Markets in Crypto-Assets Regulation, MiCA)持牌运营，否则将面临处罚。币安此前在希腊申请一张可覆盖整个欧盟的牌照，但上周遭到拒绝，距离最后期限生效已不足两周。该交易所目前计划转向法国申请牌照，此前曾在法国就牌照问题进行过磋商。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84712" target="_blank"&gt;Rocket Lab 收购铱星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                火箭发射公司 Rocket Lab 宣布收购卫星运营商铱星公司。双方达成最终协议，Rocket Lab 以每股 54 美元，现金加股票的方式收购铱星所有已发行普通股。这笔收购对铱星的估值约为 80 亿美元。这笔交易还需要获得铱星股东以及监管机构的批准，交易预计将于 2027年 中期完成。铱星公司目前运营的铱星卫星星座共有 80 颗卫星，其中 66 颗为活跃卫星，14 颗为备用卫星。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84702" target="_blank"&gt;中国 AI 短剧生态&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                AI 短剧近月来成了中国影视业炙手可热的风口。在这场变革中，创作者借助低门槛的 AI 生成技术，快速制作具画面、对白和音效的短剧，大幅压缩了传统制作所需的人力和时间。古装题材 AI 短剧《霍去病》等爆款作品的出现，让不少业者看到一片商业蓝海。据媒体报道，中国今年注册的 AI 短剧企业超过 2100 家。然而爆款剧终究是少数——截至今年 2 月上线的超过 12 万部 AI 短剧中，播放量破亿的低于 150 部，爆款率约千分之一。西红柿影业董事长陈健受访时坦言：“对于承制 AI 短剧的公司，扣除算力和员工成本，利润没剩多少。钱基本都给头部大厂赚走，我们更像是血汗工厂。”陈健说：“有时发出 100 次指令，只有一次能换来想要的效果……原以为能赚钱，后来发现是亏的，因为修改太多了，推高了人力和算力成本。”AI 虽提升了生产力，却未必能改变短剧业内卷和利益分配的既有逻辑。许多业者发现，真正赚钱的是平台公司和少数头部短剧企业，多数中小型承制公司则只能艰难求生。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84713" target="_blank"&gt;美最高法院裁决手机地理位置数据受宪法第四修正案的保护&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国最高法院裁决智能手机的地理位置数据受宪法第四修正案的保护。在 Chatrie v US 一案中，最高法院以 6 比 3 判决政府败诉。大法官 Elena Kagan 执笔多数判决书，指出地理围栏搜查令获取的敏感数据属于第四修正案规定的搜查范围，即使个人身处公共场所也享有“合理的隐私期望”，“个人对其手机位置记录享有合理的隐私期望，警方索取这些信息——即使只是在有限的时间范围内，且是从第三方科技公司获取——也侵犯了这种受宪法保护的权利。”Okello Chatrie 在 2019 年 5 月 20 日持枪抢劫了一家银行，抢走 19.5 万美元后逃走。当地警方利用地理围栏搜查令让 Google 提供了抢劫前后 30 分钟内距离银行 150 米范围内的所有设备关联的账号信息。其中一个账号就是 Chatrie。他曾选择启用 Google 的“位置历史记录”功能，该功能每隔几分钟就会记录他的位置。在认罪后他被判处 12 年监禁。他的律师认为，地理围栏搜查令搜查范围过广，侵犯了他受宪法第四修正案保护的权利。美国政府则认为执法部门只获取少量手机位置信息，不属于第四修正案所指的搜查，因而不应享有同样的隐私保护。大法官们站在了政府的对立面。乔治城大学法学教授 Paul Ohm 表示，最高法院重申，警方需要搜查令才能将 Google 位置追踪等私人服务转变为国家监控工具。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84703" target="_blank"&gt;Linux 7.2-rc1 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.2-rc1。主要变化包括：Cache Aware Scheduling，性能优化、修复 Linux 7.1 的新 NTFS 驱动，完全移除 strncpy API，新 ARCTIC Fan Controller 驱动，AMD ISP4 驱动，初步支持 AMDGPU HDMI 2.1 FRL，等等。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84714" target="_blank"&gt;三星、SK 海力士和美光再次被控串通操纵内存价格&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                14 名消费者和 3 家小企业于 25 日在加州联邦法院提起诉讼，指控全球最大的三家内存供应商三星、SK 海力士和美光自 2022 年起串通操纵内存价格和供应，导致过去四年内存价格上涨约 700%。原告称，三家公司以向 HBM 过渡为借口，减少了 DDR 内存的供应，“DDR 内存寡头垄断企业系统性协调了向 HBM 的过渡以及 DDR3 和 DDR4 的停产，”苹果公司近期大幅提高产品价格是引发这场诉讼的导火索。虽然这起诉讼规模较小，但如果法院接受原告的诉求并正式批准其为集体诉讼，诉讼规模可能会扩大。代表原告的反垄断律所 Bathaee Dunne 的目标是发起一项集体诉讼，代表所有购买过含 DRAM 产品的普通消费者和企业。三星电子和 SK 海力士此前在美国被判串谋罪名成立，导致巨额罚款以及高管入狱。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84704" target="_blank"&gt;微软被控为 OpenAI 构建新超算鼓励侵犯版权&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 Cox Communications, Inc. v. Sony Music Entertainment 一案中，索尼等唱片公司指控 Cox 在其用户的侵权活动中是共谋犯，需要承担侵权责任。今年 3 月美国最高法院站在了 Cox 这边，以 9 比 0 裁定 Cox 不用对其用户的行为承担共同责任。本案就间接侵权设立了新标准，从此之后原告必须证明被告故意诱导他人实施非法行为。《纽约时报》根据最高法的裁决修改了诉讼，指控微软积极鼓励 OpenAI 窃取其受版权保护的作品。诉讼称，微软的新超算是专门帮助 OpenAI 侵权而定制的，其目的就是在未经许可的情况下训练 AI 处理受版权保护的作品，该系统特别授予纽约时报文章更高的权重。《纽约时报》指控，通过建造新超算，微软不仅帮助 OpenAI 选择侵权作品，还提供了一种未经许可获取受版权保护作品的手段。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84715" target="_blank"&gt;一项关于癌症治疗时机的论文被撤稿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                今年初一篇发表在医学期刊上的文章因其惊人的结论引起了全球癌症患者和医生的关注。仅仅改变免疫疗法的给药时间，似乎就能为肺癌患者带来意想不到的巨大益处。根据在中国进行的一项临床试验结果，上午接受静脉输注的患者癌症得到控制的时间是下午接受输注患者的两倍。研究还指出，这些患者的存活时间也延长了近两倍。
+几位肿瘤科医生表示，近几个月来，他们和各自所在医院接到了大量患者的电话，咨询是否可以改在上午进行输注。上周《自然-医学》撤回了该研究，理由是其试验设计和结果存在一系列矛盾和不规范之处。期刊在其撤稿声明中列举的问题包括：原本应该在研究开始前锁定的记录在进行到一半时被修改了；该研究计划的中文版本与翻译版本之间存在差异；所有患者在研究的第一年都接受了治疗和随访，没有人因副作用而退出——这在肿瘤学研究中极为罕见；此外随访扫描的时间安排也发现了异常模式。其他研究也发现患者接受癌症免疫疗法的时间与他们的预后之间存在某种关联。但原因仍不清楚。医生们表示，这有可能是精力更充沛、更健康的患者会选择上午的时间段。而住在远离输注中心、且往往预后较差的贫困或农村患者可能会要求选择下午的时间段，因为他们需要花整个上午的时间在赶往预约的路上。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84705" target="_blank"&gt;中国的肥胖危机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国近四年来人口持续下降，超重肥胖率却加速上升，而且年轻化趋势明显，这意味着未来健康劳动力可能减少。国家卫健委、中国营养学会的《中国肥胖预防和控制蓝皮书》等公开数据显示，1992 年全国成人超重肥胖率为 27.2%，2002 年升至 29.9%，2005 年则加速增长到 42.3%，2020 年为 50.7%，2023 年则达到 57%。研究预测，若超重肥胖趋势得不到遏制，2030 年中国成人、儿童超重肥胖率将分别达 70.5% 和 31.8%。《柳叶刀》报告显示，中国 25 岁及以上的成年超重和肥胖患者人数早在 2021 年已达 4.02 亿。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84716" target="_blank"&gt;科学家发现液态水存在两种结构的分子水平证据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Nature Physics》上的研究，科学家发现了液态水存在两种微观结构的分子水平证据。水可能以两种不同的结构状态存在并非新观点。几十年来科学家一直推测液态水由两种可相互转化的局部结构组成——一种密度更高更无序，另一种密度更低更有序。双状态模型被用于解释水的许多反常性质，如为什么水在冷却时更容易被压缩，以及为什么水的最大密度出现在 4°C 而不是冰点。但由于难以获得直接分子水平证该模型仍然受到争议。双状态模型的核心是被称为液液相变（liquid-liquid phase transition）的假设现象。其基本思想是，在深度过冷状态下，水会分裂成两种宏观上不同的液相：高密度液体和低密度液体。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84706" target="_blank"&gt;Gartner 预测两年内开发者的 AI token 费用将超过其薪水&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Gartner 预测两年内开发者的 AI token 使用费用将超过其薪水。预测将开发者的薪水设定为每月 2000 美元，因此这并不意味着所有地区的 AI token 使用费用将会达到或超过开发者薪水，美国的开发者年薪通常高达六位数。Gartner 高级首席分析师 Nitish Tyagi 指出，在极端情况下美国开发者的 AI token 使用费用也可能会超过其薪水，有些开发者每月的 AI 支出会超过数万美元。美国部分科技公司也已经开始要求其员工控制  AI token 的使用。Tyagi 称，企业必须监管和控制 AI token 的使用，否者 AI 工具费用的增长速度可能会超过带来的生产力提升。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84717" target="_blank"&gt;被遗弃的金鱼会破坏生态环境&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一项新研究发现，当宠物金鱼被放生或逃逸至野外时，会对淡水生态系统产生重大影响。该研究利用大型户外淡水模拟生态系统，旨在模拟真实湖泊环境。研究人员将金鱼引入实验生态系统，并长期观察它们对不同类型湖泊的影响。研究团队考察了两种常见的淡水环境：营养贫乏（寡营养）水域和营养丰富（富营养）水域。在这两种环境中，金鱼都造成了实质性的生态破坏。最重要的发现之一是水质迅速恶化。在营养丰富的系统中，金鱼导致水体透明度急剧下降，同时悬浮颗粒物显著增加，表明生态系统状况发生了重大改变。其次是本地水生物种减少。蜗牛、片脚类动物和浮游动物的种群数量显著下降。这些小型生物在健康的淡水食物网中发挥着关键作用，同时受到了捕食和栖息地干扰的双重影响。本地鱼类也受到负面冲击。金鱼与本地鱼类争夺食物和其他资源，导致本地鱼类整体体质下降。科学家将其视为长期种群健康的重要指标。研究人员表示，应将金鱼列为高优先级入侵物种。他们建议自然资源机构在野生种群建立之前，重点开展预防、早期发现和控制工作。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84707" target="_blank"&gt;灵晟超算使用的 LX2 处理器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Top500 上周公布了最新的超算榜单，深圳国家超算中心的灵晟首次亮相即登顶榜单。灵晟超算在 Linpack 测试中比排名第二的美国劳伦斯利弗莫尔国家实验室 El Capitan 超算快 22%，在 HPCG 测试中快 26%。它是首个仅靠 CPU 实现持续双精度浮点性能逾 2 Exaflops 的超算系统，美国的超算使用了 GPU 加速器。据 Chips and Cheese 根据相关幻灯片和相关 arXiv 论文报道，灵晟使用的 LX2 CPU 是基于 ARMv9.2 架构，支持 Scalable Matrix Extension(SME)指令集。相比下日本 ARM 超算富岳(Fugaku)是基于 ARMv8 架构，在今天已经相当老了。LX2 的每个核心都有 32 KB 的 L1 指令缓存和 32 KB 的 L1 数据缓存。芯片由两个计算模块（die）组成，每个模块包含四个 40 核心簇。每个簇有 2 个核心被禁用，因此每个簇有 38 个活跃核心，每个模块有 152 个活跃核心。每个簇配备 28.5 MB 的 L2 缓存，每个模块有 114 MB 的 L2 缓存，整个 LX2 封装有 304 个活跃核心和 228 MB 的总 L2 缓存。304 个核心以 1.55 GHz 运行，每个 LX2 CPU 提供 60.3 TFLOP/s 的 FP64 计算性能，功耗为 690 瓦。LX2 配备了八个“高带宽内存”，带宽为 4 TB/s（另一篇报道称 4 TB/s per chiplet，8 TB/s per socket）。所谓的高带宽内存可能不是 HBM。灵晟超算系统包含了逾 22,000 个节点和 1379 万个 CPU 核心。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84718" target="_blank"&gt;国际清算银行警告 AI 泡沫破裂将增加全球经济衰退风险&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                国际清算银行（BIS）发表年度经济报告，警告 AI 泡沫破裂将增加全球经济衰退风险。报告指出，AI 投资虽能助推生产力提升，但过度投资一旦退潮反转，可能将引发金融系统混乱。根据早先的报道，亚马逊预计 2026 年资本支出 2000 亿美元，微软预计为 1900 亿美元，Google 约为 1800 亿美元，Meta 1400 亿美元。甲骨文也将投入巨资。五大数据中心运营商 2026 年的 AI 相关资本支出将超过 1 万亿美元。报告指出，“投资承诺的增长速度超过了这些公司的利润和自由现金流，导致部分公司不得不发行债券筹集额外资金。这场投资竞赛的部分原因可能是认为只有少数拥有卓越技术的企业最终能主导市场。”报告指出，“回报不尽如人意可能会引发融资突然收缩，使资本支出繁荣演变为旷日持久的投资萧条，可能对金融状况产生连锁反应。”报告还提到，电力供应、芯片短缺和电网连接瓶颈等问题引发了对“供应侧障碍”的担忧。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84708" target="_blank"&gt;波音 747 的落幕&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                波音 747 曾是美国实力、发明、进步和平民主义的象征。如今它却成为所有这些价值观衰落的缩影。从 1970 年第一架 747 投入使用，到 2023 年停产该机型，波音公司共生产了 1574 架飞机，包括两架至今仍在服役的空军一号。类似 20 世纪的大多数科技创新，747 项目也是由军方推动的。1960 年代初，波音应政府要求设计一款大型军用运输机。洛克希德赢得了竞标生产了 C-5 银河运输机。波音失利之后放手让工程师在此基础上研发出最大的商用飞机。747 的用途远不止客运和货运。NASA 曾利用一架改装过的 747 将航天飞机运送到肯尼迪航天中心。美国的这两大象征似乎预示着 20 世纪的进步永无止境。但它们终究会落幕。航天飞机项目于 2011 年终止，而 747 飞机也逐渐从天空消失。如今亲眼目睹 747 变得越来越难，尤其是在美国。Atlas Air 和 Kalitta 仍在运营部分波音 747。汉莎航空运营着波音 747 客运航班最多的航线，大韩航空仍在运营 747 的国际航线，中国、伊朗和俄罗斯用它执飞类似巴士的国内航线。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-29</guid><pubDate>Mon, 29 Jun 2026 13:07:28 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-30</guid><pubDate>Tue, 30 Jun 2026 11:45:03 +0000</pubDate></item></channel></rss>
