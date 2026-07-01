@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 30 Jun 2026 11:45:03 +0000</lastBuildDate><item><title>【Solidot 日报】2026年06月30日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 01 Jul 2026 12:08:56 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月01日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84709" target="_blank"&gt;AMS 新发现挑战现有宇宙模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                超新星爆炸将碳、氮、氧等组成生命的元素散布到宇宙中。这些粒子成为宇宙射线在宇宙中跋涉数百万年后，如今正不断撞击地球大气。搭载于国际太空站上的阿尔法磁谱仪（AMS-02）所收集数据的新发现为我们揭开了这些粒子的奥秘。AMS-02 自 2011 年启用以来，已累积收集超过 230 兆个宇宙射线事件。研究团队深入分析了周期表上介于氦与铁之间的 20 种元素，惊人地发现这些宇宙射线并非随机分布，而是可以归纳为四个独特的类别：两种「主要宇宙射线」（源自深空未受破坏的原始射线）及两种「次要宇宙射线」（在旅途中与星际气体碰撞产生的混合粒子）。粒子中质子数的奇偶性（奇数或偶数）与其演化路径密切相关，显示恒星内部的元素合成机制深刻影响了它们在太空中的行为。新发现直接挑战了现行的宇宙射线模型。目前科学家尚无法完全解释这些观测结果，这意味着现有理论可能遗漏了某些关键物理机制。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84720" target="_blank"&gt;试验显示鱼油未能改善大脑健康&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一项为期两年、采用安慰剂对照、双盲设计的临床试验显示，高剂量 Omega-3 补充剂未能改善受试者记忆力、认知能力，也无法延缓阿尔茨海默病相关脑区的脑细胞损耗。研究共纳入 365 名 55-80 岁的受试者，他们日常很少吃鱼，而鱼类是膳食 Omega-3 的主要来源。研究人员认为受试者全部属于阿尔茨海默病患病高风险人群。近半数受试者（47%）携带 APOE4 基因，后者是目前已知的晚发性阿尔茨海默病最强遗传风险基因。受试者被随机分为两组，一组每日服用鱼油补充剂，另一组服用安慰剂。每份补充剂含有 2000 毫克二十二碳六烯酸（DHA），这是一种对大脑功能起关键作用的 Omega-3 脂肪酸。研究首要目标之一就是确认补充剂中的DHA能否真正进入大脑。研究人员通过检测包裹大脑与脊髓的脑脊液中的 DHA 含量验证了这一问题。服用 6 个月后，受试者脑脊液DHA平均提升 17%，证实该营养物质顺利抵达脑部。即便 DHA 成功进入大脑，也没有带来可量化的认知提升。研究人员分别在试验启动时与两年后对受试者的记忆、思维能力进行测评。服用 DHA 补充剂的人群，其认知测试表现与安慰剂组相比并无优势。脑部影像检测结果也印证了这一结论：鱼油补充剂无法减缓海马体萎缩。海马体是掌控记忆的核心脑区，也是评判大脑老化程度、阿尔茨海默病发病风险的标志性区域。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84710" target="_blank"&gt;因 AI 未能达到预期福特公司重聘人类工程师&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                福特公司是众多拥抱 AI 的公司之一，该公司在质检等运营环节部署了 AI。福特 CEO Jim Farley 去年 6 月表示，AI 将让大量白领落在后面。首席运营官 Kumar Galhotra 去年 10 月表示公司在整个工业系统部署 AI。福特汽车硬件工程副总裁 Charles Poon 如今表示 AI 驱动的质量检查未能达到预期。自动化工具缺少资深技术人员的训练和知识，他表示资深技术人员在公司能利用其知识改进技术前已离开了公司。这些员工已重新聘用，负责训练系统并指导年轻员工。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84721" target="_blank"&gt;数据中心碳排放比预想的严重&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Allianz Trade 公布的一份报告显示，数据中心对气候构成的危害比此前预想的更为严重。报告指出，此前人们低估了数字基础设施对气候的影响。除非采取适当措施，否则随着人工智能应用的激增，由算力需求引发的碳排放量将急剧上升。该研究估算，2025 年全球数据中心的二氧化碳排放总量达到 2.86 亿吨。这一数字比国际能源署此前研究得出的数据高出 57%。Allianz Trade 将此归因于其模型纳入了整个价值链中的间接排放（例如制造和施工环节产生的排放）以及电力传输过程中的损耗。数据显示，超过 70% 的排放源于设施的电力消耗，而约四分之一的排放则来自硬件和基础设施。数据中心对气候的危害在很大程度上取决于其地理位置。中国和美国的数据中心二氧化碳排放量合计约占全球总量的 70%。这两个国家的电力结构中，碳强度相对较高，分别为每度 384 克（美国）和 526 克（中国）。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84711" target="_blank"&gt;世界各地的学生使用智能眼镜在考试中作弊&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                世界各地的学生正使用 AI 驱动的智能眼镜在考试中作弊，而各国也开始加强对考生眼镜的检查。本月初的中国高考有逾千万学生参加，政府要求检查所有学生的眼镜。英格兰考试监管机构负责人警告，AI 眼镜和智能耳机等设备可能会加剧考试作弊现象。韩国报告了首起利用 AI 眼镜作弊的案例。专家担心相关个案可能预示着智能眼镜作弊正成为更为普遍的问题。研究过智能眼镜应用的 Thomas Corbin 说，“如果我们看到有些案例被报道，那么肯定还有更多案例没有被报道。”
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84722" target="_blank"&gt;小鼠实验显示单次注射 DNA 指令的减肥时效十倍于 GLP-1 药物&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                GLP-1 减肥药如 Ozempic 和 Wegovy 需要长期服用，停药后容易反弹。现在研究人员报告小鼠实验显示单次注射 DNA 指令即可实现减轻体重和控制血糖的效果，其持续时间十倍于 GLP-1 药物。新方法有助于消除重复给药的需求。人体能充当工厂合成长效抗体。新方法是基于 Weiner 实验室的肌肉 DNA 电穿孔平台（intramuscular DNA electroporation platform），患者注射一针质粒 DNA（遗传指令），然后施加电脉冲，将这些指令导入人体细胞的细胞核被读取，使细胞能持续合成抗体。Weiner 实验室使用该方法将新冠抗体指令输入到患者体内，在 1 期临床试验中患者体内抗体持续表达逾 72 周。新研究中，研究人员设计出长效肠促胰岛素激素 GLP-1 和 GIP 的 DNA 指令，其中包含了一个防止蛋白质在体内快速分解的抗体片段。在小鼠实验中，单次注射在 70 天内产生了可检测水平的肠促胰岛素，能长时间维持代谢改善效果。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84712" target="_blank"&gt;Rocket Lab 收购铱星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                火箭发射公司 Rocket Lab 宣布收购卫星运营商铱星公司。双方达成最终协议，Rocket Lab 以每股 54 美元，现金加股票的方式收购铱星所有已发行普通股。这笔收购对铱星的估值约为 80 亿美元。这笔交易还需要获得铱星股东以及监管机构的批准，交易预计将于 2027年 中期完成。铱星公司目前运营的铱星卫星星座共有 80 颗卫星，其中 66 颗为活跃卫星，14 颗为备用卫星。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84723" target="_blank"&gt;Claude Code 会悄悄检查用户的系统时区是否是中国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Claude Code 被发现会悄悄检查用户的系统时区和是否来自中国 AI 公司。对 Claude Code（2.1.196）的本地二进制文件的分析发现，它会检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，以及是否匹配中国科技公司的域名，其中包括 baidu.com、alibaba-inc.com、alipay.com、antgroup-inc.cn、bytedance.net、kuaishou.com
+、xiaohongshu.com、jd.com 和 bilibili.co 等等。此举可能是防止中国 AI 公司蒸馏其模型。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84713" target="_blank"&gt;美最高法院裁决手机地理位置数据受宪法第四修正案的保护&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国最高法院裁决智能手机的地理位置数据受宪法第四修正案的保护。在 Chatrie v US 一案中，最高法院以 6 比 3 判决政府败诉。大法官 Elena Kagan 执笔多数判决书，指出地理围栏搜查令获取的敏感数据属于第四修正案规定的搜查范围，即使个人身处公共场所也享有“合理的隐私期望”，“个人对其手机位置记录享有合理的隐私期望，警方索取这些信息——即使只是在有限的时间范围内，且是从第三方科技公司获取——也侵犯了这种受宪法保护的权利。”Okello Chatrie 在 2019 年 5 月 20 日持枪抢劫了一家银行，抢走 19.5 万美元后逃走。当地警方利用地理围栏搜查令让 Google 提供了抢劫前后 30 分钟内距离银行 150 米范围内的所有设备关联的账号信息。其中一个账号就是 Chatrie。他曾选择启用 Google 的“位置历史记录”功能，该功能每隔几分钟就会记录他的位置。在认罪后他被判处 12 年监禁。他的律师认为，地理围栏搜查令搜查范围过广，侵犯了他受宪法第四修正案保护的权利。美国政府则认为执法部门只获取少量手机位置信息，不属于第四修正案所指的搜查，因而不应享有同样的隐私保护。大法官们站在了政府的对立面。乔治城大学法学教授 Paul Ohm 表示，最高法院重申，警方需要搜查令才能将 Google 位置追踪等私人服务转变为国家监控工具。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84724" target="_blank"&gt;美国政府解除对 Claude Fable 5 和 Mythos 5 模型的出口限制&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Anthropic 周二宣布美国商务部已解除对 Claude Fable 5 和 Mythos 5 模型的出口限制，该公司将于周三恢复提供对其新模型的访问。美国政府是在 6 月中旬以国家安全理由下令禁止外国公民访问 Anthropic 最先进的 AI  模型，这一限制甚至涵盖了 Anthropic 自己的外籍员工。美国商务部长 Howard Lutnick 周二在 X 平台上发帖称，“过去两周我们与 Anthropic 密切合作，分析并批准 Fable 5，以确保其与美国政府保持一致，并强化美国在 AI 领域的领导地位。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84714" target="_blank"&gt;三星、SK 海力士和美光再次被控串通操纵内存价格&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                14 名消费者和 3 家小企业于 25 日在加州联邦法院提起诉讼，指控全球最大的三家内存供应商三星、SK 海力士和美光自 2022 年起串通操纵内存价格和供应，导致过去四年内存价格上涨约 700%。原告称，三家公司以向 HBM 过渡为借口，减少了 DDR 内存的供应，“DDR 内存寡头垄断企业系统性协调了向 HBM 的过渡以及 DDR3 和 DDR4 的停产，”苹果公司近期大幅提高产品价格是引发这场诉讼的导火索。虽然这起诉讼规模较小，但如果法院接受原告的诉求并正式批准其为集体诉讼，诉讼规模可能会扩大。代表原告的反垄断律所 Bathaee Dunne 的目标是发起一项集体诉讼，代表所有购买过含 DRAM 产品的普通消费者和企业。三星电子和 SK 海力士此前在美国被判串谋罪名成立，导致巨额罚款以及高管入狱。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84725" target="_blank"&gt;为什么我们需要睡眠&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为什么动物需要睡眠？发表在《Brain Medicine》期刊上的一篇综述认为，关于睡眠的诸多困惑，源自将三个概念混为一谈，作者认为睡眠最恰当的理解，既非休息，亦非打扫，而是一种系统层面的韧性机制，使这具约由 860 亿个神经元构成的网络，不致漂入无法脱身的状态。“我们想要超越那种把睡眠仅仅视作一夜充电的看法，”中国科学院长春应用化学研究所的 Xiaohui Wang 教授说，他是通讯作者之一。“当你把大脑看作一个复杂的动态网络，睡眠便开始像是一位审慎的工程师有意设计之物，是留给系统自我修复与重组的一段预定窗口。”综述把睡眠的两大阶段看作一种分工。在非快速眼动睡眠中，尤其是慢波阶段，大脑陷入高振幅、低频率、低于一赫兹的节律。模块性上升。熵下降。被一整日学习所抬高的突触强度，被悄然重整，使网络不致饱和。快速眼动睡眠所为，几乎相反。电信号去同步化，θ节律与γ节律攀升，大脑转向全局整合与探索，松动那些已变得过于僵硬的回路。“一个只知优化的网络，可能把自己逼入死角，”第一作者 Longwei Yang 说。“而睡眠所守护的，似乎正是重新走出来的能力。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84715" target="_blank"&gt;一项关于癌症治疗时机的论文被撤稿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                今年初一篇发表在医学期刊上的文章因其惊人的结论引起了全球癌症患者和医生的关注。仅仅改变免疫疗法的给药时间，似乎就能为肺癌患者带来意想不到的巨大益处。根据在中国进行的一项临床试验结果，上午接受静脉输注的患者癌症得到控制的时间是下午接受输注患者的两倍。研究还指出，这些患者的存活时间也延长了近两倍。
-几位肿瘤科医生表示，近几个月来，他们和各自所在医院接到了大量患者的电话，咨询是否可以改在上午进行输注。上周《自然-医学》撤回了该研究，理由是其试验设计和结果存在一系列矛盾和不规范之处。期刊在其撤稿声明中列举的问题包括：原本应该在研究开始前锁定的记录在进行到一半时被修改了；该研究计划的中文版本与翻译版本之间存在差异；所有患者在研究的第一年都接受了治疗和随访，没有人因副作用而退出——这在肿瘤学研究中极为罕见；此外随访扫描的时间安排也发现了异常模式。其他研究也发现患者接受癌症免疫疗法的时间与他们的预后之间存在某种关联。但原因仍不清楚。医生们表示，这有可能是精力更充沛、更健康的患者会选择上午的时间段。而住在远离输注中心、且往往预后较差的贫困或农村患者可能会要求选择下午的时间段，因为他们需要花整个上午的时间在赶往预约的路上。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84726" target="_blank"&gt;微软发布 WSL 容器的预览版&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软发布了 Windows Subsystem for Linux (WSL)容器的公开预览版本。容器已成为现代开发的基础部分——从云原生应用、AI工作负载到测试和部署流水线。WSL 容器通过提供一个内置的、企业级的方式，在 Windows 上创建、运行和管理 Linux 容器，简化了这一体验，不再需要额外的第三方工具。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84716" target="_blank"&gt;科学家发现液态水存在两种结构的分子水平证据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Nature Physics》上的研究，科学家发现了液态水存在两种微观结构的分子水平证据。水可能以两种不同的结构状态存在并非新观点。几十年来科学家一直推测液态水由两种可相互转化的局部结构组成——一种密度更高更无序，另一种密度更低更有序。双状态模型被用于解释水的许多反常性质，如为什么水在冷却时更容易被压缩，以及为什么水的最大密度出现在 4°C 而不是冰点。但由于难以获得直接分子水平证该模型仍然受到争议。双状态模型的核心是被称为液液相变（liquid-liquid phase transition）的假设现象。其基本思想是，在深度过冷状态下，水会分裂成两种宏观上不同的液相：高密度液体和低密度液体。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84727" target="_blank"&gt;美国 Henrico 县请求政府和学校为数据中心节约用电&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国弗吉尼亚州 Henrico 县因毗邻华盛顿特区，拥有大片的土地，而几乎一夜之间成为数据中心枢纽。该县有 37 座数据中心，计划再建 17 座数据中心。数据中心带来的一个副作用是电价在上涨。县长 John Vithoulkas 于 6 月 26 日向数千名政府员工发送了一封电子邮件，请求他们协助政府节约用电，“从  7月 1 日起，Henrico 县所有政府和学校设施的电价将上涨 25%，预计下一财年将增加 500 万美元的开支。我们预计未来几年电价还会继续上涨。”“为缓解电费上涨带来的影响，我请求大家共同做出些调整，在各自的工作区域节约用电。离开工作区域时，包括下班离开时，请关灯。每天工作结束后，请关闭电脑/笔记本电脑。如果您的工作区域有窗户，请调整百叶窗以控制阳光照射带来的热量。不使用电器、充电器或其它电器时，请拔掉电源插头。请限制使用（或完全避免使用）电暖器。仅单个普通电暖器每年就可能给县政府造成 150-300 美元的电费支出。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84717" target="_blank"&gt;被遗弃的金鱼会破坏生态环境&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一项新研究发现，当宠物金鱼被放生或逃逸至野外时，会对淡水生态系统产生重大影响。该研究利用大型户外淡水模拟生态系统，旨在模拟真实湖泊环境。研究人员将金鱼引入实验生态系统，并长期观察它们对不同类型湖泊的影响。研究团队考察了两种常见的淡水环境：营养贫乏（寡营养）水域和营养丰富（富营养）水域。在这两种环境中，金鱼都造成了实质性的生态破坏。最重要的发现之一是水质迅速恶化。在营养丰富的系统中，金鱼导致水体透明度急剧下降，同时悬浮颗粒物显著增加，表明生态系统状况发生了重大改变。其次是本地水生物种减少。蜗牛、片脚类动物和浮游动物的种群数量显著下降。这些小型生物在健康的淡水食物网中发挥着关键作用，同时受到了捕食和栖息地干扰的双重影响。本地鱼类也受到负面冲击。金鱼与本地鱼类争夺食物和其他资源，导致本地鱼类整体体质下降。科学家将其视为长期种群健康的重要指标。研究人员表示，应将金鱼列为高优先级入侵物种。他们建议自然资源机构在野生种群建立之前，重点开展预防、早期发现和控制工作。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84728" target="_blank"&gt;arXiv 从康奈尔大学独立&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                预印本平台 arXiv.org 于 7 月 1 日脱离康奈尔大学成立独立的非营利性组织。arXiv 诞生于 1991 年，创始人 Paul Ginsparg 在 2001 年加入了康奈尔大学，arXiv 网站随后由康奈尔大学图书馆接手。25 年后 arXiv 决定翻开新的篇章。arXiv 组织正致力于确保这一过渡平稳进行，让作者、读者和社区几乎不会感受到有任何变化。官方博客表示：“arXiv 由科学家创建，为科学家服务，虽然我们的“家”可能会变，但我们的使命、愿景和价值观永远不变。arXiv 将继续致力于免费阅读和投稿，致力于为全球科学家提供公平获取新想法和新发现的机会。在从康奈尔大学独立出来的过程中，arXiv 的工作人员、志愿者以及我们的支持者正在努力确保 arXiv 提供的重要服务不会中断。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84718" target="_blank"&gt;国际清算银行警告 AI 泡沫破裂将增加全球经济衰退风险&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                国际清算银行（BIS）发表年度经济报告，警告 AI 泡沫破裂将增加全球经济衰退风险。报告指出，AI 投资虽能助推生产力提升，但过度投资一旦退潮反转，可能将引发金融系统混乱。根据早先的报道，亚马逊预计 2026 年资本支出 2000 亿美元，微软预计为 1900 亿美元，Google 约为 1800 亿美元，Meta 1400 亿美元。甲骨文也将投入巨资。五大数据中心运营商 2026 年的 AI 相关资本支出将超过 1 万亿美元。报告指出，“投资承诺的增长速度超过了这些公司的利润和自由现金流，导致部分公司不得不发行债券筹集额外资金。这场投资竞赛的部分原因可能是认为只有少数拥有卓越技术的企业最终能主导市场。”报告指出，“回报不尽如人意可能会引发融资突然收缩，使资本支出繁荣演变为旷日持久的投资萧条，可能对金融状况产生连锁反应。”报告还提到，电力供应、芯片短缺和电网连接瓶颈等问题引发了对“供应侧障碍”的担忧。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84729" target="_blank"&gt;中国 2026 年汽车出口量有望达到千万&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AlixPartners 预测，中国的汽车出口量 2026 年将比上一年增加 4 成，达到 1000 万辆。中国汽车工业协会的统计显示，2026 年 1～5 月出口量同比增长 63%，达 405 万辆。占出口大部分的是纯电动汽车（EV）等新能源汽车，达到 183 万辆，增至 2.1 倍，远远超过汽油汽车的增长率（36%）。如果目前的出口速度持续，2026 年出口量将比 2025 年增加 41%，达到 1000 万辆。如果实现，将成为世界上第一个出口 1000 万辆汽车的国家。相当于日本出口量的约 2.5 倍。中国汽车出口量剧增，主要原因是国内销量的减少。2026 年中国新车销量预计为 2460 万辆，比 2025 年减少 10%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-06-30</guid><pubDate>Tue, 30 Jun 2026 11:45:03 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84730" target="_blank"&gt;研究人员将干细胞转化为人类初级卵母细胞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国生物科技创业公司 Conception 宣布成功诱导干细胞转化为人类初级卵母细胞，称这是一项重大的科学进步。科学家已在小鼠身上实现了利用干细胞制造卵子。研究人员首先将小鼠皮肤细胞转化为“诱导多能干细胞”（iPSC），然后转化为可用的卵子。这些卵子产生了健康的幼崽，寿命正常，能自然繁殖，有自己的健康后代。该过程被称为“体外配子发生”（in vitro gametogenesis），在小鼠身上比在大型动物身上更容易实现。
+IVG 有潜力重新定义生殖。简单通过抽血就可以制造出一个家庭需要的尽可能多的健康卵子。这种能力将可用摆脱生物和遗传的限制，极大扩大家庭生育健康孩子的选择，使女性能在更大的年龄生育后代。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84731" target="_blank"&gt;LHC 第三次停机维护&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                CERN 宣布了 LHC 的第三次长时间停机维护（Long Shutdown 3）。这次维护和升级将为下一阶段的 High-Luminosity LHC(HiLumi LHC)的运行做准备。LHC 于 1998-2008 年建造，2009 年投入运行，2010 年首次实现 3.5TeV 粒子对撞，2012 年宣布发现了希格斯玻色子。2013-2015 年 LHC 进行了第一次维护升级，使得粒子对撞的总能量提高到了 13.0TeV；2018 年底到 2022 年 4 月 LHC 进行第二次维护升级。第三次停机维护将是至今最大规模的升级改造，HiLumi LHC 计划于 2030 年投入运行，其亮度提高最多十倍，将使研究人员能收集规模更大的数据集，对希格斯玻色子进行更精确的研究，增强发现标准模型之外现象的潜力。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-01</guid><pubDate>Wed, 01 Jul 2026 12:08:56 +0000</pubDate></item></channel></rss>
