@@ -1,76 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 01 Jul 2026 12:08:56 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月01日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 02 Jul 2026 11:34:03 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月02日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84720" target="_blank"&gt;试验显示鱼油未能改善大脑健康&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一项为期两年、采用安慰剂对照、双盲设计的临床试验显示，高剂量 Omega-3 补充剂未能改善受试者记忆力、认知能力，也无法延缓阿尔茨海默病相关脑区的脑细胞损耗。研究共纳入 365 名 55-80 岁的受试者，他们日常很少吃鱼，而鱼类是膳食 Omega-3 的主要来源。研究人员认为受试者全部属于阿尔茨海默病患病高风险人群。近半数受试者（47%）携带 APOE4 基因，后者是目前已知的晚发性阿尔茨海默病最强遗传风险基因。受试者被随机分为两组，一组每日服用鱼油补充剂，另一组服用安慰剂。每份补充剂含有 2000 毫克二十二碳六烯酸（DHA），这是一种对大脑功能起关键作用的 Omega-3 脂肪酸。研究首要目标之一就是确认补充剂中的DHA能否真正进入大脑。研究人员通过检测包裹大脑与脊髓的脑脊液中的 DHA 含量验证了这一问题。服用 6 个月后，受试者脑脊液DHA平均提升 17%，证实该营养物质顺利抵达脑部。即便 DHA 成功进入大脑，也没有带来可量化的认知提升。研究人员分别在试验启动时与两年后对受试者的记忆、思维能力进行测评。服用 DHA 补充剂的人群，其认知测试表现与安慰剂组相比并无优势。脑部影像检测结果也印证了这一结论：鱼油补充剂无法减缓海马体萎缩。海马体是掌控记忆的核心脑区，也是评判大脑老化程度、阿尔茨海默病发病风险的标志性区域。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84732" target="_blank"&gt;Godot 拒绝接受 AI 生成的代码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                开源项目都面临 AI 代码越来越多的问题，现在负责开发开源游戏引擎 Godot 的基金会宣布修订贡献者政策，禁止递交 AI 署名的代码和 AI 智能体提交的 pull request，以及在人与人之间的沟通中禁止 AI 生成文本——机器翻译除外。新政策旨在限制 AI Slop，鼓励维护者审查代码，将新贡献者培养成未来的维护者，最重要的是要求所有贡献都必须来自对代码负责的人类，修复出现问题的代码。基金会称，“AI 不能承担责任，我们也不能指望 AI 的重度用户能充分理解他们的代码并能进行修正。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84721" target="_blank"&gt;数据中心碳排放比预想的严重&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Allianz Trade 公布的一份报告显示，数据中心对气候构成的危害比此前预想的更为严重。报告指出，此前人们低估了数字基础设施对气候的影响。除非采取适当措施，否则随着人工智能应用的激增，由算力需求引发的碳排放量将急剧上升。该研究估算，2025 年全球数据中心的二氧化碳排放总量达到 2.86 亿吨。这一数字比国际能源署此前研究得出的数据高出 57%。Allianz Trade 将此归因于其模型纳入了整个价值链中的间接排放（例如制造和施工环节产生的排放）以及电力传输过程中的损耗。数据显示，超过 70% 的排放源于设施的电力消耗，而约四分之一的排放则来自硬件和基础设施。数据中心对气候的危害在很大程度上取决于其地理位置。中国和美国的数据中心二氧化碳排放量合计约占全球总量的 70%。这两个国家的电力结构中，碳强度相对较高，分别为每度 384 克（美国）和 526 克（中国）。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84733" target="_blank"&gt;索尼 PS 从 2028 年 1 月起不再发售新游戏的光盘版&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                数字游戏是未来，索尼正式宣布其 PS 游戏机从 2028 年 1 月起不再发售新游戏的实体光盘版本。这也意味着未来的的 PS 游戏机不会再发售包含蓝光光驱的型号。索尼称 2028 年 1 月之前已发售或即将发售的游戏实体光盘版不受影响。消费者普遍偏爱数字媒介而不是实体光盘，索尼表示它只是顺应这一趋势罢了。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84722" target="_blank"&gt;小鼠实验显示单次注射 DNA 指令的减肥时效十倍于 GLP-1 药物&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                GLP-1 减肥药如 Ozempic 和 Wegovy 需要长期服用，停药后容易反弹。现在研究人员报告小鼠实验显示单次注射 DNA 指令即可实现减轻体重和控制血糖的效果，其持续时间十倍于 GLP-1 药物。新方法有助于消除重复给药的需求。人体能充当工厂合成长效抗体。新方法是基于 Weiner 实验室的肌肉 DNA 电穿孔平台（intramuscular DNA electroporation platform），患者注射一针质粒 DNA（遗传指令），然后施加电脉冲，将这些指令导入人体细胞的细胞核被读取，使细胞能持续合成抗体。Weiner 实验室使用该方法将新冠抗体指令输入到患者体内，在 1 期临床试验中患者体内抗体持续表达逾 72 周。新研究中，研究人员设计出长效肠促胰岛素激素 GLP-1 和 GIP 的 DNA 指令，其中包含了一个防止蛋白质在体内快速分解的抗体片段。在小鼠实验中，单次注射在 70 天内产生了可检测水平的肠促胰岛素，能长时间维持代谢改善效果。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84734" target="_blank"&gt;瑞典法院判决 Google 向比价网站赔偿 15 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                瑞典法院以 Google 在搜索结果中偏袒自家购物服务为由判决它向比价网站 PriceRunner 赔偿约 15 亿美元（143 亿瑞典克朗）。这是瑞典法院在反垄断诉讼中判处的最高金额罚款，但远低于 PriceRunner 寻求的 780 亿瑞典克朗赔偿。PriceRunner 于 2022 年起诉 Google，指控 Google 操纵搜索结果。2008 年 Google 开始在搜索结果中突出展示其比价购物服务，导致竞争对手的比价网站流量急剧下降。2017 年时任欧盟竞争事务专员 Margrethe Vestager 以 Google 利用其比价购物服务获取不公平优势对其处以罚款。Google 于 2021 年对该裁决提出上诉但被驳回。之后欧洲的多家比价网站提起了赔偿诉讼。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84723" target="_blank"&gt;Claude Code 会悄悄检查用户的系统时区是否是中国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Claude Code 被发现会悄悄检查用户的系统时区和是否来自中国 AI 公司。对 Claude Code（2.1.196）的本地二进制文件的分析发现，它会检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，以及是否匹配中国科技公司的域名，其中包括 baidu.com、alibaba-inc.com、alipay.com、antgroup-inc.cn、bytedance.net、kuaishou.com
-、xiaohongshu.com、jd.com 和 bilibili.co 等等。此举可能是防止中国 AI 公司蒸馏其模型。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84735" target="_blank"&gt;Anthropic 将移除检测中国用户的秘密代码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Anthropic 工程师表示将在周三发布补丁移除几个月前添加到 Claude Code 中的隐藏代码，这些代码旨在阻止其它 AI 公司蒸馏其模型。Claude Code 工程师 Thariq Shihipar 表示，“它是我们 3 月启动的一项实验，旨在防止未经授权的转售商滥用账户，以及防止模型蒸馏。团队此后已采取了更有效的缓解措施，实际上我们早就打算移除这些代码了。”在这之前有开发者发现 Claude Code 包含了秘密代码检查基本 URL 环境变量，该变量用于将 API 请求路由到代理或网关。如果基本 URL 已被覆盖，代码会继续检查系统时区，以及主机名是否与已知中国 AI 实验室、其它 AI 公司、账户转售商和网关域名列表中的任何条目匹配。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84724" target="_blank"&gt;美国政府解除对 Claude Fable 5 和 Mythos 5 模型的出口限制&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Anthropic 周二宣布美国商务部已解除对 Claude Fable 5 和 Mythos 5 模型的出口限制，该公司将于周三恢复提供对其新模型的访问。美国政府是在 6 月中旬以国家安全理由下令禁止外国公民访问 Anthropic 最先进的 AI  模型，这一限制甚至涵盖了 Anthropic 自己的外籍员工。美国商务部长 Howard Lutnick 周二在 X 平台上发帖称，“过去两周我们与 Anthropic 密切合作，分析并批准 Fable 5，以确保其与美国政府保持一致，并强化美国在 AI 领域的领导地位。”
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84736" target="_blank"&gt;科学家首次利用非生命成分制造出细胞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                明尼苏达大学的合成生物学家首次将非生物成分逐一装入类细胞的膜，见证该分子袋开始表现出类生命行为。这种人工合成细胞能生长、复制 DNA 并分裂，展示了细胞周期的基本功能。就任何定义而言，这个细胞都不是活着的。它离不开源源不断的营养物质和核糖体——合成蛋白质的分子机器。它没有防御机制，没有完善的废物处理系统。但迄今为止它最有力地证明从非生命物质创造生命是可能的，而这正是合成生物学家几十年来一直追求的目标。大约 40 亿年前，非生物分子聚集在一起形成了最早的原细胞。它们吸收养分、生长和分裂。随着时间的推移，这些细胞演变分化成不同的类型，用各种奇特的生物装饰这个原本贫瘠的世界。科学家对从非生命到生命的这种转变是如何发生的至今仍存在争议，部分科学家已开始在实验室进行尝试。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84725" target="_blank"&gt;为什么我们需要睡眠&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为什么动物需要睡眠？发表在《Brain Medicine》期刊上的一篇综述认为，关于睡眠的诸多困惑，源自将三个概念混为一谈，作者认为睡眠最恰当的理解，既非休息，亦非打扫，而是一种系统层面的韧性机制，使这具约由 860 亿个神经元构成的网络，不致漂入无法脱身的状态。“我们想要超越那种把睡眠仅仅视作一夜充电的看法，”中国科学院长春应用化学研究所的 Xiaohui Wang 教授说，他是通讯作者之一。“当你把大脑看作一个复杂的动态网络，睡眠便开始像是一位审慎的工程师有意设计之物，是留给系统自我修复与重组的一段预定窗口。”综述把睡眠的两大阶段看作一种分工。在非快速眼动睡眠中，尤其是慢波阶段，大脑陷入高振幅、低频率、低于一赫兹的节律。模块性上升。熵下降。被一整日学习所抬高的突触强度，被悄然重整，使网络不致饱和。快速眼动睡眠所为，几乎相反。电信号去同步化，θ节律与γ节律攀升，大脑转向全局整合与探索，松动那些已变得过于僵硬的回路。“一个只知优化的网络，可能把自己逼入死角，”第一作者 Longwei Yang 说。“而睡眠所守护的，似乎正是重新走出来的能力。”
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84737" target="_blank"&gt;Cloudflare 推动 AI 公司为内容付费&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Cloudflare 宣布推出新的控制功能，赋予内容出版商更多控制权，更好的掌控 AI 公司如何访问和使用其内容。
+从 9 月 15 日起，新 Cloudflare 网站将允许传统的搜索引擎索引，但默认会屏蔽 AI 训练机器人和 AI 智能体访问广告支持的网页。Cloudflare 还在扩展其变现努力，推出了一种按使用付费模式（Pay-Per-Use），目的是当出版商的内容为 AI 生成的答案做出贡献时给予它们补偿，而不仅仅是让内容被抓取。Cloudflare 认为，出版商不应被迫在提高在线曝光率和免费向 AI 系统提供内容之间做出选择。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84726" target="_blank"&gt;微软发布 WSL 容器的预览版&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软发布了 Windows Subsystem for Linux (WSL)容器的公开预览版本。容器已成为现代开发的基础部分——从云原生应用、AI工作负载到测试和部署流水线。WSL 容器通过提供一个内置的、企业级的方式，在 Windows 上创建、运行和管理 Linux 容器，简化了这一体验，不再需要额外的第三方工具。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84738" target="_blank"&gt;全球昆虫物种可能有 2000 万&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家长期以来一直就昆虫物种的确切数量争论不休，此前普遍认为约为 600 万种。过去 3 个世纪里，昆虫学家已描述了约 100 万种昆虫，但要发现并描述所有物种，是一项艰巨甚至不可能完成的任务。为更准确估算昆虫多样性，研究人员研究了哥斯达黎加瓜纳卡斯特国家公园多年的昆虫调查数据，并应用了借鉴自流行病学领域的统计方法。随后利用另一个高度多样化的生物群体——树木，将这一数字推及全球范围。如果昆虫的多样性也遵循相同的比例，那么地球上大约有 1330万~2470 万种昆虫，一个稳妥的中间值是 2030 万种。研究人员表示他们的估算数字较为保守，这意味着可能还有数百万种尚未被发现的昆虫物种。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84727" target="_blank"&gt;美国 Henrico 县请求政府和学校为数据中心节约用电&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国弗吉尼亚州 Henrico 县因毗邻华盛顿特区，拥有大片的土地，而几乎一夜之间成为数据中心枢纽。该县有 37 座数据中心，计划再建 17 座数据中心。数据中心带来的一个副作用是电价在上涨。县长 John Vithoulkas 于 6 月 26 日向数千名政府员工发送了一封电子邮件，请求他们协助政府节约用电，“从  7月 1 日起，Henrico 县所有政府和学校设施的电价将上涨 25%，预计下一财年将增加 500 万美元的开支。我们预计未来几年电价还会继续上涨。”“为缓解电费上涨带来的影响，我请求大家共同做出些调整，在各自的工作区域节约用电。离开工作区域时，包括下班离开时，请关灯。每天工作结束后，请关闭电脑/笔记本电脑。如果您的工作区域有窗户，请调整百叶窗以控制阳光照射带来的热量。不使用电器、充电器或其它电器时，请拔掉电源插头。请限制使用（或完全避免使用）电暖器。仅单个普通电暖器每年就可能给县政府造成 150-300 美元的电费支出。”
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84739" target="_blank"&gt;越来越多的儿童使用 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据来自 10 个国家的新数据，联合国儿童基金会估计，至少有 2000 万儿童使用过人工智能，且青少年采用该技术人数的增长速度是成年人的三倍多。最引人注目的是，据估计约有 200万 儿童——约占十分之一——表示会向人工智能寻求关于自身担忧的建议，另有 1300 万儿童表示使用人工智能来协助完成学校作业和家庭作业。儿基会表示：“人工智能已经到来。它正日益成为我们生活的一部分，它已经在塑造全球儿童的成长历程——无论好坏。”尽管人工智能为学习和创造力提供了新机遇，但儿基会警告称，关于其对儿童发展、情绪健康以及可能面临的伤害的影响，相关证据才刚刚开始浮出水面。该机构表示：“实际上，这一代人正在一场全球性实验中成长。”它敦促各国政府和科技公司将儿童权利置于人工智能监管的核心位置。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84728" target="_blank"&gt;arXiv 从康奈尔大学独立&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                预印本平台 arXiv.org 于 7 月 1 日脱离康奈尔大学成立独立的非营利性组织。arXiv 诞生于 1991 年，创始人 Paul Ginsparg 在 2001 年加入了康奈尔大学，arXiv 网站随后由康奈尔大学图书馆接手。25 年后 arXiv 决定翻开新的篇章。arXiv 组织正致力于确保这一过渡平稳进行，让作者、读者和社区几乎不会感受到有任何变化。官方博客表示：“arXiv 由科学家创建，为科学家服务，虽然我们的“家”可能会变，但我们的使命、愿景和价值观永远不变。arXiv 将继续致力于免费阅读和投稿，致力于为全球科学家提供公平获取新想法和新发现的机会。在从康奈尔大学独立出来的过程中，arXiv 的工作人员、志愿者以及我们的支持者正在努力确保 arXiv 提供的重要服务不会中断。”
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84740" target="_blank"&gt;来自 Google 的 Android 恶意程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Android 自由软件应用商店 F-Droid 警告，过去几个月 Google 向多达 40 亿 Android 设备推送了被称为 Android Developer Verifier(ADV)的恶意程序。它以系统服务的形式在后台秘密运行，拥有完整的 root 权限，正静静等待 Google 的激活信号。ADV 服务无法屏蔽、禁用或移除。一旦激活，它唯一的目的就是阻止用户运行未经 Google 批准的开发者应用。Google 是以安全的名义强制推行 Android 开发者验证计划。根据 Android Developer Console 服务条款，如果开发者“违反任何条款，或者分发恶意应用或其它有害应用，Google 可能会终止您对 ADC 的访问……”，Google 没有定义恶意应用或有害应用，这意味着一款应用是否是恶意应用由 Google 判断，而作为最大的广告公司，广告屏蔽应用在其眼里可能就属于恶意应用。Google 预计从 9 月 30 日开始逐步激活 ADV。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84729" target="_blank"&gt;中国 2026 年汽车出口量有望达到千万&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                AlixPartners 预测，中国的汽车出口量 2026 年将比上一年增加 4 成，达到 1000 万辆。中国汽车工业协会的统计显示，2026 年 1～5 月出口量同比增长 63%，达 405 万辆。占出口大部分的是纯电动汽车（EV）等新能源汽车，达到 183 万辆，增至 2.1 倍，远远超过汽油汽车的增长率（36%）。如果目前的出口速度持续，2026 年出口量将比 2025 年增加 41%，达到 1000 万辆。如果实现，将成为世界上第一个出口 1000 万辆汽车的国家。相当于日本出口量的约 2.5 倍。中国汽车出口量剧增，主要原因是国内销量的减少。2026 年中国新车销量预计为 2460 万辆，比 2025 年减少 10%。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84730" target="_blank"&gt;研究人员将干细胞转化为人类初级卵母细胞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国生物科技创业公司 Conception 宣布成功诱导干细胞转化为人类初级卵母细胞，称这是一项重大的科学进步。科学家已在小鼠身上实现了利用干细胞制造卵子。研究人员首先将小鼠皮肤细胞转化为“诱导多能干细胞”（iPSC），然后转化为可用的卵子。这些卵子产生了健康的幼崽，寿命正常，能自然繁殖，有自己的健康后代。该过程被称为“体外配子发生”（in vitro gametogenesis），在小鼠身上比在大型动物身上更容易实现。
-IVG 有潜力重新定义生殖。简单通过抽血就可以制造出一个家庭需要的尽可能多的健康卵子。这种能力将可用摆脱生物和遗传的限制，极大扩大家庭生育健康孩子的选择，使女性能在更大的年龄生育后代。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84731" target="_blank"&gt;LHC 第三次停机维护&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                CERN 宣布了 LHC 的第三次长时间停机维护（Long Shutdown 3）。这次维护和升级将为下一阶段的 High-Luminosity LHC(HiLumi LHC)的运行做准备。LHC 于 1998-2008 年建造，2009 年投入运行，2010 年首次实现 3.5TeV 粒子对撞，2012 年宣布发现了希格斯玻色子。2013-2015 年 LHC 进行了第一次维护升级，使得粒子对撞的总能量提高到了 13.0TeV；2018 年底到 2022 年 4 月 LHC 进行第二次维护升级。第三次停机维护将是至今最大规模的升级改造，HiLumi LHC 计划于 2030 年投入运行，其亮度提高最多十倍，将使研究人员能收集规模更大的数据集，对希格斯玻色子进行更精确的研究，增强发现标准模型之外现象的潜力。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-01</guid><pubDate>Wed, 01 Jul 2026 12:08:56 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-02</guid><pubDate>Thu, 02 Jul 2026 11:34:03 +0000</pubDate></item></channel></rss>
