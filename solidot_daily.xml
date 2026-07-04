@@ -1,79 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 03 Jul 2026 11:32:28 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月03日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 04 Jul 2026 10:54:16 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月04日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84742" target="_blank"&gt;DGX Spark 黑客松线上训练营：4 小时干货，从环境配置到具身智能，手把手教你搭出能跑的 Agent&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                &lt;p&gt;&lt;span class="lark-record-clipboard"&gt;&lt;/span&gt;&lt;/p&gt;
-
-NVIDIA DGX Spark 黑客松开赛即报满，但赛事之外还有一场更适合"先蹭一波再决定要不要打"的硬核直播
-直播时间：7 月 12 日 10:00 - 12:00&lt;br /&gt;
-
-训练营内容：
-&lt;span style="color: rgb(46,161,33);"&gt;1· &lt;/span&gt;黑客松赛事规则说明：解读赛事机制、评审标准与提交流程，帮助团队明确方向、高效备赛。
-&lt;span style="color: rgb(46,161,33);"&gt;2 · &lt;/span&gt;基于 DGX Spark 和 Step 3.7 搭建本地 Agent Team 的最佳实践：从环境配置到模型推理，讲解如何在 DGX Spark 上高效落地Stepfun3.7模型能力。
-&lt;span style="color: rgb(46,161,33);"&gt;3 · &lt;/span&gt;Agent 一键出片：基于 DGX Spark 搭建本地视觉生成智能体 演示如何构建具备视觉理解与内容生成能力的本地 Agent，打通从提示词到成片的完整链路。
-&lt;span style="color: rgb(46,161,33);"&gt;4 ·&lt;/span&gt;&lt;span style="color: rgb(46,161,33);"&gt; &lt;/span&gt;从本地 AI 到具身智能：基于 DGX Spark 构建桌面机器人 Agent 开发平台 探索 Agent 从软件走向物理世界的实现路径，展示 DGX Spark 在具身智能场景下的开发实践。
-&lt;br /&gt;
-
-
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84752" target="_blank"&gt;蜂后会将农药负担转移给蜂卵&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                蜜蜂是重要的授粉昆虫，但其数量在世界各地都出现了下降，原因可能与农药有关。发表在《Current Biology》期刊上的一项研究在实验室条件下跟踪了农药在一个小型蜂群中的流动。研究发现，工蜂最初通过食物过滤和在蜂巢中沉积将食物中的农药水平降低 95%，但到第 10 天过滤效率下降至 86%；蜂后体内的农药含量显著低于工蜂，但随着时间的推移，蜂后会在卵巢中积累农药并将其转移到正在发育的蜂卵；蜂后的存在会改变整个蜂群的化学物质分布，工蜂会集中接触农药，增加蜂蜡中农药的沉积。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84743" target="_blank"&gt;轨道数据中心的炒作和现实&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                SpaceX 创始人 Elon Musk 今年一月在达沃斯世界经济论坛上宣称，最迟三年轨道数据中心就能实现。随后 SpaceX 向 FCC 递交申请发射 100 万颗卫星建立轨道数据中心星座。Musk 总是喜欢夸大其词，他说完全自动驾驶汽车将在 2017 年实现，载人火星任务将在 2024 年实现，到 2025 年底将会制造出 1 万台 Optimus 人形机器人。目前地球轨道上约有 14,500 颗卫星，Starlink 星座占了三分之二，要部署 100 万颗卫星，SpaceX 的火箭发射频率和卫星制造能力都需要大幅提升。SpaceX 下一代火箭 Starship 能将 60 颗卫星发射到轨道上，100 万颗卫星至少需要执行 16,666 次发射。SpaceX 在 2025 年创下了 165 次轨道发射纪录，如果将发射频率提高到 10 倍，也需要十年才能发射完毕。Starlink 卫星的建造速度为每年 4000 颗，除非卫星制造发生革命性变革，制造 100 万颗卫星也需要约 25 年。轨道数据中心星座距离现实还遥遥无期。这还没有考虑轨道数据中心所需要的庞大散热器、以及辐射、维护、轨道碎片等问题。那么为什么 SpaceX 要大力宣传轨道数据中心？为了钱。IEEE Spectrum 的 Dina Genkina 称，Musk 在自己给自己发钱上几乎是天才，他让 xAI 负责建造数据中心，SpaceX 负责将它们发射到太空，特斯拉负责制造太阳能电池板，他就像是自己给自己发工资。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84753" target="_blank"&gt;NASA 发射探测器拯救坠落中的 Swift 天文台&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2004 年发射的 Neil Gehrels Swift 天文台设计监测宇宙中的伽马射线暴，它最初的运行轨道高度约 600 公里，但由于大气阻力其轨道高度已衰减至约 400 公里。2024 年太阳极大期间的太阳活动导致了地球大气膨胀，加速了轨道衰减。如果不进行拯救，Swift 天文台将于 2026 年底不受控重返大气层。Swift 天文台本身没有推进系统。去年 9 月 NASA 授予 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道的探测器 LINK。LINK 于 7 月 3 日成功发射，未来几个月它将尝试用三个机械臂抓住 Swift 天文台，启动推进器，将其送回 600 公里高度的安全轨道。这是一项雄心勃勃的任务，如果成功，那么下一个拯救任务有可能是哈勃太空望远镜。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84744" target="_blank"&gt;OpenAI 磋商将 5% 股份送给美国政府&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                随着 AI 公司试图缓和与特朗普政府的关系，OpenAI 正磋商向美国政府捐赠其 5% 的股份。OpenAI CEO Sam Altman 认为，向美国公众提供该公司的股份是分享 AI 好处的最佳方式。它的提议还建议还其它美国 AI 公司向政府捐出类似的股份，目前尚不清楚 Anthropic、Google 和 Meta 等公司是否会同意该计划。OpenAI 高管建议，美国 AI 公司应将 5% 股份捐给主权基金 Alaska Permanent Fund。这一谈判是“概念性的”，还处于早期阶段，任何协议可能需要国会通过法案才能实施。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84754" target="_blank"&gt;现代生活可能与人类大脑不匹配&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                人类大脑演化适应了一个充满熟人、直接威胁以及小型社交群体的世界。但今天世界变化速度远超人类演化适应的速度。这种不匹配或能解释人类所经历的压力、孤独和持续攀比心理。新加坡研究人员在《Behavioral Sciences》期刊上发表论文，探讨了如何从演化角度理解压力、竞争和孤独。在熟人小群体中形成的行之有效的反应，在现代生活中显得格格不入，甚至令人难以承受。这种演化上的不匹配在社交媒体时代尤其显著。论文合作者 Jose Yong 博士称，竞争不是新鲜事，但现代生活让它无处不在，从演化论的角度看，或许可以解释为什么人们对对比和害怕落后的反应如此强烈，即便这些信号并非来自小群体，而是来自陌生人或屏幕。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84745" target="_blank"&gt;Google 的 2025 年用电量增长了 37%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 通过最新的可持续发展报告承认，该公司自 2019 年以来用电量增长了逾 250%，在 2024 年增长 27% 基础上 2025 年又增长了 37%。Google 将这一切归于 Google Cloud、YouTube 视频串流以及 AI 基础设施的建造和运营的持续增长。Google 数据中心在 2025 年消耗了逾 4200 万 MWh 电力，2024 年则是 3060 万 MWh。这意味着 Google 数据中心的能源消耗量相当于新西兰、丹麦和尼日利亚等国全国的电力消耗量。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84755" target="_blank"&gt;全球极端热应激现象加剧&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                发表在《Nature Climate Change》期刊上的一项研究显示，全球极端热应激现象加剧。相比 1970 年代，当前多出约 10 亿人要至少扛过一天“极端热应激”，也就是通用热气候指数（UTCI）≥46℃的日子。研究人员分析了 1950-2024 年共 75 年的全球热应激数据集，把白天、夜间，还有昼夜连着的那段时间分开算。结论不复杂：无论哪个时段，热应激现象在频率、强度、持续时间上全线走高，而夜里跑得比白天还快。自 1970 年代以来，从全球平均来看，每年最热的十个夜晚，UTCI 升温速率是每十年 0.32℃；每年最热的十个白天反倒慢一点，每十年 0.27℃。城市热岛效应是原因之一，但更重要是湿度。夜间地表辐射冷却被云量和大气水汽兜住，加上静风日数增加，“凉不下来”的夜越来越多。地域分布上，亚热带首先遭殃：北美南部、欧洲南部、非洲南北两端、南美这些地方，跟 1970 年代比，每年 UTCI≥32℃（强）和≥46℃（极端）的天数多了约 50 天。也就是说，某些亚热带城市一年里快要有一半日子卡在强热应激线上。西班牙、葡萄牙、意大利、法国这一部分南欧国家，现在的体感温度比 1970 年代高出 5 ℃。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84746" target="_blank"&gt;苹果寻求从长鑫和长江存储采购内存&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                内存价格危机正迫使美国硬件制造商违背政府意愿尝试与中国内存制造商达成交易。苹果正与长鑫存储和长江存储谈判采购内存，以缓解全球内存短缺的影响。两家中国公司都被五角大楼列入了 1260H 名单，该黑名单并不具有法律上的禁止交易效力。但如果同时被列入美国商务部的实体清单，美国公司与之交易会受到限制，这正是苹果寻求阻止的。苹果可能会尝试仅在销往中国的苹果设备中使用中国内存芯片，以此限制负面影响。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84747" target="_blank"&gt;代糖会扰乱肠道健康和新陈代谢&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                越来越多的研究表明，人工甜味剂和非营养性甜味剂可能会扰乱新陈代谢。代糖在食品中已经无处不在。根据发表在《Current Atherosclerosis Reports》期刊上的一篇综述和荟萃分析，研究人员发现相比水或安慰剂等非热量对照组，人工甜味剂和低热量甜味剂会导致空腹胰岛素水平升高，糖化血红蛋白（HbA1c，长期血糖控制的标志物）升高，显示出胰岛素敏感性恶化的趋势。研究人员表示，一种解释与肠道微生物群有关。非营养性甜味剂会通过肠道与这些微生物直接接触，研究表明它会改变肠道微生物群的组成和功能。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84748" target="_blank"&gt;日本最高法院裁决 AI 不能被列为专利申请的发明人&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                日本最高法院驳回了一位美国工程师要求将 AI 列为专利申请发明人的上诉。日本最高法院维持了下级法院的判决，即根据专利法，专利申请的发明人必须是“自然人”。原告于 2020 年提交了一份专利申请，发明人是原告创建的 DABUS AI。专利局要求原告提供自然人的姓名作为发明人。原告拒绝提供，因此该申请被驳回。日本最高法院表示，专利法并未预见到 AI 的快速发展，而关于是否应授予 AI 发明专利权的问题“鉴于其对社会的影响，需要进行讨论”。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84749" target="_blank"&gt;阿里巴巴与美国达成和解将支付 6 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国司法部表示，因未能阻止商家进口和销售违法药物，阿里巴巴集团及蚂蚁集团子公司将支付 6 亿美元，目前已就此达成和解协议。美国司法部不会起诉两家公司。阿里巴巴在 2016 年 1 月至 2024 年 12 月期间，未能防止商家通过阿里运营的电商平台向美国进口和销售违法化学物质、药品以及假药制造设备。蚂蚁子公司 AUS 则在 2020 年 1 月至 2023 年 12 月期间提供了支付服务。销售的违法商品达到 8 万笔，交易总额超过 2 亿美元。阿里巴巴将被没收 2 亿美元，AUS将被没收 1.9 亿美元，此外，阿里巴巴还将支付 1.25 亿美元罚金，AUS 将支付 8500 万美元罚金。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84750" target="_blank"&gt;Valve 开源 Steam Machine 的电子墨水屏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Valve 不会为 Steam Machine 游戏机提供正面的电子墨水屏，但它开源了相关技术，允许任何人自己动手为 Steam Machine 安装墨水屏。相关文件在 MIT 许可证下发布在 GitLab。Valve 将该项目称之为 Inkterfac，用户需要准备：&lt;br /&gt;
-1 x Adafruit ESP32 Feather with 2MB PSRAM.&lt;br /&gt;
-1 x Adafruit eInk Breakout Friend.&lt;br /&gt;
-1 x Adafruit 5.83" Monochrome eInk Panel.&lt;br /&gt;
-13 x M2.5 x 5mm Pan Head Machine Screws.&lt;br /&gt;
-4 x 1/4" x 1/4" x 3/16" Stepped Magnet SB443-OUT.&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84751" target="_blank"&gt;阿里巴巴禁止员工使用 Claude Code&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                阿里巴巴因担心后门禁止员工在工作中使用 Anthropic 的 Claude Code，它要求员工使用自家的编程平台 Qoder。尽管 Anthropic 限制了中国用户和实体的访问，但 Claude Code 在中国程序员中间仍然非常受欢迎。Anthropic 上个月指控阿里巴巴蒸馏了其模型，几天前它的 Claude Code 被发现包含了检测用户是否来自中国的代码。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-03</guid><pubDate>Fri, 03 Jul 2026 11:32:28 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-04</guid><pubDate>Sat, 04 Jul 2026 10:54:16 +0000</pubDate></item></channel></rss>
