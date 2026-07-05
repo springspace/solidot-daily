@@ -1,26 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 04 Jul 2026 10:54:16 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月04日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 05 Jul 2026 11:04:07 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月05日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84752" target="_blank"&gt;蜂后会将农药负担转移给蜂卵&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                蜜蜂是重要的授粉昆虫，但其数量在世界各地都出现了下降，原因可能与农药有关。发表在《Current Biology》期刊上的一项研究在实验室条件下跟踪了农药在一个小型蜂群中的流动。研究发现，工蜂最初通过食物过滤和在蜂巢中沉积将食物中的农药水平降低 95%，但到第 10 天过滤效率下降至 86%；蜂后体内的农药含量显著低于工蜂，但随着时间的推移，蜂后会在卵巢中积累农药并将其转移到正在发育的蜂卵；蜂后的存在会改变整个蜂群的化学物质分布，工蜂会集中接触农药，增加蜂蜡中农药的沉积。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84756" target="_blank"&gt;仙女座发现新卫星星系&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家在距离地球约 250 万光年的仙女座星系附近，发现了一个新的超暗矮星系，命名为仙女座 XXXVI（Andromeda XXXVI，其中 XXXVI 为罗马数字 36），代表它是目前正式命名的第 36 个仙女座卫星星系。研究显示，它可能是迄今在仙女座星系周围发现最暗淡的卫星星系之一。这个星系年龄约达 125 亿年。仙女座星系是距离银河系最近的巨大螺旋星系，周围环绕着许多受到重力束缚的矮卫星星系，因此被视为研究星系形成的天然实验室。目前理论预测，仙女座可能拥有多达约 90 个卫星星系，但迄今仅发现约 40 个，其中只有约 15 个属于超暗矮星系。仙女座 XXXVI 的发现显示，在仙女座周围可能仍隐藏着大量尚未被发现的极暗小星系。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84753" target="_blank"&gt;NASA 发射探测器拯救坠落中的 Swift 天文台&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2004 年发射的 Neil Gehrels Swift 天文台设计监测宇宙中的伽马射线暴，它最初的运行轨道高度约 600 公里，但由于大气阻力其轨道高度已衰减至约 400 公里。2024 年太阳极大期间的太阳活动导致了地球大气膨胀，加速了轨道衰减。如果不进行拯救，Swift 天文台将于 2026 年底不受控重返大气层。Swift 天文台本身没有推进系统。去年 9 月 NASA 授予 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道的探测器 LINK。LINK 于 7 月 3 日成功发射，未来几个月它将尝试用三个机械臂抓住 Swift 天文台，启动推进器，将其送回 600 公里高度的安全轨道。这是一项雄心勃勃的任务，如果成功，那么下一个拯救任务有可能是哈勃太空望远镜。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84757" target="_blank"&gt;火星岩石发现大量碳，来源未知&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 漫游车在火星上发现的有机碳绝大多数都是在岩石的内部，需要通过钻或磨才能暴露。如今火星漫游车毅力号在河道 Neretva Vallis 附近的岩石表面发现了复杂大分子碳，这是至今在火星上发现的最浅的有机物。如果地球上发现类似的大量大分子碳，通常表明它们来自生物。但对于火星岩石上发现的大量碳，则难以识别其来源，除非将其带到地球进行仔细研究。研究人员表示这些分子碳也可能源于非生物过程。它们是否是古代火星生命的遗迹，还有待未来回答。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84754" target="_blank"&gt;现代生活可能与人类大脑不匹配&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                人类大脑演化适应了一个充满熟人、直接威胁以及小型社交群体的世界。但今天世界变化速度远超人类演化适应的速度。这种不匹配或能解释人类所经历的压力、孤独和持续攀比心理。新加坡研究人员在《Behavioral Sciences》期刊上发表论文，探讨了如何从演化角度理解压力、竞争和孤独。在熟人小群体中形成的行之有效的反应，在现代生活中显得格格不入，甚至令人难以承受。这种演化上的不匹配在社交媒体时代尤其显著。论文合作者 Jose Yong 博士称，竞争不是新鲜事，但现代生活让它无处不在，从演化论的角度看，或许可以解释为什么人们对对比和害怕落后的反应如此强烈，即便这些信号并非来自小群体，而是来自陌生人或屏幕。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84755" target="_blank"&gt;全球极端热应激现象加剧&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                发表在《Nature Climate Change》期刊上的一项研究显示，全球极端热应激现象加剧。相比 1970 年代，当前多出约 10 亿人要至少扛过一天“极端热应激”，也就是通用热气候指数（UTCI）≥46℃的日子。研究人员分析了 1950-2024 年共 75 年的全球热应激数据集，把白天、夜间，还有昼夜连着的那段时间分开算。结论不复杂：无论哪个时段，热应激现象在频率、强度、持续时间上全线走高，而夜里跑得比白天还快。自 1970 年代以来，从全球平均来看，每年最热的十个夜晚，UTCI 升温速率是每十年 0.32℃；每年最热的十个白天反倒慢一点，每十年 0.27℃。城市热岛效应是原因之一，但更重要是湿度。夜间地表辐射冷却被云量和大气水汽兜住，加上静风日数增加，“凉不下来”的夜越来越多。地域分布上，亚热带首先遭殃：北美南部、欧洲南部、非洲南北两端、南美这些地方，跟 1970 年代比，每年 UTCI≥32℃（强）和≥46℃（极端）的天数多了约 50 天。也就是说，某些亚热带城市一年里快要有一半日子卡在强热应激线上。西班牙、葡萄牙、意大利、法国这一部分南欧国家，现在的体感温度比 1970 年代高出 5 ℃。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-04</guid><pubDate>Sat, 04 Jul 2026 10:54:16 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-05</guid><pubDate>Sun, 05 Jul 2026 11:04:07 +0000</pubDate></item></channel></rss>
