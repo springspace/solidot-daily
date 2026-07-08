@@ -1,56 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 07 Jul 2026 11:51:07 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月07日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 08 Jul 2026 11:05:04 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84766" target="_blank"&gt;工作记忆如何产生意识？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                有没有类似经历：走进一间房间，却忘记来干什么？你可能是来拿钥匙，在来的路上还记住钥匙，但在进门的刹那钥匙从你的记忆里消失了。这种现象有时被称为门口效应（Doorway Effect），通常发生在走进一间陌生的房间时。它与工作记忆密切相关。当我们执行当前任务（如记住去拿钥匙）时，信息会被存储在工作记忆中。门口效应表明，当信息从工作记忆中移除时，它似乎会立即从意识中消失。这也表明工作记忆中的信息很容易被遗忘。工作记忆内部包含众多不同子系统，分别负责特定的任务，包括视觉和空间推理（如解魔方）以及存储信息块（如电话号码）。甚至还有一个“中央执行系统”。中央执行系统就像一个冷酷的老板，负责将任务分配给工作记忆内的不同系统，确保一切井然有序。工作记忆的一个独特之处是它的容量非常有限。尽管它拥有丰富的可用信息，但工作记忆在任何时刻只能存储极少量的信息。它很难记住非常复杂的物体。工作记忆的有限容量能解释为什么门口效应会发生：当新信息进入时旧信息必须被清除。进门的动作会触发信息消除。从演化论角度看，遗忘旧信息有助于适应新环境。这种遗忘也表明工作记忆与意识密切相关。一种观点认为，意识的产生源于工作记忆和注意力的协同作用。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84775" target="_blank"&gt;连续数周缺觉会导致体重增加&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                研究人员发现，连续六周每晚少睡 80 分钟的人体重平均增加一磅，且更长时间久坐。研究团队招募了 95 名睡眠时间为 7-8 小时的成年人。参与者被要求在一个为期六周阶段内将正常就寝时间推迟 90 分钟，在另一个为期六周阶段内保持正常睡眠时间。研究人员使用腕式监测器测量了每个阶段的睡眠和活动水平，体重、腰围、身体成分和几种已知能增加或抑制食欲的激素的空腹水平变化。结果显示仅仅六周体重就出现了增长。此外，缺觉阶段的受试者久坐时间平均每天增加 17 分钟，男性和绝经后女性的久坐时间平均每天增加近 30 分钟。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84767" target="_blank"&gt;亚马逊 Mechanical Turk 将于本月底停止接受新用户&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                亚马逊众包平台 Mechanical Turk 发表公告，宣布将于 7 月 30 日起停止接受新用户。亚马逊 AWS 称，该决定是在“慎重考虑”后做出的，“现有用户可以继续正常使用该服务。AWS 将继续投资改进 Mechanical Turk 的安全性和可用性，但我们不打算推出新功能。”Mechanical Turk 暂时不会关闭，但其未来岌岌可危。亚马逊从 2018 年起将 Mechanical Turk 变成训练神经网络的标注数据服务。但讽刺的是 2023 年的研究发现，该平台 33% 到 46% 的众包工作者使用大模型去完成任务，引发了对标注数据的可靠性以及是否真的需要人类参与的质疑。社交平台的用户称，由于大量的机器人和欺骗行为，研究人员已经放弃了该平台，它的关闭可能只是时间问题。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84776" target="_blank"&gt;内存成本占到了低端智能手机总成本的六成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据分析机构 Omdia 的数据，2026 年第一季度 400美元以下智能手机的物料清单中，内存成本几乎占到了六成，而且此后情况并未好转。市场观察机构 TrendForce 上月预测，2026 年 DRAM 价格还将上涨 50% 以上，这使得廉价手机制造商不可避免将组件成本上涨的压力转嫁给消费者。为了抵消不断上涨的内存成本，制造商尝试转向更便宜的显示面板、传感器或射频模块，但低端手机本就建立在极其紧凑的成本结构上，几乎没有进一步压缩的空间。这与入门级 PC 的情况类似。Omdia 预计 2026 年 400 美元以下智能手机的出货量将同比下降 22%。不过 Omdia 认为，虽然 2026 年全球智能手机市场整体将下滑 12%，但 400 美元以上的中高端市场将保持韧性，出货量有望增长 5.7%。智能手机制造商正将生产重心转向中高端机型。部分中国制造商正在某些升级至新型 LTPO 技术的机型中重新采用 LTPS 显示面板，将 LTPO 保留给高端机型。这可以为每台设备节省 3-5 美元的成本。 其它措施还包括减少摄像头数量、使用更小的图像传感器，或改用上一代 SoC，这些措施可将成本降低约 30% 至40%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84768" target="_blank"&gt;被社媒用户指控是 AI 创作的短篇小说赢得英联邦短篇小说奖&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                被社媒用户指控是 AI 创作的短篇小说《The Serpent in the Grove》赢得英联邦短篇小说奖。这篇小说由 Jamir Nazir 创作，在五月份赢得了地区奖项，随后立即被 X 等平台的社媒用户指控是 AI 创作。原因是它包含了典型的 AI 写作模式，包括“不是 x 而是 y”结构以及三列表结构。在引发争议之后，Commonwealth Foundation 检查了所有地区奖得主的草稿、含时间戳的文件和笔记等内容。该基金会之后宣称他们没有发现作品是 AI 生成的证据。 Nazir 称其作品深受 VS Naipaul 和 Derek Walcott 等作家作品的影响。他说这篇小说写了六七稿，他解释说其手机屏幕一次只能显示三四行文字，所以他会写下一行前对前面的文字细致修改，最终使故事显得“高度润色”。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84777" target="_blank"&gt;LineageOS 项目谈 Google 的开发者认证计划&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                LineageOS 项目谈论了即将生效的 Google Android 开发者认证计划对该项目意味着什么。Android 开发者认证计划意味着所有 Android 安装路径都将通过 Google 控制的基础设施，授予 Google 一个“终止开关”可封禁全球任何 Android 应用或开发者。开发者认证对 LineageOS 项目没有直接影响，但会影响到运行任何官方 ROM 的用户。因为验证开发者的基础设施是 Google Mobile Services（GMS）的一部分，而 LineageOS 默认并不提供也无计划提供 GMS。除非 LineageOS 用户选择安装包含开发者验证基础架构的 GApps 包，否则该功能不会造成任何影响。如果 Google 将该功能集成到 Play Services 中，那么 LineageOS 项目将会全局禁用该功能。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84769" target="_blank"&gt;天问二号探测器抵达目标小行星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国国家航天局周一宣布，天问二号探测器历经约 400 天、行程约 10 亿千米飞行后于近日与小行星 2016HO3 成功交会，到达距离小行星 20 千米处，开始科学探测。在抵近小行星过程中，探测器获得小行星影像数据。同时任务团队利用探测器抵近过程中获得的光学导航数据，改进了小行星星历，将之前仅依靠地基观测所确定的小行星位置误差，由上百千米减小到千米量级。天问二号探测器于 2025 年 5 月 29 日在西昌卫星发射中心成功发射。2026 年 6 月 6 日，探测器首次捕获到小行星；6 月 7 日，在距离小行星 3 万千米处实施捕获控制，实现与小行星共面飞行；6 月 19 日，到达距离小行星 2000 千米处。后续探测器将逐步开展更精细科学探测，获取小行星形貌、物质成分、内部结构等信息，为做好采样准备提供支撑。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84778" target="_blank"&gt;学习多种语言能延缓大脑衰老最长 13 年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                学习多种语言与大脑衰老延缓相关。一项研究发现，双语者的大脑比单语者年轻约六岁，掌握四种语言的人的大脑则年轻多达十三岁。随着年龄的增长，大脑的连接性会下降，记忆力和思维速度会减慢。此前的研究发现，掌握多种语言的欧洲国家居民衰老更慢。最新研究则测量了多语言能力对个体大脑的影响。研究对象是西班牙巴斯克（Basque）地区的居民，当地居民会说西班牙语、巴斯克语、法语和/或英语。研究人员用脑磁图（magnetoencephalography）测量了 728 名不同年龄和语言能力水平的人的大脑活动。结果显示，掌握了多种语言的人其大脑年龄比实际年龄更年轻。研究结果表明，学习第二、第三甚至第四门语言有助于大脑保持年轻状态，而且越早开始学习效果越好。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84770" target="_blank"&gt;美国研究型大学招收的博士生人数减少 15%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国大学协会 55 所研究型大学的数据显示，2026 年秋季招收的博士生人数比 2025 年减少了 15%。博士生减少引发了对美国科研能力下降的担忧。造成这一现象的一大原因是特朗普政府混乱且难以预测的联邦拨款环境。美国大学协会包含了 69 所最知名的研究型大学，全美半数的研究型博士学位由其这些大学授予。该协会的高级副总裁 Toby Smith 表示，由于支持学生的能力下降，美国正面临失去整整一代新人才的风险。博士生人数下降的原因包括国立卫生研究院（NIH）和国家科学基金会（NSF）等重要联邦机构在减少科研经费，而最富有的大学还面临对其捐赠基金征收的新联邦税。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84779" target="_blank"&gt;Windows 11 26H2 将对企业默认启用云备份，欧盟地区除外&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                从下半年发布的 Windows 11 26H2 起，微软将对符合条件的企业设备默认启用云备份，但欧盟地区除外。被称为 Windows settings backup and restore 的功能将备份设备的设置和已安装 Microsoft Store 应用列表，用户可以将备份恢复到新设备上。微软称，想象下笔记本电脑丢失、硬件更新或意外重启。这些情况下用户最需要备份，而用户最不希望看到的就是备份功能从未启用。对于受到欧盟数字市场法案 (Digital Markets Act) 监管的组织，云备份不会默认启用。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84771" target="_blank"&gt;美国最高法院允许德州要求移动应用验证用户年龄&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国最高法院允许德州要求移动应用验证用户年龄。德州的新法律要求应用商店在未成年人下载应用前验证用户年龄并获得家长同意。代表 Google 和苹果的行业组织 Computer &amp;amp; Communications Industry Association 认为该法律覆盖范围太广，会限制青少年访问各种数字内容，会对数字言论保护产生深远影响。在该法律生效前几天，联邦地区法院去年底阻止了该法律的实施。保守派的第五巡回上诉法院在今年六月搁置了该裁决，允许德州继续推行这一法律。美国最高法院维持第五巡回上诉法院的裁决，它并没有做出决定，但允许德州在诉讼期间继续执行该法律。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84780" target="_blank"&gt;研究员用海贼王主角名字命名新属甲虫&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                丹麦研究团队用海贼王主角路飞（Luffy）的名字命名新属甲虫。研究团队指出，将新属命名为 Luffy 并非单纯为了好玩，而是因为该属物种在形态上具有极具辨识度的特征：它们的大颚、触角与小颚须相较于近缘类群显著更加细长，整体比例呈现出特别修长的形态。这样的外形，让研究人员立刻联想到《海贼王》中主角路飞拥有能够自由伸展、变长的橡胶身体特性。该新属目前已发现两个物种：施氏路飞隐翅虫（Luffy schillhammeri）：发现于中国云南。其种名是为了表彰维也纳自然历史博物馆的 Harald Schillhammer 博士，感谢他长期以来对相关隐翅虫类群研究的卓越贡献。尼卡路飞隐翅虫（Luffy nika）：发现于老挝北部。其种名“nika”源自路飞的“人人果实·幻兽种·尼卡形态”（即五档形态）。由于该新种的翅鞘上带有白色带状毛，且身体多处布满白毛，神似路飞变身尼卡时全身纯白、烟雾缭绕的经典模样，因此得名为“尼卡路飞隐翅虫”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84772" target="_blank"&gt;微软裁员 4800 人，游戏业务深受影响&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软裁员 4800 人，其中游戏业务 Xbox 裁员 1600 人，多个游戏工作室或者出售或者独立。微软执行副总裁兼首席人力资源官 Amy Coleman 强调：被裁掉的职位不会被 AI 取代，但 AI 确实在改变工作的方式。部分日常工作可以自动化了，意味着人人都需要不断学习，不断提升技能，并不断调整自己。Xbox CEO Asha Sharma 称这是 Xbox 历史上最重大的重组。Xbox 将缩小业务范围，放弃回报率的业务，专注于回报率高的业务如《我的世界》的 Mojang 以及《糖果粉碎传奇》的手游开发商 King。作为重组的一部分，Double Fine 和 Compulsion 两大工作室将独立。Ninja Theory 和 Undead Labs 工作室出售，Arkane 工作室则在评估中可能独立可能出售，Obsidian 工作室裁掉四分之一员工，id Software 也大规模裁员。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84781" target="_blank"&gt;LG 显示器静默安装 Windows 广告程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Reddit 用户报告 LG 显示器会静默安装 Windows 广告程序。而戴尔和 Alienware 显示器被发现也存在类似的行为。分析发现，LG 显示器会通过 Microsoft Store 和 Windows Update 自动安装名为 LG Monitor App Installer 的安装程序，LG Monitor App 会开机启动，会弹出广告，比如将用户导向迈克菲的杀毒软件。LG Monitor App 无法通过 Microsoft Store 卸载，阻止其弹出广告的方法是禁止其开机启动（位于 设置&amp;gt;应用&amp;gt;启动 中）。而禁止显示器自动安装程序的方法是干脆完全禁用 Microsoft Store。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84773" target="_blank"&gt;美国人的每天社交时间比 20 年前少 10 分钟&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在智能手机和社媒时代，人们将越来越多的时间花在屏幕上。调查显示，美国人每天的平均社交时间从 20 年前的 45 分钟减少 10 分钟至 35 分钟。这一趋势在所有年龄段都存在，其中 15-24 岁人群下降幅度最大，每天社交时间从约 1 小时降至 35 分钟。与此同时，青少年平均每天花费 4.8 小时在 TikTok、Instagram 和 Snapchat 等社媒应用上。聚会场所的减少也是造成这一趋势的原因之一。过去十年美国各类休闲场所——从图书馆到咖啡馆到博物馆——都出现了大范围关闭，甚至教堂也存在类似现象。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84782" target="_blank"&gt;Microsoft 365 Copilot 普及率不到 4.5%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软花了三年时间将 Copilot 深入集成到 Windows 11 和 Office 中，但数据显示用户使用率并不高。在 4.5 亿 Microsoft 365 订阅服务的商业客户中，只有 4.5% 的人付费使用 Copilot，而这些付费用户只有 20% 到 30% 会每周打开 Copilot。这意味着 Copilot 的周活跃用户数仅占 Microsoft 365 总用户数的 1%。Copilot 负责人 Jacob Andreou 在一份内部备忘录中称，Copilot 必须证明自己存在的价值。值得说明的是 Copilot 是指需要额外付费的 AI 服务，而 Copilot Chat 则是 Microsoft 365 用户可免费使用的 AI 服务，它的使用率比较高。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84774" target="_blank"&gt;空气污染通过干扰冲动控制导致儿童肥胖&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                空气污染可能通过影响儿童控制冲动能力而导致其肥胖。研究发现，在出生第一年接触较高浓度 PM2.5 的婴儿在儿童后期更容易出现冲动控制障碍。PM2.5 颗粒物常见人为来源包括交通和化石燃料燃烧，它与一系列健康问题相关，如痴呆症和中风。此前的研究表明 PM2.5 会扰乱新陈代谢并与体重增加有关。研究人员分析了墨西哥城的 434 名儿童的数据，他们多数出生于 2007-2008 年间。研究人员模拟了孕期和儿童出生后第一年的环境 PM2.5 水平。之后研究人员对这些儿童的冲动性和肥胖进行了评估。PM2.5 暴露水平最高的儿童组表现出较高的冲动性，反映出其抑制控制能力存在显著缺陷。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84783" target="_blank"&gt;长鑫和长江存储正在扩大产能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                长鑫存储技术（CXMT）和长江存储科技（YMTC）正新建工厂，预计到 2027 年以后，两家企业的产能都将超过目前的两倍。业界相关人士透露，长鑫高性能存储器 HBM 目前在安徽省合肥市的工厂生产，在上海市正在建设的工厂将从 2027 年开始正式生产。随着新工厂的投产等，整体产能预计增至目前的 2 倍以上。长江存储生产用于长期存储的 NAND 闪存和以 NAND 为主要零部件的固态硬盘（SSD）。目前长江存储正在湖北省武汉市建设第 3 工厂，力争将原定 2027 年的量产开始时间提前至 2026 年底。该公司还计划追加建设 2 座工厂，有分析认为全部投产之后产能将增至 2 倍以上。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-07</guid><pubDate>Tue, 07 Jul 2026 11:51:07 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84784" target="_blank"&gt;大多数 AI slop 应用会很快停止维护和抛弃&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                由于涌入了大量低质量的 AI 生成应用，Linux 软件仓库 Flathub 于五月底宣布停止接受此类 AI 生成应用。审核递交到 Flathub 应用是一个吃力不讨好的工作，当审核者试图与 AI 生成应用递交者沟通时，却发现对方使用的是 AI 智能体，回复都是答非所问。一位审核者对此评论说，“纯粹是噪音和浪费时间”。从 2026 年 1 月开始，Flathub 将此类应用打上了 AI Slop 的标签。知名 Linux 开发者 Evangelos“GeopJr”Paterakis 调查了 
+过去半年标记为 AI slop 的 120 个应用，32 个仍在维护，88 个已被抛弃，大多数都彻底删除了，部分应用在递交到 Flathub 后就停止了维护。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-08</guid><pubDate>Wed, 08 Jul 2026 11:05:04 +0000</pubDate></item></channel></rss>
