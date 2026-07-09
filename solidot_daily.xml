@@ -1,63 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 08 Jul 2026 11:05:04 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 09 Jul 2026 11:59:45 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84775" target="_blank"&gt;连续数周缺觉会导致体重增加&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                研究人员发现，连续六周每晚少睡 80 分钟的人体重平均增加一磅，且更长时间久坐。研究团队招募了 95 名睡眠时间为 7-8 小时的成年人。参与者被要求在一个为期六周阶段内将正常就寝时间推迟 90 分钟，在另一个为期六周阶段内保持正常睡眠时间。研究人员使用腕式监测器测量了每个阶段的睡眠和活动水平，体重、腰围、身体成分和几种已知能增加或抑制食欲的激素的空腹水平变化。结果显示仅仅六周体重就出现了增长。此外，缺觉阶段的受试者久坐时间平均每天增加 17 分钟，男性和绝经后女性的久坐时间平均每天增加近 30 分钟。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84786" target="_blank"&gt;德国华人性侵案成员被判 5 年监禁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                柏林地方法院周三裁定一名 32 岁的原籍中国的男子犯有协助实施三起严重强奸及严重性胁迫罪，并判处该男子总计五年监禁。这名男子是一个交流有关强奸被麻醉女性信息的聊天群组的八名成员之一。该被告（现已获得医学博士学位）在群组内多次就如何麻醉女性提供医学建议。2024 年 1 月 7 日，一名女性在美因河畔法兰克福遭另一名涉案男子强奸。在此前一天，被告在明知对方有强奸意图的情况下，提供了关于麻醉的具体建议，而该男子随后采纳了这些建议。法庭还认定被告在 2020 年和 2021 年期间曾三次性虐待其未婚妻。这些行为发生在北京的一家酒店客房内，受害女性在这些事件中同样处于被麻醉状态。主审法官将这些罪行定性为严重犯罪。他指出，这些行为体现了极端的厌女倾向，因为涉案女性被贬低为满足性欲的客体。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84776" target="_blank"&gt;内存成本占到了低端智能手机总成本的六成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据分析机构 Omdia 的数据，2026 年第一季度 400美元以下智能手机的物料清单中，内存成本几乎占到了六成，而且此后情况并未好转。市场观察机构 TrendForce 上月预测，2026 年 DRAM 价格还将上涨 50% 以上，这使得廉价手机制造商不可避免将组件成本上涨的压力转嫁给消费者。为了抵消不断上涨的内存成本，制造商尝试转向更便宜的显示面板、传感器或射频模块，但低端手机本就建立在极其紧凑的成本结构上，几乎没有进一步压缩的空间。这与入门级 PC 的情况类似。Omdia 预计 2026 年 400 美元以下智能手机的出货量将同比下降 22%。不过 Omdia 认为，虽然 2026 年全球智能手机市场整体将下滑 12%，但 400 美元以上的中高端市场将保持韧性，出货量有望增长 5.7%。智能手机制造商正将生产重心转向中高端机型。部分中国制造商正在某些升级至新型 LTPO 技术的机型中重新采用 LTPS 显示面板，将 LTPO 保留给高端机型。这可以为每台设备节省 3-5 美元的成本。 其它措施还包括减少摄像头数量、使用更小的图像传感器，或改用上一代 SoC，这些措施可将成本降低约 30% 至40%。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84787" target="_blank"&gt;美国成年人肥胖率突破四成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                研究人员分析了 1999-2023 年近 8700 名美国居民的健康数据，这些居民包括 20 岁以下的青少年和 20 岁以上的成年人。结果显示：成年人的肥胖率从 30% 增至 41%，重度肥胖率从 5% 增至 10%，腹部脂肪堆积过多的腹部肥胖率从 48% 增至 61%；青少年的总体肥胖率上升了 30%，重度肥胖率上升 50%，腹部肥胖率增长了三倍。分析还发现，肥胖率存在​​性别差异：女性重度肥胖率（13%）和腹部肥胖率（70%）都高于男性（分别为 7% 和 51%）。研究人员指出，这种差异可能是由于女性一生中激素水平的变化比男性更为显著。此外，非拉丁裔黑人的肥胖率高于其他人群。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84777" target="_blank"&gt;LineageOS 项目谈 Google 的开发者认证计划&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                LineageOS 项目谈论了即将生效的 Google Android 开发者认证计划对该项目意味着什么。Android 开发者认证计划意味着所有 Android 安装路径都将通过 Google 控制的基础设施，授予 Google 一个“终止开关”可封禁全球任何 Android 应用或开发者。开发者认证对 LineageOS 项目没有直接影响，但会影响到运行任何官方 ROM 的用户。因为验证开发者的基础设施是 Google Mobile Services（GMS）的一部分，而 LineageOS 默认并不提供也无计划提供 GMS。除非 LineageOS 用户选择安装包含开发者验证基础架构的 GApps 包，否则该功能不会造成任何影响。如果 Google 将该功能集成到 Play Services 中，那么 LineageOS 项目将会全局禁用该功能。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84788" target="_blank"&gt;Cinnamon 下个版本将支持 Wayland&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Linux Mint 发行版项目开发的 Cinnamon 是少数仍然不支持 Wayland 只兼容 X11 的桌面环境。但这种情况即将发生改变。Linux Mint 项目宣布，他们在支持 Wayland 上投入了大量精力，如今 Wayland 支持已经相当稳定，足以媲美 X11，因此 Wayland 支持不再被视为实验性，下个版本的 Cinnamon 将同时支持 Wayland 和 X11。Cinnamon 的下一个版本 v6.8 将包含在计划于圣诞节发布的 Linux Mint 新版本中。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84778" target="_blank"&gt;学习多种语言能延缓大脑衰老最长 13 年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                学习多种语言与大脑衰老延缓相关。一项研究发现，双语者的大脑比单语者年轻约六岁，掌握四种语言的人的大脑则年轻多达十三岁。随着年龄的增长，大脑的连接性会下降，记忆力和思维速度会减慢。此前的研究发现，掌握多种语言的欧洲国家居民衰老更慢。最新研究则测量了多语言能力对个体大脑的影响。研究对象是西班牙巴斯克（Basque）地区的居民，当地居民会说西班牙语、巴斯克语、法语和/或英语。研究人员用脑磁图（magnetoencephalography）测量了 728 名不同年龄和语言能力水平的人的大脑活动。结果显示，掌握了多种语言的人其大脑年龄比实际年龄更年轻。研究结果表明，学习第二、第三甚至第四门语言有助于大脑保持年轻状态，而且越早开始学习效果越好。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84789" target="_blank"&gt;OpenMandriva 项目发生破坏事件&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                OpenMandriva 项目发生一起破坏事件，开发者出于透明原则公布了事件经过：有多个新人加入了项目团队，其中之一是 Mumble 项目的 Davide Beatrici，他比较知名因此获得了团队的信任，获得了管理员权限。同时加入的还有 Beatrici 的朋友。但他的朋友在发行版的 Matrix 聊天室对其他人进行了攻击和辱骂，导致其他人退出。此人最终被踢出。在朋友被踢出之后 Beatrici 也离开了项目。鉴于此开发者切断了他维护的镜像连接。但此举却激怒了 Beatrici，他滥用其管理权限删除了 GitHub 上的部分库，在 cooker 库中发布了一个空包，导致所有 gnome 和 cosmic 软件包失效，破坏使用 gnome 或 cosmic 的用户的系统。OpenMandriva 项目目前正致力于恢复已删除的库，恢复失效包的功能。项目披露这一情况旨在提醒开源社区注意 Davide Beatrici。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84779" target="_blank"&gt;Windows 11 26H2 将对企业默认启用云备份，欧盟地区除外&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                从下半年发布的 Windows 11 26H2 起，微软将对符合条件的企业设备默认启用云备份，但欧盟地区除外。被称为 Windows settings backup and restore 的功能将备份设备的设置和已安装 Microsoft Store 应用列表，用户可以将备份恢复到新设备上。微软称，想象下笔记本电脑丢失、硬件更新或意外重启。这些情况下用户最需要备份，而用户最不希望看到的就是备份功能从未启用。对于受到欧盟数字市场法案 (Digital Markets Act) 监管的组织，云备份不会默认启用。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84790" target="_blank"&gt;2026 年二季度 PC 出货量下滑 5%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                由于内存危机，2026 年二季度 PC 出货量 6820 万台同比下滑 5%。IDC 警告如果这一情况继续下去小型供应商可能会倒闭。联想等大型供应商因为能提前与内存制造商协商供货，因此状况还比较好。联想最近公布的财报显示，其 PC 和智能设备业务收入增长了 26%。IDC 警告称，随着苹果、戴尔、惠普和联想等行业巨头利用其规模优势确保内存供应并挤压小型竞争对手，厂商整合的风险在增加。行业巨头已做好从小型竞争对手手中夺取市场份额的准备，可能会迫使实力较弱的企业进行合并或退出市场。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84780" target="_blank"&gt;研究员用海贼王主角名字命名新属甲虫&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                丹麦研究团队用海贼王主角路飞（Luffy）的名字命名新属甲虫。研究团队指出，将新属命名为 Luffy 并非单纯为了好玩，而是因为该属物种在形态上具有极具辨识度的特征：它们的大颚、触角与小颚须相较于近缘类群显著更加细长，整体比例呈现出特别修长的形态。这样的外形，让研究人员立刻联想到《海贼王》中主角路飞拥有能够自由伸展、变长的橡胶身体特性。该新属目前已发现两个物种：施氏路飞隐翅虫（Luffy schillhammeri）：发现于中国云南。其种名是为了表彰维也纳自然历史博物馆的 Harald Schillhammer 博士，感谢他长期以来对相关隐翅虫类群研究的卓越贡献。尼卡路飞隐翅虫（Luffy nika）：发现于老挝北部。其种名“nika”源自路飞的“人人果实·幻兽种·尼卡形态”（即五档形态）。由于该新种的翅鞘上带有白色带状毛，且身体多处布满白毛，神似路飞变身尼卡时全身纯白、烟雾缭绕的经典模样，因此得名为“尼卡路飞隐翅虫”。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84791" target="_blank"&gt;Euclid 望远镜发现已知最遥远的类星体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                ESA 欧几里得太空望远镜（Euclid）发射升空后，除了肩负绘制宇宙三维结构、探究暗物质与暗能量本质的主要任务外，也展现搜寻早期宇宙天体的强大能力。最新研究利用欧几里得首批巡天资料，成功发现 34 个红移大于 6.5 的星体，其中 27 个位于红移 7 以上，并确认 EUCL J172902.75+641018.1 的红移高达 7.77，成为目前已知距离最遥远的类星体。类星体是由星系中心超大质量黑洞吸积大量气体所产生的极高亮度天体，其亮度甚至可超越整个宿主星系，因此能作为探测早期宇宙的重要灯塔。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84781" target="_blank"&gt;LG 显示器静默安装 Windows 广告程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Reddit 用户报告 LG 显示器会静默安装 Windows 广告程序。而戴尔和 Alienware 显示器被发现也存在类似的行为。分析发现，LG 显示器会通过 Microsoft Store 和 Windows Update 自动安装名为 LG Monitor App Installer 的安装程序，LG Monitor App 会开机启动，会弹出广告，比如将用户导向迈克菲的杀毒软件。LG Monitor App 无法通过 Microsoft Store 卸载，阻止其弹出广告的方法是禁止其开机启动（位于 设置&amp;gt;应用&amp;gt;启动 中）。而禁止显示器自动安装程序的方法是干脆完全禁用 Microsoft Store。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84782" target="_blank"&gt;Microsoft 365 Copilot 普及率不到 4.5%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软花了三年时间将 Copilot 深入集成到 Windows 11 和 Office 中，但数据显示用户使用率并不高。在 4.5 亿 Microsoft 365 订阅服务的商业客户中，只有 4.5% 的人付费使用 Copilot，而这些付费用户只有 20% 到 30% 会每周打开 Copilot。这意味着 Copilot 的周活跃用户数仅占 Microsoft 365 总用户数的 1%。Copilot 负责人 Jacob Andreou 在一份内部备忘录中称，Copilot 必须证明自己存在的价值。值得说明的是 Copilot 是指需要额外付费的 AI 服务，而 Copilot Chat 则是 Microsoft 365 用户可免费使用的 AI 服务，它的使用率比较高。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84783" target="_blank"&gt;长鑫和长江存储正在扩大产能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                长鑫存储技术（CXMT）和长江存储科技（YMTC）正新建工厂，预计到 2027 年以后，两家企业的产能都将超过目前的两倍。业界相关人士透露，长鑫高性能存储器 HBM 目前在安徽省合肥市的工厂生产，在上海市正在建设的工厂将从 2027 年开始正式生产。随着新工厂的投产等，整体产能预计增至目前的 2 倍以上。长江存储生产用于长期存储的 NAND 闪存和以 NAND 为主要零部件的固态硬盘（SSD）。目前长江存储正在湖北省武汉市建设第 3 工厂，力争将原定 2027 年的量产开始时间提前至 2026 年底。该公司还计划追加建设 2 座工厂，有分析认为全部投产之后产能将增至 2 倍以上。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84784" target="_blank"&gt;大多数 AI slop 应用会很快停止维护和抛弃&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                由于涌入了大量低质量的 AI 生成应用，Linux 软件仓库 Flathub 于五月底宣布停止接受此类 AI 生成应用。审核递交到 Flathub 应用是一个吃力不讨好的工作，当审核者试图与 AI 生成应用递交者沟通时，却发现对方使用的是 AI 智能体，回复都是答非所问。一位审核者对此评论说，“纯粹是噪音和浪费时间”。从 2026 年 1 月开始，Flathub 将此类应用打上了 AI Slop 的标签。知名 Linux 开发者 Evangelos“GeopJr”Paterakis 调查了 
-过去半年标记为 AI slop 的 120 个应用，32 个仍在维护，88 个已被抛弃，大多数都彻底删除了，部分应用在递交到 Flathub 后就停止了维护。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-08</guid><pubDate>Wed, 08 Jul 2026 11:05:04 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-09</guid><pubDate>Thu, 09 Jul 2026 11:59:45 +0000</pubDate></item></channel></rss>
