@@ -1,38 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 09 Jul 2026 11:59:45 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 10 Jul 2026 11:52:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84786" target="_blank"&gt;德国华人性侵案成员被判 5 年监禁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                柏林地方法院周三裁定一名 32 岁的原籍中国的男子犯有协助实施三起严重强奸及严重性胁迫罪，并判处该男子总计五年监禁。这名男子是一个交流有关强奸被麻醉女性信息的聊天群组的八名成员之一。该被告（现已获得医学博士学位）在群组内多次就如何麻醉女性提供医学建议。2024 年 1 月 7 日，一名女性在美因河畔法兰克福遭另一名涉案男子强奸。在此前一天，被告在明知对方有强奸意图的情况下，提供了关于麻醉的具体建议，而该男子随后采纳了这些建议。法庭还认定被告在 2020 年和 2021 年期间曾三次性虐待其未婚妻。这些行为发生在北京的一家酒店客房内，受害女性在这些事件中同样处于被麻醉状态。主审法官将这些罪行定性为严重犯罪。他指出，这些行为体现了极端的厌女倾向，因为涉案女性被贬低为满足性欲的客体。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84792" target="_blank"&gt;美国部分地区居民多达三成对红肉过敏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Morbidity and Mortality Weekly Report》期刊上的一项研究，美国部分地区居民多达三成携带导致红肉过敏的抗体。这一比例远超此前的预计，意味着红肉过敏的美国人比以前认为的多得多。该过敏反应被称为α-半乳糖综合征（alpha-gal syndrome），其特点是发作缓慢，通常在餐后 2-6 小时之间出现，使得很难将过敏反应与食物联系起来。症状包括荨麻疹、恶心、呕吐、腹部绞痛、腹泻，或严重过敏反应如呼吸困难、喉咙紧缩、舌头或嘴唇肿胀、头晕、脉搏微弱和血压下降等迹象。研究人员分析了美国 10 个州 3000 份献血样本，结果显示田纳西州、阿肯色州等五个州的抗体比例最高达到 31.2%，平均 24%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84787" target="_blank"&gt;美国成年人肥胖率突破四成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                研究人员分析了 1999-2023 年近 8700 名美国居民的健康数据，这些居民包括 20 岁以下的青少年和 20 岁以上的成年人。结果显示：成年人的肥胖率从 30% 增至 41%，重度肥胖率从 5% 增至 10%，腹部脂肪堆积过多的腹部肥胖率从 48% 增至 61%；青少年的总体肥胖率上升了 30%，重度肥胖率上升 50%，腹部肥胖率增长了三倍。分析还发现，肥胖率存在​​性别差异：女性重度肥胖率（13%）和腹部肥胖率（70%）都高于男性（分别为 7% 和 51%）。研究人员指出，这种差异可能是由于女性一生中激素水平的变化比男性更为显著。此外，非拉丁裔黑人的肥胖率高于其他人群。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84793" target="_blank"&gt;中国使用无人机救助被洪灾困住的灾民&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                广西南宁横州市爆发了严重洪灾，网上视频显示，救援人员借助无人机，转移被困群众。视频中的无人机是深圳大疆的农业无人机 FlyCart 100，其载重量为 85 公斤，能悬挂起正常体重的民众。这其实并非第一次用无人机救灾民。去年中国就有农业无人机从洪水中救出被困男子的案例。无人机已经在深圳等城市广泛用于外卖和快递。去年 3 月，中国民用航空局批准亿航智能和合肥合翼航空两家公司开展商用载人无人机服务。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84788" target="_blank"&gt;Cinnamon 下个版本将支持 Wayland&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Linux Mint 发行版项目开发的 Cinnamon 是少数仍然不支持 Wayland 只兼容 X11 的桌面环境。但这种情况即将发生改变。Linux Mint 项目宣布，他们在支持 Wayland 上投入了大量精力，如今 Wayland 支持已经相当稳定，足以媲美 X11，因此 Wayland 支持不再被视为实验性，下个版本的 Cinnamon 将同时支持 Wayland 和 X11。Cinnamon 的下一个版本 v6.8 将包含在计划于圣诞节发布的 Linux Mint 新版本中。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84794" target="_blank"&gt;继父用 11 岁继女的照片生成数千张 CSAM 图像&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                拟议中的集体诉讼披露了一起使用 xAI 的 Grok 生成数千张 CSAM（child sex abuse materials）图像的案件。
+一名女孩的继父利用一张继女在 11 岁时拍摄的照片使用 Grok 生成了 7000 张 CSAM 图像。诉讼称 Grok 在整个过程中没有标记任何有害行为。Grok 的儿童安全系统只在这名男子输入“gang rape”后才介入，向 NCMEC 发送了举报，NCMEC 随后向执法部门报告了这起案件。法律规定 CSAM 被标记后需要共享 IP 等用户信息。但 xAI 被指控拒绝合作。最终警方通过搜查令扣押了继父的设备随后将其逮捕。继父还被指控网上出售这些 CSAM 材料，换取其他儿童性犯罪者的 CSAM 材料。该男子获准保释两天后便开枪自杀，而他的继女则饱受焦虑和抑郁的折磨，诉讼称她的生活在一夜之间被摧毁了，生活变成了一场噩梦。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84789" target="_blank"&gt;OpenMandriva 项目发生破坏事件&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenMandriva 项目发生一起破坏事件，开发者出于透明原则公布了事件经过：有多个新人加入了项目团队，其中之一是 Mumble 项目的 Davide Beatrici，他比较知名因此获得了团队的信任，获得了管理员权限。同时加入的还有 Beatrici 的朋友。但他的朋友在发行版的 Matrix 聊天室对其他人进行了攻击和辱骂，导致其他人退出。此人最终被踢出。在朋友被踢出之后 Beatrici 也离开了项目。鉴于此开发者切断了他维护的镜像连接。但此举却激怒了 Beatrici，他滥用其管理权限删除了 GitHub 上的部分库，在 cooker 库中发布了一个空包，导致所有 gnome 和 cosmic 软件包失效，破坏使用 gnome 或 cosmic 的用户的系统。OpenMandriva 项目目前正致力于恢复已删除的库，恢复失效包的功能。项目披露这一情况旨在提醒开源社区注意 Davide Beatrici。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84795" target="_blank"&gt;父母的手机上瘾影响与子女的关系&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Frontiers in Psychology》期刊上的一项研究，父母对屏幕和智能手机的上瘾可能会对孩子的发育和心理造成长期的负面影响。研究显示，对设备管理不当的看护者可能会加剧“不安全依恋”，使得人际关系变得更加焦虑和回避。这项研究基于美国 600 名 12-17 岁的未成年人的调查，儿童表示他们感到被盯着屏幕的父母边缘化或忽视。研究人员表示，缺乏安全依恋的孩子可能会缺乏自信或表现出较低的自我意识；在人际关系和亲密关系方面表现出困难；并不愿意承担取得成功所必需的风险。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84790" target="_blank"&gt;2026 年二季度 PC 出货量下滑 5%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                由于内存危机，2026 年二季度 PC 出货量 6820 万台同比下滑 5%。IDC 警告如果这一情况继续下去小型供应商可能会倒闭。联想等大型供应商因为能提前与内存制造商协商供货，因此状况还比较好。联想最近公布的财报显示，其 PC 和智能设备业务收入增长了 26%。IDC 警告称，随着苹果、戴尔、惠普和联想等行业巨头利用其规模优势确保内存供应并挤压小型竞争对手，厂商整合的风险在增加。行业巨头已做好从小型竞争对手手中夺取市场份额的准备，可能会迫使实力较弱的企业进行合并或退出市场。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84796" target="_blank"&gt;美国国会调查美国公司使用中国 AI 模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国国会议员正在调查美国公司使用中国 AI 模型。议员们担心审查、安全风险，以及美国 AI 公司的模型是否过于昂贵或限制过多。Cursor 和 Airbnb 等公司是调查重点。众议院国土安全委员会和众议院中国问题特别委员会致函 Cursor 和 Airbnb 询问他们使用中国 AI 模型的风险。美国部分政府部门已禁止使用 DeepSeek 等中国模型，但美国公司并未被禁止使用中国 AI 模型。有很多美国公司一直用中国 AI 模型降低使用成本，其中就包括了即将被 SpaceX 公司以 600 亿美元收购的 Cursor 公司，该公司的 Composer 2 模型是基于北京月之暗面（Moonshot AI）的 Kimi 模型。美国国会还在调查美国公司的开源 AI 模型战略，确保美国公司不需要在昂贵或受到限制的本国模型与廉价且功能强大的中国 AI 模型之间做选择。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84791" target="_blank"&gt;Euclid 望远镜发现已知最遥远的类星体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                ESA 欧几里得太空望远镜（Euclid）发射升空后，除了肩负绘制宇宙三维结构、探究暗物质与暗能量本质的主要任务外，也展现搜寻早期宇宙天体的强大能力。最新研究利用欧几里得首批巡天资料，成功发现 34 个红移大于 6.5 的星体，其中 27 个位于红移 7 以上，并确认 EUCL J172902.75+641018.1 的红移高达 7.77，成为目前已知距离最遥远的类星体。类星体是由星系中心超大质量黑洞吸积大量气体所产生的极高亮度天体，其亮度甚至可超越整个宿主星系，因此能作为探测早期宇宙的重要灯塔。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84797" target="_blank"&gt;Google 搜索量在世界杯期间创下纪录&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 表示世界杯期间其搜索量创下历史纪录，每秒查询量的峰值是在阿根廷与埃及比赛中间射入制胜球之后。
+这一里程碑式的成就正值 Google 试图证明其传统搜索引擎在 AI 聊天机器人日益普及的时代仍能保持其重要性之际。Google 仍然占据着九成的搜索市场份额，其股价过去一年翻了一番多，第一季度营收增速是自 2022 年以来最快的。Google 表示赛后搜索量最高的查询是“阿根廷 vs 埃及（argentina vs egypt）”。在全球范围内，用户还搜索了“阿根廷 vs 哥伦比亚”和“梅西在世界杯上进了多少球”，以及“比赛中一名球员撞击其他球员叫什么”和“这是梅西的最后一届世界杯吗”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-09</guid><pubDate>Thu, 09 Jul 2026 11:59:45 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84798" target="_blank"&gt;LinkedIn 和 X 上四分之一的长文是 AI 撰写的&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AI 检测平台 Pangram 的研究显示，LinkedIn 和 X 等平台上四分之一的长文完全是 AI 撰写的。Pangram 对长文定义是包含至少 250 个字符，对 LinkedIn、Medium、Substack、X 和 Reddit 等平台帖子的分析显示，长文受 AI slop 影响最大，这些平台四分之一长文完全是 AI 生成，这里的“完全”并不包含用 AI 润色文字。研究显示，LinkedIn 的长文 AI 生成比例最高，达到了 41%，该平台包含 50-250 字的帖子 AI 生成比例也高达 30%。LinkedIn 上 55.2% 的长文是人类撰写的，4.3% 是在 AI 帮助下撰写的。X 上四分之一的推文完全由 AI 撰写，23.2% 的推文是在 AI 辅助下完成的，52.7% 的推文则是由人类撰写。Medium 上约三分之一的文章是 AI 撰写或 AI 辅助撰写，Substack 上有 21.9% 的文章是 AI 撰写或 AI 辅助撰写。Reddit 上 11.6% 的帖子是 AI 撰写或 AI 辅助撰写，98.1% 的评论是人类撰写的。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84799" target="_blank"&gt;OpenRouter 上近五成美国公司使用中国 AI 模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                OpenRouter 的数据显示：美国企业每周调用中国 AI 的占比按代表数据处理量的“词元”统计，自 2 月起突破30%，峰值达 46%。相比下 2025 年上半年仅 4% 左右。背景是美国本土 AI 使用成本升高。美国OpenAI 及美国 Anthropic 等高端模型的性能不断提高，可自动处理长时间、高复杂度的任务。但随着企业在内部业务、面向客户服务中广泛使用 AI，词元的消耗量增加，使用成本增加。OpenRouter 平台拥有 800 万用户，以工程师群体为主，每输出 100 万词元（约对应 70 万英文词汇）的收费标准方面，Anthropic 的“Claude Opus 4.7”收费 25 美元，而最热门的 DeepSeek V4 Flash 仅收费 0.18 美元，成本不足前者的 1%。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84800" target="_blank"&gt;长征十号乙火箭成功回收&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                长征十号乙运载火箭于 7 月 10 日 12 时 15 分在海南商业航天发射场发射升空，火箭一二级分离约 6 分钟后，一子级垂直返回，在海上回收平台通过网系捕获方式成功回收。此次回收的一子级预计将在今年年底前完成复用飞行。长征十号乙运载火箭由中国航天科技集团一院抓总研制，是 5 米直径两级串联构型的大型液体运载火箭。火箭芯一级沿用长征十号甲运载火箭一子级状态，采用液氧煤油推进剂，芯二级采用液氧甲烷推进剂；全箭起飞推力约 890 吨，起飞重量约 760 吨；首飞箭全箭长度约 63 米，重复使用状态下近地轨道运载能力 16 吨。该火箭可满足低轨卫星互联网星座部署、大型商业卫星发射等各类任务需求，复用状态下可大幅降低发射成本。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-10</guid><pubDate>Fri, 10 Jul 2026 11:52:22 +0000</pubDate></item></channel></rss>
