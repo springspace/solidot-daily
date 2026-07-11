@@ -1,58 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 10 Jul 2026 11:52:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 11 Jul 2026 10:15:23 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月11日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84792" target="_blank"&gt;美国部分地区居民多达三成对红肉过敏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Morbidity and Mortality Weekly Report》期刊上的一项研究，美国部分地区居民多达三成携带导致红肉过敏的抗体。这一比例远超此前的预计，意味着红肉过敏的美国人比以前认为的多得多。该过敏反应被称为α-半乳糖综合征（alpha-gal syndrome），其特点是发作缓慢，通常在餐后 2-6 小时之间出现，使得很难将过敏反应与食物联系起来。症状包括荨麻疹、恶心、呕吐、腹部绞痛、腹泻，或严重过敏反应如呼吸困难、喉咙紧缩、舌头或嘴唇肿胀、头晕、脉搏微弱和血压下降等迹象。研究人员分析了美国 10 个州 3000 份献血样本，结果显示田纳西州、阿肯色州等五个州的抗体比例最高达到 31.2%，平均 24%。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84793" target="_blank"&gt;中国使用无人机救助被洪灾困住的灾民&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                广西南宁横州市爆发了严重洪灾，网上视频显示，救援人员借助无人机，转移被困群众。视频中的无人机是深圳大疆的农业无人机 FlyCart 100，其载重量为 85 公斤，能悬挂起正常体重的民众。这其实并非第一次用无人机救灾民。去年中国就有农业无人机从洪水中救出被困男子的案例。无人机已经在深圳等城市广泛用于外卖和快递。去年 3 月，中国民用航空局批准亿航智能和合肥合翼航空两家公司开展商用载人无人机服务。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84794" target="_blank"&gt;继父用 11 岁继女的照片生成数千张 CSAM 图像&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                拟议中的集体诉讼披露了一起使用 xAI 的 Grok 生成数千张 CSAM（child sex abuse materials）图像的案件。
-一名女孩的继父利用一张继女在 11 岁时拍摄的照片使用 Grok 生成了 7000 张 CSAM 图像。诉讼称 Grok 在整个过程中没有标记任何有害行为。Grok 的儿童安全系统只在这名男子输入“gang rape”后才介入，向 NCMEC 发送了举报，NCMEC 随后向执法部门报告了这起案件。法律规定 CSAM 被标记后需要共享 IP 等用户信息。但 xAI 被指控拒绝合作。最终警方通过搜查令扣押了继父的设备随后将其逮捕。继父还被指控网上出售这些 CSAM 材料，换取其他儿童性犯罪者的 CSAM 材料。该男子获准保释两天后便开枪自杀，而他的继女则饱受焦虑和抑郁的折磨，诉讼称她的生活在一夜之间被摧毁了，生活变成了一场噩梦。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84795" target="_blank"&gt;父母的手机上瘾影响与子女的关系&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Frontiers in Psychology》期刊上的一项研究，父母对屏幕和智能手机的上瘾可能会对孩子的发育和心理造成长期的负面影响。研究显示，对设备管理不当的看护者可能会加剧“不安全依恋”，使得人际关系变得更加焦虑和回避。这项研究基于美国 600 名 12-17 岁的未成年人的调查，儿童表示他们感到被盯着屏幕的父母边缘化或忽视。研究人员表示，缺乏安全依恋的孩子可能会缺乏自信或表现出较低的自我意识；在人际关系和亲密关系方面表现出困难；并不愿意承担取得成功所必需的风险。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84796" target="_blank"&gt;美国国会调查美国公司使用中国 AI 模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国国会议员正在调查美国公司使用中国 AI 模型。议员们担心审查、安全风险，以及美国 AI 公司的模型是否过于昂贵或限制过多。Cursor 和 Airbnb 等公司是调查重点。众议院国土安全委员会和众议院中国问题特别委员会致函 Cursor 和 Airbnb 询问他们使用中国 AI 模型的风险。美国部分政府部门已禁止使用 DeepSeek 等中国模型，但美国公司并未被禁止使用中国 AI 模型。有很多美国公司一直用中国 AI 模型降低使用成本，其中就包括了即将被 SpaceX 公司以 600 亿美元收购的 Cursor 公司，该公司的 Composer 2 模型是基于北京月之暗面（Moonshot AI）的 Kimi 模型。美国国会还在调查美国公司的开源 AI 模型战略，确保美国公司不需要在昂贵或受到限制的本国模型与廉价且功能强大的中国 AI 模型之间做选择。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84797" target="_blank"&gt;Google 搜索量在世界杯期间创下纪录&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 表示世界杯期间其搜索量创下历史纪录，每秒查询量的峰值是在阿根廷与埃及比赛中间射入制胜球之后。
-这一里程碑式的成就正值 Google 试图证明其传统搜索引擎在 AI 聊天机器人日益普及的时代仍能保持其重要性之际。Google 仍然占据着九成的搜索市场份额，其股价过去一年翻了一番多，第一季度营收增速是自 2022 年以来最快的。Google 表示赛后搜索量最高的查询是“阿根廷 vs 埃及（argentina vs egypt）”。在全球范围内，用户还搜索了“阿根廷 vs 哥伦比亚”和“梅西在世界杯上进了多少球”，以及“比赛中一名球员撞击其他球员叫什么”和“这是梅西的最后一届世界杯吗”。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84798" target="_blank"&gt;LinkedIn 和 X 上四分之一的长文是 AI 撰写的&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                AI 检测平台 Pangram 的研究显示，LinkedIn 和 X 等平台上四分之一的长文完全是 AI 撰写的。Pangram 对长文定义是包含至少 250 个字符，对 LinkedIn、Medium、Substack、X 和 Reddit 等平台帖子的分析显示，长文受 AI slop 影响最大，这些平台四分之一长文完全是 AI 生成，这里的“完全”并不包含用 AI 润色文字。研究显示，LinkedIn 的长文 AI 生成比例最高，达到了 41%，该平台包含 50-250 字的帖子 AI 生成比例也高达 30%。LinkedIn 上 55.2% 的长文是人类撰写的，4.3% 是在 AI 帮助下撰写的。X 上四分之一的推文完全由 AI 撰写，23.2% 的推文是在 AI 辅助下完成的，52.7% 的推文则是由人类撰写。Medium 上约三分之一的文章是 AI 撰写或 AI 辅助撰写，Substack 上有 21.9% 的文章是 AI 撰写或 AI 辅助撰写。Reddit 上 11.6% 的帖子是 AI 撰写或 AI 辅助撰写，98.1% 的评论是人类撰写的。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84799" target="_blank"&gt;OpenRouter 上近五成美国公司使用中国 AI 模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenRouter 的数据显示：美国企业每周调用中国 AI 的占比按代表数据处理量的“词元”统计，自 2 月起突破30%，峰值达 46%。相比下 2025 年上半年仅 4% 左右。背景是美国本土 AI 使用成本升高。美国OpenAI 及美国 Anthropic 等高端模型的性能不断提高，可自动处理长时间、高复杂度的任务。但随着企业在内部业务、面向客户服务中广泛使用 AI，词元的消耗量增加，使用成本增加。OpenRouter 平台拥有 800 万用户，以工程师群体为主，每输出 100 万词元（约对应 70 万英文词汇）的收费标准方面，Anthropic 的“Claude Opus 4.7”收费 25 美元，而最热门的 DeepSeek V4 Flash 仅收费 0.18 美元，成本不足前者的 1%。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84800" target="_blank"&gt;长征十号乙火箭成功回收&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84800" target="_blank"&gt;长征十号乙火箭成功回收&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
                 长征十号乙运载火箭于 7 月 10 日 12 时 15 分在海南商业航天发射场发射升空，火箭一二级分离约 6 分钟后，一子级垂直返回，在海上回收平台通过网系捕获方式成功回收。此次回收的一子级预计将在今年年底前完成复用飞行。长征十号乙运载火箭由中国航天科技集团一院抓总研制，是 5 米直径两级串联构型的大型液体运载火箭。火箭芯一级沿用长征十号甲运载火箭一子级状态，采用液氧煤油推进剂，芯二级采用液氧甲烷推进剂；全箭起飞推力约 890 吨，起飞重量约 760 吨；首飞箭全箭长度约 63 米，重复使用状态下近地轨道运载能力 16 吨。该火箭可满足低轨卫星互联网星座部署、大型商业卫星发射等各类任务需求，复用状态下可大幅降低发射成本。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-10</guid><pubDate>Fri, 10 Jul 2026 11:52:22 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84801" target="_blank"&gt;人形机器人成功完成远超手术&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《自然》期刊上的一项研究，人形机器人成功完成切除活体动物胆囊的手术。人形机器人并不具有自主能力，它们并不会取代医生，而是由外科医生远超操作。远程操控的人形机器人为活猪完成两例微创胆囊切除手术。如果该方法被证实适用于临床，外科医生就可以利用人形机器人，在资源有限、无法安装专业且昂贵手术机器人的小型医院和诊所远程开展机器人辅助手术。人形机器人相比专业手术机器人更便宜，占用的空间更小，而且易于部署，能部署到从偏远地区到战场甚至太空。研究人员利用宇树科技的 G1 人形机器人。最便宜的 G1 基础型号起售价 13,500 美元，配置灵活机械手以及运费之后费用会超过 6.7 万美元。相比下 Intuitive Surgical 的达芬奇手术机器人费用在 50 万到数百万美元之间。宇树科技机器人的缺陷是需要频繁重校准，耗时更长。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84802" target="_blank"&gt;权威型领导人推动员工安静辞职&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                新冠疫情加速了被称为安静辞职(quiet quitting)的现象，年轻一代的上班族将工作热情不高的态度视为某种形式的“辞职”，他们还想继续领工资，但仅完成最低工作要求，把精力放在工作之外的事情上。韩国嘉泉大学的研究人员调查了权威型领导如何推动中国中小企业员工的安静辞职现象（即躺平）。他们收集了 363 名中国中小企业员工数据。结果显示权威型领导通过增加工作倦怠间接导致躺平，而非自愿出勤通过放大倦怠加速躺平。研究有助于更深入地理解权威型领导带来的有害后果，阐明躺平在中国文化背景下的出现和演变。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84803" target="_blank"&gt;现代环境让大脑不堪重负&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据一项新研究，具有特定设计元素的人造环境可能会给大脑带来过度负担，导致视觉不适和压力。视觉不适是指人在看到某些图像或环境时所体验到的不适感，可能表现为眼睛疲劳、偏头痛、阅读困难，或者在他人毫无问题的情况下感到不堪重负。条纹图案、凌乱的内饰、高对比度颜色、闪烁的灯光，甚至是超市中密集的货架，都可能导致视觉不适，这有助于解释为何某些空间会让人感到不舒服。现代人造环境与视觉系统在演化过程中高效处理的自然场景存在显著差异。研究还发现，现代环境对敏感人群影响更大，对感官输入更敏感的人群（如偏头痛、自闭症、注意力缺陷多动障碍、阅读障碍或癫痫患者）可能受到的影响更强烈。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-11</guid><pubDate>Sat, 11 Jul 2026 10:15:23 +0000</pubDate></item></channel></rss>
