@@ -1,26 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 11 Jul 2026 10:15:23 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月11日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 12 Jul 2026 10:28:14 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月12日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84800" target="_blank"&gt;长征十号乙火箭成功回收&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                长征十号乙运载火箭于 7 月 10 日 12 时 15 分在海南商业航天发射场发射升空，火箭一二级分离约 6 分钟后，一子级垂直返回，在海上回收平台通过网系捕获方式成功回收。此次回收的一子级预计将在今年年底前完成复用飞行。长征十号乙运载火箭由中国航天科技集团一院抓总研制，是 5 米直径两级串联构型的大型液体运载火箭。火箭芯一级沿用长征十号甲运载火箭一子级状态，采用液氧煤油推进剂，芯二级采用液氧甲烷推进剂；全箭起飞推力约 890 吨，起飞重量约 760 吨；首飞箭全箭长度约 63 米，重复使用状态下近地轨道运载能力 16 吨。该火箭可满足低轨卫星互联网星座部署、大型商业卫星发射等各类任务需求，复用状态下可大幅降低发射成本。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84804" target="_blank"&gt;日本成功测试可回收火箭技术&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本宇航研究开发机构(JAXA) 7 月 11 日宣布，成功测试了一枚可回收火箭 RV-X。本次测试总共持续了约 40 秒，火箭上升至约 11 米的高度，期间完成了升空、悬停、水平移动、直立着陆共 4 个动作。目前旨在大幅降低航天任务成本的可回收火箭是许多国家的研发重点。RV-X 计划将取代不可回收的 H-3 火箭。下一步 JAXA 还将测试 RV-X 的升空一百米回收测试。法国、德国也参与到了日本的可回收火箭合作研发项目中。作为日本的战略竞争对手，中国在可回收火箭研发方面的进展要快得多。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84801" target="_blank"&gt;人形机器人成功完成远超手术&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《自然》期刊上的一项研究，人形机器人成功完成切除活体动物胆囊的手术。人形机器人并不具有自主能力，它们并不会取代医生，而是由外科医生远超操作。远程操控的人形机器人为活猪完成两例微创胆囊切除手术。如果该方法被证实适用于临床，外科医生就可以利用人形机器人，在资源有限、无法安装专业且昂贵手术机器人的小型医院和诊所远程开展机器人辅助手术。人形机器人相比专业手术机器人更便宜，占用的空间更小，而且易于部署，能部署到从偏远地区到战场甚至太空。研究人员利用宇树科技的 G1 人形机器人。最便宜的 G1 基础型号起售价 13,500 美元，配置灵活机械手以及运费之后费用会超过 6.7 万美元。相比下 Intuitive Surgical 的达芬奇手术机器人费用在 50 万到数百万美元之间。宇树科技机器人的缺陷是需要频繁重校准，耗时更长。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84805" target="_blank"&gt;苹果起诉 OpenAI，指控前华裔员工窃取商业机密&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果起诉 OpenAI，指控该公司窃取其商业机密。这起诉讼的两位核心人物是 OpenAI 首席硬件官 Tang Tan 以及前苹果工程师 Chang Liu。苹果指控称，Tang Tan 会指导跳槽到 OpenAI 的苹果前员工如何规避苹果针对离职员工的安全流程。而 Chang Liu 被控秘密访问并下载了数十份苹果的机密硬件相关文件，其中包括大量关于未发布产品的详细信息、工程演示文稿、技术规格和私有项目数据。Liu 被控没有归还苹果配发的笔记本电脑，他还访问和使用了前同事的笔记本电脑，利用认证漏洞访问了苹果的共享网络文件夹。在发现漏洞之后，Liu 在前同事的笔记本电脑上留言说“LOL”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84802" target="_blank"&gt;权威型领导人推动员工安静辞职&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                新冠疫情加速了被称为安静辞职(quiet quitting)的现象，年轻一代的上班族将工作热情不高的态度视为某种形式的“辞职”，他们还想继续领工资，但仅完成最低工作要求，把精力放在工作之外的事情上。韩国嘉泉大学的研究人员调查了权威型领导如何推动中国中小企业员工的安静辞职现象（即躺平）。他们收集了 363 名中国中小企业员工数据。结果显示权威型领导通过增加工作倦怠间接导致躺平，而非自愿出勤通过放大倦怠加速躺平。研究有助于更深入地理解权威型领导带来的有害后果，阐明躺平在中国文化背景下的出现和演变。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84806" target="_blank"&gt;布朗大学经济学教授怀疑班级里多数学生使用 AI 作弊&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在去年 12 月学校发生枪击案之后，布朗大学经济学教授 Roberto Serrano 首次让学生在家中完成期中考试。期中考试成绩显示大部分学生获得了满分或接近满分，他怀疑学生大规模使用 AI 作弊。因此决定将期末考试改为线下进行。他没有立即宣布期中考试无效，而是决定先看看期末考试的得分。如果期末考试得分的分布与期中考试的分布基本相同，那么他会将期中考试得分计入成绩。结果是 18 名学生退课，9 名学生没有参加期末考试。3 名学生得了零分，期末考试的平均分只有 48.6%——这是他所教班级迄今的历史最低分。此前期末考试的平均分从未低于 65%。只有少数学生的期末考试成绩与期中考试的成绩相近。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84803" target="_blank"&gt;现代环境让大脑不堪重负&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据一项新研究，具有特定设计元素的人造环境可能会给大脑带来过度负担，导致视觉不适和压力。视觉不适是指人在看到某些图像或环境时所体验到的不适感，可能表现为眼睛疲劳、偏头痛、阅读困难，或者在他人毫无问题的情况下感到不堪重负。条纹图案、凌乱的内饰、高对比度颜色、闪烁的灯光，甚至是超市中密集的货架，都可能导致视觉不适，这有助于解释为何某些空间会让人感到不舒服。现代人造环境与视觉系统在演化过程中高效处理的自然场景存在显著差异。研究还发现，现代环境对敏感人群影响更大，对感官输入更敏感的人群（如偏头痛、自闭症、注意力缺陷多动障碍、阅读障碍或癫痫患者）可能受到的影响更强烈。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-11</guid><pubDate>Sat, 11 Jul 2026 10:15:23 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-12</guid><pubDate>Sun, 12 Jul 2026 10:28:14 +0000</pubDate></item></channel></rss>
