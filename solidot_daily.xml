@@ -1,56 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 13 Jul 2026 12:06:20 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月13日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 14 Jul 2026 10:46:18 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月14日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84807" target="_blank"&gt;相对论支配重元素化学键&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                布朗大学化学家提供了直接证据，证明重元素三键的传统解释需要修正。化学教科书称，原子通过共享电子形成化学键。每个原子共享一个电子形成成键电子对。电子对的强负电荷吸引着两个带正电的原子核，从而将它们结合在一起。一些元素会共享多个电子对，形成双键或三键。三键由一个σ键两个π键组成。σ键是头碰头的强键，π键是弱键，环绕在σ键周围。这种描述适用于轻元素。当原子核足够重时，爱因斯坦相对论会改变三键的结构，模糊了σ键和π键之间的界限。光电子能谱显示，碳-铋键不符合传统的一个σ键和两个π键构成的三键结构。其结构更像是由一个π键和两个σ-π杂化键构成。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84816" target="_blank"&gt;Linus Torvalds 谈 AI 和垃圾补丁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Linus Torvalds 曾说过大模型（LLM）会让程序员的生产力提升十倍。他在 2026 年印度开源峰会上说，这个数字并不科学，是他随口胡扯的。他说如今的希望是 LLM 给程序员带来的生产力提升能超过其造成的生产力损失。他说，大模型生成的垃圾远多于有用代码，而 AI 生成的 bug 报告浪费了维护者大量的时间精力。Torvalds  称大量 LLM 生成的补丁是无意义的创可贴，或许能解决当前问题，但类似 bug 仍然留在那里，随时可能在其他地方再次出现。他称自己会用 LLM 制作原型，LLM 生成的代码并不能直接使用，但是一个尝试新想法的好方法。他认为 LLM 还无法生成修复内核 bug 的补丁。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84808" target="_blank"&gt;中国法院支持数字资产的继承&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                多个案例显示中国法院支持数字资产的继承。法院认为游戏账户和微交易购买属于某种货币价值，因此玩家对这些资产拥有相关权利。法院拒绝标准的不可转让条款，认为这些条款无法阻止你继承或转让游戏(包括微交易物品)。其中一个案例是一位玩家的遗孀试图继承《征途》中的一把“黄金刀”。死者的游戏“情侣”对此表示反对，因为黄金刀是一件只能通过两个玩家协作游戏获取的道具，两个玩家的账户被连结为游戏中的情侣。法院发现另一名玩家曾出价人民币 5 万元购买黄金刀，表明该武器具有真正的市场价值。法院还注意到两名玩家在获取黄金刀上投入了大量的时间、精力和资金。因此法院认为黄金刀构成具有经济价值的虚拟财产，能成为死者遗产的一部分。然而由于它是由死者和游戏“情侣”共同获取的，法院最终得出结论：所有权由他们共同享有。因此只有死者的份额（50%）可以由他的继承人继承，而剩余的份额归游戏中的“情侣”。第二个案例涉及到了 5 个比特币和一个价值约 20 万元人民币的游戏账户。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84817" target="_blank"&gt;他们窃取了数据和民主&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                1998 年时任 Novell CEO 施密特（Eric Schmidt）接受 BBC 采访，当被询问到硅谷的政治立场时，施密特毫不犹豫的咆哮道：“我们反政府、反监管、反国会。”BBC 说，“你们想要的实际上是一个丛林社会？一个强者生存，弱者无依无靠的社会？”施密特坦然称是并以此为傲。硅谷精英想要不受监管的权力，这一论调与一个世纪前的镀金时代寡头如出一辙。而硅谷精英仅仅通过声称对人类传播、信息完整性、真相的命运以及信息文明中知识分布的全球历史性变革拥有实验权威，便得以为所欲为。一场持续数十年、至今仍在进行的实验拉开了序幕。作为监控资本主义的代表，Google 收集的用户数据远远超过其服务的需要。信息无政府状态正在重塑世界政治格局。虚假信息、极化和选举失能都有利于专制，而在追求人类数据的过程中，算法对腐化信息的优先推送有利于其商业利益，能吸引用户参与并引发数据爆炸式增长。任何民主制度都无法在这种环境下长久生存。今天的信息空间与民主制度的公共广场原型截然不同，让民主国家面临持续的压力。生成式 AI 就是以监控资本主义积累的海量数据为食物，而 AI 公司更是无视道德和法律毫无顾忌的窃取数据。他们代表了一种以盈利为目的的极权主义。这种权力体制与阿伦特（Hannah Arendt）、奥威尔（George Orwell）等人分析的政治极权主义有着根本性的差异，代表了一个由科技巨头掌控一切的未来。这种以数据驱动、以盈利为目的的极权主义，本质上是民主的敌人。它并非是我们所追求的未来，也并非我们这个时代和人民的必然命运。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84809" target="_blank"&gt;GLP-1 减肥药并不能取代锻炼&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                GLP-1 减肥药并不能取代锻炼。研究人员跟踪了 130 名重度肥胖患者一年，他们平均减重 13.7公斤。研究人员将他们分成四组——运动组、服用 GLP-1 药 liraglutide 组，运动加 liraglutide 组，以及安慰剂组。研究结果显示，运动组的血管更健康，炎症水平也更低。虽然只服用 GLP-1 药有助于减轻体重，但不能改善血管健康。动脉壁越厚，动脉粥样硬化、血栓和中风的风险越大。运动组的动脉壁厚度减少了 6-7%，但服用 GLP-1 药和安慰剂组没有改善。运动组的炎症标志物水平也下降了。运动组的参与者平均每周训练约两个半小时，主要是健身车和循环训练。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84818" target="_blank"&gt;数据中心用电量占到了爱尔兰用电量的 23%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                爱尔兰中央统计局 (CSO) 的数据显示，2025 年数据中心用电量占到了爱尔兰用电量的 23%。而在 2015 年这一比例仅为 5%。大型数据中心的用电量在 2025 年增长了 10%，从 2024 年的 6973 GWh 增至 2025 年的 7663 GWh，所有其他部门同期的用电量仅增长 2%。相比下城市居民用电量占总用电量的 18%，农村居民用电量则为 9%。类似其它地区，爱尔兰也出​​现了反数据中心抗议活动。该国拥有逾 80 个数据中心。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84810" target="_blank"&gt;Windows 11 设备标识符无法关闭&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                最近的一起案件显示微软能利用唯一设备标识符跟踪用户。该标识符被称为 Global Device Identifier（GDID），它关联用户使用的微软账号（Microsoft Account）。当用户使用微软账号登陆 Windows 时，微软会读取 Device PUID（Passport Unique ID，位于注册表 HKCU\SOFTWARE\Microsoft\IdentityCRL\ExtendedProperties 下），然后分配一个唯一永久 ID，该 ID 号储存在本地，多个后台服务会读取该 ID 号，并添加到操作系统向微软报告的所有活动中。重新安装 Windows 后，用户会分配到一个新的 ID 号，新旧 ID 号很容易与同一个账号关联起来。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84819" target="_blank"&gt;逃脱死亡命运的类木星行星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家利用韦伯望远镜观测了一颗逃脱死亡命运的类木星行星 WD 1856 b。天文学家是在利用 TESS 望远镜观测白矮星时发现 WD 1856 b 的。白矮星是类太阳恒星的残骸，已经历了红巨星阶段，留下了地球大小的核心。天文学家在 WD 1856 系统发现了一颗气态巨行星，它距离恒星仅仅只有 0.02 个天文单位。这颗白矮星已经死亡了 60 亿年，它在红巨星阶段本应该会吞噬内行星，而气态巨行星本应该在此过程中向外迁移，结果它却更接近恒星了。韦伯的观测发现，WD 1856 b 被气溶胶笼罩，大气层含有甲烷，向太空辐射的能量大约是其从正在冷却的恒星接收能量的 25 倍。行星的温度高达 400 开尔文。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84811" target="_blank"&gt;为什么 55% 的美国人停止在社媒上发帖？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                公众对社交媒体的态度发生了显著转变。Incogni 调查了美国人对社媒的态度，将调查人群分成婴儿潮（1946-1964）、X 世代（1965-1980）、Y 世代（1981-1996）和 Z 世代（1997-2012）。结果显示：逾半数受访者认同“维护线上形象感觉像工作”，对网红而言维护社交媒体形象是工作，但绝大多数人不会成为网红可能也无意成为网红；六成 Z 世代受访者表示维护社交媒体形象让他们感到痛苦；如果戒掉社交媒体，21% 的受访者人认为会产生正面的感受，产生负面感受的比例为 19%；44% 的受访者认为政治内容正将人们从社交媒体上驱逐出去；逾半数受访者减少了发帖量，且更谨慎选择谁可以看到帖子；逾半数受访者表示出于安全考虑可能会注销账号；近半数受访者表示骚扰或仇恨言论会让他们彻底放弃账号；无限滚动（doomscrolling）被认为会威胁心理健康。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84820" target="_blank"&gt;Vinton Cerf 退休&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Vinton Cerf 上周卸任 Google 首席互联网布道官一职，标志着其职业生涯的落幕。现年 83 岁的 Cerf 与 Robert Kahn 合作设计了 TCP/IP 协议，因此被誉为互联网之父。TCP 管理通过互联网发送的数据包，确保不会丢包，能以正确的次序接收，在正确的目的地重新组装。IP 管理地址，在正确的目的地转发和发送数据。两者共同构成了互联网的核心架构，让计算机能连接和交换流量。自 2005 年以来，Cerf 一直担任 Google 的副总裁和首席互联网布道官。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84812" target="_blank"&gt;加州吸引的风投远超美国任何州&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                尽管一项亿万富翁税提案导致部分超级富翁离开加州，但加州在今年内吸引的风投资金远超美国任何州。加州吸引了逾 3350 亿美元资金，排名第二的纽约州不到其十分之一，德州仅为其四十分之一。加州拥有的顶尖 AI 人才令其吸引力经久不衰。加州去年经济增长率 5%，GDP 达到创纪录的 4.25 万亿美元，经济规模仅次于美国、中国和德国。它拥有近 400 家估值达到十亿美元的初创公司，超过美国其他任何州。硅谷吸引了 980 亿美元的风投，之后是纽约的 115 亿美元，洛杉矶的 80 亿美元。加州近 90% 的投资流向了 AI 公司，去年这一比例是 65%。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84821" target="_blank"&gt;蒋方舟因论文存在抄袭行为被撤销硕士学位&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                人民大学宣布决定撤销蒋方舟的硕士学位。中国人民大学星期一（7月13日）晚在微博通报称，近日，网上出现关于中国人民大学文学院2019届硕士毕业生蒋方舟学位论文涉嫌学术不端的新线索。学校高度重视，立即组建由多位校内外知名专家参与的调查组，通过文献溯源比对、依规问询、听取当事人申辩等，深入开展核查工作。“经核查，蒋方舟硕士学位论文有九处与境外某篇期刊论文存在文字重合，且相关内容未标注引用、未列明参考文献。人民大学依据中国《高等学校预防与处理学术不端行为办法》《中华人民共和国学位法》的相关规定，认定蒋方舟构成学术不端行为，并研究决定，撤销其硕士学位。”蒋方舟本人星期一晚在微博回应，接受人大校方的处理并致歉。她说：“因此事被惊扰并失望的读者，我致以歉意。对我的老师为此事蒙受的处分，深致歉意。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84813" target="_blank"&gt;DNA 确认托斯卡纳大公死于疟疾&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                1587 年 10 月，意大利托斯卡纳大公弗朗切斯科·德·美第奇因高热不治而亡。接诊医生初步判定死因是疟疾，但很快坊间流言四起，不少人猜测他是遭心怀嫉妒的弟弟费迪南多下毒谋害。通过分析包括弗朗切斯科在内的同期古人类 DNA，科学家证实疟疾正是夺走其性命的元凶。研究中分析的更多古基因组数据，也进一步揭示了疟疾如何肆虐文艺复兴时期的欧洲大陆。研究团队提取了弗朗切斯科的 3 根肋骨、红衣主教乔瓦尼·德·美第奇的一根肋骨的 DNA。同时研究人员采集了欧洲、亚洲、美洲多地出土遗骸的 9 份已知疟疾阳性古 DNA 样本，以此精准锁定致使美第奇家族族人死亡的疟原虫毒株类型。基因检测分析显示，弗朗切斯科的遗骸中检出了恶性疟原虫与三日疟原虫这两种疟疾的线粒体 DNA，证实其生前确实感染疟疾。而乔瓦尼的遗骸中，检出了携带两种全新突变的恶性疟原虫线粒体 DNA，是一种从未被发现的致命新型变异毒株。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84822" target="_blank"&gt;挪威研究显示富裕家庭的后代首先出现认知能力下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                弗林效应（Flynn Effect）预测人类的 IQ 得分呈上升趋势，每十年增加 3 到 5 分。但最近几年的研究发现，弗林效应出现了逆转，IQ 得分不增反降。根据发表在 PNAS 期刊上的一项研究，挪威研究人员调查了 579,379 名挪威男性，观察弗林效应及其逆转是否因社会经济地位而异，以及教育水平是否可解释差异。研究人员发现，弗林效应逆转首先出现在高收入家庭的男性后代中，中低收入家庭的认知峰值较晚，且峰值后的下降幅度较小。研究结果表明，认知能力得分存在一种潜在的群体层面下降趋势。低收入群体教育水平的提升短暂抵消了下降趋势，但教育水平趋稳后各个群体的认知能力得分均出现下降，其中高收入群体的下降幅度最为显著。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84814" target="_blank"&gt;Steam 月活用户数超过 2 亿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Valve 根据欧盟的 Digital Services Act 法披露的数据显示，其 PC 数字平台 Steam 去年下半年在欧盟地区的月活跃用户数平均为 3110 万。分析师 Simon Carless 结合这一数据和 Steam 全球带宽分布数据，估计 2025 年 Steam 月活用户数为 1.98 亿。2026 年上半年这一数字会进一步增长，预计月活用户数已经突破 2 亿。相比下，索尼披露其 PlayStation 游戏机的月活用户数为 1.25 亿。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84823" target="_blank"&gt;2026 年菲尔茨奖得主疑似泄露&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                有人在国际数学家大会 ICM 2026 官网日程表的前端代码中，发现了四条标记为菲尔兹奖得主的隐藏字段：
+&lt;i&gt;
+60 HIDDEN Fields Medal Lecture: Yu Deng | Yu DengI &lt;br /&gt;
+60 HIDDEN Fields Medal Lecture: John Pardon| f8f5fa42-4309-4064-8901-bb61c18c9add| &lt;br /&gt;
+60 HIDDEN Fields Medal Lecture: Jacob Tsimerman&lt;br /&gt;
+60 HIDDEN Fields Medal Lecture: Hong Wang| Hong Wang 
+&lt;/i&gt;
+2026 年国际数学家大会将于 7 月 23 日举行，菲尔兹奖被誉为数学界的诺贝尔奖，但不同于诺贝尔奖在公布日才通知获奖者，菲尔兹奖会提前通知获奖者，因此其名单有可能会提前泄露。如果名单获得确认，这将是第二次中国数学家获得菲尔兹奖，且同时有两人入选。第一次是丘成桐。邓煜在公理化物理的希尔伯特第六问题上做出重大贡献，王虹解决了开放问题三维空间内的挂谷集合猜想，John Pardon（白杰文）解决了 Gromov 的纽结理论问题，Jacob Tsimerman 在 André-Oort 猜想等问题上做出了重大贡献。&amp;nbsp;&amp;nbsp;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84815" target="_blank"&gt;中国三北防护林阻止了沙漠扩大，但战斗并未结束&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据中国科学院应用生态研究所科学家朱教君团队的监测，自 2000 年以来，中国荒漠化土地总体减少了约 10%，重度或极重度荒漠化土地面积减少了 40% 以上。三北防护林项目区森林覆盖率从 1978 年的约 5% 上升到 2022 年的 14%。三北防护林种植的森林累计面积已达 50 万平方公里。项目采用的“稻草棋盘格”技术是一种简单但应用广泛的方法，它能稳定沙丘、抵御风力，并通过灌溉系统供水帮助植物生根发芽。朱教君表示这一进展是前线控沙工作人员努力工作、高层规划和国家大量投资共同作用的结果。近年来部分地区降雨量的增加也使植被恢复变得更加容易。他称，项目的一个关键问题是如何实现可持续的森林保护。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84824" target="_blank"&gt;日本信用卡公司突然倒闭，现金再次为王&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本信用卡公司 Zentoshin 突然倒闭，不仅冲击了其客户，也影响到了支持该公司的银行。依赖 Zentoshin 的商家在寻找替代支付提供商的同时只能要求客户支付现金，或扫描二维码支付。Zentoshin 破产时负债约 1152 亿日元，是今年日本最大的企业破产案例。该公司为约 20 万家商户提供服务，许多是小型餐馆和零售商，几乎没有能力承受延迟付款或突然丧失刷卡能力的冲击。日本曾以现金支付闻名，政府通过推广数字支付，使得无现金支付比例从 2010 年的 13% 上升到 2025 年的 58%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-13</guid><pubDate>Mon, 13 Jul 2026 12:06:20 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84825" target="_blank"&gt;欧盟考虑限制青少年使用社交媒体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                欧盟考虑限制青少年使用社交媒体，包括年龄限制、分阶段开放访问以及彻底禁止。社交媒体平台可能还需在青少年获准使用其服务前，证明自身服务无害。欧洲委员会主席 Ursula von der Leyen 表示，在审查了专家小组建议后，欧盟委员会可能会在数月内提出新立法提案。专家小组建议采用分阶段的方法，包括 3 岁以下儿童“完全不接触屏幕”、13 岁以下儿童需在监督下使用互联网，以及对年龄更大的青少年设置一些限制。专家小组还表示，社交媒体平台应证明其服务对年轻用户是安全的，von der Leye 表示她支持这一做法。欧盟委员会将研究这份报告，在“夏季之后”提出相关提案。任何立法需获得欧洲议会及欧盟 27 个成员国的批准，才能在整个欧盟范围内生效。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-14</guid><pubDate>Tue, 14 Jul 2026 10:46:18 +0000</pubDate></item></channel></rss>
