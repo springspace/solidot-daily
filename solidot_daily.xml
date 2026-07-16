@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 15 Jul 2026 10:50:17 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月15日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 16 Jul 2026 11:00:39 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月16日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84829" target="_blank"&gt;AI 公司高管以及经济学家呼吁就 AI 对经济的影响采取行动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Anthropic、Google 和 OpenAI 等 AI 公司高管以及经济学家和计算机科学家联署发表公开信，呼吁就 AI 对经济和就业的影响立即采取行动。公开信称：“未来 10 年 AI 可能会变得强大得多。可能推动经济发生前所未有的转变，其规模超越工业革命，但速度却快得多。这可能带来风险，包括大规模就业岗位流失，同时也可能带来机遇，比如生活水平的大幅提升。”联署人之一的 Yoshua Bengio 认为，“我们必须有意识的做出集体、民主的选择，而不是任由市场力量发挥作用，从而冒着让大多数公民被抛在后面的风险，AI 极有可能彻底改变我们的经济。”AI 最近一段时间引发了更多人的反感，因此也有很多人认为 AI 泡沫濒临破裂，利益攸关者可能不想让泡沫太早破灭。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84838" target="_blank"&gt;第二次怀孕会以新方式改变大脑&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                发表在《Nature Communications》期刊上的新研究显示，第二次怀孕会以与第一次怀孕熟悉而不同的方式改变大脑。早期的研究表明，第一次怀孕会重塑大脑，在此基础上，研究人员发现，每次怀孕都会在母亲的大脑上留下自己独特的印记。研究小组对 110 名女性进行了长期跟踪调查。一些人期待着他们的第一个孩子，一些人怀了第二个孩子，还有一些人仍然没有孩子。通过反复进行脑部扫描，研究人员追踪了整个研究过程中大脑的变化。研究人员发现，第一次怀孕会使大脑默认模式网络的结构和活动发生最大的变化，这是一个涉及自我反思、社会思维等功能的系统。在第二次怀孕期间，同样的网络再次发生变化，尽管程度较轻。最明显的变化发生在负责引导注意力和对感官信息做出反应的大脑网络中。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84830" target="_blank"&gt;加州新提案将禁止无限滚动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                加州民主党议员 Josh Lowenthal 今年初提出了法案 Assembly Bill 1709，禁止 16 岁以下儿童使用具有成瘾设计的社媒平台。在听取反馈之后，Lowenthal 修改了其提案，改为禁止社媒平台使用具有成瘾性质的设计，而所谓成瘾设计包括了无限滚动的信息流、自动播放、推荐算法和推送通知等常见的社媒功能。Lowenthal 表示其提案的初衷不是阻止访问，而是阻止掠夺性行为。提案要求社媒公司在 2028 年前调整其平台。Lowenthal 在听证会上表示无限滚动等是产品功能而不是言论。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84839" target="_blank"&gt;特朗普政府禁止刚果的美国公民回国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                特朗普政府禁止身处刚果民主共和国的美国公民回国，该国最近爆发了埃博拉疫情。目前身处刚果民主共和国或近期曾前往该国的美国公民已被列入“禁止登机”名单。他们须在第三国停留 21 天后才能返回美国。24 名原定于周二登机回国的美国公民已被新规阻止。目前尚不清楚该禁令是否也适用于政府工作人员。美国疾控中心（CDC）至少有 24 名员工在刚果民主共和国工作。专家批评此类限制措施不仅无效而且有害。这些措施会阻碍公开疫情和疾病风险信息，损害经济，造成污名化。埃博拉病毒不像呼吸道病毒那样容易传播，它通过接触患者或近期死亡者的体液传播。人们不会因为坐在咳嗽者旁边而感染埃博拉病毒。截至 7 月 14 日，刚果民主共和国报告了 1963 例病例和 719 例死亡。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84831" target="_blank"&gt;微软承诺大幅改进 Windows 11 的搜索功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Windows 11 的搜索功能集成了 Web 搜索（Bing）和本地搜索，经常在用户想要搜索本地文件时显示 Web 搜索结果。对于用户的抱怨，微软现在终于表示它听到了，官方博客承诺全面改进搜索功能，优先显示本地应用、文件和设置的结果，同时移除广告、推广、MSN/Bing 等干扰内容，致力于“提升搜索结果的可靠性、易用性和清晰度”。搜索功​​能也提升了拼写错误处理，即使用户拼错了应用或文件名，也能找到正确的结果。这些功能改进已经包含在预览版中，预计将于今年晚些时候推送给所有 Windows 11 用户。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84841" target="_blank"&gt;美国众议院通过了永久性夏令时法案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国众议院以 308 票赞成 117 票反对通过永久性夏令时法案 Sunshine Protection Act。该法案旨在结束一年两次调整时钟。但该法案在参议院的前景不明，已有共和党参议员表示反对该法案。研究已经发现，一年两次调整时间并不利于公众健康和安全。部分睡眠专家在标准时间和夏令时之间倾向于选择标准时间，认为标准时间与人体的昼夜周期节律更为一致，也更有利于冬季早晨的安全。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84832" target="_blank"&gt;一加准备退出美国和欧洲市场&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一加预计最快将在本周宣布退出美国和欧洲市场。一加成立于 2012 年，最早与 Android 社区 Mod 项目 CyanogenMod 合作预装 CyanogenMod，2015 年结束与 CyanogenMod 的合作。2021 年一加不再独立而是成为母公司 OPPO 旗下子品牌。过去几个月的迹象显示 OPPO 在逐步缩减一加在全球的业务，比如一加已开始引导消费者转向购买 OPPO 品牌手机。报道称，一加在印度和中国市场的业务不受影响。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84842" target="_blank"&gt;IBM 称客户倾向于采购 AI 硬件而不是大型机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                IBM 公布了不及预期的季度业绩初步报告，称客户将原计划采购 Z 系列大型机的费用用于囤积 AI 硬件，包括服务器、存储和内存，导致大型机的收入下滑。这一消息导致 IBM 的股价周二暴跌 25% 以上。IBM 包括大型机的基础设施业务收入下滑 7%，而大型机销售疲软连带导致配套的交易处理软件销售收入下滑。IBM CEO Arvind Krishna 将这一切归因于客户竞相采购 AI 硬件。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84833" target="_blank"&gt;诉讼指控 Meta 用 AI 而不是人类做出裁员决定&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                26 名 Meta 员工提起诉讼，指控社交巨人利用 AI 驱动的评分和监控系统筛选裁员对象，并且特别针对了休病假、家庭事务假、产假或育儿假的员工。这起诉讼被认为是美国首例针对科技巨头在裁员中使用 AI 的案例。诉讼指控，Meta 不是通过熟悉员工的中层经理制定裁员名单，而是使用了一系列内部 AI 系统。其中一种评分标准是员工使用 AI 工具的频率。Meta 内部系统会据此将员工分类为——AI Native、AI First 和 AI Enabled。诉讼称，Meta 的系统没有考虑到残疾员工以及休假员工所产生的差异，导致残疾和休假员工更高比例的进入裁员名单。Meta 回应称指控缺乏依据，称它的裁员决定是由人类而不是 AI 做出的。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84843" target="_blank"&gt;AI 公司高管加强个人安保&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 Sam Altman 住所遭遇纵火未遂事件五天后，一名男子尝试尾随 Anthropic 员工进入公司大楼，保安及时阻止了他，该男子对保安说要去警告一名 Anthropic 高管，有人要杀他。随着对 AI 的反对声浪日益高涨，科技公司高管开始加强个人安保。提供安全服务的 Liferaft 公司称，针对 AI 公司高管和数据中心的网络威胁数量增长了七倍，6 月的威胁数量略有下降。Equilar 对公开文件的分析显示，2025 年标普 500 指数成分股公司中有 38.1% 的公司披露了高管安保支出，而 2021 年这一比例为 26.8%。其中 Palantir Technologies 高管安保支出在一年内增长了 150%；甲骨文安保支出增长了 85.5%——主要是保护 Larry Ellison 的住所；Salesforce 安保支出增至 400 万美元，比 2024 年多约 100 万美元。硅谷安保公司 JPT Security 的客户关系副总裁 Dakota Dominguez 称由于面临强烈反对，科技公司越来越多的要求配备武装保镖，不同于明星和政客喜欢身材魁梧的保镖，科技公司高管通常要求的是低调的安保措施。AI 公司也日益不鼓励员工身穿带有公司标识的服装。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84834" target="_blank"&gt;宇航员首次在太空照 X 光&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                从尤里·加加林开始，宇航员进入太空已有 65 年历史，如今他们首次在太空中完成了诊断质量的 X 光照射。在这之前空间站上唯一可用的医学成像技术是超声波。X 射线是现代医学最强大的诊断工具之一，因为它速度快、精度高，不到一分钟就能确诊疑似骨折。2025 年发射的 Fram2 私人太空任务携带了一台便携式 X 光系统，宇航员在太空飞行期间拍摄了身体的 X 光照片。在太空拍摄 X 光照片的难点是如何定位患者、侦测器和 X 射线源，以及保持静止足够长时间以获得清晰的图像。手和手臂是最容易成像的身体部位，因为很容易保持静止。胸部、腹部和盆腔的成像难度更大，但其图像仍然足以进行诊断。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84844" target="_blank"&gt;因意外关机和过热微软暂停向部分戴尔电脑推送七月安全更新&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                对部分戴尔电脑用户而言，Windows 的周二例行安全更新之后紧跟着的是周三的电脑出问题了。微软确认，由于意外关机、性能下降、发热增加和电池耗电过快，它停止向部分配备英特尔处理器的戴尔电脑推送更新。但微软和戴尔尚未披露受影响设备的型号。微软只是表示正与戴尔合作，防止受影响型号出现问题，计划在未来几天内发布针对受影响设备的解决方案。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84835" target="_blank"&gt;微软周二例行安全更新修复了 570 个漏洞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软在本周二释出了 7 月例行安全更新，修复了创纪录的 570 个漏洞。微软将补丁数量的激增归于 AI 辅助的漏洞发现。其中近 60 个 Bug 的风险等级归类为高危级。微软还修复了 3 个 0day，其中 2 个正被利用。2 个被利用的 0day 都是提权漏洞，包括 CVE-2026-56155 和 CVE-2026-56164。第三个 0day 则能绕过 Windows BitLocker 的安全功能，微软表示尚未发现该漏洞被利用。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84845" target="_blank"&gt;DeepSeek 计划年内申请 IPO&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                深度求索（DeepSeek）计划启动新一轮融资，目标融资高达 500 亿元人民币，估值高达 4800 亿人民币。该公司也已开始就可能在上交所科创板上市进行初步探讨。该公司的内部目标是计划在今年提交 IPO 申请。今年 6 月，DeepSeek 完成了成立以来的首轮外部融资，募资总额逾 500 亿元人民币，融资后估值约为 3380 亿人民币。首轮融资中，梁文锋个人出资 200 亿元人民币，腾讯控股和电池巨头宁德时代分别出资 100 亿元人民币和 50 亿元人民币，成为最大的外部股东。京东、网易及 IDG 资本各出资 30 亿元，国家人工智能产业投资基金出资 10 亿元。DeepSeek 如此迅速的融资节奏，源于其对资本支出的预期增加。该公司计划建设自有数据中心并采购更多 AI 芯片。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84836" target="_blank"&gt;Linux 内核不反对使用 AI 工具&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Linus Torvalds 在内核邮件列表上强调，Linux 内核项目不是一个反 AI 的项目，也从来不是一个“社会正义战士”项目。AI 因为对社会产生越来越大的影响而日益受到争议，Linux 内核作为一个大型开源项目，参与者中也有不少人持反 AI 立场。Linus 说，如果有人想要在内核推动反 AI 议题，那么他们最好创建分支或离开。AI 是一种有用的工具，AI 相关问题不涉及它是否“有用”，它确实也可能会对维护者带来痛苦，但解决方法不是像鸵鸟那样将头埋在沙里，而是确保 AI 工具能真正帮助维护者。内核不会阻止开发者使用 AI 工具，而 AI 和人类的自然智能一样都不完美。开源项目的社会意义从来都是附带的，参与开源项目主要是为了获得更好的技术，不是出于宗教信仰。内核项目的决策主要基于技术优势，而非对新工具的恐惧。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84846" target="_blank"&gt;图书出版商指控 Google 在训练 Gemini 过程中大规模侵犯版权&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                大型图书出版商 Hachette、Cengage 和 Elsevier 以及作家 Scott Turow 指控 Google 在训练 Gemini 模型过程中未经许可使用了数百万受版权保护图书，声称这是历史上最严重的版权侵犯事件之一。出版商称，Google 挪用了用于 Google Books、Google Play Books 和 Google Scholar 等服务的图书，这些服务允许 Google 以特定方式使用相关图书——如显示可搜索的片段或销售电子书，但无权将这些图书用于训练商业 AI 产品。诉讼书称：“为了维持其在互联网领域的统治地位，Google 放弃了其早期‘不作恶’的座右铭，犯下了历史上最严重的版权侵权事件之一。”诉讼书称，Google 内部早已认识到该问题，它可能会面临“100-1000 亿美元的潜在罚款”，但仍然未经许可将这些图书用于训练 Gemini。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84837" target="_blank"&gt;纽约州禁止建造大型数据中心一年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                纽约州成为美国第一个暂停建造大型数据中心的州。这一禁令适用于用电量 50 MW 或更高的数据中心。随着美国民众越来越担心污染风险、能源成本上涨和水资源短缺，美国各地要求停建数据中心的呼声日益高涨。佛蒙特州参议员 Bernie Sanders 和纽约州民主党众议员 Alexandria Ocasio-Cortez 已提出立法，寻求在全国范围内禁止数据中心建设。但特朗普政府不支持此类禁令。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84847" target="_blank"&gt;马不靠声音或气味就能识别屏幕上的捕食者&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                发表在 PLOS One 上的一项新研究发现，马不依赖声音、气味或过往经验就能识别屏幕上的捕食者。传感器显示，马看到屏幕上的狼后心跳会加速，但面无表情十分镇定。研究显示，马没有摇头，没有摇尾巴，其目光也没有锁定屏幕以表明大脑在处理威胁信息。论文第一作者 Zeynep Benderlioglu 称，马在评估潜在威胁时展现出惊人的认知克制而不是惊吓。在实验中，马看到屏幕上的袋熊时心率平稳，但看到屏幕上的狼——无论狼是在攻击还是梳理——时其心率会显著加快，其中雄性马的反应更强烈。Benderlioglu 说，马的认知处理能力出乎意料的高。它们高度警惕，但威胁并没有出现，所以它们没有表现出任何异常行为，它们正在进行认知评估。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-15</guid><pubDate>Wed, 15 Jul 2026 10:50:17 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-16</guid><pubDate>Thu, 16 Jul 2026 11:00:39 +0000</pubDate></item></channel></rss>
