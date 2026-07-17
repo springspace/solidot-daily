@@ -1,56 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 16 Jul 2026 11:00:39 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月16日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 17 Jul 2026 10:47:18 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月17日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84838" target="_blank"&gt;第二次怀孕会以新方式改变大脑&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                发表在《Nature Communications》期刊上的新研究显示，第二次怀孕会以与第一次怀孕熟悉而不同的方式改变大脑。早期的研究表明，第一次怀孕会重塑大脑，在此基础上，研究人员发现，每次怀孕都会在母亲的大脑上留下自己独特的印记。研究小组对 110 名女性进行了长期跟踪调查。一些人期待着他们的第一个孩子，一些人怀了第二个孩子，还有一些人仍然没有孩子。通过反复进行脑部扫描，研究人员追踪了整个研究过程中大脑的变化。研究人员发现，第一次怀孕会使大脑默认模式网络的结构和活动发生最大的变化，这是一个涉及自我反思、社会思维等功能的系统。在第二次怀孕期间，同样的网络再次发生变化，尽管程度较轻。最明显的变化发生在负责引导注意力和对感官信息做出反应的大脑网络中。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84849" target="_blank"&gt;一加确认退出美国和欧洲市场，将继续为现有用户提供软件更新&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一加确认退出美国和欧洲市场，表示将会继续为现有用户提供软件更新，但一加手机搭载的 OxygenOS 系统将被母公司 OPPO 的 ColorOS 系统所取代。作为关闭全球业务计划的一部分，一加手机的 OxygenOS 也将随之关闭。所有在售一加手机运行的操作系统从 Android 17 更新开始将逐步迁移到 ColorOS，一加称此举有助于简化软件开发流程，加快更新推送速度，提升软件质量，更好地利用共享的工程和研发资源。对于不会更新到 Android 17 的旧型号设备，一加将会提供操作系统的维护支持，但新设备需要更新到 ColorOS 才会获得所有形式的支持。如果客户想要旧的 OxygenOS 使用体验，在更新到 ColorOS 之后可选择回滚。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84839" target="_blank"&gt;特朗普政府禁止刚果的美国公民回国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                特朗普政府禁止身处刚果民主共和国的美国公民回国，该国最近爆发了埃博拉疫情。目前身处刚果民主共和国或近期曾前往该国的美国公民已被列入“禁止登机”名单。他们须在第三国停留 21 天后才能返回美国。24 名原定于周二登机回国的美国公民已被新规阻止。目前尚不清楚该禁令是否也适用于政府工作人员。美国疾控中心（CDC）至少有 24 名员工在刚果民主共和国工作。专家批评此类限制措施不仅无效而且有害。这些措施会阻碍公开疫情和疾病风险信息，损害经济，造成污名化。埃博拉病毒不像呼吸道病毒那样容易传播，它通过接触患者或近期死亡者的体液传播。人们不会因为坐在咳嗽者旁边而感染埃博拉病毒。截至 7 月 14 日，刚果民主共和国报告了 1963 例病例和 719 例死亡。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84850" target="_blank"&gt;心脏病发作患者血液内有更多微塑料和纳米塑料&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《European Heart Journal》上的一项研究，相比心脏供血正常的人，心脏病发作患者血液内的微塑料和纳米塑料含量更高。研究还发现，吸烟者和暴露于较高空气污染水平人群血液中微塑料和纳米塑料含量也更高。研究人员分析了 61 名意大利患者，采集了其血液样本，调查了他们是否吸烟以及空气污染情况。结果显示，84% 的心脏病发作患者血液中检测到微塑料和纳米塑料，慢性缺血性心脏病患者为 40%，冠状动脉正常的患者为 32%。心脏病发作患者血液中塑料种类更多。最常见的塑料类型是聚乙烯，这种塑料常用于包装和消费品。长期暴露于较高 PM2.5 水平的患者血液中更容易检测到微塑料，吸烟者血液中微塑料的检出率是不吸烟者的六倍。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84841" target="_blank"&gt;美国众议院通过了永久性夏令时法案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国众议院以 308 票赞成 117 票反对通过永久性夏令时法案 Sunshine Protection Act。该法案旨在结束一年两次调整时钟。但该法案在参议院的前景不明，已有共和党参议员表示反对该法案。研究已经发现，一年两次调整时间并不利于公众健康和安全。部分睡眠专家在标准时间和夏令时之间倾向于选择标准时间，认为标准时间与人体的昼夜周期节律更为一致，也更有利于冬季早晨的安全。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84851" target="_blank"&gt;Google Play 将于下周上架第三方应用商店&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                从 7 月 22 日起，美国第三方应用商店将可以通过 Google 的应用商店发行其客户端。Google 公布了“加入 Google Play 目录访问权限计划”的文档，美国第三方应用商店可以访问 Google Play 商店的应用目录。届时，美国第三方 Android 应用商店将能向用户提供这些应用，而用户仍将通过 Google Play 完成下载，其下载条款与直接在 Google Play 商店下载完全一致。通过此类方式下载的应用将需要继续支付 Google Play 服务费。Google 还将要求上架的应用商店屏蔽恶意软件、尊重知识产权，提供应用更新和卸载机制。如果超过 1% 的应用安装尝试疑似恶意软件或不需要的软件，则该应用商店可能会被移除。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84842" target="_blank"&gt;IBM 称客户倾向于采购 AI 硬件而不是大型机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                IBM 公布了不及预期的季度业绩初步报告，称客户将原计划采购 Z 系列大型机的费用用于囤积 AI 硬件，包括服务器、存储和内存，导致大型机的收入下滑。这一消息导致 IBM 的股价周二暴跌 25% 以上。IBM 包括大型机的基础设施业务收入下滑 7%，而大型机销售疲软连带导致配套的交易处理软件销售收入下滑。IBM CEO Arvind Krishna 将这一切归因于客户竞相采购 AI 硬件。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84852" target="_blank"&gt;月之暗面宣布首个 3 万亿参数开放权重模型 Kimi K3&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                月之暗面宣布了 2.8 万亿参数开放权重模型 Kimi K3，完整的权重将于 7 月 27 日发布。月之暗面称，Kimi K3基于 Kimi Delta Attention 和 Attention Residuals 构建，参数规模 2.8 万亿，具备原生视觉功能和 100 万个词元上下文窗口。它是全球首个 3 万亿参数级别的开放权重模型，专为长程编码、知识工作和推理等前沿智能领域而设计。在基准测试中，Kimi K3 整体性能仅落后于 Claude Fable 5 和 GPT-5.6 Sol。Kimi K3 现已在 Kimi.com、Kimi Work、Kimi Code 和 Kimi API 上线。发布初期 Kimi K3 将默认采用最大思考强度模式，低强度和高强度模式将在后续更新中推出。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84843" target="_blank"&gt;AI 公司高管加强个人安保&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 Sam Altman 住所遭遇纵火未遂事件五天后，一名男子尝试尾随 Anthropic 员工进入公司大楼，保安及时阻止了他，该男子对保安说要去警告一名 Anthropic 高管，有人要杀他。随着对 AI 的反对声浪日益高涨，科技公司高管开始加强个人安保。提供安全服务的 Liferaft 公司称，针对 AI 公司高管和数据中心的网络威胁数量增长了七倍，6 月的威胁数量略有下降。Equilar 对公开文件的分析显示，2025 年标普 500 指数成分股公司中有 38.1% 的公司披露了高管安保支出，而 2021 年这一比例为 26.8%。其中 Palantir Technologies 高管安保支出在一年内增长了 150%；甲骨文安保支出增长了 85.5%——主要是保护 Larry Ellison 的住所；Salesforce 安保支出增至 400 万美元，比 2024 年多约 100 万美元。硅谷安保公司 JPT Security 的客户关系副总裁 Dakota Dominguez 称由于面临强烈反对，科技公司越来越多的要求配备武装保镖，不同于明星和政客喜欢身材魁梧的保镖，科技公司高管通常要求的是低调的安保措施。AI 公司也日益不鼓励员工身穿带有公司标识的服装。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84853" target="_blank"&gt;微软开源 Comic Chat&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软宣布开源 Comic Chat，源代码采用 MIT 许可证托管在 GitHub 上。Comic Chat 是一款能自动将 IRC 中的对话转换为漫画格形式的聊天客户端，其中包含插图人物、对话气泡和表情。它的一个目的是帮助世界认识 Comic Sans 字体。Comic Sans 字体最早由微软字体设计师 Vincent Connare 于 1994 年设计，在 Comic Chat 中找到了它真正的家。它非正式的手写风格与软件的对话气泡完美匹配。Comic Chat 最早于 1995 年开发，1996 年随 Internet Explorer 3 推出。开源 Comic Chat 的一个意图是保存软件历史，以及让开源社区在此基础上探索、学习和二次开发。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84844" target="_blank"&gt;因意外关机和过热微软暂停向部分戴尔电脑推送七月安全更新&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                对部分戴尔电脑用户而言，Windows 的周二例行安全更新之后紧跟着的是周三的电脑出问题了。微软确认，由于意外关机、性能下降、发热增加和电池耗电过快，它停止向部分配备英特尔处理器的戴尔电脑推送更新。但微软和戴尔尚未披露受影响设备的型号。微软只是表示正与戴尔合作，防止受影响型号出现问题，计划在未来几天内发布针对受影响设备的解决方案。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84854" target="_blank"&gt;恒星普查研究确认宇宙年龄 138 亿岁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                研究团队结合了地面大型巡天计划 LAMOST DR7 的光谱观测，与 ESA 盖亚太空望远镜的高精度视差资料，建立起包含 155,600 颗邻近太阳次巨星（Subgiant stars）的庞大基准样本。由于这类恒星形成于银河系早期，其化学组成几乎保留了最原始的样貌，是推算时间极佳的恒星化石。团队利用马可夫链蒙地卡罗（MCMC）算法重建真实年龄分布，推导出样本中最古老恒星的真实年龄为 137.3（+1.8 / -1.5）亿年，若考虑大爆炸后约 2 亿年才形成首批长寿命恒星，这与宇宙微波背景辐射预测的 138 亿年宇宙年龄完全相符。最新结果显示，目前并没有可信的观测证据支持宇宙年龄超过 138 亿年。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84845" target="_blank"&gt;DeepSeek 计划年内申请 IPO&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                深度求索（DeepSeek）计划启动新一轮融资，目标融资高达 500 亿元人民币，估值高达 4800 亿人民币。该公司也已开始就可能在上交所科创板上市进行初步探讨。该公司的内部目标是计划在今年提交 IPO 申请。今年 6 月，DeepSeek 完成了成立以来的首轮外部融资，募资总额逾 500 亿元人民币，融资后估值约为 3380 亿人民币。首轮融资中，梁文锋个人出资 200 亿元人民币，腾讯控股和电池巨头宁德时代分别出资 100 亿元人民币和 50 亿元人民币，成为最大的外部股东。京东、网易及 IDG 资本各出资 30 亿元，国家人工智能产业投资基金出资 10 亿元。DeepSeek 如此迅速的融资节奏，源于其对资本支出的预期增加。该公司计划建设自有数据中心并采购更多 AI 芯片。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84855" target="_blank"&gt;美国 CD 唱片销量涨幅超过黑胶唱片&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                黑胶唱片过去十年一直是实体音乐复兴的代表，但今年上半年美国 CD 唱片销量涨幅远超黑胶唱片。CD 销量飙升 16% 达到 1630 万张，相比下黑胶唱片销量上涨 2.4%。韩国 K-pop BTS 热门专辑《ARIRANG》在 CD 销量增长中起到了重要作用，但排除 K-pop 之后，CD 销量仍然同比增长了 6.7%。美国包括 LP、CD 和磁带的实体专辑总销量上半年增长了 7.8% 达到 3820 万。实体音乐复兴的一大原因是年轻一代听歌习惯发生了变化，六成 Z 世代听众表示最常听的是音乐是 1990 年代或更早期的，相比下 2021 年这一比例仅为 18%。无论是怀旧、通过流媒体发现新音乐，还是想要拥有艺术家作品的实体唱片，年轻听众在拥抱实体唱片。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84846" target="_blank"&gt;图书出版商指控 Google 在训练 Gemini 过程中大规模侵犯版权&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                大型图书出版商 Hachette、Cengage 和 Elsevier 以及作家 Scott Turow 指控 Google 在训练 Gemini 模型过程中未经许可使用了数百万受版权保护图书，声称这是历史上最严重的版权侵犯事件之一。出版商称，Google 挪用了用于 Google Books、Google Play Books 和 Google Scholar 等服务的图书，这些服务允许 Google 以特定方式使用相关图书——如显示可搜索的片段或销售电子书，但无权将这些图书用于训练商业 AI 产品。诉讼书称：“为了维持其在互联网领域的统治地位，Google 放弃了其早期‘不作恶’的座右铭，犯下了历史上最严重的版权侵权事件之一。”诉讼书称，Google 内部早已认识到该问题，它可能会面临“100-1000 亿美元的潜在罚款”，但仍然未经许可将这些图书用于训练 Gemini。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84847" target="_blank"&gt;马不靠声音或气味就能识别屏幕上的捕食者&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                发表在 PLOS One 上的一项新研究发现，马不依赖声音、气味或过往经验就能识别屏幕上的捕食者。传感器显示，马看到屏幕上的狼后心跳会加速，但面无表情十分镇定。研究显示，马没有摇头，没有摇尾巴，其目光也没有锁定屏幕以表明大脑在处理威胁信息。论文第一作者 Zeynep Benderlioglu 称，马在评估潜在威胁时展现出惊人的认知克制而不是惊吓。在实验中，马看到屏幕上的袋熊时心率平稳，但看到屏幕上的狼——无论狼是在攻击还是梳理——时其心率会显著加快，其中雄性马的反应更强烈。Benderlioglu 说，马的认知处理能力出乎意料的高。它们高度警惕，但威胁并没有出现，所以它们没有表现出任何异常行为，它们正在进行认知评估。”
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-16</guid><pubDate>Thu, 16 Jul 2026 11:00:39 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-17</guid><pubDate>Fri, 17 Jul 2026 10:47:18 +0000</pubDate></item></channel></rss>
