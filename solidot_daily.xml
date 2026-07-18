@@ -1,44 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 17 Jul 2026 10:47:18 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月17日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 18 Jul 2026 10:18:33 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月18日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84849" target="_blank"&gt;一加确认退出美国和欧洲市场，将继续为现有用户提供软件更新&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一加确认退出美国和欧洲市场，表示将会继续为现有用户提供软件更新，但一加手机搭载的 OxygenOS 系统将被母公司 OPPO 的 ColorOS 系统所取代。作为关闭全球业务计划的一部分，一加手机的 OxygenOS 也将随之关闭。所有在售一加手机运行的操作系统从 Android 17 更新开始将逐步迁移到 ColorOS，一加称此举有助于简化软件开发流程，加快更新推送速度，提升软件质量，更好地利用共享的工程和研发资源。对于不会更新到 Android 17 的旧型号设备，一加将会提供操作系统的维护支持，但新设备需要更新到 ColorOS 才会获得所有形式的支持。如果客户想要旧的 OxygenOS 使用体验，在更新到 ColorOS 之后可选择回滚。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84856" target="_blank"&gt;为什么罗马混凝土建筑能屹立两千年而不倒&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在今天的意大利漫步，我们仍然能看到有近两千年历史的混凝土建筑。相比下，现代混凝土建筑在百年内就会坍塌。为什么罗马时代的混凝土耐用性如此好？科学家认为要归功于名为“火山灰反应”的关键化学过程——即火山灰与石灰和水发生反应。根据发表在《Science Advances》上的一项研究，名为碳化的反应也有助于增强混凝土的耐久性。研究人员从有 1900 年历史的哈德良(Hadrian)皇帝庄园的马桶座圈上收集了混凝土样本，用高倍显微镜观察，用 X 射线扫描分析其化学成分。研究发现，样本含有火山灰、石灰和水等材料的证据，但对混凝土孔隙和裂缝的观察显示，方解石是其主要的粘结剂。当大气中的二氧化碳与混凝土中的钙化合物发生反应时，会形成坚硬的方解石矿物，它含有大量的碳酸钙。方解石填充了混凝土中的细小裂缝和孔隙，使古老的建筑结构能随着时间的推移而加固和修复。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84850" target="_blank"&gt;心脏病发作患者血液内有更多微塑料和纳米塑料&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《European Heart Journal》上的一项研究，相比心脏供血正常的人，心脏病发作患者血液内的微塑料和纳米塑料含量更高。研究还发现，吸烟者和暴露于较高空气污染水平人群血液中微塑料和纳米塑料含量也更高。研究人员分析了 61 名意大利患者，采集了其血液样本，调查了他们是否吸烟以及空气污染情况。结果显示，84% 的心脏病发作患者血液中检测到微塑料和纳米塑料，慢性缺血性心脏病患者为 40%，冠状动脉正常的患者为 32%。心脏病发作患者血液中塑料种类更多。最常见的塑料类型是聚乙烯，这种塑料常用于包装和消费品。长期暴露于较高 PM2.5 水平的患者血液中更容易检测到微塑料，吸烟者血液中微塑料的检出率是不吸烟者的六倍。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84857" target="_blank"&gt;天文学家探测到系外行星大气层中的氦气&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家直接探测到系外行星 LHS 1140 b 大气层中的氦气。LHS 1140 b 是一颗岩石行星，距离地球 48 光年，位于其母星的宜居带。这是首次在宜居带内的类地球岩石行星确认探测到大气层。LHS 1140 b 围绕着一颗比太阳更小更冷的红矮星运行，其轨道比日地距离更近，温度适宜，其表面可能存在液体水，可能有铁质内核。就对地球的生命研究而言，液态水是生命存在的必要条件。论文第一作者 Collin Cherubim 表示需要进一步研究去确认行星是否存在水。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84851" target="_blank"&gt;Google Play 将于下周上架第三方应用商店&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                从 7 月 22 日起，美国第三方应用商店将可以通过 Google 的应用商店发行其客户端。Google 公布了“加入 Google Play 目录访问权限计划”的文档，美国第三方应用商店可以访问 Google Play 商店的应用目录。届时，美国第三方 Android 应用商店将能向用户提供这些应用，而用户仍将通过 Google Play 完成下载，其下载条款与直接在 Google Play 商店下载完全一致。通过此类方式下载的应用将需要继续支付 Google Play 服务费。Google 还将要求上架的应用商店屏蔽恶意软件、尊重知识产权，提供应用更新和卸载机制。如果超过 1% 的应用安装尝试疑似恶意软件或不需要的软件，则该应用商店可能会被移除。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84858" target="_blank"&gt;科学家确认了一位玛雅数学家&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                危地马拉舒尔通玛雅遗址一面墙壁上镌刻的数学公式，让学界首次确认了一位重要的玛雅数学家兼天文学家的真实姓名。研究团队指出，这位名为 Sak Tahn Waax（意为“白胸狐狸”）的学者足以比肩人类历史上的数学巨匠。
+墙壁绘有人物画像与象形文字，其中包含基于天文历法的精密数学运算。玛雅人曾依靠这些运算确定国王登基等重大仪式的举办时间。研究团队重点分析了编号为“19号文本”的一组象形文字。“19号文本”是一组呈L形排布的11个象形文字，整体高度约10厘米。研究发现，前 9 个象形文字完整记录了玛雅历法与天文周期的换算逻辑。这套公式破解了一个2920 天周期的拆分规律，可适配玛雅各类历法单位。2920 天是玛雅文明的核心天文周期，完美契合5个金星周期（每周期584天）与8个太阳年（每周期365天）。不仅如此，该运算还将2920天与乌伊纳尔（每月20日）、卓尔金历（260天神圣历法）、通年（每年360天）以及780天火星周期建立了精准数理关联。
+团队在“19号文本”倒数第二个符号中破译出“如是说”的句式，其后紧跟的最后一个象形文字便是署名 Sak Tahn Waax，代表该学者是这套运算公式的创作者。从铭文缺失女性专属前缀可判定，这是一位男性学者。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84852" target="_blank"&gt;月之暗面宣布首个 3 万亿参数开放权重模型 Kimi K3&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                月之暗面宣布了 2.8 万亿参数开放权重模型 Kimi K3，完整的权重将于 7 月 27 日发布。月之暗面称，Kimi K3基于 Kimi Delta Attention 和 Attention Residuals 构建，参数规模 2.8 万亿，具备原生视觉功能和 100 万个词元上下文窗口。它是全球首个 3 万亿参数级别的开放权重模型，专为长程编码、知识工作和推理等前沿智能领域而设计。在基准测试中，Kimi K3 整体性能仅落后于 Claude Fable 5 和 GPT-5.6 Sol。Kimi K3 现已在 Kimi.com、Kimi Work、Kimi Code 和 Kimi API 上线。发布初期 Kimi K3 将默认采用最大思考强度模式，低强度和高强度模式将在后续更新中推出。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84859" target="_blank"&gt;亚马逊 AWS 计费系统单位错误导致客户看到了数亿乃至数万亿美元的账单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                世界各地的亚马逊 AWS 客户周五可能都心跳加速，他们看到了远远超过他们想象的账单数字，很多每月只花几美元的客户看到了数亿乃至数十亿美元的账单，很多企业甚至看到了数以万亿美元的账单。亚马逊证实其计费系统出现问题，账单预估数字不正确，在问题解决期间它暂停了账单更新。亚马逊称它已经识别问题是单位导致的，所有受影响客户预计到 7 月 19 日 12:00 AM PDT 将会完全恢复正常。亚马逊没有详细解释单位问题，猜测是原来按 GB 收费的系统漏掉了 GB，而系统默认按 Byte 计费，1 GB = 1,073,741,824 Bytes，这意味着一小时内账单费用就会膨胀十亿倍。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84853" target="_blank"&gt;微软开源 Comic Chat&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软宣布开源 Comic Chat，源代码采用 MIT 许可证托管在 GitHub 上。Comic Chat 是一款能自动将 IRC 中的对话转换为漫画格形式的聊天客户端，其中包含插图人物、对话气泡和表情。它的一个目的是帮助世界认识 Comic Sans 字体。Comic Sans 字体最早由微软字体设计师 Vincent Connare 于 1994 年设计，在 Comic Chat 中找到了它真正的家。它非正式的手写风格与软件的对话气泡完美匹配。Comic Chat 最早于 1995 年开发，1996 年随 Internet Explorer 3 推出。开源 Comic Chat 的一个意图是保存软件历史，以及让开源社区在此基础上探索、学习和二次开发。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84854" target="_blank"&gt;恒星普查研究确认宇宙年龄 138 亿岁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                研究团队结合了地面大型巡天计划 LAMOST DR7 的光谱观测，与 ESA 盖亚太空望远镜的高精度视差资料，建立起包含 155,600 颗邻近太阳次巨星（Subgiant stars）的庞大基准样本。由于这类恒星形成于银河系早期，其化学组成几乎保留了最原始的样貌，是推算时间极佳的恒星化石。团队利用马可夫链蒙地卡罗（MCMC）算法重建真实年龄分布，推导出样本中最古老恒星的真实年龄为 137.3（+1.8 / -1.5）亿年，若考虑大爆炸后约 2 亿年才形成首批长寿命恒星，这与宇宙微波背景辐射预测的 138 亿年宇宙年龄完全相符。最新结果显示，目前并没有可信的观测证据支持宇宙年龄超过 138 亿年。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84855" target="_blank"&gt;美国 CD 唱片销量涨幅超过黑胶唱片&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                黑胶唱片过去十年一直是实体音乐复兴的代表，但今年上半年美国 CD 唱片销量涨幅远超黑胶唱片。CD 销量飙升 16% 达到 1630 万张，相比下黑胶唱片销量上涨 2.4%。韩国 K-pop BTS 热门专辑《ARIRANG》在 CD 销量增长中起到了重要作用，但排除 K-pop 之后，CD 销量仍然同比增长了 6.7%。美国包括 LP、CD 和磁带的实体专辑总销量上半年增长了 7.8% 达到 3820 万。实体音乐复兴的一大原因是年轻一代听歌习惯发生了变化，六成 Z 世代听众表示最常听的是音乐是 1990 年代或更早期的，相比下 2021 年这一比例仅为 18%。无论是怀旧、通过流媒体发现新音乐，还是想要拥有艺术家作品的实体唱片，年轻听众在拥抱实体唱片。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-17</guid><pubDate>Fri, 17 Jul 2026 10:47:18 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-18</guid><pubDate>Sat, 18 Jul 2026 10:18:33 +0000</pubDate></item></channel></rss>
