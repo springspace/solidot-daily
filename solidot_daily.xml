@@ -1,28 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 18 Jul 2026 10:18:33 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月18日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 19 Jul 2026 10:28:12 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84856" target="_blank"&gt;为什么罗马混凝土建筑能屹立两千年而不倒&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在今天的意大利漫步，我们仍然能看到有近两千年历史的混凝土建筑。相比下，现代混凝土建筑在百年内就会坍塌。为什么罗马时代的混凝土耐用性如此好？科学家认为要归功于名为“火山灰反应”的关键化学过程——即火山灰与石灰和水发生反应。根据发表在《Science Advances》上的一项研究，名为碳化的反应也有助于增强混凝土的耐久性。研究人员从有 1900 年历史的哈德良(Hadrian)皇帝庄园的马桶座圈上收集了混凝土样本，用高倍显微镜观察，用 X 射线扫描分析其化学成分。研究发现，样本含有火山灰、石灰和水等材料的证据，但对混凝土孔隙和裂缝的观察显示，方解石是其主要的粘结剂。当大气中的二氧化碳与混凝土中的钙化合物发生反应时，会形成坚硬的方解石矿物，它含有大量的碳酸钙。方解石填充了混凝土中的细小裂缝和孔隙，使古老的建筑结构能随着时间的推移而加固和修复。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84860" target="_blank"&gt;Firefox 将从 9 月 1 日起每两周发布一个新版本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Mozilla 工程总监 Sylvestre Ledru 通过 dev-platform@mozilla.org 邮件列表宣布，从 2026 年 9 月起 Firefox 桌面版和 Android 版本的发布周期从 4 周减少到 2 周。他表示这是一次实验，并不意味着工作进度加倍，并不会仓促交付新功能。当前的目标是在 9 月 1 日释出 Firefox 155 而不是原计划的 9 月 15 日，“我们将密切关注这一变化在实际中的效果，根据需要进行调整。”Firefox 接下来的两个版本 Firefox 153（ESR） 和 154 仍然是每隔 4 周释出，Firefox 155 开始提前两周释出。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84857" target="_blank"&gt;天文学家探测到系外行星大气层中的氦气&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                天文学家直接探测到系外行星 LHS 1140 b 大气层中的氦气。LHS 1140 b 是一颗岩石行星，距离地球 48 光年，位于其母星的宜居带。这是首次在宜居带内的类地球岩石行星确认探测到大气层。LHS 1140 b 围绕着一颗比太阳更小更冷的红矮星运行，其轨道比日地距离更近，温度适宜，其表面可能存在液体水，可能有铁质内核。就对地球的生命研究而言，液态水是生命存在的必要条件。论文第一作者 Collin Cherubim 表示需要进一步研究去确认行星是否存在水。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84861" target="_blank"&gt;重度电视观众与大脑结构缩小相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                “电视会腐蚀你的大脑”这句话也许在字面意义上是正确的。根据发表在《Alzheimer’s and Dementia: Journal of the Alzheimer’s Association》上的一项研究，常看电视的人大脑中与记忆相关的区域体积缩小，额叶和枕叶变小，大脑白质出现了与衰老、中风风险、认知能力下降和痴呆症相关的损伤区域。研究人员分析了约 1700 名成年人的数据，他们的平均年龄 53 岁，在 1987-1989 年间参与了心血管研究 Atherosclerosis Risk in Communities(ARIC) 。参与者被询问了休闲时看电视的频率。20 多年后参与者接受了脑部核磁共振成像检查。结果显示，重度电视人群的大脑结构出现了缩小，其中男性的影响更显著。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84858" target="_blank"&gt;科学家确认了一位玛雅数学家&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                危地马拉舒尔通玛雅遗址一面墙壁上镌刻的数学公式，让学界首次确认了一位重要的玛雅数学家兼天文学家的真实姓名。研究团队指出，这位名为 Sak Tahn Waax（意为“白胸狐狸”）的学者足以比肩人类历史上的数学巨匠。
-墙壁绘有人物画像与象形文字，其中包含基于天文历法的精密数学运算。玛雅人曾依靠这些运算确定国王登基等重大仪式的举办时间。研究团队重点分析了编号为“19号文本”的一组象形文字。“19号文本”是一组呈L形排布的11个象形文字，整体高度约10厘米。研究发现，前 9 个象形文字完整记录了玛雅历法与天文周期的换算逻辑。这套公式破解了一个2920 天周期的拆分规律，可适配玛雅各类历法单位。2920 天是玛雅文明的核心天文周期，完美契合5个金星周期（每周期584天）与8个太阳年（每周期365天）。不仅如此，该运算还将2920天与乌伊纳尔（每月20日）、卓尔金历（260天神圣历法）、通年（每年360天）以及780天火星周期建立了精准数理关联。
-团队在“19号文本”倒数第二个符号中破译出“如是说”的句式，其后紧跟的最后一个象形文字便是署名 Sak Tahn Waax，代表该学者是这套运算公式的创作者。从铭文缺失女性专属前缀可判定，这是一位男性学者。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84862" target="_blank"&gt;天文学家确认了 25 光年外的一颗位于宜居带的岩石行星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家确认一颗名为 GJ3378b 的系外行星，位于距离地球仅 25 光年的红矮星宜居带内，可能具备孕育生命的条件。这颗行星位于鹿豹座方向，围绕一颗暗淡的红矮星运行，被视为目前已知距离地球最近的潜在宜居世界之一。GJ3378b 最初于 2024 年被法国天文学家发现。当时测定的质量为地球的 5.26 倍，被认为是一颗类似微型海王星的气态行星。天文学家利用基特峰国家天文台的 WIYN 3.5米望远镜等设备进行二次观测后，修正了这一结论。新数据显示，GJ3378b 的真实质量仅为地球的 2.3 倍，属于岩石质地的“超级地球”。轨道参数同样得到修正。最初认为该行星的公转周期为 25 天，实际仅为 21 天。这意味着它比此前判断的更靠近母星，但也恰好处于宜居带内——这一区域允许行星表面温度维持液态水的存在。这颗行星从母星接收的辐射量约为地球从太阳获取的 90%，位置非常理想。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84859" target="_blank"&gt;亚马逊 AWS 计费系统单位错误导致客户看到了数亿乃至数万亿美元的账单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                世界各地的亚马逊 AWS 客户周五可能都心跳加速，他们看到了远远超过他们想象的账单数字，很多每月只花几美元的客户看到了数亿乃至数十亿美元的账单，很多企业甚至看到了数以万亿美元的账单。亚马逊证实其计费系统出现问题，账单预估数字不正确，在问题解决期间它暂停了账单更新。亚马逊称它已经识别问题是单位导致的，所有受影响客户预计到 7 月 19 日 12:00 AM PDT 将会完全恢复正常。亚马逊没有详细解释单位问题，猜测是原来按 GB 收费的系统漏掉了 GB，而系统默认按 Byte 计费，1 GB = 1,073,741,824 Bytes，这意味着一小时内账单费用就会膨胀十亿倍。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84863" target="_blank"&gt;手动挡汽车越来越少见&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2025 年美国新车仅有 0.6% 是手动挡，汽车已是自动挡的天下，电动汽车和自动驾驶汽车的兴起也加速了手动挡汽车的消失。相比下欧洲的情况略好，行业分析公司 JATO Dynamics 的数据显示，欧洲最大汽车市场手动挡汽车的注册比例从 2001 年的 91% 下降到 2024 年的 29%。曾以手动挡汽车知名的斯巴鲁（Subaru）已停止提供手动挡车型，大众汽车将于今年停产在美国销售的最后一款手动挡车型捷达 GLI。丰田、本田和宝马都减少了面向美国市场的手动挡车型。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-18</guid><pubDate>Sat, 18 Jul 2026 10:18:33 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84864" target="_blank"&gt;法国命令 ISP 屏蔽 Polymarket&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                法国持牌博彩/赌博游戏监管机构 Autorité Nationale Des Jeux 命令 ISP 屏蔽最大预测市场平台 Polymarket，任何被发现宣传该非法赌博网站的人都可能被处以最高 10 万欧元的罚款。ANJ 此前已经限制法国居民在 Polymarket 上进行任何金融交易，但它发现法国居民绕过了限制，Polymarket 的法国访客仍然持续增长。ANJ 希望加大对 Polymarket 的打击力度，再次强调该平台被认定为非法赌博网站。西班牙政府也下令封锁了预测市场平台 Polymarket 和 Kalshi。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-19</guid><pubDate>Sun, 19 Jul 2026 10:28:12 +0000</pubDate></item></channel></rss>
