@@ -1,32 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 19 Jul 2026 10:28:12 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 20 Jul 2026 11:45:35 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月20日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84860" target="_blank"&gt;Firefox 将从 9 月 1 日起每两周发布一个新版本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 工程总监 Sylvestre Ledru 通过 dev-platform@mozilla.org 邮件列表宣布，从 2026 年 9 月起 Firefox 桌面版和 Android 版本的发布周期从 4 周减少到 2 周。他表示这是一次实验，并不意味着工作进度加倍，并不会仓促交付新功能。当前的目标是在 9 月 1 日释出 Firefox 155 而不是原计划的 9 月 15 日，“我们将密切关注这一变化在实际中的效果，根据需要进行调整。”Firefox 接下来的两个版本 Firefox 153（ESR） 和 154 仍然是每隔 4 周释出，Firefox 155 开始提前两周释出。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84865" target="_blank"&gt;数据中心抗议席卷美国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                反数据中心抗议者在美国 42 州举行了 142 场抗议活动。这一抗议行动获得了两党民众支持、由前茶党领袖联合创办的组织 HumansFirst 协调。抗议者集会反对 HumansFirst 所称的数据中心“缺乏问责”的扩张以及“对自由不可接受的侵犯”。在弗吉尼亚州 Fredericksburg，一位年轻人举的牌子上面写着：“我们靠水而不是数据生存。”亚特兰大抗议者的标语是“佐治亚州从未投票支持超大规模人工智能数据中心”。HumansFirst 表示暂无全美和各大城市抗议者人数的统计数据。反对数据中心建设是少数几个能跨越意识形态团结美国人的议题之一。民调显示，只有三分之一的美国人认可数据中心的建设速度，只有 14% 的受访者支持在其社区建设数据中心。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84861" target="_blank"&gt;重度电视观众与大脑结构缩小相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                “电视会腐蚀你的大脑”这句话也许在字面意义上是正确的。根据发表在《Alzheimer’s and Dementia: Journal of the Alzheimer’s Association》上的一项研究，常看电视的人大脑中与记忆相关的区域体积缩小，额叶和枕叶变小，大脑白质出现了与衰老、中风风险、认知能力下降和痴呆症相关的损伤区域。研究人员分析了约 1700 名成年人的数据，他们的平均年龄 53 岁，在 1987-1989 年间参与了心血管研究 Atherosclerosis Risk in Communities(ARIC) 。参与者被询问了休闲时看电视的频率。20 多年后参与者接受了脑部核磁共振成像检查。结果显示，重度电视人群的大脑结构出现了缩小，其中男性的影响更显著。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84866" target="_blank"&gt;《半秒钟》——XZ 后门启示录&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2024 年  3月 29 日，一位微软工程师在家执行例行测试时，发现登录测试机的时间比往常慢了约半秒。大多数人都不会认为这是什么大问题。但他却深入展开了调查，在流行压缩工具 XZ Utils 中发现了一个故意植入的隐蔽后门。有人花了两年时间才把后门植入到该工具中。Adrian Mastronardi 发表了一本关于 XZ 后门事件的书《Half a Second》，在非商业使用、禁止衍生的 CC 许可证（CC BY-NC-ND 4.0）下免费提供。本书讲述了
+一位精疲力竭的志愿者独自维护着代码，被耐心而巧妙的操纵，最终交出了代码的维护权；一位工程师凭借一连串的运气和来之不易的直觉，在半秒钟的好奇心驱使下发现了这次攻击；以及构建该后门的幕后操纵者，此人至今身份不明，其身份可能永远也无法被揭露。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84862" target="_blank"&gt;天文学家确认了 25 光年外的一颗位于宜居带的岩石行星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                天文学家确认一颗名为 GJ3378b 的系外行星，位于距离地球仅 25 光年的红矮星宜居带内，可能具备孕育生命的条件。这颗行星位于鹿豹座方向，围绕一颗暗淡的红矮星运行，被视为目前已知距离地球最近的潜在宜居世界之一。GJ3378b 最初于 2024 年被法国天文学家发现。当时测定的质量为地球的 5.26 倍，被认为是一颗类似微型海王星的气态行星。天文学家利用基特峰国家天文台的 WIYN 3.5米望远镜等设备进行二次观测后，修正了这一结论。新数据显示，GJ3378b 的真实质量仅为地球的 2.3 倍，属于岩石质地的“超级地球”。轨道参数同样得到修正。最初认为该行星的公转周期为 25 天，实际仅为 21 天。这意味着它比此前判断的更靠近母星，但也恰好处于宜居带内——这一区域允许行星表面温度维持液态水的存在。这颗行星从母星接收的辐射量约为地球从太阳获取的 90%，位置非常理想。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84867" target="_blank"&gt;代糖摄入量与认知能力加速下降相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Neurology》期刊上的一项研究，多种广泛使用的代糖与记忆力和思维能力随时间推移而加速下降相关。代糖摄入量越大，认知能力下降速度越快，这种关联糖尿病患者最为显著。研究针对了 12,772 名巴西成年人，平均年龄 52 岁，他们接受了八年的监测，填写了详细的食物调查问卷。研究人员根据其食物中的代糖摄入量分成三组，参与者还在研究期间接受了认知评估。结果显示，在考虑了年龄、性别、高血压、心血管疾病等因素之后，摄入代糖/甜味剂最多的人其整体思维和记忆能力的下降速度比摄入量最少的人快 62%，这相当于额外衰老了约 1.6 年；中等摄入量组的认知能力下降速度比最低摄入量组快 35%，相当于额外衰老约 1.3 年。阿斯巴甜、糖精、安赛蜜、赤藓糖醇、山梨糖醇和木糖醇六种代糖与与认知能力下降相关，塔格糖（Tagatose）是唯一与认知能力下降无关的甜味剂。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84863" target="_blank"&gt;手动挡汽车越来越少见&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2025 年美国新车仅有 0.6% 是手动挡，汽车已是自动挡的天下，电动汽车和自动驾驶汽车的兴起也加速了手动挡汽车的消失。相比下欧洲的情况略好，行业分析公司 JATO Dynamics 的数据显示，欧洲最大汽车市场手动挡汽车的注册比例从 2001 年的 91% 下降到 2024 年的 29%。曾以手动挡汽车知名的斯巴鲁（Subaru）已停止提供手动挡车型，大众汽车将于今年停产在美国销售的最后一款手动挡车型捷达 GLI。丰田、本田和宝马都减少了面向美国市场的手动挡车型。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84868" target="_blank"&gt;六分之一的 Windows 设备仍然运行 Windows 10&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                资产管理服务商 Lansweeper 的数据显示，其监测的 Windows 设备仍然有 16.9%（六分之一）的设备运行 Windows 10。一年前 Windows 10 比例还高达五成，去年 10 月微软终止对 Windows 10 的主流支持后其比例开始快速下降，6 月降至 18.6%，但 Lansweeper 警告迁移速度正大幅放缓，中小企业最为显著。中小企业中仍有 21.4% 的设备运行 Windows 10 系统，成本是企业继续​​使用旧操作系统的主要原因。部分行业的受影响程度更高，如 23% 的医疗保健和制药系统仍在使用 Windows 10，而消费和零售设备中这一比例约为 22.7%。Windows 10 设备平均有 1903 个活跃 CVE 漏洞，Windows 11 设备只有 652 个，两者相差 2.9 倍。Lansweeper 指出，容易迁移到新版本操作系统的设备都已经完成迁移，剩下的都是最难迁移的设备。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84864" target="_blank"&gt;法国命令 ISP 屏蔽 Polymarket&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                法国持牌博彩/赌博游戏监管机构 Autorité Nationale Des Jeux 命令 ISP 屏蔽最大预测市场平台 Polymarket，任何被发现宣传该非法赌博网站的人都可能被处以最高 10 万欧元的罚款。ANJ 此前已经限制法国居民在 Polymarket 上进行任何金融交易，但它发现法国居民绕过了限制，Polymarket 的法国访客仍然持续增长。ANJ 希望加大对 Polymarket 的打击力度，再次强调该平台被认定为非法赌博网站。西班牙政府也下令封锁了预测市场平台 Polymarket 和 Kalshi。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84869" target="_blank"&gt;LibreOffice 再次谴责微软文档使用的私有格式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                当你在计算机上保存文档时，你实际上是在选择一种格式，一种计算机能理解的语言规则。这套规则决定了文字、表格、图像和格式指令的存储方式，以及它们在未来如何被检索、共享和读取。Microsoft Office 使用的格式几十年来一直是办公文档的主流格式，最早它使用二进制格式，扩展名为 DOC 和 XLS；Office 2007 后使用了基于 XML 的格式 DOCX、XLSX 和 PPTX。数亿人在使用这些格式。它们是世界各地办公室、学校、公共管理机构和法院的通用语言。微软的格式很多方面都是私有的，意味着它们属于微软，由微软控制，服务于微软的利益，而这些利益可能与用户的利益并不一致。开放格式——其规范公开、可免费获取且任何软件均可不受限制实现的格式——以一种任何兼容应用都能忠实读取、写入和重现信息的方式存储信息。私有格式则可能包含未公开的功能、私有扩展或只有原始软件才能正确实现的行为。其它应用能打开微软的文档，但并非总能忠实重现文档内容。这就是排他性的“锁定”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-19</guid><pubDate>Sun, 19 Jul 2026 10:28:12 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84870" target="_blank"&gt;MPEG-4 Part 2 专利全部过期&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                MPEG-4 是一套用于音频、视频信息的压缩编码标准，由 MPEG 制定，它由一系列子标准组成，其中 Part 2 定义了一个对各种视觉信息（包括自然视频、静止纹理、计算机合成图形等等）的编解码器，如 XviD 编码就属于 Part 2。7 月 19 日 MPEG-4 Part 2 部分的最后一个专利 BRPI0109962B1 过期，从此 MPEG-4 Part 2 专利全部过期。但 XviD 编码已经很少被今天的视频使用，而 AAC(MPEG-4 Part 3) 和 AVC/H.264(MPEG-4 Part 10)仍然存在有效专利。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84871" target="_blank"&gt;中国考虑演示自己的行星防御技术&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                国家航天局小行星监测预警研究中心首席科学家李明涛领导的团队在一篇论文中讨论了中国自己的行星防御系统。NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。中国的计划更雄心勃勃，旨在直接破坏小行星的结构，而不只是偏转其轨道。中国计划中的探测器预定在 2029 年或 2030 年以 26 倍音速以上或每秒逾 9 公里速度撞击目标——相比之下 DART 撞击速度为每秒 6.1 公里。此次任务包括四个目标：精确撞击小行星、成功偏转其轨道、精确测量撞击结果以及证明撞击并未对地球造成损害。目标小行星是 2015 年发现的 2015 XF261，直径约为 30 米。中国计划发射两艘探测器，一艘撞击，另一艘观察。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84872" target="_blank"&gt;Google 工会致函 CEO 要求保障被裁员工利益&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 逾 4500 名员工联名写信给首席执行官皮查伊，要求公司给员工更明确的裁员保障。员工提出的要求包括：保证遣散费、在强制裁员前先推出自愿离职计划，以及取消据称按配额评定绩效的制度。请愿书由 Alphabet 员工工会发起，已送到 Google 总部。工会主席、软件工程师考尔（Parul Koul）说，Google 市值已达到约 4 万亿美元，公司在取得空前成功的同时仍不断裁员，说明管理层把利润放在员工之上。请愿书要求，Google 在所有产品部门裁员前，先让员工选择是否自愿离职，并保证被裁员工能拿到遣散待遇，或允许他们把遣散费换成更长时间的带薪休假。员工也要求停止按固定比例评出低绩效员工的做法，认为这种制度可能变成裁员工具。考尔说，员工到皮查伊办公室递交请愿书时，大门紧闭，管理层没有正式回应。他们最后把请愿书交给一名职员，对方承诺会转交给皮查伊。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84873" target="_blank"&gt;有了 AI 之后人们愈来愈不愿说不知道了&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                法国和意大利研究人员发现，有了 AI 之后人们愈来愈不愿说不知道了，AI 抑制了人们的批判性思维，使得人们更容易重复 AI 生成的虚假信息。研究人员将参与者分成两组，一组必须在没有 AI 的帮助下回答问题，另一组可以向 AI 寻求建议。结果发现没有 AI 帮助时 44% 的人会回答说不知道答案，而有了 AI 的帮助后只有 3% 的人这样做。研究人员让参与者使用了一个更可能出错的模型 Step 3.5 Flash。结果显示，不使用 AI 正确率为 27%，使用 AI 后降至了 9%，原本会给出正确答案的人在听取了 AI 建议后给出了错误答案。尽管正确率下降了，但参与者的自信心却增加了。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-20</guid><pubDate>Mon, 20 Jul 2026 11:45:35 +0000</pubDate></item></channel></rss>
