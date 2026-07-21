@@ -1,57 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 20 Jul 2026 11:45:35 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月20日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 21 Jul 2026 11:08:52 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月21日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84865" target="_blank"&gt;数据中心抗议席卷美国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                反数据中心抗议者在美国 42 州举行了 142 场抗议活动。这一抗议行动获得了两党民众支持、由前茶党领袖联合创办的组织 HumansFirst 协调。抗议者集会反对 HumansFirst 所称的数据中心“缺乏问责”的扩张以及“对自由不可接受的侵犯”。在弗吉尼亚州 Fredericksburg，一位年轻人举的牌子上面写着：“我们靠水而不是数据生存。”亚特兰大抗议者的标语是“佐治亚州从未投票支持超大规模人工智能数据中心”。HumansFirst 表示暂无全美和各大城市抗议者人数的统计数据。反对数据中心建设是少数几个能跨越意识形态团结美国人的议题之一。民调显示，只有三分之一的美国人认可数据中心的建设速度，只有 14% 的受访者支持在其社区建设数据中心。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84874" target="_blank"&gt;科学家根据体细胞突变量化人类寿命的极限&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                体细胞突变随年龄增长而积累，能导致细胞死亡。根据发表在《npj Aging》期刊上的一项研究，科学家开发出一种方法量化体细胞突变对人类寿命的影响。研究只考虑体细胞突变，没有考虑其它任何衰老特征。研究发现，肝脏等增殖性组织通过细胞更新能在数千年内维持功能，而神经元和心肌细胞等有丝分裂后细胞则是长寿的重要瓶颈。综合多个器官预测的人类寿命中位数是 146-194 岁，约为目前人类寿命的两倍。这意味着体细胞突变是衰老的重要驱动因素，但无法单独解释目前的人类寿命，驱动衰老的还有其它因素。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84866" target="_blank"&gt;《半秒钟》——XZ 后门启示录&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2024 年  3月 29 日，一位微软工程师在家执行例行测试时，发现登录测试机的时间比往常慢了约半秒。大多数人都不会认为这是什么大问题。但他却深入展开了调查，在流行压缩工具 XZ Utils 中发现了一个故意植入的隐蔽后门。有人花了两年时间才把后门植入到该工具中。Adrian Mastronardi 发表了一本关于 XZ 后门事件的书《Half a Second》，在非商业使用、禁止衍生的 CC 许可证（CC BY-NC-ND 4.0）下免费提供。本书讲述了
-一位精疲力竭的志愿者独自维护着代码，被耐心而巧妙的操纵，最终交出了代码的维护权；一位工程师凭借一连串的运气和来之不易的直觉，在半秒钟的好奇心驱使下发现了这次攻击；以及构建该后门的幕后操纵者，此人至今身份不明，其身份可能永远也无法被揭露。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84875" target="_blank"&gt;罗马尼亚全国土地登记数据库被黑客删除&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                黑客入侵了罗马尼亚的土地管理机构 Agenția Națională de Cadastru și Publicitate Imobiliară（ANCPI)，在勒索失败之后删除了整个土地登记数据库以及备份，导致全国房地产市场瘫痪，官方应用和网站已离线一周。公证员无法记录新的交易，公民也无法获取所有权证明或详细的土地记录。黑客是在 7 月 14 日删库的，一天后 ANCPI 部分被盗数据在黑客论坛上出售，泄露的数据包括员工凭证、内部文件以及该机构的 IT 网络详细信息。ANCPI 表示正在重建系统。虽然黑客声称删除了备份，但 ANCPI 表示它还有备份副本。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84867" target="_blank"&gt;代糖摄入量与认知能力加速下降相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Neurology》期刊上的一项研究，多种广泛使用的代糖与记忆力和思维能力随时间推移而加速下降相关。代糖摄入量越大，认知能力下降速度越快，这种关联糖尿病患者最为显著。研究针对了 12,772 名巴西成年人，平均年龄 52 岁，他们接受了八年的监测，填写了详细的食物调查问卷。研究人员根据其食物中的代糖摄入量分成三组，参与者还在研究期间接受了认知评估。结果显示，在考虑了年龄、性别、高血压、心血管疾病等因素之后，摄入代糖/甜味剂最多的人其整体思维和记忆能力的下降速度比摄入量最少的人快 62%，这相当于额外衰老了约 1.6 年；中等摄入量组的认知能力下降速度比最低摄入量组快 35%，相当于额外衰老约 1.3 年。阿斯巴甜、糖精、安赛蜜、赤藓糖醇、山梨糖醇和木糖醇六种代糖与与认知能力下降相关，塔格糖（Tagatose）是唯一与认知能力下降无关的甜味剂。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84876" target="_blank"&gt;Firefox 153.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Mozilla 释出了 Firefox 153.0。它是 ESR 版本，将提供至少 15 个月的支持。Firefox 153.0 主要新特性包括：Vulkan 视频解码支持，Linux 版支持 Video Acceleration API (VA-API) ，增加对 JPEG-XL 图像格式的支持，Windows 版支持 HDR 视频播放，PDF 功能增强，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84868" target="_blank"&gt;六分之一的 Windows 设备仍然运行 Windows 10&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                资产管理服务商 Lansweeper 的数据显示，其监测的 Windows 设备仍然有 16.9%（六分之一）的设备运行 Windows 10。一年前 Windows 10 比例还高达五成，去年 10 月微软终止对 Windows 10 的主流支持后其比例开始快速下降，6 月降至 18.6%，但 Lansweeper 警告迁移速度正大幅放缓，中小企业最为显著。中小企业中仍有 21.4% 的设备运行 Windows 10 系统，成本是企业继续​​使用旧操作系统的主要原因。部分行业的受影响程度更高，如 23% 的医疗保健和制药系统仍在使用 Windows 10，而消费和零售设备中这一比例约为 22.7%。Windows 10 设备平均有 1903 个活跃 CVE 漏洞，Windows 11 设备只有 652 个，两者相差 2.9 倍。Lansweeper 指出，容易迁移到新版本操作系统的设备都已经完成迁移，剩下的都是最难迁移的设备。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84877" target="_blank"&gt;OpenAI 高管不满中国的开源 AI 战略&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在月之暗面宣布首个 3 万亿参数级别开放权重模型 Kimi K3 之后，前特朗普 AI 高级顾问、现 OpenAI 战略主管 Dean Ball 在 X 平台上表示，开放权重模型的战略将导致“AI 共产主义”，可能会“减缓 AI 的发展”，因为会“阻碍 AI 领域的资本支出”。他认为政府可以通过 FUD 策略（即 fear, uncertainty, and doubt）阻止美国公司使用开放权重模型。他后来澄清说这只是预测不是建议，声称他支持 AI 开源/开放权重。美国两大前沿 AI 公司 OpenAI 和 Anthropic 仍然有领先优势，但优势在缩小，它们采用的都是闭源模式。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84869" target="_blank"&gt;LibreOffice 再次谴责微软文档使用的私有格式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                当你在计算机上保存文档时，你实际上是在选择一种格式，一种计算机能理解的语言规则。这套规则决定了文字、表格、图像和格式指令的存储方式，以及它们在未来如何被检索、共享和读取。Microsoft Office 使用的格式几十年来一直是办公文档的主流格式，最早它使用二进制格式，扩展名为 DOC 和 XLS；Office 2007 后使用了基于 XML 的格式 DOCX、XLSX 和 PPTX。数亿人在使用这些格式。它们是世界各地办公室、学校、公共管理机构和法院的通用语言。微软的格式很多方面都是私有的，意味着它们属于微软，由微软控制，服务于微软的利益，而这些利益可能与用户的利益并不一致。开放格式——其规范公开、可免费获取且任何软件均可不受限制实现的格式——以一种任何兼容应用都能忠实读取、写入和重现信息的方式存储信息。私有格式则可能包含未公开的功能、私有扩展或只有原始软件才能正确实现的行为。其它应用能打开微软的文档，但并非总能忠实重现文档内容。这就是排他性的“锁定”。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84878" target="_blank"&gt;男子移植童年取出并冷冻保存的睾丸组织恢复精子生成能力&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                医学界完成了一项前沿手术—— 一名男性通过移植自己童年取出并冷冻保存16年的睾丸组织，重新恢复了精子生成能力。这批睾丸组织样本是他在接受化疗前采集冷冻的。化疗会严重损伤生殖功能，导致不育。这一里程碑式成果有望开启全新的人类不育治疗浪潮。2008 年比利时布鲁塞尔自由大学医院的医生为一名患病的 10 岁男孩摘除部分睾丸组织并冷冻保存。他当时罹患镰状细胞贫血，即将接受化疗，为后续造血干细胞移植做准备。10 余年后，这名男孩成年，希望拥有自己的后代。医护人员对其进行了两年监测，确认他已完全无法正常生成精子。随后，团队将冷冻保存 16 年的11个睾丸组织片段，分别移植至其剩余睾丸内部及阴囊皮下。移植组织在成年男性的激素环境与生理条件下培育生长一年。一年后，研究团队取出移植组织并开展检测分析。检测结果显示，多个移植组织中均发现生精干细胞，且存在活跃的精子生成迹象。在其中一个移植样本中，研究人员成功检出一枚成熟精子。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84870" target="_blank"&gt;MPEG-4 Part 2 专利全部过期&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                MPEG-4 是一套用于音频、视频信息的压缩编码标准，由 MPEG 制定，它由一系列子标准组成，其中 Part 2 定义了一个对各种视觉信息（包括自然视频、静止纹理、计算机合成图形等等）的编解码器，如 XviD 编码就属于 Part 2。7 月 19 日 MPEG-4 Part 2 部分的最后一个专利 BRPI0109962B1 过期，从此 MPEG-4 Part 2 专利全部过期。但 XviD 编码已经很少被今天的视频使用，而 AAC(MPEG-4 Part 3) 和 AVC/H.264(MPEG-4 Part 10)仍然存在有效专利。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84879" target="_blank"&gt;Jellyfin 项目创始人辞职&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                开源媒体服务器 Jellyfin 项目联合创始人 Joshua Boniface 以及 Anthony Lavado 宣布辞去项目领导人以及核心团队成员职务，退出项目，将该项目交给其他团队成员。Joshua 称自己面临严重的职业倦怠，无法胜任工作，是时候离开了，他创建 Jellyfin 项目时以为它最多会有几百或几千用户，但七年半后它成为了排名第一的开源媒体服务器，服务于数以百万计的用户，是 Plex 的可行替代。Anthony 称自己主要负责后端管理工作，自己的生活发生了变化，有其他优先事项需要处理。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84871" target="_blank"&gt;中国考虑演示自己的行星防御技术&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                国家航天局小行星监测预警研究中心首席科学家李明涛领导的团队在一篇论文中讨论了中国自己的行星防御系统。NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。中国的计划更雄心勃勃，旨在直接破坏小行星的结构，而不只是偏转其轨道。中国计划中的探测器预定在 2029 年或 2030 年以 26 倍音速以上或每秒逾 9 公里速度撞击目标——相比之下 DART 撞击速度为每秒 6.1 公里。此次任务包括四个目标：精确撞击小行星、成功偏转其轨道、精确测量撞击结果以及证明撞击并未对地球造成损害。目标小行星是 2015 年发现的 2015 XF261，直径约为 30 米。中国计划发射两艘探测器，一艘撞击，另一艘观察。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84880" target="_blank"&gt;美国科技巨头的隐性债务高达 1.65 万亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日经的调查显示，因 AI 投资激增美国五大科技巨头 Google/Alphabet、微软、亚马逊、Meta 和甲骨文的隐性债务高达 1.65 万亿美元，超过了其实际债务。其中 Meta 的表外债务达到了 4200 亿美元，是其账面债务的几乎三倍。甲骨文隐性债务约 2733 亿美元。为支持 AI 研发这些科技巨头在迅速扩充其数据中心等 AI 计算资源，签订了 GPU 和服务器的长期采购协议。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84872" target="_blank"&gt;Google 工会致函 CEO 要求保障被裁员工利益&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 逾 4500 名员工联名写信给首席执行官皮查伊，要求公司给员工更明确的裁员保障。员工提出的要求包括：保证遣散费、在强制裁员前先推出自愿离职计划，以及取消据称按配额评定绩效的制度。请愿书由 Alphabet 员工工会发起，已送到 Google 总部。工会主席、软件工程师考尔（Parul Koul）说，Google 市值已达到约 4 万亿美元，公司在取得空前成功的同时仍不断裁员，说明管理层把利润放在员工之上。请愿书要求，Google 在所有产品部门裁员前，先让员工选择是否自愿离职，并保证被裁员工能拿到遣散待遇，或允许他们把遣散费换成更长时间的带薪休假。员工也要求停止按固定比例评出低绩效员工的做法，认为这种制度可能变成裁员工具。考尔说，员工到皮查伊办公室递交请愿书时，大门紧闭，管理层没有正式回应。他们最后把请愿书交给一名职员，对方承诺会转交给皮查伊。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84881" target="_blank"&gt;鸡蛋价格创 10 年新高&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                鸡蛋的价格过去几个月快速上涨，以至于被称为“火箭蛋”。根据一项追踪主要产蛋省份的指数，鸡蛋价格比一年前上涨了 40% 以上。另一项追踪一处批发市场价格的基准指数显示，蛋价最近创下了 10 年来的新高，这让业内人士大感意外。研究鸡蛋市场的分析师表示，两年前，在连续几年的丰收之后，养殖户开始扩大规模，2024 年至 2025 年间新增的蛋鸡数量创下历史新高。突然之间，鸡蛋供过于求，价格暴跌。随后，养殖户们发现自己没有足够的资金来喂养所有的鸡。于是他们开始大量淘汰蛋鸡，专家认为这样的淘汰速度过快了。最终，蛋鸡数量不足以满足需求，导致价格上涨。与此同时，市场需求却格外强劲。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84873" target="_blank"&gt;有了 AI 之后人们愈来愈不愿说不知道了&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                法国和意大利研究人员发现，有了 AI 之后人们愈来愈不愿说不知道了，AI 抑制了人们的批判性思维，使得人们更容易重复 AI 生成的虚假信息。研究人员将参与者分成两组，一组必须在没有 AI 的帮助下回答问题，另一组可以向 AI 寻求建议。结果发现没有 AI 帮助时 44% 的人会回答说不知道答案，而有了 AI 的帮助后只有 3% 的人这样做。研究人员让参与者使用了一个更可能出错的模型 Step 3.5 Flash。结果显示，不使用 AI 正确率为 27%，使用 AI 后降至了 9%，原本会给出正确答案的人在听取了 AI 建议后给出了错误答案。尽管正确率下降了，但参与者的自信心却增加了。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84882" target="_blank"&gt;科学家警告地球水体溶解氧迅速减少&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                加州大学圣地亚哥的科学家警告地球海洋和淡水系统中的水体溶解氧迅速减少，可能会给地球带来短期内无法逆转的变化。研究人员认为水体溶解氧也应纳入地球限度理论框架，该框架突出了人类行为对地球系统的冲击的限度，若超过该限度，自然环境将丧失正常的自我调节能力，现代人类所处的相对稳定的全新世将会结束。现有的地球限度理论包含了 9 个限度：气候变化、海洋酸化、大气平流层臭氧消耗、生物地质化学循环中氮循环和磷循环、全球淡水使用、土地系统变化、生物圈完整性的侵蚀、化学污染和空气污染。水体溶解氧迅速减少的原因包括人为全球暖化、富营养污染、深层水体的运动和通气过程，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-20</guid><pubDate>Mon, 20 Jul 2026 11:45:35 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84883" target="_blank"&gt;欧盟对阿里巴巴罚款 5.5 亿欧元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                欧盟委员会对阿里巴巴旗下面向消费者的电商平台 AliExpress 处以 5.5 亿欧元的罚款，原因是它在打击非法商品销售上做得不够——这是根据 Digital Services Act（DSA）开出的最高罚单。布鲁塞尔去年曾警告 AliExpress，它在阻止平台上的卖家兜售非法商品以及确保其推荐引擎不推广这些非法商品上做得不够。欧盟委员会根据 DSA 要求其整改，并详细列出了需要采取的措施。一年后，欧盟委员会认定 AliExpress 的措施不足，宣布处以巨额罚款。委员会认为，AliExpress 未能妥善评估其是否有足够的人员审查潜在的非法产品，也未能充分评估其推荐和广告系统如何加剧非法产品的扩散。DSA 允许对商家处以全球营业额最高 6% 的罚款，阿里巴巴集团截至 3 月 31 日的财年收入为 1480 亿美元。布鲁塞尔原本可要求近 90 亿美元的罚款。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84884" target="_blank"&gt;黑客利用刚释出补丁的漏洞入侵 WordPress 网站&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                WordPress 上周释出补丁修复了两个高危漏洞，它督促运行 WordPress 软件的网站立即更新，漏洞是如此严重以至于 WordPress 在条件允许的情况下启用了强制更新。安全公司随后警告，黑客正利用漏洞入侵未更新的 WordPress 网站。WordPress 是最流行的博客软件和内容管理平台，存在漏洞的 WordPress 网站数量可能多达数千万。存在漏洞的 WordPress 版本为 v6.9.0-6.9.4，以及 v7.0.0-7.0.1。根据 WordPress 的官方统计，逾 4 亿个网站运行存在漏洞的 WordPress 版本，但其中一部分网站可能已经打上了补丁。组合利用两个漏洞，黑客能远程控制存在漏洞的网站。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-21</guid><pubDate>Tue, 21 Jul 2026 11:08:52 +0000</pubDate></item></channel></rss>
