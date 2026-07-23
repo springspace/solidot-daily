@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 22 Jul 2026 11:09:59 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月22日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 23 Jul 2026 11:10:09 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月23日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84886" target="_blank"&gt;FBI 逮捕用假 Steam 游戏窃取玩家加密货币的 21 岁男子&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                FBI 逮捕了一名 21 岁的佛罗里达居民 Zyaire Dontaevious Zamarion Wilkins，他涉嫌与同伙通过在 Steam 游戏中植入恶意程序去窃取玩家的加密货币。该团伙在近两年时间内通过在至少八款 Steam 游戏中植入恶意程序，感染了约 8000 台电脑，在 2024 年 5 月至 2026 年 2 月间从约 80 个加密货币钱包中窃取了价值至少 22 万美元的加密货币。被植入恶意程序的 Steam 游戏包括 BlockBlasters、Dashverse、Lunara 和 PirateFi。其中仅 BlockBlasters 一款游戏就从 261 至 478 名受害者手中窃取了价值约 15 万美元的加密货币，受害者包括了 Twitch 主播 RastalandTV，他被盗走了 3.2 万美元，他正接受癌症治疗，这笔钱是观看者捐赠的。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84896" target="_blank"&gt;Firefox 预览原生多账户容器功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Firefox 的扩展 Multi-Account Containers 备受欢迎，它允许用户在浏览器上同时登陆多个账号，账号之间通过容器彼此隔离。现在 Mozilla 正致力于将该扩展变成原生功能，刚刚释出的 Firefox 153 提供了容器的原生预览版，允许用户将工作、购物、个人和银行等不同在线活动隔离，同时确保每个容器内的 Cookie 和广告追踪信息完全隔离，用户在一个容器内的操作不会被其它容器看到。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84887" target="_blank"&gt;任天堂称它无法律义务将美国关税退款退给消费者&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                去年美国在全球大规模征收关税，任天堂据此提高了 Switch 2 等相关设备和配件的售价。今年 2 月美国最高法院裁决征收关税违法，任天堂随后起诉美国政府要求退还关税。美国玩家则跟着提起了一项拟议中的集体诉讼，认为任天堂应该将美国关税退款退给消费者。任天堂周一请求法庭驳回该诉讼，称它无法律义务将美国关税退款退给消费者。任天堂的观点十分简单，任天堂或其零售合作伙伴设定了最终价格，而买家是自愿支付的。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84897" target="_blank"&gt;大众汽车的官方应用不支持第三方 Android 系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                大众汽车的官方应用不支持第三方 Android 系统。大众汽车的客户如其手机运行 GrapheneOS、LineageOS 或 /e/OS 等没有预装 Google Play Services 的第三方 Android 系统，那么他们将无法通过手机运行官方应用查看汽车剩余续航里程、预约保养服务，控制充电和空调。对于这一问题，官方表示在调查，同时警告短时间内不会有变化。大众汽车解释说，它的应用使用了 Google 的 Play Integrity API，而该 API 只有预装了 Play Services 的 Android 设备会提供。GrapheneOS 最近抨击了 Google 在 Play Integrity API 功能上误导企业，称该 API 并没有真正强制要求设备安全或应用合法，只是装装样子。它留下了巨大的安全漏洞。它强制执行的是 Google 的商业利益。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84888" target="_blank"&gt;法官批准了 Anthropic 与图书出版商达成的 15 亿美元侵权和解&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为了训练其 AI 模型 Claude，Anthropic 实施了名为“巴拿马计划”（Project Panama）的行动：大量购买实体图书，拆开书脊、扫描书页，之后将图书残骸送去回收公司。Anthropic 为此投入了数千万美元，聘请了二十年前参与 Google Books 项目的 Google 高管。此外&amp;nbsp;&amp;nbsp;Anthropic 还从影子图书馆下载了海量的盗版电子书。对于 Anthropic 的行为，法官裁决使用受版权保护图书训练 AI 模型属于合理使用，但其图书盗版行为并不合法。图书出版商以及作者提起了集体诉讼，Anthropic 去年与他们达成了和解，将向图书作者和出版商赔偿 15 亿美元。本周一，美国地区法官 Araceli Martinez-Olguin 批准了这一和解协议。和解协议涵盖逾 48.2 万册图书，其中 91% 已被作者或出版商认领，每本书预计将获得大约 3000 美元的赔偿。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84898" target="_blank"&gt;空客准备将其应用从亚马逊 AWS 迁移到法国的 Scaleway&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为了维护数字主权，确保关键系统和数据掌控在欧洲自己手中，空客准备将其约 900 个应用从亚马逊 AWS 迁移到法国云服务商 Scaleway。AWS 与所有美国平台一样，并不能确保其客户的敏感数据不被政府索取。数字主权如今是真正的商业驱动力。美国曾经是欧洲人信任的国家，但如今它站在了和俄罗斯以及中国同等的位置上。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84889" target="_blank"&gt;GNOME 项目禁止 AI 生成的安全报告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                由于 AI 生成安全报告大量涌入，GNOME 项目宣布改变安全报告处理方式。首先是 GNOME 项目将安全漏洞披露时间从行业标准的 90 天缩短至 30 天，原因是大部分 GNOME 安全问题会在一到三周内修复，或者干脆不修。其二禁止 AI 生成的安全报告，由于今天的大部分安全报告包含了 AI 生成的内容，这些安全报告将会直接关闭。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84899" target="_blank"&gt;数学家仍然不知道乘法的最快方法&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                我们在小学时学习的多位数乘法叫竖式乘法，其时间复杂度为 O(n²)，即位数越长，计算量随位数的平方增长。举例来说，两个两位数相乘，需要进行四次计算；两个三位数相乘，需要进行九次计算。位数越长，计算量会越来越惊人。那么 O(n²)是否是乘法的速度极限呢？苏联著名数学教授 Andrey Kolmogorov 在 1960 年的一次研讨会上讨论了这一猜想，仅仅一周之后，23 岁的学生 Anatoly Karatsuba 就给出了否定答案。他发现可以用简单快速的加法去替代费劲的乘法计算，而两个 n 位数相加的时间复杂度仅为 O(n)，加法只需要遍历数字一次，而乘法需要对 n 位数的每一位进行完整遍历。通过这一代数技巧，他将乘法的时间复杂度减少到 O(n^1.585)，比O(n²) 快得多。Karatsuba 算法的优势只有在数字较大时才会体现出来。Python 语言就使用了混合方法，当数字较小时使用小学乘法，当数字大于 630 位十进制数时改用 Karatsuba 的算法。2019 年数学家 David Harvey 和 Joris van der Hoeven 找到了一种比 Karatsuba 算法更快的方法，其时间复杂度为 O(n × log n)，但它相对于 Karatsuba 算法的优势只有在数非常非常大时才会体现。Harvey-van der Hoeven 算法被普遍认为是乘法的最快方法，但目前尚无正式证明。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84890" target="_blank"&gt;欧盟法院裁决 VPN 是合法工具&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                安妮·弗兰克去世前在荷兰躲避纳粹期间写的日记于 1947 年在荷兰出版，她的日记在欧洲大部分国家都已经进入了公有领域，但在荷兰她的部分日记的版权保护期要到 2037 年才结束。为了尊重这一版权保护的地区差异，托管安妮日记的出版商屏蔽了荷兰 IP 访问网站。然而拥有安妮日记荷兰版权的安妮·弗兰克基金会提起了诉讼，声称 VPN 可以绕过地理位置限制，因此受版权保护的安妮日记被传播给了荷兰居民。欧盟法院驳回了这一论点，裁决 VPN 是合法技术工具，读者通过 VPN 绕过地理位置限制，出版商不应因此承担侵权责任。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84900" target="_blank"&gt;美国陆军也耗尽了它的可用 Token 要求限制使用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                即便是美国军方，他们也没有无限量的 Token 可用。美国陆军发出通知，称其 Token 几乎耗尽，要求军人限制使用。美国陆军使用名为 Ask Sage 的多模生成式 AI 平台，可运行不同的大模型，包括 Alphabet 的 Gemini、Meta 的 Llama 以及 OpenAI 的 ChatGPT。一名匿名的陆军军人称，陆军的一个服务就把一整年的 token 烧光了。他称陆军一直在鼓励军人使用生成式 AI。每人每月至少获得 20 万个 token，如果用完初始配额，系统会自动分配更多 token。据报道，美国军方在针对伊朗的 Operation Epic Fury 行动期间，每天消耗了 200 亿个 tokens。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84891" target="_blank"&gt;美国计算机科学专业入学人数首次下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据斯坦福经济学家 Jacob Light 的研究，2025-2026 学年美国计算机科学专业入学人数近二十年来首次下降，但这种下滑是否是一种长期趋势还有待观察。数据显示，过去十年美国计算机和信息科学专业的学士学位授予数量增长了一倍多，从 2014 年的约 5.6 万增至 2024 年的约 12.2 万。2025 年秋季入学数据显示，四年制大学计算机与信息科学及支持服务专业的本科生入学人数同比下降 8.1%，从 2024 年的约 659,700人 降至 2025 年的 606,100 人，但仍然高于 2022 年的 574,333人，表明人数下降是在经历了多年快速增长之后出现的。Light 认为人数下滑的原因可能有多种，基于大模型的辅助编程工具的流行，IT 就业市场疲软等等。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84901" target="_blank"&gt;天文学家首次观测到系外卫星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                国际天文研究团队在《自然》上发表论文称，首次发现一套罕见三层等级天体系统观测证据，捕捉到疑似宇宙“系外月球”信号，为人类搜寻系外卫星开辟全新观测路径。人类至今已探明超 6000 颗系外行星，但始终没有一颗系外卫星获得明确观测确认。所谓系外卫星，也常被称作“系外月球”，特指围绕系外行星运转的天体；而本次新发现的系统结构更为特殊：恒星环绕褐矮星伴星，褐矮星外侧又存在一颗大型卫星，构成恒星—褐矮星—卫星三级嵌套结构，是人类首个观测到该类型的候选天体系统。对 CD-352722 B 系统的分析显示，该褐矮星外侧存在一颗质量约 0.9 倍木星的巨型天体，轨道周期约 170 天。模型推演证实，系统至少存在一颗卫星的可信信号；若假设系统存在两颗卫星，轨道模型将呈现高度不稳定状态，与实际观测不符。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84892" target="_blank"&gt;为何月球正面和背面接收到太阳风不同&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国科学家利用嫦娥六号从月球背面南极收集的月壤样品开展了系统的稀有气体同位素分析。研究发现，月球正面和背面接收到的太阳风存在系统性差异，且地球磁层在其中扮演了“调速器”的角色。研究团队瞄准了五种稀有气体——氦、氖、氩、氪、氙。这些气体具有化学惰性，是追溯太阳风注入过程和后期改造的忠实示踪剂。结果显示，嫦娥六号月壤的氖同位素组成呈现出极为独特的特征——其氖20、氖22比值平均为11.34±0.22，远低于所有已知的月球正面样品，极为接近理论上的强烈分馏太阳风端元（~11.2）。这表明月球背面经历了更为极端的分馏过程，使其富集重同位素，仅用传统的溅射、扩散或侵蚀模型已无法完全解释，暗示背面可能存在更为复杂的同位素分馏机制或一个未被发现的低氖同位素端元。为什么同一颗月球的两面会接收到不同能量的太阳风？研究团队论证认为，是地球磁层在“调速”。当月球围绕地球运行并穿越地球磁鞘时，原本约每秒400公里的“正常”太阳风会被显著减速至约每秒200公里。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84902" target="_blank"&gt;法国禁止 15 岁以下儿童使用社交媒体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                法国议会通过了禁止 15 岁以下儿童使用社交媒体的法案，成为欧洲首个正式禁止儿童使用社媒的国家。随着越来越多的警告指出社交媒体对儿童的有害影响，愈来愈多的国家正采取措施限制社交媒体的使用。法国参议院于周二批准了该法案，国民议会随后以 279 票赞成 81 票反对通过了该法案。未成年人社媒禁令将分两个阶段实施，从 9 月 1 日起禁止 15 岁以下用户创建新社媒账户，从 2027 年 1 月起禁令适用于现有账户，未成年人账号将被关闭。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84893" target="_blank"&gt;苹果应用商店涌入大量 AI 辅助开发的应用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 Sensor Tower 的估计，2025 年苹果 App Store 上架的新应用数量增长 30% 达到约 60 万。今年上半年，新应用数量翻了一番达到约 56 万。虽然更多的应用理论上能为苹果带来更多的佣金，然而应用数量的大幅增长并没有带来下载量大幅增加，Sensor Tower 的数据显示去年 App Store 的下载量增长 3% 达到 354 亿次，今年上半年下载量增长 2% 达到 176 亿次。由于涌入了大量应用，苹果审核人员显然有点跟不上了。应用开发者在苹果开发者论坛上抱怨审核时间过长。分析师认为这一波 AI 辅助编程应用浪潮可能不会为苹果带来多少收入，因为此类应用通常是靠广告获利，不会提供内购。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84903" target="_blank"&gt;通用汽车悄悄成为一家订阅服务公司&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                通用汽车正在大力发展软件和订阅业务。在周二的财报电话会议上，高管表示公司正日益依赖 OnStar 和 Super Cruise 等软件订阅服务，以在客户购车后创造长期的高利润经常性收入。OnStar 在第二季度带来了约 8 亿美元的收入，而 Super Cruise 的收入同比增长约 70%。通用汽车表示，软件业务每赚取 1 美元的收入就能保留 70 美分作为利润。这在汽车行业是一个罕见的盈利水平，汽车行业每 1 美元的销售额通常只能带来 4-10 美分的利润。通用汽车预计今年将新增约 100 万 OnStar 用户，总用户​​数接近 1300 万。允许双手脱离方向盘但须保持注意力的辅助驾驶系统 Super Cruise 的增速更快。通用汽车在第二季度新增了约 7 万用户，预计年底用户数将超过 85 万。该服务收入与去年同期相比增长了 70%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-22</guid><pubDate>Wed, 22 Jul 2026 11:09:59 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-23</guid><pubDate>Thu, 23 Jul 2026 11:10:09 +0000</pubDate></item></channel></rss>
