@@ -1,50 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 23 Jul 2026 11:10:09 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月23日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 24 Jul 2026 11:03:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月24日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84896" target="_blank"&gt;Firefox 预览原生多账户容器功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Firefox 的扩展 Multi-Account Containers 备受欢迎，它允许用户在浏览器上同时登陆多个账号，账号之间通过容器彼此隔离。现在 Mozilla 正致力于将该扩展变成原生功能，刚刚释出的 Firefox 153 提供了容器的原生预览版，允许用户将工作、购物、个人和银行等不同在线活动隔离，同时确保每个容器内的 Cookie 和广告追踪信息完全隔离，用户在一个容器内的操作不会被其它容器看到。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84907" target="_blank"&gt;科学家发现给工蜂分配工作的隐蔽开关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                工蜂的工作任务会随年龄而变化，年轻工蜂照料蜂后和发育中的幼体，之后帮助建造和维护蜂巢以及抵御威胁，年长工蜂在生命的末期则会离开蜂巢外出觅食。工蜂的行为变化是由其大脑约百万个神经元之间的相互作用驱动的，此前科学家并不清楚神经系统如何产生这种与年龄相关的任务转换。现在科学家在研究名为 doublesex 的基因时注意到了不同寻常的行为变化。当年长工蜂的 doublesex 基因失去活性之后，它们又开始照顾蜂后了，表明该基因在控制与年龄相关的工作行为上发挥重要作用。doublesex 基因仅在特定神经回路发挥作用，科学家随后通过抑制基因相关回路改变了工蜂的行为模式。研究报告发表在 PNSA 期刊上。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84897" target="_blank"&gt;大众汽车的官方应用不支持第三方 Android 系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                大众汽车的官方应用不支持第三方 Android 系统。大众汽车的客户如其手机运行 GrapheneOS、LineageOS 或 /e/OS 等没有预装 Google Play Services 的第三方 Android 系统，那么他们将无法通过手机运行官方应用查看汽车剩余续航里程、预约保养服务，控制充电和空调。对于这一问题，官方表示在调查，同时警告短时间内不会有变化。大众汽车解释说，它的应用使用了 Google 的 Play Integrity API，而该 API 只有预装了 Play Services 的 Android 设备会提供。GrapheneOS 最近抨击了 Google 在 Play Integrity API 功能上误导企业，称该 API 并没有真正强制要求设备安全或应用合法，只是装装样子。它留下了巨大的安全漏洞。它强制执行的是 Google 的商业利益。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84908" target="_blank"&gt;逾半数候鸟种群数量出现下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                对地球逾 3380 种候鸟的评估报告显示，由于栖息地丧失、有害入侵物种、与建筑物碰撞、狩猎、宠物贸易、有毒杀虫剂等等威胁，逾半数候鸟种群数量出现下降。候鸟不仅仅是非凡的旅行者。它们传粉植物、传播种子、控制农业害虫、在生态系统之间运输养分，并通过吸引观鸟者和生态旅游支持当地经济。它们的数量减少不仅意味着生物多样性的丧失，还预示着支持野生动植物和人类的生态系统正逐步崩溃。研究人员呼吁各国政府采取行动保护候鸟。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84898" target="_blank"&gt;空客准备将其应用从亚马逊 AWS 迁移到法国的 Scaleway&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为了维护数字主权，确保关键系统和数据掌控在欧洲自己手中，空客准备将其约 900 个应用从亚马逊 AWS 迁移到法国云服务商 Scaleway。AWS 与所有美国平台一样，并不能确保其客户的敏感数据不被政府索取。数字主权如今是真正的商业驱动力。美国曾经是欧洲人信任的国家，但如今它站在了和俄罗斯以及中国同等的位置上。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84909" target="_blank"&gt;Google 因搜索和应用商店服务违反 DMA 被欧盟罚款 8.9 亿欧元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 因搜索和应用商店服务违反在线竞争法，被欧盟处以总计 8.9 亿欧元的罚款。欧洲委员会表示，Google 违反了 Digital Markets Act（DMA），在搜索结果中优先展示自家服务如购物和酒店而非竞争对手的服务。Google 还通过阻止应用开发者引导消费者前往更便宜的网站或替代应用商店购买而违反了 DMA。Google 因搜索相关违规被罚款 4.6 亿欧元，因应用商店违规被罚款 4.3 亿欧元。欧盟委员会命令 Google 以“公平且无歧视的方式”对待在搜索结果中出现的第三方服务，允许应用开发者在 Google 应用商店之外提供优惠。欧盟委员会指出，Google 已开始测试调整其搜索结果中自家服务的展示方式，称这些变化“在合规方面取得了实质性进展”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84899" target="_blank"&gt;数学家仍然不知道乘法的最快方法&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                我们在小学时学习的多位数乘法叫竖式乘法，其时间复杂度为 O(n²)，即位数越长，计算量随位数的平方增长。举例来说，两个两位数相乘，需要进行四次计算；两个三位数相乘，需要进行九次计算。位数越长，计算量会越来越惊人。那么 O(n²)是否是乘法的速度极限呢？苏联著名数学教授 Andrey Kolmogorov 在 1960 年的一次研讨会上讨论了这一猜想，仅仅一周之后，23 岁的学生 Anatoly Karatsuba 就给出了否定答案。他发现可以用简单快速的加法去替代费劲的乘法计算，而两个 n 位数相加的时间复杂度仅为 O(n)，加法只需要遍历数字一次，而乘法需要对 n 位数的每一位进行完整遍历。通过这一代数技巧，他将乘法的时间复杂度减少到 O(n^1.585)，比O(n²) 快得多。Karatsuba 算法的优势只有在数字较大时才会体现出来。Python 语言就使用了混合方法，当数字较小时使用小学乘法，当数字大于 630 位十进制数时改用 Karatsuba 的算法。2019 年数学家 David Harvey 和 Joris van der Hoeven 找到了一种比 Karatsuba 算法更快的方法，其时间复杂度为 O(n × log n)，但它相对于 Karatsuba 算法的优势只有在数非常非常大时才会体现。Harvey-van der Hoeven 算法被普遍认为是乘法的最快方法，但目前尚无正式证明。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84910" target="_blank"&gt;2026 年菲尔兹奖公布&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                7 月 23 日举行的国际数学家大会公布了 2026 年菲尔兹奖得主，四名得主的名字与此前泄漏的名单完全一致。菲尔兹奖被誉为数学界的诺贝尔奖，这是首次有两名中国数学家同时得奖。邓煜在公理化物理的希尔伯特第六问题上做出重大贡献，王虹解决了开放问题三维空间内的挂谷集合猜想，John
+ Pardon（白杰文）解决了 Gromov 的纽结理论问题，Jacob Tsimerman 在 André-Oort 
+猜想等问题上做出了重大贡献。&amp;nbsp;&amp;nbsp;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84900" target="_blank"&gt;美国陆军也耗尽了它的可用 Token 要求限制使用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                即便是美国军方，他们也没有无限量的 Token 可用。美国陆军发出通知，称其 Token 几乎耗尽，要求军人限制使用。美国陆军使用名为 Ask Sage 的多模生成式 AI 平台，可运行不同的大模型，包括 Alphabet 的 Gemini、Meta 的 Llama 以及 OpenAI 的 ChatGPT。一名匿名的陆军军人称，陆军的一个服务就把一整年的 token 烧光了。他称陆军一直在鼓励军人使用生成式 AI。每人每月至少获得 20 万个 token，如果用完初始配额，系统会自动分配更多 token。据报道，美国军方在针对伊朗的 Operation Epic Fury 行动期间，每天消耗了 200 亿个 tokens。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84911" target="_blank"&gt;古代语言的多样性远超今日&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                人类曾经历过一个语言多样性的“黄金时代”——仅仅在数千年前，全球使用的语言可能多达数万种。然而几个世纪以来，随着少数几种强势语言在全球范围内的传播，这种多样性一直受到侵蚀。如今近半数语言处于濒危状态，且每年至少有四种语言消亡。由于文字记录只能追溯到大约 6000 年前，在人类历史的大部分时间里，语言多样性的长期模式很大程度上仍不为人知。为重建过去 1 万 2000 年间世界语言的历史，研究人员用来自 171 个狩猎-采集社会的民族志数据作为早期人类群体的替代指标研发了一个人口种群模型。该模型假设，随着农业和技术进步使人口数得以增长，越来越多的人开始使用同一种语言，因而导致语言多样性的增长速度滞后于人口增长的速度。研究结果估计，1 万 2000 年前的全球语言数量可能比现在的语言数量少，语言数量随着人口的增长而增加，并在 1000 至 3000 年前达到顶峰；当时全球存在的语言可能有数万种。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84901" target="_blank"&gt;天文学家首次观测到系外卫星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                国际天文研究团队在《自然》上发表论文称，首次发现一套罕见三层等级天体系统观测证据，捕捉到疑似宇宙“系外月球”信号，为人类搜寻系外卫星开辟全新观测路径。人类至今已探明超 6000 颗系外行星，但始终没有一颗系外卫星获得明确观测确认。所谓系外卫星，也常被称作“系外月球”，特指围绕系外行星运转的天体；而本次新发现的系统结构更为特殊：恒星环绕褐矮星伴星，褐矮星外侧又存在一颗大型卫星，构成恒星—褐矮星—卫星三级嵌套结构，是人类首个观测到该类型的候选天体系统。对 CD-352722 B 系统的分析显示，该褐矮星外侧存在一颗质量约 0.9 倍木星的巨型天体，轨道周期约 170 天。模型推演证实，系统至少存在一颗卫星的可信信号；若假设系统存在两颗卫星，轨道模型将呈现高度不稳定状态，与实际观测不符。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84912" target="_blank"&gt;女孩接受基因编辑手术后死亡&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2025 年 3 月六岁女孩美美（化名）在上海新华医院接受了首例针对大脑的基因编辑手术，七天后她死于手术相关的严重免疫反应。美美在四岁时被幼儿园老师注意到存在智力发育问题，老师建议其父母去医院检查下。她之后被诊断患有罕见的 Snijders Blok-Campeau 综合征，全世界至今仅有 237 人确诊。该病是由 CHD3 基因突变引起的，碱基 C 被错误转成 T。该病的症状差异很大，中度到重度患者可能需要尽快手术，但美美的症状是轻度的，是否需要手术专家对此有疑问。她的父母则为此忧心忡忡，通过微信群听说了上海交大的仇子龙教授。仇子龙曾是联署批评贺建奎的胚胎基因编辑手术的中国科学家之一，谴责其无视医学伦理。美美的父母联络了仇教授，之后筹资近 600 万人民币资助仇团队研发针对个人的基因编辑疗法。在猕猴治疗取得突破之后，新华医院伦理委员会批准了首例人体实验。手术使用了比 CRISPR 更精确的碱基编辑技术，通过 AAV9 病毒载体将编辑工具注入脊髓液。三天后美美开始发烧，这是病毒注射后的常见反应，但她的病情没有好转，她一直没有排尿——这是肾脏受到严重损伤的信号，她的血小板也下降到了危险的水平。她的父母事后说，手术的知情同意书淡化了死亡的风险，没有明确指出这些症状会导致死亡。伦理学家称首次人体实验须始终提及死亡。美美送进了 ICU，之后医生通知其父母死亡的消息。医院伦理委员会召开紧急会议，确认死亡与手术相关。仇的团队在《自然》上发表了相关论文，删除了人体实验失败的信息。美美的父母要求仇子龙撤回论文，他们担心这会误导孩子有类似情况的家庭和研究人员。新华医院因监管问题被罚了约 2.4 万元，其他人没有受到惩罚。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84902" target="_blank"&gt;法国禁止 15 岁以下儿童使用社交媒体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                法国议会通过了禁止 15 岁以下儿童使用社交媒体的法案，成为欧洲首个正式禁止儿童使用社媒的国家。随着越来越多的警告指出社交媒体对儿童的有害影响，愈来愈多的国家正采取措施限制社交媒体的使用。法国参议院于周二批准了该法案，国民议会随后以 279 票赞成 81 票反对通过了该法案。未成年人社媒禁令将分两个阶段实施，从 9 月 1 日起禁止 15 岁以下用户创建新社媒账户，从 2027 年 1 月起禁令适用于现有账户，未成年人账号将被关闭。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84913" target="_blank"&gt;人类预期寿命增长，但不健康寿命更长&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《The Lancet Public Health》上的一项研究，1990-2023 年全球出生时的预期寿命从 64.6 岁增至 73.8 岁，而预期健康寿命则从 55.9 岁增至 63.1 岁。预期寿命和健康寿命不同步，预期寿命增幅超过了健康寿命的增幅，这意味着人类不健康时间持续更久。2023 年全球平均有 14.5% 的寿命处于不健康状况，高于 1990 年的 13.6%，不健康时间从 1990 年的 8.8 年增至 2023 年的 10.7 年。不健康的负担在各国和地区之间存在显著差异，通常寿命最长的地方不健康时间也最长。2023 年美国不健康寿命最长为 14 年，其次是澳大利亚（13.9年）和加拿大（13.7年）。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84903" target="_blank"&gt;通用汽车悄悄成为一家订阅服务公司&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                通用汽车正在大力发展软件和订阅业务。在周二的财报电话会议上，高管表示公司正日益依赖 OnStar 和 Super Cruise 等软件订阅服务，以在客户购车后创造长期的高利润经常性收入。OnStar 在第二季度带来了约 8 亿美元的收入，而 Super Cruise 的收入同比增长约 70%。通用汽车表示，软件业务每赚取 1 美元的收入就能保留 70 美分作为利润。这在汽车行业是一个罕见的盈利水平，汽车行业每 1 美元的销售额通常只能带来 4-10 美分的利润。通用汽车预计今年将新增约 100 万 OnStar 用户，总用户​​数接近 1300 万。允许双手脱离方向盘但须保持注意力的辅助驾驶系统 Super Cruise 的增速更快。通用汽车在第二季度新增了约 7 万用户，预计年底用户数将超过 85 万。该服务收入与去年同期相比增长了 70%。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84914" target="_blank"&gt;GLP-1 减肥药与脱发相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在 BMJ 上的一项研究，GLP-1 减肥药相比其它糖尿病药物有更高的脱发风险。研究人员指出，快速减肥和减少卡路里摄入是公认的脱发诱因。研究人员称，多数 GLP-1相关的脱发病例都是可逆的，因为毛囊保持完整。研究人员对比了 GLP-1 和其它两种糖尿病药物 SGLT-2 和 DPP-4，结果显示 GLP-1 的脱发风险比 SGLT-2 高 37%，比 DPP-4 高 68%。研究人员称，脱发通常不会造成身体伤害，但可能会产生心理社会影响，如影响自尊、生活质量和治疗依从性。研究人员认为需要开展进一步研究去深入理解之间的关联。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-23</guid><pubDate>Thu, 23 Jul 2026 11:10:09 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84915" target="_blank"&gt;美国初创公司反对禁止使用中国开放权重模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                近两百家美国科技初创公司组成 Little Tech Association 联盟，联署致函美国总统特朗普、商务部长 Howard Lutnick 等政府高官，呼吁政府不要禁止使用来自中国的开放权重模型。此前由于中国 AI 模型在性能上逼近美国的前沿 AI 模型 Anthropic 的 Fable 5 和 OpenAI 的 GPT-5.6 Sol，美国政府官员表示在考虑封禁中国的 AI 模型。Little Tech Association 的联署信指出，此举会削弱美国初创公司，且并不能阻止开放权重模型扩散。而美国要保持其领先地位需要有世界领先的开放权重模型，确保美国公司能访问其它地方的开放权重模型。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84916" target="_blank"&gt;LG 显示器应用不再弹出迈克菲广告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                当你的计算机接上 LG 显示器，它会通过 Windows Update 自动安装应用 LG Monitor App Installer，安装之后该应用会不时弹出广告，其中最常见的广告是迈克菲杀毒软件。其它还有 LG 自家产品广告如 LG Switch、LG Calibration Studio、LG Dual Controller 和 LG Channels。此举在消费者中间引发了强烈反应，以至于微软都出来做出回应。微软 Windows 和设备执行副总裁 Pavan Davuluri 称，他们联系了 LG 团队，LG 已经同意立即在其应用中禁止迈克菲广告弹窗。除此之外一切照旧。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-24</guid><pubDate>Fri, 24 Jul 2026 11:03:22 +0000</pubDate></item></channel></rss>
