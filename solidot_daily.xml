@@ -1,20 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 25 Jul 2026 10:27:08 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 26 Jul 2026 10:44:31 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月26日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84917" target="_blank"&gt;Google 账号支持自拍人脸登录&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 账号加入了可选的人脸识别登录。用户向 Google 提供自拍视频，随后就可通过人脸识别登录。在人脸验证过程中 Google 可能会要求用户以特定方式转动头部，此举旨在防止深度伪造之类的身份冒用，确保用户当前确实在摄像头前。Google 需要保存用户的自拍视频以将其用于未来的登录验证。搜索巨人表示会对视频进行加密，且仅用于登录不会用于其它用途。如果用户改变主意，可以从 Google 帐户中删除相关视频。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84920" target="_blank"&gt;英伟达、微软、OpenAI 等公司反对限制开放权重模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在一群初创公司之后，科技巨头如微软、英伟达、思科、戴尔、IBM、甚至 OpenAI 等数十家公司和组织联署发表公开信，呼吁美国政府不要过早限制开放权重模型，认为此举会扼杀竞争或导致本土创新放缓。公开信称，开放权重模型能促进竞争，确保 AI 技术的好处能广泛共享，避免其掌握在少数人手中，而闭源模型并不意味着绝对安全。没有署名的知名 AI 公司包括了 Google、Anthropic 以及 xAI/SpaceX，其中 SpaceX CEO 马斯克通过社交媒体口头表达了对公开信的支持，而 Anthropic 明显是站在支持限制开放权重模型的一边，该公司正投入 4000 万美元游说特朗普政府加强监管 AI 模型。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84918" target="_blank"&gt;印度政府命令 GitHub 移除 Jack Dorsey 的蓝牙聊天应用 Bitchat&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                印度政府的网络犯罪协调中心命令 GitHub 移除 Jack Dorsey 的去中心化蓝牙聊天应用 Bitchat。前 Twitter CEO Dorsey 在 X/Twitter 上公布了收到的通知，通知的日期是 7 月 23 日，声称该应用能在网络受限的情况下进行通信，能被反国家分子、恐怖组织、有组织犯罪集团和网络犯罪分子滥用，他们试图逃避合法监测，继续在法律限制下进行通信。印度最近爆发了被称为“蟑螂人民党（Cockroach Janta Party)”的抗议活动。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84921" target="_blank"&gt;美国司法部起诉一位公民提供了会导致手机数据自动删除的密码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国司法部起诉了一位公民在入境搜查时提供了所谓的“胁迫密码”，输入该密码导致手机上的数据自动删除。这起案件被认为是美国首例“胁迫密码”案例。本案的被告是亚特兰大居民 Samuel Tunick，他的手机运行了安全加固的 Android 操作系统 GrapheneOS，它内置了一项安全功能，允许用户设置“胁迫密码”，如果输入的不是解锁密码而是“胁迫密码”，那么手机上的数据将会自动清除。本案引发了在入境时美国公民可以援引哪些宪法权利的疑问。美国政府长期坚称，在允许入境前边境处不属于美国领土。数字安全专家 Runa Sandvik 建议，为了避免被当局认为是故意销毁数据，公民可以在入境前先清空数据，入境后再重新下载。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84919" target="_blank"&gt;IRGC 声称摧毁了亚马逊巴林数据中心&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                IRGC 声称使用巡航导弹袭击并摧毁了亚马逊 AWS 位于巴林的数据中心。亚马逊和美国军方未证实这一说法。如果属实，这是亚马逊巴林数据中心第三次遭到袭击，根据 AWS 自己的公告，巴林数据中心自 2026 年 5 月以来就处于离线状态。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84922" target="_blank"&gt;Debian 讨论是否允许使用 LLM&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Debian 项目正在讨论如何使用 LLM 以及是否允许使用 LLM。其中一个提议是明确禁止使用 LLM，但只限于 Debian 本身，上游项目以及上游安全补丁不包含在内。另一个提议是允许 AI 辅助贡献，但需要确保 AI 生成代码符合 Debian 的各项规定，贡献者需要承担责任和履行披露义务。开发者指出，LLM 存在版权和许可方面的问题，也不能确保质量和准确性，会增加社区审核者的负担，AI 公司在训练大模型时无视版权和许可抓取数据，伤害了整个自由软件社区，对无数用户依赖的网站发起了一波波拒绝服务攻击，它的训练也消耗大量资源。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-25</guid><pubDate>Sat, 25 Jul 2026 10:27:08 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84923" target="_blank"&gt;苹果改编的《神经漫游者》将于明年 1 月上映&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果在 2024 年宣布将威廉·吉布森（William Gibson）著名的赛博朋克小说《神经漫游者》改编成 10 集电视剧，登陆 Apple TV Plus。在本周举行的圣迭戈漫展 Comic-Con 2026 上，苹果公布了《神经漫游者》电视剧的首个预告片，宣布它将于 2027 年 1 月 22 日上映。《神经漫游者》出版于 1984 年，故事讲述了一名神经受损的顶尖黑客 Case 与指甲下有可伸缩刀片的女刺客 Molly 搭档，对一个有着不为人知的秘密的超级企业实施盗窃活动。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-26</guid><pubDate>Sun, 26 Jul 2026 10:44:31 +0000</pubDate></item></channel></rss>
