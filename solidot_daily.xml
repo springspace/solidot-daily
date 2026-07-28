@@ -1,47 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 27 Jul 2026 12:23:30 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月27日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 28 Jul 2026 11:17:43 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月28日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84926" target="_blank"&gt;GrapheneOS 警告在胁迫下删除手机数据可能会有法律后果&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                安全加固 Android 操作系统 GrapheneOS 项目通过其官网介绍了锁定设备的防数据提取功能，警告使用胁迫密码删除手机数据可能会导致人身伤害或法律后果。GrapheneOS 称其安全功能目前是基于 Google Pixel 手机的硬件安全特性，2027 年通过与摩托罗拉和高通合作将会扩大到其它设备。开发者称 GrapheneOS 不依赖于“胁迫密码”保护用户数据，操作系统在 Android 以及 Pixel 基础上提供了大量安全特性，包括：针对暴力破解，10 次失败后设备锁定 4 小时，15 次失败后锁定 41 天，最多允许 20 次尝试；密码支持最长 128 个字符，支持使用高熵的 Diceware 密码短语，可选指纹 PIN 码；设备锁定时会在软件和硬件层面阻止新的 USB 连接；锁定设备间隔 18 小时后会自动重启；Android 为每个次要用户（secondary user）和私密空间使用独立的加密密钥加密数据，等等。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84934" target="_blank"&gt;日本作家东野圭吾因癌症去世，享年 68 岁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本作家东野圭吾 23 日凌晨因大肠癌去世，终年 68 岁。他是著作等身的多产作家，凭借直木奖获奖作品《嫌疑人X的献身》、以及被改编成影视作品的《白夜行》等推理小说在海内外广受欢迎。东野生于大阪市，葬礼已以由亲属等少数人参加的形式举行。东野毕业于大阪府立大学，之后进入日本电装公司担任工程师，工作之余创作小说。1985 年凭借《放学后》斩获江户川乱步奖，次年转型成为职业作家。1999 年凭借《秘密》获得日本推理作家协会奖，奠定了作为推理小说家的地位。他凭借以物理学家汤川学为主人公的“伽利略系列”第三部《嫌疑人X的献身》荣获直木奖。这一系列的累计发行量突破1000万册，成为超级畅销作品。“伽利略系列”最新作品《永远的记忆》定于 8 月 5 日出版。东野一生创作了 106 部作品，在日本国内的累计发行量超过 1 亿册。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84927" target="_blank"&gt;社区爱好者给 Scratch 引入了 AI 编程助手&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                unbug 写道：
-&lt;i&gt;
-Scratch 因可视化编程风靡全球，尤其深受教培机构的喜爱。如今，社区爱好者给 Scratch 引入了 AI 编程助手，帮助没有编程知识的家长也能跟着孩子学习编程和创作。Scratch AI 编程助手的特点是通过语音和文字的自然语言输入，以可视化的方式一步一步教学生编程和数学知识，在十分钟内就能帮助学生从设计到创建角色造型、创建场景、完成算法和测试，最终完成一个个故事、动画和互动小游戏。这打破了以往先学概念再学创作的漫长模式，让学生从创作中学习，将计算思维、数学思维和逻辑思维的教学门槛降到了最低。还在犹豫暑假是否报编程班的家长，花半个小时就能试出孩子是否有兴趣。
-&lt;/i&gt;
-Scratch AI 编程助手：https://app.vibelf.com
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84928" target="_blank"&gt;华为据报道在建造内存芯片工厂&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在内存天价的时代，华为据报道与昇维旭（SwaySure）等合作建造一座 12 英寸内存芯片工厂。昇维旭被认为是一家华为关联企业，该公司生产的内存芯片不是面向消费者而是面向企业的 HBM。另外中国最大的内存芯片制造商长鑫本周一上市，立即成为中国市值最高的上市公司，其市值达到了 3.68 万亿元（约 5434.1 亿美元），超过了英特尔的 4640 亿美元。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84935" target="_blank"&gt;没有快乐的颓废时代&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                现代生活提供了无数的消遣，但社会为何会弥漫着空虚感？为什么如此多的人既过度兴奋又感到索然无味？欢迎来到一个没有快乐的颓废时代。颓废这个词不可避免带有贬义。对颓废的批评通常来自右派，今天仍然如此。保守派亿万富翁 Peter Thiel 以及美国共和党副总统 JD Vance 都对此进行过抨击。左派思想家也对当今的现象感到担忧。但当代文化的问题不在于我们过于颓废，而是我们继承了颓废的表面——奢华、过度、矫揉、肉体展示——却放弃了对快乐的追求。结果造就了一种文化：快乐被优化程序所取代，被大规模替换为麻木的算法刺激和即时满足的承诺。无论你追求的是商品、食物、艺术还是思想，你都能获得更多、更快、立即获得。但数量和速度无法取代缺乏快乐的核心。今天的社会次序极度不平等，而主导的统治阶级不信任享乐。想想马斯克等科技巨头倡导的 80 小时周工作制。由于他们拥有巨大的政治和文化影响力，对公共和私人投资的掌控，以及他们逃税的习惯，超级富豪阶层的快乐缺失最终影响到了所有人。快乐缺失最具有文化代表性的莫过于 GLP-1 减肥药。根据盖洛普 2025 年的一项民意调查，八分之一美国成年人正用 GLP-1 减肥，预计到 2035 年此类药物的全球市场规模将达到 1900 亿美元。GLP-1 药能给肥胖者带来切实的好处，但我们不禁要问：如此广泛的接受控制食欲的药物，反映了文化中对愉悦和欲望怎样的态度？AI 标志着人工技巧的胜利，其影响之深远超昔日颓废派人士的想象。然而 AI 非但没有增强我们感知强度的能力，反而对两者都构成了新的威胁。它的作品都显得异常空洞，背后没有任何切身的体验、具象或感觉。AI 是一台毫无乐趣的颓废机器。AI 没有快乐也没有痛苦，它无需承担任何责任。由算法驱动的文化充斥着垃圾信息，这些信息承诺提供麻木而空洞的刺激。快乐并非仅仅关乎享乐主义或沉溺于无用之物。它是我们作为有形之躯感知价值的主要方式之一。痛苦教会我们不要两次触摸滚烫的炉灶；愉悦引导我们走向洁净水源和呼吸甘甜清新空气。愉悦感并非完美无缺：有些令人愉悦的事物残酷、令人上瘾或具有破坏​​性。但切身感受愉悦感对于我们如何学习以及如何判断何为善、何为美、何为值得追求至关重要。这些判断不能轻易交给没有身体的机器。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84929" target="_blank"&gt;35 名学生有 32 名在历史考试中使用 AI 生成答案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                历史学教授 Jason Gibson 在一则浏览量逾千万的 Tiktok 视频中说，他的两个班级共 35 名学生有 32 名学生期中考试不及格，因为他们都用 AI 生成了全部答案。而且他们根本检查都没检查。识别作弊非常简单，试卷隐藏了一个白色的提示词，如果直接拷贝题目扔到 AI 工具里，那么 AI 会根据该提示词的指令去生成一段包含马达加斯加的无意义句子。在考试后他向学生解释是如何发现作弊的，给予学生机会申诉成绩，只有两名学生选择申诉。他在视频中分享了学生使用 AI 生成的马达加斯加句子。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84936" target="_blank"&gt;干涸湖床释放出大量的碳&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                数据显示，1990 年代以来，世界各地的大型湖泊水量减少五成。而干涸的湖床会将原来储存的碳释放到大气中。根据发表在《科学》期刊上的一篇论文，对全球最大的干涸湖泊咸海的研究显示，自 1960 年代干涸以来咸海向大气释放了 2.04 亿吨二氧化碳。研究是基于现场调查和收集的岩芯样本。如果咸海重新注满水将会带来巨大的环境益处。研究人员计算重新注满湖床可阻止剩余约 1.65 亿吨碳的释放。研究还发现，咸海近五分之一的碳排放是随着风吹走湖底沉积物而释放出来的，这一因素此前未被研究人员考虑在内。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84930" target="_blank"&gt;亚马逊要求第三方卖家标记 AI 生成图像&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在纽约州通过法律要求提高广告中 AI 生成人物的透明度之后，亚马逊要求第三方卖家标记包含 AI 生成人物的产品图像或视频。亚马逊表示这是为了遵守法律，并澄清该要求不适用于包含电视/游戏/电影角色或包含真人的内容，即使这些内容用 AI 进行了处理。第三方卖家占亚马逊商品销售额的六成以上。目前美国尚无全国性法律要求企业披露 AI 生成的广告内容，但 YouTube、Meta、Pinterest 和 TikTok 等平台已经为 AI 生成内容添加了标签。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84937" target="_blank"&gt;可再生能源有望成为全球最大的发电来源&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                国际能源署（IEA）的《Electricity Mid-Year Update 2026》报告预测，2026 年全球电力需求将增长 3.6%，2027 年将进一步增长 3.8%。全球电力消耗量到 2027 年将达到 30,700 TWh，相比下 2025 年为 28,600 TWh。
+可再生能源有望在 2026 年超过煤炭成为全球最大的发电来源，2026 年可再生能源发电量将增长逾 8%，全球发电量中的份额将从 2025 年的 33% 提高至 2027 年的 37%。报告警告，天气相关变化可能会影响电力需求趋势，增加不确定性。2026 年强于预期的厄尔尼诺现象可能会增加制冷需求，进一步推高电力需求，同时可能导致部分地区的水力发电和风力发电量下降，增加对其它发电方式的依赖。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84931" target="_blank"&gt;欧洲北美野火肆虐&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                过去一周欧洲的法国、西班牙和苏格兰，以及北美的美国和加拿大都有野火肆虐。其中法国的火势甚至形成了被称为“火积云”的现象，极大的增加了灭火的难度。“火积云”会导致其移动路径上的一切物体燃烧，如果云层还形成了闪电，那么闪电将会极大的助长火势。气候科学家表示，全球气温仍将继续升高，随着气温上升，森林会变得干燥，野火的规模、强度和频率也会增加。情况不会好转只会恶化。人类可能需要养成购买空气净化器和戴口罩的习惯。加拿大由于北方森林辽阔，大部分地区没有道路，因此灭火难度很大。相比下美国的森林面积更小，道路网发达，能适应频繁发生的低强度火灾。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84938" target="_blank"&gt;美国 AI 公司在华盛顿的游说支出创下记录&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国 AI 公司在华盛顿投入创纪录金额进行游说，希望限制不利监管，并影响美国围绕数据中心建设以及先进模型审查制定的规则。根据联邦披露文件，2026 年上半年 OpenAI 的联邦游说支出较去年同期接近翻番，达到创纪录的 222 万美元。Anthropic 的游说支出则接近增长至原来的三倍达到 353 万美元。Google 和微软的支出达到 2020 年以来的季度最高水平。尽管 AI 公司在很多问题上有共同利益，但他们的立场并非总是一致，Anthropic 公开声明要对开放权重 AI 模型加强监管，微软等公司则反对限制开放权重模型。过去几个月增加游说支出的公司包括 Scale AI（Meta 持有 49% 股份）以及腾讯。Google 表示在倡导联邦立法，以促进美国在 AI 领域的领导地位，确保 AI 以负责任的方式发展并造福所有人。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84932" target="_blank"&gt;抹香鲸靠吐泡泡维持睡眠时的平衡&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                抹香鲸是以竖立的方式在海面下睡眠的，它如何在睡眠中保持平衡？根据发表在《实验生物学杂志》上的一项研究，研究团队在挪威海域为野生抹香鲸安装了吸盘式记录仪。这种装置能够记录声音和三维运动数据。研究人员不仅捕捉到清晰的气泡释放声，还结合鲸体运动、组织密度、水中阻力以及体内气体体积等信息建立模拟模型，分析抹香鲸休息时的浮力变化。结果显示，抹香鲸在休息过程中释放气泡，可有效降低自身正浮力，使其能够持续停留在海面下方而不会缓慢上浮。这种调节极为重要，因为抹香鲸头部富含鲸脑油，天然具有较强的浮力。同时，作为闭气潜水动物，抹香鲸若在休息过程中缓慢上浮，肺内气体会随着环境压力降低而不断膨胀，进一步增加浮力。释放气泡则有助于抵消这一效应，使其保持接近中等的浮力。研究团队表示，抹香鲸能够在疑似睡眠状态下完成如此精细的浮力调节，展现出极高的生理控制能力。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84939" target="_blank"&gt;新一轮厄尔尼诺气候持续增强&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家表示，太平洋上持续增强的厄尔尼诺气候现象，有望成为 150 年来最强的一次。如果他们预测的可怕情况成真，厄尔尼诺将从海洋释放大量热量，加上人为引起的气候变化带来的升温效应，很可能使 2027 年成为有记录以来最热的一年，并在全球多地引发极端天气。非营利研究机构“伯克利地球”预测，此次厄尔尼诺事件与气候变化相结合，导致 2027 年全球平均气温较工业化前水平升高 1.7 摄氏度“并非完全没有可能”。厄尔尼诺-南方涛动（ENSO）是热带太平洋海面温度与风的自然波动。历史上该现象每 2-7 年会在高温厄尔尼诺与低温拉尼娜之间交替出现。上一轮厄尔尼诺发生在 2023-2024年。此前气象专家就警告新一轮强厄尔尼诺即将到来，而今年的厄尔尼诺已于 6 月出现。此次厄尔尼诺距离上一轮仅两年，可能意味着人为造成的气候变化正在驱动 ENSO&amp;nbsp; 周期发生系统性转变。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-27</guid><pubDate>Mon, 27 Jul 2026 12:23:30 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84940" target="_blank"&gt;车载存储器成本大幅上涨&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AI 投资热潮带动存储器价格暴涨，影响已开始波及汽车产业。通用汽车表示，由于半导体等原材料价格上涨，2026 年成本最多将增加 20 亿美元。汽车企业之所以开始提及存储器带来的成本增加，是因为在 AI 需求增加的情况下，在高级驾驶辅助系统（ADAS）等方面使用 DRAM 的汽车也会受到影响。中国汽车公司受到存储器价格暴涨的影响更大。华源证券透露，截至 2025 年 11 月，中国产汽车搭载的存储器成本为每辆超过 70 美元，为世界最高。中国汽车正加快普及智能座舱、AI 智能语音和高级驾驶辅助等功能。与其他国家相比，中国汽车搭载的存储器性能更高、用量也更大。由于车载产品对安全性的要求较高，即便采用新的国产存储器，也需要经过 2-3 年的测试验证，无法立即投入使用。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84941" target="_blank"&gt;Mozilla 允许 Haiku 使用 Firefox 命名移植版&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                开源 BeOS 操作系统 Haiku 发布了一个 Firefox 移植版本，由于 Mozilla 的商标政策，该移植版被称为 Iceweasel。在协商之后， Mozilla 授权 Haiku 正式使用 Firefox 名字命名移植版本。 开发者表示 Iceweasel 不会消失，他计划同时维护两个版本，将 Iceweasel 作为注重隐私、不收集遥测数据的版本，而 Firefox 则作为完全官方、符合 Mozilla 规范的版本，会启用遥测功能。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84942" target="_blank"&gt;美国政府豁免了 Starlink 的越南造路由器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                特朗普政府宣布，SpaceX 的 Starlink 路由器不受 FCC 针对外国造路由器的禁令约束。SpaceX 的豁免有效期截至 2028 年 2 月 1 日。FCC 此前将大部分外国制造的消费级路由器以国家安全理由加入到限制清单中。SpaceX 在德克萨斯州设有一家工厂，其部分路由器上印有“美国制造”，但该公司还有部分路由器是在越南制造的。禁令不影响已获 FCC 批准销售的路由器，但企业需要获得豁免才能销售未来推出的路由器型号。Netgear 是首家获得豁免的大型供应商，亚马逊的 Eero 路由器以及用于 Leo 宽带卫星服务的路由器也获得了豁免。TP-Link 是一家在中国成立但已将其总部迁至美国的路由器制造商，目前尚未获得豁免。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84943" target="_blank"&gt;梦并不随机，大脑在改写现实&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为什么有些梦栩栩如生，另一些梦则支离破碎难以理解？根据发表在《Communications Psychology》上的一项研究，答案可能取决于个性、睡眠质量、思维习惯以及外部世界发生的重大事件的综合影响。研究发现，梦境并非仅仅是图像和想法的随机集合。它们可能受到个体差异和共同经历的影响，包括新冠疫情之类的重大社会动荡。研究分析了 287 位年龄在 18-70 岁之间的参与者提供的 3700 多份梦境和清醒时的经历描述。在为期两周内，参与者记录了其梦境和日常经历。研究人员还收集了每个人的睡眠习惯、个性、认知能力和心理特征等信息。结果表明，梦境内容既非完全随机，也非本质混乱。清醒时更容易走神的人，会报告梦境变化迅速且感觉更加碎片化。梦境常常在不同场景、想法或视角之间快速切换。相比下更重视梦境并相信梦境具有个人意义的参与者，会描述更丰富、更沉浸式的梦境体验。他们的梦境报告包含更丰富的感知细节，使梦境场景感觉更加生动逼真。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84944" target="_blank"&gt;人类能在十周内学会回声定位&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                回声定位是蝙蝠鲸鱼等动物导航寻路的一种方式。2021 年研究人员在《PLOS One》上发表论文称，盲人和视力正常的人都可以通过发出滴答声（clicks）学会回声定位。上个月研究人员在《Cerebral Cortex》期刊上发表了一项后续研究，称人类能在十周内学会回声定位。26 名参与者接受了 10 周的回声定位训练，研究人员调查了训练对其大脑结构的影响。研究团队分析了 V1（初级视觉皮层，负责处理视觉信息）和 A1（初级听觉皮层，负责处理声音信息）的脑部扫描图像。结果显示，盲人和视力正常的人的 V1 区域对声音回声的敏感性都得到了提升。这进一步证明，大脑的适应能力都很强。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-28</guid><pubDate>Tue, 28 Jul 2026 11:17:43 +0000</pubDate></item></channel></rss>
