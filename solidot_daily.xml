@@ -1,44 +1,85 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 29 Jul 2026 11:26:06 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月29日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 31 Jul 2026 11:29:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年07月31日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84945" target="_blank"&gt;维基基金会决定不自愿认可员工工会&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                管理维基百科的维基基金会选择了美国科技公司常用的应对员工组建工会的策略：不自愿认可。对于员工组建工会，雇主通常有两种选择：其一是员工递交有超过半数人签名的工会组建请求，雇主选择自愿认可该工会在其工作场所的唯一代表权，然后展开相关谈判；其二是不自愿认可工会请求，而是要求进行选举，期间会要求员工参加强制性的听证会，听取关于工会的不同意见，包括反工会的宣传，可能还有其它恐吓工会积极分子的手段。维基媒体基金会通过官方网站宣布它选择第二种方案，声称它的 342 名美国员工对加入工会持有不同的看法，它将要求员工进行选举，如果通过将会认可工会。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84964" target="_blank"&gt;辣椒有助于减轻极端疼痛&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                辣椒的活性成分辣椒素能与监测极端环境热源的受体 TRPV1 结合，模拟强烈的灼烧感，欺骗神经系统，激发身体强烈反应，但并不会真的在身体上造成什么伤痕。医生已在利用这种局部化学反应去缓解慢性疼痛。根据发表在《Physiology &amp;amp; Behavior》期刊上的一项研究，重庆师范大学的研究人员发现辣椒有助于减轻极端疼痛。研究人员从学校招募了 48 名无痛史的健康年轻人，让学生口含掺有辣椒粉的明胶块五分钟，然后用激光红外热脉冲照射手背，体会炙热的疼感。激光强度有轻重之分。结果发现，相比对照组，辣椒对轻度照射没产生有区别的影响，但显著降低了重度照射产生的疼痛感。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84946" target="_blank"&gt;加拿大议员在议会演讲期间阅读了 AI 的回应&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                AI 聊天机器人在回答用户问题时经常会拟人化的给出替代答案，比如“有一个更自然更流畅的版本”之类。上个月，加拿大 New Brunswick 省进步保守党(Progressive Conservative Party)议员 Bill Oliver 在议会演讲中大声朗读，“here’s a more natural, flowing version of that section that reads like a legislative speech rather than a series of short points”，这是大模型的典型回复。这段奇怪的朗读当时未引起多少注意，但上周相关视频开始在社交媒体上广泛传播，引起了加拿大广播公司等主流媒体的注意。Oliver 绝非第一个盲目朗读他人代笔演讲稿的政客，当然也不是第一个依赖 LLM 辅助撰写演讲稿的政客。但在公开场合大声朗读明显是 AI 生成的文字且没有意识到，无疑是创造了新的历史。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84965" target="_blank"&gt;微波油炸能让薯条更健康&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                炸薯条是广受欢迎的美食，但并不健康，因为薯条在油炸过程中吸收了大量油脂，增加了脂肪和热量，而经常食用高脂肪食物会导致肥胖和高血压等健康问题。现在 Illinois Urbana-Champaign 大学的研究人员发表了两篇论文，报告了结合微波油炸和传统油炸让薯条更健康的方法。这种方法缩短了烹饪时间，减少了吸油量，同时能保持传统炸薯条酥脆外皮和口感。研究人员将土豆冲洗去皮切成条状，然后焯水、撒盐，在加热至 180 摄氏度的豆油中炸制。他们发现，光靠微波油炸无法形成酥脆的表面，需要结合传统油炸。研究人员建议将两者结合起来，用微波减少油脂吸收，用传统方法保持表面酥脆。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84947" target="_blank"&gt;中国开始量产 DUV 光刻机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                The Information 本周一报道，一家总部位于上海的企业已启动浸没式深紫外（DUV）光刻机的小规模批量生产，预计今年内向中芯国际、华虹半导体及长鑫存储等主要芯片制造商交付首批约5台设备，2027 年产量计划提升至约20台。这款中国产光刻机主打28纳米芯片生产，还可满足 7 纳米级别芯片的制造需求。路透周二报道，该公司名为上海爱晟纳电子科技集团，是一家国营企业，2023 年 8 月在上海成立，注册资本就高达 70 亿元人民币，主要股东为上海电气控股集团及上海国际信托旗下子公司等国有资本。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84966" target="_blank"&gt;亚马孙文明在鼎盛时期可能有数百万人口&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家通过激光雷达（LiDAR）航空勘测技术检测到了亚马孙地区西南部 432 处被称为“土墩”的地表遗存。这些发现的地理位置此前曾是古代亚马孙西南部 Aquiry 文明的定居地，这一地区可能有 24,000-30,000 处土墩。古代 Aquiry 文明留下的大型地面几何形沟槽围合结构，称为亚马孙地雕，人们认为其功能兼具仪式、政治和公共集会中心。这些大多单独分布的结构由沟渠和堤坝组成，占地在 0.35-14 公顷不等，已知最大的地雕面积近 50 公顷。最新检测结合现有卫星研究，研究者估计 Aquiry 文明在公元 100-300 年鼎盛时期可能养活了约 125-300 万人口，意味着它对亚马孙的土壤、森林结构和生物多样性产生的影响比此前认为的更为深远。
+
+Aquiry文明所占区域不到大亚马孙地区的 3%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84949" target="_blank"&gt;美国以国家安全理由禁售外国制造的先进机器人&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国以国家安全理由禁售外国制造的先进机器人。美国政府公布的文件称，现代的机器人要始终联网，扩大了攻击面，更容易泄漏数据和远程破坏。文件举例说，被称为 UniPwn 的漏洞能被攻击者用于控制宇树的人形机器人。“如果美国继续依赖外国的先进机器人设备和关键零部件，那么美国经济中依赖这些机器人的部分以及国家安全体系，将受制于外国实体的摆布。这些外国实体可能会在其选择的时机破坏或削弱供应链。”由韩国现代汽车控股的美国机器人公司波士顿动力豁免于禁令。已获准在美国销售的机器人不受影响。准备批量制造人形机器人的特斯拉公司将受益于这一禁令。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84967" target="_blank"&gt;中国煤炭发电量首次低于五成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据中国国家能源局公布的数据，今年前 6 个月煤电发电量为 2.5 万亿千瓦时，占总发电量的比重降至 49.7%，半年发电量占比首次低于 50%；可再生能源发电量占全部发电量的 41.2%，占比首次超四成。其中风电、太阳能发电总量突破 1.2 万亿千瓦时，约占全社会用电量的四分之一。2025 年中国用电量历史性突破突破 10 万亿千瓦时，其规模已是美国的 2 倍多，高于欧盟、俄罗斯、印度、日本总和。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84950" target="_blank"&gt;DEF CON 禁止有录像功能的智能眼镜&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                即将于 8 月 6 日在拉斯维加斯举行的年度黑客大会 DEF CON 禁止与会者佩戴有录像功能的智能眼镜。DEF CON 允许与会者拍照，但有诸多限制，事实上除了演讲者不允许拍摄其他人，除非摄影师征得被拍者的同意。这一拍照政策在 Meta 等公司的智能眼镜流行前一直没变。有录像功能的智能眼镜被认为会侵犯与会者的隐私，破坏彼此之间的互动。有与会者表示如果被秘密录像，他们不太愿意继续参加线下会议。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84968" target="_blank"&gt;《银莲花公园 2》开始开发&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                知名游戏设计师 Ron Gilbert 宣布他已经开始着手开发《银莲花公园（Thimbleweed Park）》的续作，预计 2028 年初推出。目前 Steam 版的《银莲花公园》正在打折，续作的页面已经上线。Ron Gilbert 是最有影响力的游戏设计师之一，他在 LucasArts 工作期间设计了 SCUMM 引擎，在此基础上开发了一系列经典冒险游戏。他在 1992 年离开 LucasArts，创办了自己的游戏公司。2014 年他与 Gary Winnick 等人在 Kickstarter 上发起了《银莲花公园》的众筹，尝试复兴 LucasArts 风格的点击冒险游戏。在成功众筹后游戏于 2017 年推出。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84951" target="_blank"&gt;Swift 天文台拯救任务面临变数&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                NASA 周二宣布，旨在拯救 Neil Gehrels Swift 天文台的商业卫星 LINK 自己也出现了问题。LINK 的三个反作用轮中有两个没有正常工作，冷气推进器系统也遇到了些问题。反作用轮被用于通过释放动量控制轨道飞行器的姿态，是卫星标准组件。而冷气推进器系统被用于更精细的控制。Swift 天文台已服役近 22 年，由于大气阻力其轨道高度已从原来的 600 公里衰减至约 400 公里，如果不提升轨道高度，天文台会在今年底不受控重返大气层。去年 9 月 NASA 授予 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，未来几个月它将尝试用三个机械臂抓住 Swift 天文台，启动推进器，将其送回 600 公里高度的安全轨道。NASA 表示，Link 卫星仍能与地面团队保持通信，有足够电力，让工程师有时间制定方案，解决反作用轮问题。在重新建立稳定姿态并进一步检查其状态后，Katalyst 计划更新 Link 的制导、导航和控制系统以适应新配置。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84969" target="_blank"&gt;罗技在欧洲销售的新鼠标将可以更换电池&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为了减少电子垃圾，欧盟的新法律将要求在欧洲销售的电子产品能更换电池，这一法律将于 2027 年 2 月生效。为了遵守该法律，任天堂已经宣布在欧洲销售的 Switch 2 游戏机以及手柄将允许更换电池。现在 PC 外设制造商罗技透露在欧洲销售的新鼠标将可以更换锂电池。支持更换电池的新鼠标将只在欧洲销售。罗技新任游戏业务负责人 Robin Piispanen 声称，新款欧洲版鼠标不仅制造成本更高，而且更重、更结实，以最大限度降低意外刺伤的风险。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84952" target="_blank"&gt;eBay 支付 5600 万美元和解骚扰跟踪记者案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                EcommerceBytes 是一家创办于 1999 年专注于电商相关新闻和评论的网站，由 Ina 和 David Steiner 夫妇创办。2019 年 4 月，Ina 发表文章说时任 eBay CEO Devin Wenig 的薪水 152 倍于普通员工。eBay 高管长期以来就对这个网站的文章很不满，首席传媒官 Steve Wymer 将这篇文章转发给了 CEO，附言要给点 Ina 颜色看。Wenig 在一个月后发短信同意了计划。Wymer 随后让安全部门主管 Jim Baugh 负责此事。eBay 的员工对 Steiner 夫妇展开了一系列的跟踪和骚扰行动，包括送活蟑螂、送花圈、一本关于如何走出丧偶阴影的书，以及血淋淋的猪面具。Steiner 夫妇于 2021 年提起了诉讼，双方刚刚达成了和解，eBay 将支付 5570 万美元的赔偿和慈善捐款。其中赔偿金为 4615 万美元，eBay 还将向多家慈善机构捐赠 600 万美元，前 CEO 将以 Ina Steiner 的名义向一家致力于保护宪法第一修正案权利的慈善机构捐赠 100 万美元。七名前 eBay 员工和合同工认罪和判刑，但两位前高管 Wymer 和 Wenig 没有受到刑事指控。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84970" target="_blank"&gt;图灵奖得主朱迪亚·珀尔：大模型会讲因果，因为人类替它解释过世界，但无法通向AGI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                &lt;p style="text-align: left; margin-left: 8px; margin-right: 8px; margin-bottom: 24px; line-height: 1.75em;"&gt;&lt;span style="font-size: 15px; letter-spacing: 1px;"&gt;2026年7月27日，The Peterman Pod主持人瑞安·彼得曼（Ryan Peterman）发布了对朱迪亚·珀尔（Judea Pearl）的长篇访谈。话题从他的科学启蒙、超导存储器与早期人工智能一路延伸到贝叶斯网络、因果阶梯、大语言模型（LLM）和通用人工智能（AGI）。珀尔没有从模型榜单和产品能力出发评价LLM。他把问题放回了一条延续数十年的研究线索：机器究竟怎样把观察变成判断，又怎样从相关性走向行动与解释。&lt;/span&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left; margin-left: 8px; margin-right: 8px; margin-bottom: 24px; line-height: 1.75em;"&gt;&lt;span style="font-size: 15px; letter-spacing: 1px;"&gt;
+&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-29</guid><pubDate>Wed, 29 Jul 2026 11:26:06 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84971" target="_blank"&gt;人类 DNA 发现两个神秘祖先&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家已经确认，现代人类/智人大约 5 万年前走出非洲后，曾与尼安德特人和丹尼索瓦人杂交，他们的部分 DNA 至今仍留在现代人体内。这些发现得益于从化石中提取测序的古 DNA。但基因组中还有更早的混血痕迹，而那些已经灭绝的古人类，没有留下任何可供测序的遗传物质，他们对基因的贡献难以辨认。加州伯克利团队开发出通过祖先重组图估计追踪古老贡献（TRACE）的技术。它的原理是利用世界各地现代个体的全基因组数据，重建基因组中的家谱关系，即“祖先重组图”，描绘 DNA 片段如何经由共同祖先一路传递至今。研究人员在现代人类基因组中定位了来自两个未知远古祖先的 DNA 区域——一个是分化于约 80 万年前的“幽灵祖先”，“幽灵祖先”存在于所有现代人类之中，而非非洲人独有——每个现代人约有 0.5%-1% 的基因组来自这一谱系，规模与尼安德特人的贡献大体相当。另一个是距今 180 万年的“超级古老祖先”，它并没有直接与现代人类杂交，而是先与欧亚大陆的丹尼索瓦人混血。丹尼索瓦人后来又与智人通婚，将其中一小部分超古老 DNA 带进了现代人类。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=84972" target="_blank"&gt;我们能学会真正的多任务处理&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                边开车边听广播；边做早餐边和家人聊天；边吃三明治边看书。我们的日常生活建立在多任务处理之上，但大脑真的能同时做两件事吗？还是在两个任务之间快速切换？研究发现，对于高认知任务，大脑是在任务之间切换；而对于部分熟练任务，大脑会进入某种自动驾驶模式，也就是接近多任务处理。有十年驾龄的老司机，其大脑不会像以前那样注重每一个细节。根据发表在《Journal of Cognitive Neuroscience》期刊上的新研究，在经过大量练习之后，大脑能重路由部分任务的回路，减轻精神负荷，改进多任务处理能力。前额叶皮层是大脑主要的计算中心，但通常一次只能处理一件事，这种现象被称为“额叶瓶颈（frontal bottleneck）”。在实验中，研究人员训练参与者完成分类任务，在训练前后扫描了大脑。任务一开始参与者激活了前额叶皮层。但在训练之后部分任务被转移到了颞叶皮层。颞叶皮层负责记忆编码和目标识别。在随后展开的双任务实验中，将更多分类任务转移到颞叶皮层的参与者表现更出色。研究人员说，大脑通过改变回路能同时做两件事。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=84973" target="_blank"&gt;隼鸟 2 号以最近 400 米距离飞过小行星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                JAXA 宣布，探测器“隼鸟2号”抵近小行星鸟船（Torifune）表面约 400 米处，实施了高速掠过并进行观测。这一距离创下人类历史上对太阳系天体的最接近纪录。隼鸟2号于7月5日18时30分成功对距离地球约1亿公里的鸟船实施了飞掠探测。以约5.3公里/秒的速度（相对速度）掠过。JAXA 分析确认, 飞掠时探测器与小行星表面最近距离约 400 米，距离小行星中心约 744 米。此前飞掠探测的最近纪录被认为由中国探测器“嫦娥二号”保持，当时嫦娥二号抵达距小行星表面约 770 米处。对观测数据的分析结果显示，推测鸟船长轴约 840 米、短轴约 340 米，平均直径约为 540 米。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=84974" target="_blank"&gt;智利木乃伊保存的天花基因组确认天花来自欧洲殖民者&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《科学》期刊上的一项研究，对智利木乃伊 DNA 的分析揭示了美洲已知最早的天花古代毒株。这些发现提供了迄今为止最清晰的基因学证据：欧洲殖民将这种疾病带到了新大陆。天花是欧洲殖民时期传入美洲的最致命疾病之一。该疾病在北美、中美和南美的迅速蔓延估计导致三至四百万人丧生，尤其是在那些此前对该病没有免疫力的原住民群体中。研究人员在智利北部出土的两具印加至早期殖民时代原住民的木乃伊体内发现了古天花病毒 DNA；这些个体生活于公元 1492 年至 1631 年间。这两个古病毒基因组几乎完全相同，表明这些个体很可能在同一次疫情爆发期间被感染，或被同一种流行毒株感染；这为殖民时期南美洲流行的某天花毒株提供了罕见且直接的分子证据。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=84976" target="_blank"&gt;科学家发现为什么吸烟让一部分人患上肺癌但另一部分并不会&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家首次发现了基因构成在影响癌症风险上发挥巨大作用的直接证据，遗传的基因与后天获得的基因突变相互作用塑造了癌症的演变方式。研究人员培育出四种不同肝癌易感性的小鼠，然后暴露在单剂量肝致癌物二乙基亚硝胺(diethylnitrosamine，DEN)下，DEN 存在于烟草烟雾和部分加工食品中，会损伤肝细胞 DNA，导致基因突变，引发肿瘤生长。所有小鼠都在相同年龄且在严格控制的条件下接受了相同剂量的 DEN，研究人员得以消除环境因素的干扰。结果显示，致癌突变几乎所有小鼠都是一致的，激活了相同的促癌信号通路 MAPK 通路。但遗传背景的差异使得癌症风险显著不同。研究首次揭示了遗传背景对突变过程和肿瘤发展通路的影响程度。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=84977" target="_blank"&gt;Google 为 Chrome 开发不重启打补丁功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 官方博客称，LLM 正在解锁自动化漏洞发现的能力，使得漏洞发现的速度以及数量都远超过去，因此需要采用新的方法应对这一新形势。它的一项应对之策是开发名为动态补丁（dynamic patching）的新功能。该功能可以在大多数情况下让 Chrome 浏览器无需重启就打上安全补丁。利用 Chrome 的多进程架构，动态补丁可以动态地将后台子进程如渲染器和 GPU 的二进制文件逐一替换为更新后的版本。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-07-31</guid><pubDate>Fri, 31 Jul 2026 11:29:22 +0000</pubDate></item></channel></rss>
