@@ -1,29 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 01 Aug 2026 10:41:30 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月01日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 02 Aug 2026 10:41:20 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月02日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84977" target="_blank"&gt;Google 为 Chrome 开发不重启打补丁功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 官方博客称，LLM 正在解锁自动化漏洞发现的能力，使得漏洞发现的速度以及数量都远超过去，因此需要采用新的方法应对这一新形势。它的一项应对之策是开发名为动态补丁（dynamic patching）的新功能。该功能可以在大多数情况下让 Chrome 浏览器无需重启就打上安全补丁。利用 Chrome 的多进程架构，动态补丁可以动态地将后台子进程如渲染器和 GPU 的二进制文件逐一替换为更新后的版本。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84981" target="_blank"&gt;Google Earth 发布然后撤回了 AI 工具&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 想要在尽可能多的产品中集成生成式 AI，它的最新尝试是在 Google Earth 中集成 Nano Banana 2，允许用户利用卫星和航拍照片以及 3D 图像生成自定义图像。然而 Google Earth 吸引用户之处不是它的真实性吗？用 AI 生成虚假图像不是破坏了它的最大优点？在引起争议之后，Google 在一天之内撤回了 AI 功能。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84978" target="_blank"&gt;Windows 游戏模拟器 CrossOver 宣布原生 Apple Silicon 支持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                sroorz 写道：&lt;i&gt;
-在初代 Apple Silicon 发布六年后，CrossOver 宣布推出原生 Apple Silicon 支持，并发布了首个预览版。该软件旨在在 macOS 上运行 Windows 游戏和软件。
-
-苹果于 2020 年推出 Apple Silicon，并内置 Rosetta 2 转译层以兼容旧有 Intel 软件。CrossOver 和其他基于 Wine 的模拟器一直依赖 Rosetta 2 在 Apple Silicon 上运行 x86 Windows 游戏。然而，苹果计划逐步淘汰 Rosetta 2，并于 macOS 28 完全停止支持。CrossOver 的原生 Apple Silicon 支持正是为了应对这一变化，实现独立于 Rosetta 2 的 x86 Windows 游戏支持。
-
-CrossOver 产品经理 Meredith 在发布公告中回顾了 CodeWeavers 开发团队过去四年如何通过改进 Wine 和相关开源组件、工具链实现这一目标。她也指出，这是首个预览版，仍存在一些问题，目前仅推荐测试使用。此外，由于 ARM64 版 D3DMetal 尚未就绪，目前仅能通过 DXMT ARM64 运行 DirectX 11 游戏。但所有这些问题都将在正式版 CrossOver 27 中得到解决。
-
-Wine 是一个开源项目，是除虚拟机外，在非 Windows 操作系统上运行 Windows 游戏的唯一解决方案。基于 Wine 衍生出的项目中最著名的是 Steam Proton。CodeWeavers 是 Wine 项目的长期贡献者和 Proton 开发者，其员工贡献了 Wine 90% 以上的代码，CrossOver 是其基于 Wine 开发的商业版。
-
-&lt;/i&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84982" target="_blank"&gt;硅谷的企业帝国之梦&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                记者 Gil Duran 即将出版的新书《The Nerd Reich: Silicon Valley Fascism and the War on Democracy》探讨了硅谷科技寡头的企业帝国之梦。亿万富翁们对社会有两种态度。其一称之为“退出”，他们想要去其它地方创建一个新的国家，认为民主制度太强大，太混乱，反弹太强烈，这是提出“The Network State”的 Balaji Srinivasan 等人的立场。其二是利用其富可敌国的创富改变和控制社会，这就是硅谷亿万富翁们现在正在做的。2024 年 9 月举行的名为 Reboot 2024 的会议讨论了右翼特朗普支持者和硅谷风险投资家之间的合作，出席者包括了 Peter Thiel 的副手 Michael Kratsios、传统基金会的 Kevin Roberts、Y Combinator CEO 陈嘉兴（Garry Tan）。Curtis Yarvin 被视为是这场运动的奠基人之一，他曾撰文论述用由 CEO 统治国家的制度去取代美国的民主制度。Thiel 以及 Marc Andreessen 都对 Yarvin 推崇备至，经常引用 Yarvin 的评论。亿万富翁中 Elon Musk 可能吸引了最多的眼球，但幕后真正的掌权者是 Peter Thiel，他的 15 名副手在特朗普政府高居要职。副总统 JD Vance 的整个职业生涯都是由 Thiel 一手提拔的，他距离总统之位一步之遥。金钱集中在少数人手中，他们拥有过大的权力，而这些人皆非心胸开阔之辈。这群亿万富翁的主要创新是不再承诺回归神话般的过去，而是承诺一个神话般的未来：超级富足、星际旅行、永生、极致效率。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84979" target="_blank"&gt;Arch Linux 关闭 AUR 孤儿包的领养和修改功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                前一段时间未知身份的攻击者创建了一系列新账号，然后通过这些账号接管无人维护的 Arch User Repository(AUR)孤儿包，植入恶意代码，推送恶意更新。Arch Linux DevOps 团队现在宣布关闭 AUR 孤儿包的领养和修改功能。AUR 中有逾 107,000 个软件包，其中近 14,000 个无人维护可供认领，此前任何注册用户都可以认领和修改这些无人维护的软件包。在攻击发生之后，Arch Linux 关闭了新用户注册功能，后注册功能于 7 月 13 日恢复。对恶意负荷的分析显示，攻击者的目的是通过植入远程访问木马窃取用户数据。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84983" target="_blank"&gt;近五成美国人赞同学校期间完全禁止使用手机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据 Pew Research Center 的调查，77% 的美国成年人支持初中生和高中学生在课堂上禁止使用手机，这是支持率连续第二年上升——2024 年这一比例为 68%。只有 18% 的人反对禁令，6% 的人表示不确定。48% 的美国成年人支持初中生和高中学生在整个学校期间都禁止使用手机，前一年的比例是 36%。但仍然有 43% 的人反对该禁令。18-29 岁年轻人对课堂（57%）和全天（28%）手机禁令的支持率最低，65 岁及以上人群对禁令的支持率最高。共和党人更倾向于支持课堂和全天手机禁令，而民主党人则更支持课堂禁令而非全天禁令。美国已有 42 个州制定了在学校期间限制使用手机的政策，但有的限于课堂，有的则禁止全天使用。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-01</guid><pubDate>Sat, 01 Aug 2026 10:41:30 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84984" target="_blank"&gt;腾讯投资最高的 3A 游戏《最后的哨兵》陷入困境&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                腾讯旗下工作室 Lightspeed LA 本周宣布裁员 80 人，调整其开放世界游戏《最后的哨兵（Last Sentinel）》的创意和开发方向。开发历时六年，多次延期，预算高达数亿美元的《最后的哨兵》未来前景不明。《最后的哨兵》是腾讯投资最高的 3A 游戏，也是 Lightspeed 的第一款游戏，意图挑战 Rockstar 的侠盗猎车手系列，招募了前 Rockstar 的资深开发者 Steve Martin 领导工作室。由于对游戏现状不满，腾讯给工作室下了最后通牒，要求在 7 月底前开发出一个更好的版本。在截止日期前 Martin 等人去腾讯总部展示了新版本。结果是宣布了裁员。目前不清楚腾讯会如何处理《最后的哨兵》，可能会推出一个精简版本，也可能会将现有素材用于其它项目。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-02</guid><pubDate>Sun, 02 Aug 2026 10:41:20 +0000</pubDate></item></channel></rss>
