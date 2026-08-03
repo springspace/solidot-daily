@@ -1,26 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 02 Aug 2026 10:41:20 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月02日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 03 Aug 2026 12:23:41 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月03日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84981" target="_blank"&gt;Google Earth 发布然后撤回了 AI 工具&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 想要在尽可能多的产品中集成生成式 AI，它的最新尝试是在 Google Earth 中集成 Nano Banana 2，允许用户利用卫星和航拍照片以及 3D 图像生成自定义图像。然而 Google Earth 吸引用户之处不是它的真实性吗？用 AI 生成虚假图像不是破坏了它的最大优点？在引起争议之后，Google 在一天之内撤回了 AI 功能。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84985" target="_blank"&gt;Steam 用户中使用 Linux 比例超过 4%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Valve 公布了 2026 年 7 月的 Steam 硬件和软件调查，Steam 用户中使用 Linux 比例从 3 月的 5.33%、4 月的 4.52%、5 月的 3.99% 以及 6 月的 3.69% 之后再次超过 4% 达到 4.01%。Windows 操作系统的比例占 93.67%，OSX 占 2.32%，其中 Windows 11 占 70.26% 而已经停止支持的 Windows 10 占 23.30%，游戏玩家中仍然有超过五分之一使用 Windows 10。其它数据显示：简体中文用户比例占 22.52%，英语用户占 39.61%。玩家使用英特尔 CPU 的比例占 53.76%，AMD 占 46.24%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84982" target="_blank"&gt;硅谷的企业帝国之梦&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                记者 Gil Duran 即将出版的新书《The Nerd Reich: Silicon Valley Fascism and the War on Democracy》探讨了硅谷科技寡头的企业帝国之梦。亿万富翁们对社会有两种态度。其一称之为“退出”，他们想要去其它地方创建一个新的国家，认为民主制度太强大，太混乱，反弹太强烈，这是提出“The Network State”的 Balaji Srinivasan 等人的立场。其二是利用其富可敌国的创富改变和控制社会，这就是硅谷亿万富翁们现在正在做的。2024 年 9 月举行的名为 Reboot 2024 的会议讨论了右翼特朗普支持者和硅谷风险投资家之间的合作，出席者包括了 Peter Thiel 的副手 Michael Kratsios、传统基金会的 Kevin Roberts、Y Combinator CEO 陈嘉兴（Garry Tan）。Curtis Yarvin 被视为是这场运动的奠基人之一，他曾撰文论述用由 CEO 统治国家的制度去取代美国的民主制度。Thiel 以及 Marc Andreessen 都对 Yarvin 推崇备至，经常引用 Yarvin 的评论。亿万富翁中 Elon Musk 可能吸引了最多的眼球，但幕后真正的掌权者是 Peter Thiel，他的 15 名副手在特朗普政府高居要职。副总统 JD Vance 的整个职业生涯都是由 Thiel 一手提拔的，他距离总统之位一步之遥。金钱集中在少数人手中，他们拥有过大的权力，而这些人皆非心胸开阔之辈。这群亿万富翁的主要创新是不再承诺回归神话般的过去，而是承诺一个神话般的未来：超级富足、星际旅行、永生、极致效率。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84986" target="_blank"&gt;维基基金会雇佣了反工会律所&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                维基媒体基金会于 7 月 27 日以美国科技公司的典型做法拒绝自愿认可员工工会，声明中充斥着典型的反工会言论，声称它的 342 名美国员工对加入工会持有不同的看法，它坚持要求由美国国家劳工关系委员会（NLRB）裁决维基员工组织工会的权利，其目的被认为是拖延进程、阻挠投票，以便让反工会人士有时间对基金会员工发起可能具有强制性的反工会宣传。根据 NLRB 网站上的一份文件，维基媒体基金会雇佣了 Littler Mendelson 律所作为其法律代表，该律所以反工会臭名昭著。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84983" target="_blank"&gt;近五成美国人赞同学校期间完全禁止使用手机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 Pew Research Center 的调查，77% 的美国成年人支持初中生和高中学生在课堂上禁止使用手机，这是支持率连续第二年上升——2024 年这一比例为 68%。只有 18% 的人反对禁令，6% 的人表示不确定。48% 的美国成年人支持初中生和高中学生在整个学校期间都禁止使用手机，前一年的比例是 36%。但仍然有 43% 的人反对该禁令。18-29 岁年轻人对课堂（57%）和全天（28%）手机禁令的支持率最低，65 岁及以上人群对禁令的支持率最高。共和党人更倾向于支持课堂和全天手机禁令，而民主党人则更支持课堂禁令而非全天禁令。美国已有 42 个州制定了在学校期间限制使用手机的政策，但有的限于课堂，有的则禁止全天使用。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84987" target="_blank"&gt;系外行星大气中发现半重水&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                韦伯望远镜（JWST）正以前所未有的红外线敏感度揭开宇宙面纱，除了探究早期宇宙，更开启了系外行星大气研究的新时代，而在所有观测目标中，最吸引人的莫过于生命不可或缺的关键要素——水。天文学家利用韦伯望远镜的数据，对距离地球约 700 光年的系外行星 WASP-39b 进行大气模型分析，并首度在其大气中侦测到了半重水（semi-heavy water）的存在。这项研究重点在于寻找水的同位素异构物，半重水与一般水分子 H2O 的差别在于其两个氢原子中，其中之一被带有一个中子的氘同位素所取代。研究人员希望透过精确测量大气中水分子的氘与氢（D/H）比例，推算这颗行星的诞生与演化历程。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84984" target="_blank"&gt;腾讯投资最高的 3A 游戏《最后的哨兵》陷入困境&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                腾讯旗下工作室 Lightspeed LA 本周宣布裁员 80 人，调整其开放世界游戏《最后的哨兵（Last Sentinel）》的创意和开发方向。开发历时六年，多次延期，预算高达数亿美元的《最后的哨兵》未来前景不明。《最后的哨兵》是腾讯投资最高的 3A 游戏，也是 Lightspeed 的第一款游戏，意图挑战 Rockstar 的侠盗猎车手系列，招募了前 Rockstar 的资深开发者 Steve Martin 领导工作室。由于对游戏现状不满，腾讯给工作室下了最后通牒，要求在 7 月底前开发出一个更好的版本。在截止日期前 Martin 等人去腾讯总部展示了新版本。结果是宣布了裁员。目前不清楚腾讯会如何处理《最后的哨兵》，可能会推出一个精简版本，也可能会将现有素材用于其它项目。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84988" target="_blank"&gt;AI 通过错误的推理得到正确的结果？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AI 真的会推理吗？它展示的推理链/思维链真的是导出结论前的逻辑步骤？或者它给出的推理过程只是在糊弄我们？一种拟人化的虚构？Quantamagazine 上的一篇文章讨论了这一问题，作者认为 LRM（large reasoning models）在解复杂问题时常常能给出正确答案，但整个机制仍然是不透明的，是一种黑盒子，而思维链更像是某种自言自语而不是严谨的推理。AI 专家 Melanie Mitchell 指出，LRM 有效，执行推理任务的准确率比 LLM 高；思维链不一定忠实反映模型内部的运作过程；模型合成的思维链文本基本无用完全可以删除。2025 年美国东北大学和加州伯克利的研究人员分析了开源前沿 LRM 模型，发现 30%-60% 的思考步骤对模型在数学题上给出的答案“几乎没有因果影响”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-02</guid><pubDate>Sun, 02 Aug 2026 10:41:20 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84989" target="_blank"&gt;马来西亚打击加密货币矿工的偷电&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                马来西亚柔佛州警方上个月打击了加密货币矿工的偷电行为，逮捕了三名嫌疑人，缴获了电脑、路由器、汽车以及比特币矿机。该团伙绕过电表偷电，导致电力公司一个月内损失约 14,500 欧元，而比特币矿机每月可产生17,200-21,500 欧元的收入。这起案件价值相对较小，但 2020-2025 年马来西亚能源公司识别了近 14,000 处场所涉及偷电挖加密货币，累计损失 11 亿欧元。加密货币挖矿偷电事件从 2018 年的 610 起增至 2024 年的 2,397 起。加密货币挖矿本身并非犯罪行为，但政府发现非法加密货币挖矿与网络赌博、洗钱以及东南亚大规模电诈之间存在关联。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84990" target="_blank"&gt;冷钱包攻击导致比特币被盗近 8900 万美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                硬件钱包本应是保存比特币最安全的地方：不联网、密钥不离设备，攻击者需物理接触才能盗取加密货币。Coinkite 制造的比特币硬件钱包 Coldcard 使用硬件随机数生成器产生 128 位熵值，这个数字是如此之大现有的计算能力无法破解。然而 2021 年 3 月的一次更新引入了严重 bug，默认的硬件随机数生成器被切换为软件随机数生成器，在 Mk3 设备上，有效搜索空间缩小到 40 位。128 位和 40 位之间的差异是无法被打开的锁和可以被打开的锁之间的区别。攻击者可以租用云计算资源进行暴力破解，在无需接触硬件的情况下获得钱包的密钥。过去几天，攻击者从 4585 个地址窃取了 1367 个比特币，价值近 8900 万美元。Coinkite 已释出新固件，受影响用户需在更新后的硬件上生成全新钱包，将比特币迁移至新钱包。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84991" target="_blank"&gt;加州居民从 8 月 1 日起可要求数据经纪商删除个人数据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                加州居民从 8 月 1 日起可要求数据经纪商删除个人数据。Delete Request and Opt-Out Platform (DROP) 允许加州居民通过一次性选择加入的方式，从数百个数据处理中心删除个人信息。此前用户要删除个人信息需要联系每个数据处理商。数据处理商需要在 90 天内删除用户的数据，之后每 45 天删除一次。加州是美国第一个创建易于使用的数据删除系统的州，
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=84992" target="_blank"&gt;GOG Galaxy 将原生支持 Linux&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 Linux 游戏社区多年请求之后，GOG Galaxy 游戏启动器将原生支持 Linux。GOG 有游戏的 Linux 版本可以下载，但只能通过网站下载，GOG Galaxy 客户端只支持 Windows 和 macOS 操作系统。GOG 没有公布支持 Linux 的时间，只是表示正在开发中。GOG Galaxy 类似 Steam 客户端，支持自动游戏安装和更新、云端存档同步、成就追踪、游戏时长统计、游戏库管理、商店浏览、 好友列表和社交功能等等。在 Valve 的 Proton 推动下，Linux 对游戏的支持日益改进，越来越多的游戏公司也认识到了 Linux 的重要性。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-03</guid><pubDate>Mon, 03 Aug 2026 12:23:41 +0000</pubDate></item></channel></rss>
