@@ -1,63 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 04 Aug 2026 11:23:14 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月04日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 05 Aug 2026 11:20:56 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月05日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=84993" target="_blank"&gt;澳大利亚社媒禁令效果有限&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                澳大利亚政府为 16 岁以下儿童的社交媒体禁令辩护，称禁令重塑了全国的舆论，极大改变了与家长之间的对话，关闭了数百万​​个儿童账户。政府从未指望禁令能得到 100% 的遵守，就像最低饮酒年龄法无法做到 100% 遵守一样，但法律的存在仍然是恰当的。此前的研究发现，禁令生效三个月后，逾八成澳大利亚青少年仍在继续使用社交媒体，10-15 岁儿童在 3 月使用社交媒体的频率与 12 月 10 日禁令生效前一样高。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85004" target="_blank"&gt;较早玩社媒的儿童学习成绩较差&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一项研究发现，11-12 岁设立第一个社媒账户的学生，其数学和阅读测试成绩低于几年后才设立账户的学生。16 岁时两组学生的成绩差距相当于六个月的学习差距。研究人员分析了逾 5000 名意大利中小学生的社媒使用习惯调查，及其在标准化数学、意大利语和英语考试中的成绩。13-14 岁时接受测试的学生中在 11 或 12 岁就设立社媒账户的学生，成绩低于至少等到 14 岁才开始使用社媒的学生。15-16 岁时意大利语的成绩差距依然存在，数学成绩差距则进一步扩大。英语成绩没有受到影响，研究人员认为是社媒上的英语内容较多，为学生们提供了偶尔学习的机会。研究人员认为，频繁查看社媒对学生而言是一大干扰因素。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=84994" target="_blank"&gt;AI 开始大幅减少客服岗位&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                澳大利亚联邦银行、微软、 Uber 和凯悦酒店等公司正用自动化聊天和电话系统去处理以前需要人工完成的工作。AI 系统开始大幅削减客服人数。呼叫中心行业在美国、印度和菲律宾等地雇佣了数百万从业者。随着 AI 技术的进步以及高管面临拥抱新技术的压力，企业日益用生成式 AI 工具取代客服。美国的客服务人数正在下降，未来这一趋势会继续下去。分析师估计到 2030 年近半客服岗位将受到影响。西方公司此前将客服外包到熟悉英语的菲律宾、印度等国，随着 AI 的普及，这些国家的客服人数预计会大量减少。澳大利亚最大银行——联邦银行（Commonwealth Bank of Australia）裁减了数百名客服，每年预计节省数千万美元。微软将其客服团队（其中包括合同工和全职员工）从约 5 万人缩减至 4 万人。微软销售和服务运营负责人 Judson Althoff 在 4 月曾表示，AI 每年为公司节省约 7.5 亿美元的客服成本。他表示，更复杂的问题仍需要人工支持，但公司正不断扩展自动化修复的范围。凯悦酒店去年裁掉了美洲地区三成的内部客服。Uber 裁减了 10% 的客服岗位以“拥抱 AI”。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85005" target="_blank"&gt;FFmpeg 9.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                开源多媒体库 FFmpeg 9.0 "Lei" 释出。新特性包括：Vulkan APV 视频解码和 Apple ProRes RAW Vulkan 加速、Vulkan v360 视频滤镜、HE-AAC 960 解码、NVIDIA CUDA 转置滤镜、动画 WebP 解码和解复用（demuxing）、AMD AMF 增强、AVX-512 优化等。其它包括 扩展 AMF 色彩转换器 (vf_vpp_amf) 的 HDR 功能、MP4 复用器支持 LCEVC 音轨复用，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=84995" target="_blank"&gt;科学家在深海热泉动物体内发现塑料颗粒&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                塑料颗粒显然已经遍及地球的各个角落。根据发表在《Water Research》期刊上的一项研究，韩国研究人员检查了生活在水下 2000 米处深海热泉附近的蜗牛和贻贝，12 只受检动物 92%（11 只）体内都发现了微小的塑料碎片。海洋生物学家 Se-Joo Kim 说，深海热泉曾被认为是地球上最与世隔绝的环境之一。每只深海热泉动物体内平均发现了 3.42 个塑料碎片，最常见的是聚苯乙烯。研究人员还发现，摄食行为会影响微塑料在动物体内的积累位置。海床进食的蜗牛，塑料聚集在消化器官中；滤食性贻贝的塑料分布则更为均匀。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85006" target="_blank"&gt;西班牙提议出资 11.4 亿美元建造 30 米望远镜&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                30 米望远镜（Thirty Meter Telescope，TMT）项目于 2014 年开始建造，计划 2027 年投入运行。望远镜选址定在夏威夷的 Mauna Kea 山，而 Mauna Kea 被当地原居民视为圣地，由于原居民的反对望远镜项目从 2015 年起处于停工状态，至今已超过 10 年。现在西班牙正试图在该国的加那利群岛建造 30 米望远镜，它提出了 11.4 亿美元的方案用于建造和未来的运营费用。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=84996" target="_blank"&gt;微软表示正致力于优化 Windows 11 在 8GB 内存下的运行效率&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软 Windows 和设备执行副总裁 Pavan Davuluri 通过官方博客谈论了该公司在 Windows 11 上持续展开的改进工作，虽然大部分工作尚未推送给用户。他透露接下来的一项工作是优化 Windows 11 在 8GB 内存以上配置下的运行效率。由于目前的内存供应危机，PC 厂商又开始提供 8GB 内存配置的电脑，然而 Windows 11 在 8GB 内存下只能勉强运行，运行其它程序面临很大的局限性。Davuluri 表示该公司将减少 Windows 的内存占用，在用户日常使用的 PC 上提供快速响应的 Windows 体验。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85007" target="_blank"&gt;惠普、华硕和宏碁开始少量使用长鑫内存&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                主要 PC 制造商惠普、华硕和宏碁开始少量使用长鑫的内存芯片。多家大型 PC 制造商已于今年年中完成了长鑫 DRAM 芯片的认证流程，开始在笔记本电脑中少量使用。由于长鑫优先向华为等国内客户供应内存芯片，因此其它厂商的供应量有限，相关笔记本电脑型号主要销往美国以外市场。PC 厂商对使用长鑫内存十分谨慎，因为他们担心会惹恼三大内存芯片制造商美光、三星和 SK海力士，这三大公司占据了逾九成的内存芯片市场。长鑫的内存并不比美光或三星等公司便宜，厂商也无法采购更多内存。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=84997" target="_blank"&gt;美国学校正用 MacBook Neo 取代 Chromebook&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                苹果在恰当的时机推出了一款价格合适的产品，由于内存因供应问题而价格暴涨，美国学校以前采购的教育笔记本电脑 Chromebook 价格也随之大幅增长，苹果推出的 500 美元教育笔记本电脑 MacBook Neo 变得价廉物美。苹果最新财报电话会议披露，美国教育机构正大量采购 MacBook Neo，近半是为了替代 Chromebook 等竞品。苹果举例说，佛罗里达 Pinellas County 学区 18 所高中 2.5 万名学生正从 Windows 迁移到 MacBook Neo；华盛顿州 Peninsula 学区 401 逾 8000 名学生从 Chromebook 迁移到 MacBook Neo；俄克拉荷马州 Midwest City-Del City 学区采购了逾 6000 台 MacBook Neo。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85009" target="_blank"&gt;沙特牵头的财团完成对 EA 的私有化&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                沙特牵头的财团完成对美国游戏公司 EA 的私有化。参与私有化的财团包括了沙特主权基金 Public Investment Fund (PIF)、私募股权公司 Silver Lake 以及特朗普女婿 Jared Kushner 创立的 Affinity Partners。EA 旗下的知名游戏包括 EA Sports FC、战地、模拟人生、质量效应等等。摩根大通银行为这笔交易提供了 200 亿美元的债务融资，这笔债务将由私有化后的 EA 承担。分析师担心为偿还债务 EA 将会大规模裁员、推动更激进化的盈利手段等。Game Business 主编兼联合创始人 Christopher Dring 指出私募股权公司通常在公司管理上相当激进。这笔交易是游戏史上第二大收购案，仅次于微软以 690 亿美元收购动视暴雪。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=84998" target="_blank"&gt;韩国录得有记录以来最高气温&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                韩国录得自 1904 年现代气象观测以来的最高气温，韩国东南部的庆尚南道梁山市周日下午气温达到了 42.5℃，连续第五天超过 40℃。当局警告居民“立即停止所有户外活动”。自 1973 年以来，韩国白天气温连续 3 天以上达到 40℃ 的情况仅出现过三次。韩国逾 20 个地区周日发布了高温紧急预警——这是今年新增的预警级别，旨在更好应对不断上升的气温。当预计高温地区体感温度将达到 38℃或实际温度达到 39℃ 时，会发布高温紧急预警。气象部门敦促民众“立即停止所有户外活动”，称“没有空调的室内空间很危险”。气象部门建议：“立即前往阴凉处，如指定的避暑中心或阴凉区域，在休息时保持水分充足。”韩国气象厅的数据显示，过去五年韩国每年平均高温天气天数增加了一倍多达到 19 天。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85010" target="_blank"&gt;可能有多达 1.7 亿个恒星质量黑洞潜伏在银河坟场&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家通过计算机模拟发现，银河系中可能存在约 1.7 亿个恒星质量黑洞。它们分散在星系各处，构成了隐藏的银河系“地下世界”。这项研究重建了银河系 136 亿年的演化历史，不仅估算出黑洞的总数，还预测了它们的分布、质量，以及诞生它们的爆炸的特征。黑洞是大质量恒星死亡后的遗骸。当恒星耗尽聚变燃料，核心便不再有向外的压力支撑，随之坍缩成一个光线也无法逃脱的天体。这正是天文学家面临的难题：光几乎是探测宇宙的主要信息源，而黑洞不发光，因此很难被找到，更难以统计其数量。研究团队利用已知的恒星、黑洞与星系演化规律，构建了虚拟的银河系，追踪数十亿年间的恒星形成、恒星死亡、黑洞诞生与星系演化过程，借此估算当今应当存在的恒星质量黑洞数量。模拟显示，在银河系的生命周期内，约有 1.7 亿颗恒星成为了黑洞。团队计算出，在太阳到银心的距离上，黑洞的分布密度约为每 6250 立方秒差距 1 个。从时间维度看，1.7 亿个黑洞分布在银河系 136 亿年的历史中，平均每 80 年诞生一个新的恒星质量黑洞。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=84999" target="_blank"&gt;三星智能电视应用禁止住宅代理&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 LG 之后，三星也宣布禁止嵌入了住宅代理得智能电视应用。嵌入住宅代理 SDK 的应用会出售用户的家用 IP 作为代理服务使用。智能电视是理想的代理主机，它基本上一直处于插电状态，同时接入了家用 WIFI，但不像 PC 没人会去检查其可疑后台活动。此前的研究发现，LG webOS 应用商店逾 42% 的游戏和其它应用内置了住宅代理 SDK，三星 Tizen 应用商店也有逾四分之一应用内置了住宅代理 SDK。部分嵌入住宅代理 SDK 的应用安装量多达数亿，相关应用甚至还被三星推荐过。三星在一份声明中表示正在封禁嵌入住宅代理 SDK 的应用，将移除包含此类功能的应用。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85011" target="_blank"&gt;中国扫地机器人占据全球七成市场&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国家用扫地机器人厂商正在全球市场形成寡头格局。中国厂商并非打价格战而是比拼开发自主功能的策略奏效，主要 5 家企业合计占据超过 7 成全球市场份额。在因低价竞争而陷入消耗战的中国产业界，实现了罕见增长。其中石头科技 2025 年下半年全球市场份额达到 27%，位居首位。在美国、德国和韩国等发达国家的主要市场位居第一。追觅第二，科沃斯第三，之后是小米和云鲸。在中国，投资集中在成长产业、产品同质化、激烈的价格竞争导致整体陷入消耗战的“内卷”现象已成为社会问题。扫地机器人能否成为例外？
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85001" target="_blank"&gt;两颗戴森球候选天体被排除&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                戴森球一直都被列为地外文明技术特征的典型标志，天文学家使用韦伯望远镜的中红外仪器（MIRI），对两颗因红外超出而被列为戴森球头号候选的 M 型矮星进行了复查，结果发现所谓异常根本不在恒星身上，而是来自天空中与恒星相距仅约 1 角秒的两颗毫无关联的遥远星系。这意味着两个最有希望的“外星文明巨型工程”均为天然天体物理源。戴森球概念由物理学家弗里曼·戴森在 1960 年提出，其认为一个足够先进的文明为突破行星能源瓶颈，会转向母恒星收集能量，而任何能量收集结构都无法隐藏废热，必然在中红外波段留下特征性辐射。正因如此，NASA 将戴森球列为地外文明典型技术特征之一，并通过望远镜寻找这一先进文明巨型工程的可能痕迹。基于该假设，能在数百万颗恒星中筛出红外超出目标，即可把它当作可能存在外星文明的线索。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85012" target="_blank"&gt;美国据报将豁免中国开放权重模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                白宫已向美国顶尖 AI 企业透露，在特朗普政府新出台的 AI 安全框架下，中国竞争对手正在开发的开放权重模型将被豁免，无需接受美国政府的安全测试。这项豁免决定是在星期二（4日）的一场白宫闭门会议上向行业代表宣布的。OpenAI、Anthropic PBC 以及 Alphabet 旗下的 Google 等硅谷巨头均派代表出席了此次会议。这一尚未公开的 AI 安全框架，源于美国总统特朗普今年 6 月签署的应对 AI 安全问题的行政令。该行政令提出了一项自愿性计划，鼓励 AI 企业将最前沿的模型交由美国审查。促使华盛顿加速推进安全倡议的导火索，是今年 4 月 Anthropic 警告 Mythos 模型极易发现计算机漏洞，并对该模型的发布实施了严格限制。近几周，OpenAI 和 Anthropic 更接连披露其部分模型曾脱离安全测试环境并入侵第三方机构，进一步加剧了监管的紧迫性。白宫的这项决定对一直呼吁对所有模型实施“强制安全审查”的 Anthropic 首席执行官 Dario Amodei 而言，则是一次重大挫折。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85002" target="_blank"&gt;久坐不动者摄入蛋白质过多可能影响代谢&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                越来越多的动物研究表明，限制蛋白质摄入量或许能够延缓衰老、延长寿命。那么，这是否意味着摄入过多蛋白质存在危害呢？威斯康星大学麦迪逊分校的 Dudley Lamming 表示：“我们通常认为膳食蛋白质是有益的。”但他指出，最新的证据显示，“对于久坐不动的人或动物来说，如果摄入的膳食蛋白质超过所需的量，会引发代谢问题，还可能缩短寿命”。也有学者指出，在小鼠、大鼠等动物身上开展的营养学研究并不适用于人类，而且高蛋白摄入量与人体的益处相关。Lamming 认为，综合 300 项研究，当下流行的增加蛋白质摄入的做法，对经常运动的人而言或许并无不妥，因为他们需要更多蛋白质来修复肌肉损伤，然而摄入过多蛋白质可能对久坐不动的人造成伤害。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85013" target="_blank"&gt;特斯拉在华销量持续下滑&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国汽车流通协会乘用车市场信息联席分会（CPCA）的数据显示，特斯拉上海工厂 6 月产量创历史新高，当月生产了 93,579 辆汽车，相比去年同期增幅 38%。但高产量并未转化为中国市场的高销量：特斯拉在华销量连续一年多呈环比下滑趋势。特斯拉上海 6 月生产的电动汽车近 40% 用于出口。今年二季度特斯拉上海生产的汽车中逾五成或 128,394 辆销往欧洲、加拿大和其他亚洲市场，而中国市场销量为 126,157 辆。此前有报道称特斯拉正考虑摆脱对中国业务的依赖，但特斯拉随后否认了这一报道。问题在于特斯拉以及 SpaceX 的 CEO Elon Musk 想要合并两家公司，其中特斯拉已进入标普 500 指数，而标普拒绝为 SpaceX 破例，如果特斯拉和 SpaceX 合并，那么标普此前为阻止 SpaceX 吸引被动投资者所做的努力将付诸东流。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85003" target="_blank"&gt;淡水螺新种以神兽帝江命名&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                云南玉溪的研究人员在玉溪红塔区的一个洞穴内发现了一种新的蜗牛，以《山海经》中的山神名字命名为帝江或 
-Erhaia dijiang。Erhaia dijiang 完美适应了终年无光的洞穴环境，是一种典型的洞穴专生物。它在长期演化过程中完全失去了眼睛，眼部结构已彻底退化。其贝壳小巧呈圆锥形，高度透明，身体柔软且没有色素，触角细长。实验室观察发现，该物种极度畏光，一旦受到光照便会迅速钻入岩石缝隙中躲避。Erhaia dijiang 生活在海拔2062米的洞穴中，刷新了洱海螺科所有已知洞穴物种的海拔分布纪录，证明洞穴淡水螺能够在海拔超过 2000 米的喀斯特洞穴中生存。该物种栖息于水深不足 1 米的洞穴水体底部砾石和碎石之间，洞内水温常年稳定在约 20℃。雨季水流湍急时，偶尔会有少量个体被冲出洞口，但它们从未在附近地表溪流中被发现，活动范围始终局限于距洞口约两米以内。在实验室条件下，它们主要取食岩石表面的硅藻，也能够摄食人工投喂的鱼饲料。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85014" target="_blank"&gt;新药研发推动实验猴价格翻倍&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国创新药研发快速发展，带动实验猴需求激增、价格接近翻倍，而这造成的供应紧张可能拖慢新药试验进度。今年 6 月一家国家级实验室以每只17.8 万的价格采购 40 只食蟹猴，价格较一年前接近翻倍。下一代癌症疗法开发商 Excalipoint Therapeutics 联合创始人兼首席财务官朱杰伦预计，实验猴明年每只售价可能突破 20 万元，较一两年前的略高于 10 万元接近翻倍。部分药物在获准进入临床试验前，必须通过猴体试验评估安全性。灵长类动物与人类生理结构相近，可用于观察药物在体内的运行及对器官的影响。单个生物药研发项目可能需要十几只至 100 只实验猴。业内人士和分析师指出，实验猴养殖场供应总体稳定，价格上涨主要是因为生物药和下一代疗法大量涌现，导致涉及灵长类动物的试验需求远超现有承载能力。目前中国约占全球创新药研发管线的三分之一，并已成为全球临床试验的首要目的地。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-04</guid><pubDate>Tue, 04 Aug 2026 11:23:14 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85015" target="_blank"&gt;Telegram 因用户分享 CSAM 材料被苹果短暂下架&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Telegram 因有用户分享 CSAM（child ​sexual abuse material）材料而被苹果在全世界短暂下架。苹果发言人证实了此次短暂下架事件，表示苹果的审查发现该应用存在违反禁止 CSAM 材料的内容，“在开发商迅速删除相关内容并封禁发布该内容的用户后，该应用已恢复上架。”Telegram 有逾 10 亿用户，它表示对 CSAM 内容采取零容忍政策，今年已因此封禁了近 33.8 万个群组和频道。英国监管机构 Ofcom 今年四月因类似的原因对 Telegram 展开了调查。Telegram 则坚称它没有 CSAM 问题，称自 2018 年以来已通过检测算法几乎完全杜绝 CSAM 材料的公开传播。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-05</guid><pubDate>Wed, 05 Aug 2026 11:20:56 +0000</pubDate></item></channel></rss>
