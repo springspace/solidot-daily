@@ -1,57 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 06 Aug 2026 11:22:52 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月06日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 07 Aug 2026 10:01:41 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月07日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85016" target="_blank"&gt;Waymo CEO 解释为什么光靠摄像头难以实现自动驾驶&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Waymo 联席 CEO Dmitri Dolgov 在 Y Combinator 的 Startup School 发表演讲，解释为什么自动驾驶汽车需要的传感器不能仅限于摄像头。特斯拉汽车只配备了光学摄像头，它的辅助驾驶系统依赖于来自摄像头的数据。Dolgov 解释说，人类仅靠眼睛就能驾驶汽车，如果自动驾驶系统的目标是实现人类水平的驾驶，那么只靠摄像头可能够了，但上限也就是人类水平，而无人驾驶汽车被寄希望有更高的安全标准。相比下，Waymo 的自动驾驶汽车使用了摄像头、激光雷达和雷达三种传感技术。摄像头提供高分辨率和彩色图像，它们是被动传感，在黑暗和强光下性能会下降。激光雷达直接测量世界的三维结构。雷达能穿透雾、雨、雪，利用多普勒效应直接读取速度。激光雷达和雷达都是主动传感器，在漆黑的夜晚或刺眼夕阳下也能清晰探测物体。三种传感器并不是互为冗余，而是组合成一个完整的图像。摄像头如果粘了树叶，那么驾驶系统可能就会停止工作。Waymo 的三种传感器可以确保汽车在恶劣天气下回家。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85024" target="_blank"&gt;观鸟活动或有助于延缓大脑衰老&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                发表在《Journal of Neuroscience》期刊上的一项研究发现，资深观鸟者的大脑结构与普通人之间存在一些差异，或许正是这些差异让他们能更好地识别陌生鸟类。这或许表明，观鸟活动能重塑人的大脑，其作用机制与学习一门语言或一种乐器类似。这类活动或许能增强参与者的认知储备，即提升大脑抵御衰老、适应损伤的能力。
+在学习或练习某项技能时，大脑会强化并优化相关神经通路，这种能力被称为“神经可塑性”，是人类发展专业技能的基础。为探究观鸟活动是否同样能重塑大脑，加拿大约克大学的研究人员对 48 名业余观鸟者进行了大脑结构与功能分析。受试者年龄在 22-79 岁之间，两组在性别、年龄和受教育程度上均相当，其中有一半经筛查测试被判定为资深观鸟者，而另一半为新手。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85017" target="_blank"&gt;AI 监督远程考试变成灾难，数万学生必须重考&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                从 5 月下旬到 6 月初，近 16 万名考生参加了墨西哥最大大学 UNAM 的入学考试。这是 UNAM 首次采用完全远程考试。结果是一场灾难。考试成绩公布后，高分比例比往年多多了。UNAM 120 道题考试 2021-2025 年间，只有 3.5% 的考生获得 100 分或以上，今年这一比例高达 16.3%；只有 0.9% 的考生获得 110 分或以上，今年这一比例达到了 5.5%。高分激增引发了考试作弊的指控。UNAM 的专家委员会在调查之后认为最佳方案是线下复试。受影响的 58,000 人将需要在监考人员监督下参加复试。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85025" target="_blank"&gt;科学家确认灯架虎耳草是食肉植物&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家在青藏高原发现的开花植物灯架虎耳草被确认为一个新的食虫植物谱系，以确凿证据实证存在食肉植物类型，也证实进化论奠基人达尔文 150 多年前提出的植物物种可能具有食肉性的预测。研究结果表明，灯架虎耳草能够吸引、捕获并消化昆虫，并从中吸收氮元素。1875 年达尔文曾推测，作为一类通常生长在高山环境中的被子植物，虎耳草属的某些物种可能具有食肉性，因为它们拥有能够捕获昆虫的粘性腺毛。此前一直缺乏确凿证据来支持这一假说。在本项研究中，研究团队对生长在中国青藏高原-横断山脉高山地区的灯架虎耳草进行全面深入研究，实地观察和现有植物样本的调查显示，在 45 个被调查的标本中，有 43 个的腺毛上附着有昆虫猎物，成熟植株平均共捕获 71 只昆虫(主要附着在这些腺毛上)。随后研究团队通过荧光标记法检测到了磷酸酶活性(一种常见于食虫植物的消化酶)，这表明该植物可能具有消化猎物的能力。接下来，研究团队将标记有稳定氮同位素的果蝇喂给灯架虎耳草，以分析该植物能否从猎物中吸收营养。他们观察到，灯架虎耳草及另一种食虫植物的对照植株中，标记氮的水平显著上升，这与非食虫对照组形成鲜明对比，从而支持了灯架虎耳草物种具有食虫行为的假说。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85018" target="_blank"&gt;微软要求工程师不要最大化 AI Token 使用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为了推广 AI 工具，许多企业将 AI 使用率作为绩效考核的一部分。结果就是员工为了绩效致力于最大化 AI 使用，导致企业很快发现 token 费用大幅超出预算。软件巨头微软成为最新一家建议工程师限制使用 AI 的公司。微软执行副总裁 Jay Parikh 在一封发给微软员工的邮件中要求工程师专注于业务成果，而非最大化 AI token 的使用量，为了“从 token 投资中获得更大的价值”，微软将比其它模型更便宜的 OpenAI GPT-5.6 设为内部使用的默认模型。自 2026 年 7 月起，微软各部门将设定“AI token 预算目标”，员工可以追踪各自的 AI 支出。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85026" target="_blank"&gt;Redidt 准备进一步限制 Old Reddit&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Reddit 的新版本因为推荐算法和广告等原因而导致用户体验不佳，老用户仍然偏爱旧版本的 Old Reddit(old.reddit.com)。但根据最新的官方博客，Old Reddit 的未来岌岌可危。Reddit 官方声称内容抓取者利用了 Old Reddit 无需登陆的便利而恶意抓取其内容，它将逐步改变 Old Reddit。短期内用户仍然能继续访问 Old Reddit，但将需要登陆。对于所谓的“改变”，Reddit 官方没有给出更具体的说明，只是表示在“探索不同的方案”。Old Reddit 最终可能会消失。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85019" target="_blank"&gt;Google DeepMind CEO Demis Hassabis 卸任&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 对其 AI 部门 DeepMind 进行了领导层重组，诺贝尔奖得主、DeepMind CEO Demis Hassabis 卸任，他将担任新设立的首席科学家职位并改任董事长。资深工程师以及 Google Brain 联合创始人 Jeff Dean、Sanjay Ghemawat、Oriol Vinyals 和 ​Quoc Le 都离开 Google，他们成立了一家公益性 AI 企业 Discovery Loop，专注于机器学习、科学和工程领域的突破性研究。这次人事变动恰逢 Google 最新 Gemini 模型的发布滞后，原计划
-6 月发布，但至今仍未发布，引发了 Google 落后于竞争对手 Anthropic 和 OpenAI 的担忧。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85027" target="_blank"&gt;未来的火星宇航员如何应对有毒的火星沙尘？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 未来有意将宇航员送往火星，但火星宇航员如何应对有毒的火星沙尘？NASA 今年早些时候成立了 Martian Dust Limit Working Group，评估已知和未知的火星沙尘对人类宇航员的毒理学危害，最终为人类在火星上设定一个允许的暴露极限值。几十年前的阿波罗宇航员就发现处理月尘很麻烦。月尘会粘附在任何接触到的物体上，会侵蚀宇航服，导致设备和仪器过热，破坏宇航服的密封性，甚至刺激宇航员的眼睛和肺部。火星沙尘不像月尘那样尖锐会割伤人，但火星沙尘有月尘没有的化学成分和矿物质，如对人类有害的高氯酸盐。火星是完全不同的世界，火星沙尘比月尘对健康的危害要大得多。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85020" target="_blank"&gt;2027 年全年内存产能已全部预定和售罄&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                DigiTimes 报道，受 AI 需求和长期协议的推动，三大内存制造商三星、SK 海力士和美光 2027 年的 DRAM 和 HBM 内存产能已全部售罄。PC、笔记本电脑和智能手机使用的 DRAM 内存供应在 2027 年将更紧张，NAND 闪存的产能也可能在 2026 年 8 月底前被全部预订。这三大内存制造商占据了逾九成的市场份额，它们没有新增供应的计划。AI 对内存的需求远超过供应，内存制造商正与企业签订长期协议以确保长达 5 年的内存供应，情况相当严峻。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85028" target="_blank"&gt;世界正在耗尽河沙&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                世界各地的工业采砂活动正以远超地球自然补充的速度开采河床沉积物。世界正在耗尽河沙。研究显示全世界对河沙和砾石的需求是不可持续的。越南目前的采砂速度约为自然沉积物补充速度的 11.8 倍。越南在 2015-2022 年间开采了约 3.66 亿立方米的沙子，导致河床平均下沉 0.48 米。如此大的变化会对水流方式、河流系统的健康以及河流两岸的结构产生重大影响。越南湄公河段在 2018-2020 年间，逾 1800 栋房屋因河岸侵蚀而倒塌。如果越南湄公河目前的采砂速度持续下去，到 2035 年河沙将枯竭。河沙因其颗粒能提供合适的摩擦力，且一般不含盐分，因此在建筑领域广泛使用，它占到了混凝土体积的七成以上。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85021" target="_blank"&gt;科学家拍到迄今最清晰的太阳表面图像&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                科学家拍摄到迄今为止​最清晰的太阳表面图像，展现出比以往所见复杂得多的太阳表层景象，为该层的磁活动区提供了新的见解。研究报告发表于《自然》期刊。太阳的可见表面又称光球，是其大气的一个薄层。等离子体在这里变得透明，使光能够逃逸。已知这一区域动态且复杂，磁场和对流等众多因素塑造了太阳的大气结构。美国国家太阳天文台（NSO）的研究人员利用位于夏威夷的井上太阳望远镜，获取了具有迄今最高空间分辨率的太阳可见表面观测结果。该研究观测了一处靠近太阳黑子的磁活跃区域。在新的高分辨率图像中，太阳表面主要呈现带状和涡旋状结构。研究人员认为，这些特征与开尔文-亥姆霍兹不稳定性有关，后者是一种经典流体动力学现象，当两种流体以不同速度互相掠过时就会形成波浪状结构。这是首次获得证据，表明太阳表面存在这一现象。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85029" target="_blank"&gt;SpaceX 火箭残骸撞击月球&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                韩国月球轨道器“赏月”号拍摄到 SpaceX Falcon 9 火箭残骸撞击月球前后的高分辨率影像。这枚火箭残骸于 5日 6.35am GMT 以 8,690km/h 时速撞击月球爱因斯坦环形山附近。“赏月”号在撞击约 30 分钟前进行首次拍摄，并在撞击后进行了 7 次观测拍摄。初步观测资料显示，撞击点附近出现地形变化和喷出物扩散痕迹。以往对人造物体撞击月球的确认，大多是在相当长的时间过后才通过表面变化来推断，而“赏月”号同时获取了撞击前的基准影像和撞击后的即时影像，因此有望成为能够单独分离并分析撞击所引发变化的珍贵资料。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85022" target="_blank"&gt;Rust 语言宣布 LLM 政策&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Rust 语言团队宣布了新的 LLM 政策。
-&lt;i&gt;
-除了作者没有人被要求必须阅读 LLM 输出，除非其自愿选择：LLM 输出不允许出现在公开文档、PR 描述或 GitHub 评论中，除非明确标注；审核者如果不愿意，无需查看 LLM 生成的 PR。&lt;br /&gt;
-没有人必须使用 LLM 为 rust-lang/rust 做贡献：政策必须先为人类编写，仅为机器提供摘要；LLM 审核不能替代人工审核或自审。&lt;br /&gt;
-你可以生成仅供自己查看的 LLM 内容，无需披露，前提是不会将其发布到任何你期望我们阅读或审核的地方。&lt;br /&gt;
-你可以用 LLM 回答问题、分析、提炼、完善、检查、提出建议和审核，但不能用来**创造**。
-&lt;/i&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85030" target="_blank"&gt;FDA 批准首款 mRNA 流感疫苗上市&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在一波三折之后，FDA 批准了美国首款 mRNA 流感疫苗上市。临床试验显示，该疫苗的有效性比传统流感疫苗高约 27%。这款由 Moderna 生产、以 mFlusiva 为名销售的疫苗预计将于今年秋季上市，适用于 50- 64 岁以及 65 岁及以上的人群。但老年人群的批准还需 Moderna 进行一项额外的临床试验。疫苗采用与 Moderna 和辉瑞公司新冠疫苗相同的 mRNA 平台。mRNA 疫苗一大优点是其生产速度远快于传统疫苗，科学家因此能更好匹配流行的流感病毒株。Moderna 表示，从选定病毒株到推出 mRNA 流感疫苗，只需两到三个月，而传统流感疫苗则需要约六个月。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85023" target="_blank"&gt;北极气温多次超过 32 摄氏度&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                北极多地气温本周多次超过 32 摄氏度。北极圈附近的 Selagoncy 气象站记录到 33.9 摄氏度的高温；另一个气象站 Olenek 的气温也达到了 32.7 摄氏度。气象学家 Alan Gerard 表示，最近几年的研究表明，由于海冰减少的反馈作用，北极升温速度远超地球其它地区，“这是一个危险的反馈循环：随着海冰融化，北极反射的阳光减少，海洋吸收的热量增加。反过来又导致海冰进一步减少。该地区升温速度比世界其它地区快四倍。”今年预计将出现强厄尔尼诺现象，气温上升的趋势短期内不太可能放缓。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85031" target="_blank"&gt;《时代》杂志网站展示只有 AI 能看到的广告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                《时代》杂志网站开始展示只有 AI 爬虫能看到的带有品牌信息的广告。这些广告旨在影响 AI 聊天机器人，让 AI 从积极的角度谈论品牌产品，而 AI 获得的信息无法追溯到实际页面。《时代》网站排除了 Google 的爬虫，原因是 Google 会惩罚向机器人和真实用户展示不同搜索结果的网站。广告技术平台 Mobian 的联合创始人兼 CEO Jonah Goodhart 指出，影响机器人可能比影响人类用户更重要，因为影响人类用户只能影响一个人。而影响 ChatGPT 就是影响整个 ChatGPT。如果 ChatGPT 改变了它对某个品牌的评价，其影响将是巨大的，远超任何单一广告活动所能达到的效果。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-06</guid><pubDate>Thu, 06 Aug 2026 11:22:52 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85032" target="_blank"&gt;日本反复要求特朗普政府停止用马里奥宝可梦等热门 IP 角色制作梗图&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本政府官员反复要求特朗普政府停止用马里奥、宝可梦和火影忍者等热门 IP 角色制作梗图，认为此举损害了相关知识产权。包括白宫 X 账号在内的美国政府官方社媒账号过去一年发布了大量使用日本热门动漫和游戏角色的梗图和视频。日本外务省多次呼吁美国政府停止发布此类内容，表示“即使是公共机构，未经版权所有者同意复制受版权保护的作品也是不恰当的”。日本防卫省今年 6 月至少两次通过美国驻日本大使馆呼吁特朗普政府停止使用火影忍者、宝可梦和马里奥等 IP 发表支持战争和宣传性质的内容。今年 6 月特朗普总统在 Truth Social 上分享了一段 AI 生成视频，将自己刻画成热门动漫火影忍者的主角漩涡鸣人，此举再次引发强烈反弹。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85033" target="_blank"&gt;美洲狮改变鹿的行为减少交通事故&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                生活在大型食肉动物身边可能会让你更加安全。一项研究发现，美洲狮能改变鹿的行为，从而减少它们在道路上与汽车发生碰撞的可能性。在美洲狮分布较为密集的地区，在 5 年的时间内，动物撞车的次数显著减少。研究人员发现，在有美洲狮出没的地方，鹿更愿意在白天活动。它们出现在道路密集区域的可能性降低了 15%，转而选择在偏远的栖息地停留更长的时间。基于鹿的活动方式发生的这些变化，研究人员测算出鹿与车辆发生碰撞的可能性下降了 67%。他们还估计，未来 5 年内，车辆与鹿发生碰撞的数量将减少 76%。通过这项研究，科学家希望更多人能够开始意识到生活在大型食肉动物中间的好处。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-07</guid><pubDate>Fri, 07 Aug 2026 10:01:41 +0000</pubDate></item></channel></rss>
