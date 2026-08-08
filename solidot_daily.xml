@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 07 Aug 2026 10:01:41 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月07日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 08 Aug 2026 09:37:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85024" target="_blank"&gt;观鸟活动或有助于延缓大脑衰老&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                发表在《Journal of Neuroscience》期刊上的一项研究发现，资深观鸟者的大脑结构与普通人之间存在一些差异，或许正是这些差异让他们能更好地识别陌生鸟类。这或许表明，观鸟活动能重塑人的大脑，其作用机制与学习一门语言或一种乐器类似。这类活动或许能增强参与者的认知储备，即提升大脑抵御衰老、适应损伤的能力。
-在学习或练习某项技能时，大脑会强化并优化相关神经通路，这种能力被称为“神经可塑性”，是人类发展专业技能的基础。为探究观鸟活动是否同样能重塑大脑，加拿大约克大学的研究人员对 48 名业余观鸟者进行了大脑结构与功能分析。受试者年龄在 22-79 岁之间，两组在性别、年龄和受教育程度上均相当，其中有一半经筛查测试被判定为资深观鸟者，而另一半为新手。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85035" target="_blank"&gt;AMD 收购将权重直接刻在芯片上的 AI 初创公司&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AMD 收购了将权重直接刻在芯片上的 AI 初创公司 Taalas。Taalas 创办于 2023 年，它研发专门用于执行 AI 模型推理任务的集成电路 MSIC（代表 model-specific integrated circuits），其推理速度比 GPU 和其它专用加速器高出一个数量级以上。Taalas 今年 2 月展示了它用台积电 6nm 工艺制造的测试芯片 HC1，测试显示芯片能以每秒 16,960 个 tokens 的速度处理 Meta 的 Llama 3.1 8B 模型，这一速度比英伟达的 GPU 快 48 倍，比 Cerebras 的加速器快 8.5 倍。Taalas 计划今夏推出第二代 HC2 芯片，目标是将参数数量提升至 200 亿。它的缺点是一旦部署只能使用当前的模型，新模型需要重新设计芯片，但并不需要从零开始设计，只需要更换两层金属，因此既便宜也省时间。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85025" target="_blank"&gt;科学家确认灯架虎耳草是食肉植物&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                科学家在青藏高原发现的开花植物灯架虎耳草被确认为一个新的食虫植物谱系，以确凿证据实证存在食肉植物类型，也证实进化论奠基人达尔文 150 多年前提出的植物物种可能具有食肉性的预测。研究结果表明，灯架虎耳草能够吸引、捕获并消化昆虫，并从中吸收氮元素。1875 年达尔文曾推测，作为一类通常生长在高山环境中的被子植物，虎耳草属的某些物种可能具有食肉性，因为它们拥有能够捕获昆虫的粘性腺毛。此前一直缺乏确凿证据来支持这一假说。在本项研究中，研究团队对生长在中国青藏高原-横断山脉高山地区的灯架虎耳草进行全面深入研究，实地观察和现有植物样本的调查显示，在 45 个被调查的标本中，有 43 个的腺毛上附着有昆虫猎物，成熟植株平均共捕获 71 只昆虫(主要附着在这些腺毛上)。随后研究团队通过荧光标记法检测到了磷酸酶活性(一种常见于食虫植物的消化酶)，这表明该植物可能具有消化猎物的能力。接下来，研究团队将标记有稳定氮同位素的果蝇喂给灯架虎耳草，以分析该植物能否从猎物中吸收营养。他们观察到，灯架虎耳草及另一种食虫植物的对照植株中，标记氮的水平显著上升，这与非食虫对照组形成鲜明对比，从而支持了灯架虎耳草物种具有食虫行为的假说。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85036" target="_blank"&gt;糖在人类演化中起到了核心作用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2017 年研究灵长类动物大脑的研究人员发现：在逾 140 种灵长类物种中，以水果为食的物种大脑比以肉食或树叶为食的同类更大。这意味着大脑体积的变化由食物驱动，而不是由复杂社会互动驱动的。水果富含糖，大脑依靠葡萄糖作为能量来源。这一发现促使研究人员开始思考含糖食物在人类演化过程中发挥了什么作用。Jennie Brand-Miller 等人在《科学》期刊上发表论文，报告糖在人类演化中起到了核心作用。研究人员利用各种人科物种体型数据，以及从化石记录中收集到的饮食信息，构建了人科动物饮食中糖、蛋白质、纤维、淀粉和脂肪随时间变化的分解模型。研究结果表明，早期人科动物可能从水果和蜂蜜等甜食中获取高达 66% 的能量。分析发现，在人类演化过程中，人科动物从这些食物中累积的能量占到了总能量的 20%-35%。研究人员强调，研究结果并不意味着肉或鱼等动物性食物不重要。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85026" target="_blank"&gt;Redidt 准备进一步限制 Old Reddit&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Reddit 的新版本因为推荐算法和广告等原因而导致用户体验不佳，老用户仍然偏爱旧版本的 Old Reddit(old.reddit.com)。但根据最新的官方博客，Old Reddit 的未来岌岌可危。Reddit 官方声称内容抓取者利用了 Old Reddit 无需登陆的便利而恶意抓取其内容，它将逐步改变 Old Reddit。短期内用户仍然能继续访问 Old Reddit，但将需要登陆。对于所谓的“改变”，Reddit 官方没有给出更具体的说明，只是表示在“探索不同的方案”。Old Reddit 最终可能会消失。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85037" target="_blank"&gt;中国科学家确认胶球存在&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在粒子物理学中，胶球是仅仅由胶子组成的复合粒子，不包含任何价夸克。在实际发现胶球前，理论预测中的胶子是可以达成这种特殊束缚态的，因为胶子本身带有色荷，所以能够通过强核力相互作用。但由于胶球总是与其它普通的介子束缚态一同产生，所以很难在粒子加速器中探测出来。北京正负电子对撞机的北京谱仪III实验（BESIII）国际合作组，周四在巴西举行的国际高能物理大会上宣称，经过 15 年的持续研究，BESIII 实验已建立了证明胶球存在的完整证据链。2011年，BESIII合作组依靠北京正负电子对撞机产生的大量J/psi粒子，在J/psi粒子的衰变产物中发现了一个新粒子X(2370)，疑似为胶球。研究团队于2024年首次利用100亿个J/psi粒子，测定了X(2370)的自旋和宇称量子数，其质量与格点量子色动力学对相同量子数胶球的理论一致。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85027" target="_blank"&gt;未来的火星宇航员如何应对有毒的火星沙尘？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                NASA 未来有意将宇航员送往火星，但火星宇航员如何应对有毒的火星沙尘？NASA 今年早些时候成立了 Martian Dust Limit Working Group，评估已知和未知的火星沙尘对人类宇航员的毒理学危害，最终为人类在火星上设定一个允许的暴露极限值。几十年前的阿波罗宇航员就发现处理月尘很麻烦。月尘会粘附在任何接触到的物体上，会侵蚀宇航服，导致设备和仪器过热，破坏宇航服的密封性，甚至刺激宇航员的眼睛和肺部。火星沙尘不像月尘那样尖锐会割伤人，但火星沙尘有月尘没有的化学成分和矿物质，如对人类有害的高氯酸盐。火星是完全不同的世界，火星沙尘比月尘对健康的危害要大得多。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85028" target="_blank"&gt;世界正在耗尽河沙&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                世界各地的工业采砂活动正以远超地球自然补充的速度开采河床沉积物。世界正在耗尽河沙。研究显示全世界对河沙和砾石的需求是不可持续的。越南目前的采砂速度约为自然沉积物补充速度的 11.8 倍。越南在 2015-2022 年间开采了约 3.66 亿立方米的沙子，导致河床平均下沉 0.48 米。如此大的变化会对水流方式、河流系统的健康以及河流两岸的结构产生重大影响。越南湄公河段在 2018-2020 年间，逾 1800 栋房屋因河岸侵蚀而倒塌。如果越南湄公河目前的采砂速度持续下去，到 2035 年河沙将枯竭。河沙因其颗粒能提供合适的摩擦力，且一般不含盐分，因此在建筑领域广泛使用，它占到了混凝土体积的七成以上。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85029" target="_blank"&gt;SpaceX 火箭残骸撞击月球&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                韩国月球轨道器“赏月”号拍摄到 SpaceX Falcon 9 火箭残骸撞击月球前后的高分辨率影像。这枚火箭残骸于 5日 6.35am GMT 以 8,690km/h 时速撞击月球爱因斯坦环形山附近。“赏月”号在撞击约 30 分钟前进行首次拍摄，并在撞击后进行了 7 次观测拍摄。初步观测资料显示，撞击点附近出现地形变化和喷出物扩散痕迹。以往对人造物体撞击月球的确认，大多是在相当长的时间过后才通过表面变化来推断，而“赏月”号同时获取了撞击前的基准影像和撞击后的即时影像，因此有望成为能够单独分离并分析撞击所引发变化的珍贵资料。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85030" target="_blank"&gt;FDA 批准首款 mRNA 流感疫苗上市&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在一波三折之后，FDA 批准了美国首款 mRNA 流感疫苗上市。临床试验显示，该疫苗的有效性比传统流感疫苗高约 27%。这款由 Moderna 生产、以 mFlusiva 为名销售的疫苗预计将于今年秋季上市，适用于 50- 64 岁以及 65 岁及以上的人群。但老年人群的批准还需 Moderna 进行一项额外的临床试验。疫苗采用与 Moderna 和辉瑞公司新冠疫苗相同的 mRNA 平台。mRNA 疫苗一大优点是其生产速度远快于传统疫苗，科学家因此能更好匹配流行的流感病毒株。Moderna 表示，从选定病毒株到推出 mRNA 流感疫苗，只需两到三个月，而传统流感疫苗则需要约六个月。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85031" target="_blank"&gt;《时代》杂志网站展示只有 AI 能看到的广告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                《时代》杂志网站开始展示只有 AI 爬虫能看到的带有品牌信息的广告。这些广告旨在影响 AI 聊天机器人，让 AI 从积极的角度谈论品牌产品，而 AI 获得的信息无法追溯到实际页面。《时代》网站排除了 Google 的爬虫，原因是 Google 会惩罚向机器人和真实用户展示不同搜索结果的网站。广告技术平台 Mobian 的联合创始人兼 CEO Jonah Goodhart 指出，影响机器人可能比影响人类用户更重要，因为影响人类用户只能影响一个人。而影响 ChatGPT 就是影响整个 ChatGPT。如果 ChatGPT 改变了它对某个品牌的评价，其影响将是巨大的，远超任何单一广告活动所能达到的效果。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85032" target="_blank"&gt;日本反复要求特朗普政府停止用马里奥宝可梦等热门 IP 角色制作梗图&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                日本政府官员反复要求特朗普政府停止用马里奥、宝可梦和火影忍者等热门 IP 角色制作梗图，认为此举损害了相关知识产权。包括白宫 X 账号在内的美国政府官方社媒账号过去一年发布了大量使用日本热门动漫和游戏角色的梗图和视频。日本外务省多次呼吁美国政府停止发布此类内容，表示“即使是公共机构，未经版权所有者同意复制受版权保护的作品也是不恰当的”。日本防卫省今年 6 月至少两次通过美国驻日本大使馆呼吁特朗普政府停止使用火影忍者、宝可梦和马里奥等 IP 发表支持战争和宣传性质的内容。今年 6 月特朗普总统在 Truth Social 上分享了一段 AI 生成视频，将自己刻画成热门动漫火影忍者的主角漩涡鸣人，此举再次引发强烈反弹。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85033" target="_blank"&gt;美洲狮改变鹿的行为减少交通事故&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                生活在大型食肉动物身边可能会让你更加安全。一项研究发现，美洲狮能改变鹿的行为，从而减少它们在道路上与汽车发生碰撞的可能性。在美洲狮分布较为密集的地区，在 5 年的时间内，动物撞车的次数显著减少。研究人员发现，在有美洲狮出没的地方，鹿更愿意在白天活动。它们出现在道路密集区域的可能性降低了 15%，转而选择在偏远的栖息地停留更长的时间。基于鹿的活动方式发生的这些变化，研究人员测算出鹿与车辆发生碰撞的可能性下降了 67%。他们还估计，未来 5 年内，车辆与鹿发生碰撞的数量将减少 76%。通过这项研究，科学家希望更多人能够开始意识到生活在大型食肉动物中间的好处。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-07</guid><pubDate>Fri, 07 Aug 2026 10:01:41 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-08</guid><pubDate>Sat, 08 Aug 2026 09:37:22 +0000</pubDate></item></channel></rss>
