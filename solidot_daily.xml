@@ -1,20 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 08 Aug 2026 09:37:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 09 Aug 2026 09:39:15 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85035" target="_blank"&gt;AMD 收购将权重直接刻在芯片上的 AI 初创公司&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                AMD 收购了将权重直接刻在芯片上的 AI 初创公司 Taalas。Taalas 创办于 2023 年，它研发专门用于执行 AI 模型推理任务的集成电路 MSIC（代表 model-specific integrated circuits），其推理速度比 GPU 和其它专用加速器高出一个数量级以上。Taalas 今年 2 月展示了它用台积电 6nm 工艺制造的测试芯片 HC1，测试显示芯片能以每秒 16,960 个 tokens 的速度处理 Meta 的 Llama 3.1 8B 模型，这一速度比英伟达的 GPU 快 48 倍，比 Cerebras 的加速器快 8.5 倍。Taalas 计划今夏推出第二代 HC2 芯片，目标是将参数数量提升至 200 亿。它的缺点是一旦部署只能使用当前的模型，新模型需要重新设计芯片，但并不需要从零开始设计，只需要更换两层金属，因此既便宜也省时间。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85038" target="_blank"&gt;Microsoft Edge 即将屏蔽流行扩展 uBlock Origin&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软正在跟随 Google 的脚步，即将停止支持 Manifest V2 扩展如广告屏蔽扩展 uBlock Origin。微软称其扩展商店 Edge Add-On Store 只有 58 个高使用量扩展仍然是基于 Manifest V2，只有 3 个没有提供 Manifest V3 扩展。微软表示从本月开始逐步默认关闭所有剩余的 Manifest V2 扩展，用户会收到通知。微软计划到今年年底消费者用户扩展迁移到 Manifest V3，2027 年初关闭企业用户的 Manifest V2 扩展。使用 uBlock Origin 的用户可以改用精简版本 uBlock Origin Lite，或者用 Edge 下载 Firefox。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85036" target="_blank"&gt;糖在人类演化中起到了核心作用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2017 年研究灵长类动物大脑的研究人员发现：在逾 140 种灵长类物种中，以水果为食的物种大脑比以肉食或树叶为食的同类更大。这意味着大脑体积的变化由食物驱动，而不是由复杂社会互动驱动的。水果富含糖，大脑依靠葡萄糖作为能量来源。这一发现促使研究人员开始思考含糖食物在人类演化过程中发挥了什么作用。Jennie Brand-Miller 等人在《科学》期刊上发表论文，报告糖在人类演化中起到了核心作用。研究人员利用各种人科物种体型数据，以及从化石记录中收集到的饮食信息，构建了人科动物饮食中糖、蛋白质、纤维、淀粉和脂肪随时间变化的分解模型。研究结果表明，早期人科动物可能从水果和蜂蜜等甜食中获取高达 66% 的能量。分析发现，在人类演化过程中，人科动物从这些食物中累积的能量占到了总能量的 20%-35%。研究人员强调，研究结果并不意味着肉或鱼等动物性食物不重要。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85039" target="_blank"&gt;电动滑板车比摩托车和自行车危险得多&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                对英格兰和威尔士事故数据的分析显示，电动滑板车比摩托车和自行车危险得多。英国国家重大创伤登记库包含了 2020-2022 年间英格兰和威尔士 18 个城市中 15247 名中度至重度创伤性损伤患者，包括 580 名电动滑板车骑行者、7027 名摩托车骑行者和 7640 名自行车骑行者。电动滑板车骑行者中 87.9% 为成年人。研究发现，与摩托车骑行者相比，成年电动滑板车骑行者发生创伤性脑损伤的风险高出 3.5 倍，内脏损伤的风险高出 1.5 倍，动脉或静脉损伤的风险高出 3.2 倍。与普通自行车骑行者相比，这些风险也分别高出 1.7 倍、1.4 倍和 1.7 倍。成年电动滑板车骑行者的骨折风险比摩托车骑行者低 20.0%，比普通自行车骑行者低 10.0%。仅有 5.9%的电动滑板车骑行者被记录为佩戴了头盔，而摩托车骑行者和普通自行车骑行者的这一比例分别为 75.7% 和 45.0%。分析还发现，男性骑行者的碰撞风险比女性骑行者低 36%，而女性骑行者报告严重受伤的可能性是男性的 2.1 倍。这可能是因为大多数电动滑板车的设计针对男性体型比例。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85037" target="_blank"&gt;中国科学家确认胶球存在&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在粒子物理学中，胶球是仅仅由胶子组成的复合粒子，不包含任何价夸克。在实际发现胶球前，理论预测中的胶子是可以达成这种特殊束缚态的，因为胶子本身带有色荷，所以能够通过强核力相互作用。但由于胶球总是与其它普通的介子束缚态一同产生，所以很难在粒子加速器中探测出来。北京正负电子对撞机的北京谱仪III实验（BESIII）国际合作组，周四在巴西举行的国际高能物理大会上宣称，经过 15 年的持续研究，BESIII 实验已建立了证明胶球存在的完整证据链。2011年，BESIII合作组依靠北京正负电子对撞机产生的大量J/psi粒子，在J/psi粒子的衰变产物中发现了一个新粒子X(2370)，疑似为胶球。研究团队于2024年首次利用100亿个J/psi粒子，测定了X(2370)的自旋和宇称量子数，其质量与格点量子色动力学对相同量子数胶球的理论一致。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85040" target="_blank"&gt;西伯利亚甲烷排放量每年增加 1200 万吨&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《科学》期刊上的一项研究，由于气候暖化和干燥导致的野火以及永久冻土融化，2010-2023 年期间西伯利亚甲烷排放量每年增加 1200 万吨。甲烷是比二氧化碳更强的温室气体，四分之一的全球暖化效应被认为可归因于甲烷排放。全世界正致力于减少甲烷排放，但西伯利亚因暖化而增加的甲烷排放量将会部分抵消减排努力，预计到 2050 年五分之一的甲烷减排会被抵消。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-08</guid><pubDate>Sat, 08 Aug 2026 09:37:22 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85041" target="_blank"&gt;甲骨文对 OpenJDK 项目禁止 AI 生成代码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85042" target="_blank"&gt;DeepMind 的 WeatherNext 模型在飓风预测上取得突破&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预警；意味着它提前三天的预测准确度相当于之前模型提前两天的预测。在实际灾害中，这额外的一天意义重大。研究人员表示，历史上要将预报提前一天，通常需要十年的努力。论文主要作者之一的  Ferran Alet 表示：“我们没有那么多热带气旋的数据，但有大量的天气数据。因此我们训练了一个模型，使其既擅长预测天气，也擅长预测热带气旋。”
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-09</guid><pubDate>Sun, 09 Aug 2026 09:39:15 +0000</pubDate></item></channel></rss>
