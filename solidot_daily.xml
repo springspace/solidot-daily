@@ -1,32 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 09 Aug 2026 09:39:15 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 10 Aug 2026 10:16:14 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85038" target="_blank"&gt;Microsoft Edge 即将屏蔽流行扩展 uBlock Origin&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软正在跟随 Google 的脚步，即将停止支持 Manifest V2 扩展如广告屏蔽扩展 uBlock Origin。微软称其扩展商店 Edge Add-On Store 只有 58 个高使用量扩展仍然是基于 Manifest V2，只有 3 个没有提供 Manifest V3 扩展。微软表示从本月开始逐步默认关闭所有剩余的 Manifest V2 扩展，用户会收到通知。微软计划到今年年底消费者用户扩展迁移到 Manifest V3，2027 年初关闭企业用户的 Manifest V2 扩展。使用 uBlock Origin 的用户可以改用精简版本 uBlock Origin Lite，或者用 Edge 下载 Firefox。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85043" target="_blank"&gt;微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&amp;amp;P Global Market Intelligence 的数据分析显示，五大公司在 2026 年的自由现金流合计几乎为零，而到 2027 年将会出现高达 1250 亿美元的负现金流。其中亚马逊和 Google 两大云计算公司过去三个月损失的现金超过其它任何美国公司。马斯克旗下的 SpaceX 公司情况估计会更严重。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85039" target="_blank"&gt;电动滑板车比摩托车和自行车危险得多&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                对英格兰和威尔士事故数据的分析显示，电动滑板车比摩托车和自行车危险得多。英国国家重大创伤登记库包含了 2020-2022 年间英格兰和威尔士 18 个城市中 15247 名中度至重度创伤性损伤患者，包括 580 名电动滑板车骑行者、7027 名摩托车骑行者和 7640 名自行车骑行者。电动滑板车骑行者中 87.9% 为成年人。研究发现，与摩托车骑行者相比，成年电动滑板车骑行者发生创伤性脑损伤的风险高出 3.5 倍，内脏损伤的风险高出 1.5 倍，动脉或静脉损伤的风险高出 3.2 倍。与普通自行车骑行者相比，这些风险也分别高出 1.7 倍、1.4 倍和 1.7 倍。成年电动滑板车骑行者的骨折风险比摩托车骑行者低 20.0%，比普通自行车骑行者低 10.0%。仅有 5.9%的电动滑板车骑行者被记录为佩戴了头盔，而摩托车骑行者和普通自行车骑行者的这一比例分别为 75.7% 和 45.0%。分析还发现，男性骑行者的碰撞风险比女性骑行者低 36%，而女性骑行者报告严重受伤的可能性是男性的 2.1 倍。这可能是因为大多数电动滑板车的设计针对男性体型比例。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85044" target="_blank"&gt;脑扫描显示新冠患者广泛的结构和功能变化&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                四川大学的研究人员分析了 49 项脑成像研究，显示新冠患者的大脑经历了广泛的结构和功能变化。研究结果表明，新冠病毒会影响负责记忆、情绪和执行功能的区域，这或许可解释部分新冠患者出现的神经系统症状。对比新冠患者和健康人群的脑扫描结果，研究人员发现，负责决策和认知控制的额叶频繁显示结构性改变。参与感觉处理和注意力的区域颞叶和顶叶在病毒康复患者中显示出明显差异。前额叶皮层对社会心理压力高度敏感，这意味着疫情本身带来的压力，以及病毒感染，都可能导致前额叶的结构性改变。新冠患者的灰质总体积减少，外层皮质变薄，这种组织损失可能是由于感染期间氧气供应减少或严重免疫系统炎症所致。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85040" target="_blank"&gt;西伯利亚甲烷排放量每年增加 1200 万吨&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《科学》期刊上的一项研究，由于气候暖化和干燥导致的野火以及永久冻土融化，2010-2023 年期间西伯利亚甲烷排放量每年增加 1200 万吨。甲烷是比二氧化碳更强的温室气体，四分之一的全球暖化效应被认为可归因于甲烷排放。全世界正致力于减少甲烷排放，但西伯利亚因暖化而增加的甲烷排放量将会部分抵消减排努力，预计到 2050 年五分之一的甲烷减排会被抵消。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85045" target="_blank"&gt;全世界种植的蔬菜在减少&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                PNAS 上发表的一项研究显示，大多数人摄入的蔬菜量远远不够，因而承受着健康方面的后果。与此同时全世界种植的蔬菜品种也越来越少，进一步恶化了饮食的多样性。全世界大多数人的蔬菜摄入量比健康饮食推荐量少约 40%。农业工业化前种植的食用植物品种要丰富得多。如土豆有逾 4000 个不同的品种，但美国只有大约五到八个品种广泛种植。从人工选择到大规模生产的单一栽培，再到基因改造，农业工业化——以及相关供应链——逐渐减少了我们餐桌上的蔬菜品种。随着蔬菜遗传多样性的丧失，我们也失去了它们的营养成分以及作物适应气候变化的能力。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85041" target="_blank"&gt;甲骨文对 OpenJDK 项目禁止 AI 生成代码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85046" target="_blank"&gt;微软回应悄悄在 Windows 11 上安装新照片应用 OneDrive Photos&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软最近被发现悄悄在 Windows 11 上安装新照片应用 OneDrive Photos，该应用与 OneDrive 在同一个文件夹，无法单独卸载，如果想要卸载需要同时卸载 OneDrive，而 OneDrive 与系统高度集成，卸载 OneDrive 会影响系统集成以及快捷方式。这一消费者应用还出现在了 Windows 11 企业版机器上，会自动扫描系统存储中的照片。微软此举引发了批评和争议。软件巨人回应时承认 OneDrive Photos 的推广范围超出了预期，它正在修复该问题，此外 OneDrive Photos 将会添加本地照片和云端照片的选项，给予用户是否使用 OneDrive 的选择。微软正在开发相关控件，允许用户分开卸载 OneDrive 和 OneDrive Photos。企业级 PC 上安装的该应用会自动删除。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85042" target="_blank"&gt;DeepMind 的 WeatherNext 模型在飓风预测上取得突破&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预警；意味着它提前三天的预测准确度相当于之前模型提前两天的预测。在实际灾害中，这额外的一天意义重大。研究人员表示，历史上要将预报提前一天，通常需要十年的努力。论文主要作者之一的  Ferran Alet 表示：“我们没有那么多热带气旋的数据，但有大量的天气数据。因此我们训练了一个模型，使其既擅长预测天气，也擅长预测热带气旋。”
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85047" target="_blank"&gt;五分之一美国人在财务建议上咨询 AI，七成美国人不信任 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                盖洛普与金融服务公司 Edward Jones 合作展开的一项调查显示，过去一年有五分之一美国人在财务建议上咨询 AI，但只有三成美国人非常信任或部分信任 AI 的理财能力，3% 的人非常信任 AI， 七成美国人不信任 AI。随着 AI 的普及，金融专家表示，消费者应谨慎对待这些工具，切勿完全依赖它们。MIT 斯隆管理学院副教授 Taha Choukhmane 的建议是利用 AI 获取金融概念相关的解释和定义，如利用 AI 了解股市，了解共同基金和指数基金的区别，等等。研究显示，年轻一代更倾向于使用 AI 获取理财建议，而老年人则更倾向于寻求专业理财顾问的帮助。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-09</guid><pubDate>Sun, 09 Aug 2026 09:39:15 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85048" target="_blank"&gt;果糖会帮助癌细胞扩散&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Nature Aging》期刊上的一项研究，科学家发现果糖会帮助癌细胞扩散。研究团队针对的是顺铂（cisplatin）治疗的卵巢癌，顺铂是一种强效铂类化疗药物，会诱导细胞衰老。多数患者最初对治疗反应良好，但复发很常见。研究人员想知道是什么导致了癌症复发——九成的癌症死亡都是由复发引起的。研究人员的代谢分析发现问题与果糖有关。研究人员分析了果糖触发的代谢级联反应，发现果糖不仅作为燃料，还会改变线粒体代谢，降低胆固醇的生成。胆固醇有助于稳定细胞膜，将细胞彼此连接并锚定到周围组织。胆固醇的减少，会降低癌细胞的黏附性，使其更容易脱落，从而帮助癌细胞在体内转移。实验显示抑制癌细胞代谢果糖的能力减少了转移的癌细胞数量。研究人员指出，果糖在调节肿瘤细胞行为上发挥的作用可能被低估了，限制果糖摄入量可能是一种有前景的饮食干预措施，有助于提高治疗反应。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85049" target="_blank"&gt;中国企业与大学研发经费超过美国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在企业和大学的研发费用总额方面，中国已超过美国，位居全球第一。日本文部省的数据显示，中国 2024 年的研发经费为 97.1 万亿日元，同比增长 13.1%，超过了美国（95.3 万亿日元，同比增长 6.7%）。中国在科研论文数量上于 2017 年超过美国，跃居全球第一。此外，被公认为研究质量高的前 10% 高被引论文数量也在 2018 年跃居首位，而被认为更加优秀的前 1% 顶尖论文数量自 2019 年起同样位居第一。此次中国又在研发经费总额上超过美国，名副其实地走在世界科学研究的最前列。从研发经费来看，中国、美国和日本居前 3 位，其后依次为德国、韩国、英国和法国。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85050" target="_blank"&gt;苹果测试长鑫内存&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7% 的内存市场份额，三星、SK海力士和美光占据了九成的市场份额。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-10</guid><pubDate>Mon, 10 Aug 2026 10:16:14 +0000</pubDate></item></channel></rss>
