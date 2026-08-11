@@ -1,50 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 10 Aug 2026 10:16:14 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 11 Aug 2026 10:00:33 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月11日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85043" target="_blank"&gt;微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&amp;amp;P Global Market Intelligence 的数据分析显示，五大公司在 2026 年的自由现金流合计几乎为零，而到 2027 年将会出现高达 1250 亿美元的负现金流。其中亚马逊和 Google 两大云计算公司过去三个月损失的现金超过其它任何美国公司。马斯克旗下的 SpaceX 公司情况估计会更严重。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85052" target="_blank"&gt;为什么出租车和救护车司机很少死于阿尔茨海默&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2024 年的一项研究分析了美国在 2020 年 1 月到 2022 年 12 月之间的 900 万份死亡证明，发现出租车和救护车司机死于阿尔茨海默病的可能性低于其他任何职业。在 443 种职业中，出租车和救护车司机死于阿尔茨海默病的风险最低。在调整了年龄、性别、种族、民族和教育程度等因素后，大约每 100 名出租车和救护车司机中有 1 人死于阿尔茨海默病，而所有职业的整体比例为 1/60。这一模式无法推广到其他驾驶类职业，意味着降低阿尔茨海默病风险并非驾驶而是持续的实时导航：不断确定自身在空间中的位置，追踪目的地，随情况变化更新心智地图（mental maps）。工作依赖于固定或预定路线的驾驶者，如公交车司机和飞机飞行员，没有获得类似的优势。
+研究人员认为，导航密集型工作与低阿尔茨海默病风险之间的关联集中在海马体上。海马体是大脑中负责记忆和空间导航的部分，也是阿尔茨海默病最早受损的脑区：空间导航和方向感障碍是最早出现的症状之一。2023 年，研究人员在一个包含逾 22,500 人的数据集上运行了一个机器学习模型，根据环境的复杂程度以 84% 的准确率预测哪些区域的阿尔茨海默病发病率较高。生活在高空间复杂环境中的居民患上阿尔茨海默病的可能性较低。研究人员认为，定期构建认知地图能锻炼阿尔茨海默病最先攻击的神经回路。反复激活与空间导航相关的认知系统有助于延缓症状出现。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85044" target="_blank"&gt;脑扫描显示新冠患者广泛的结构和功能变化&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                四川大学的研究人员分析了 49 项脑成像研究，显示新冠患者的大脑经历了广泛的结构和功能变化。研究结果表明，新冠病毒会影响负责记忆、情绪和执行功能的区域，这或许可解释部分新冠患者出现的神经系统症状。对比新冠患者和健康人群的脑扫描结果，研究人员发现，负责决策和认知控制的额叶频繁显示结构性改变。参与感觉处理和注意力的区域颞叶和顶叶在病毒康复患者中显示出明显差异。前额叶皮层对社会心理压力高度敏感，这意味着疫情本身带来的压力，以及病毒感染，都可能导致前额叶的结构性改变。新冠患者的灰质总体积减少，外层皮质变薄，这种组织损失可能是由于感染期间氧气供应减少或严重免疫系统炎症所致。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85053" target="_blank"&gt;审稿人人数跟不上大幅增长的新论文数量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                同行审议是学术出版流程的重要一环，然而随着在 AI 时代论文数稳步增长，审稿人数量逐渐跟不上了。以前一篇论文通常能找到两到三位审稿人，如今很多论文只能找到一名审稿人。研究人员表示，这种情况越来越普遍。同行审议成为科学的基石其实只有约 50 年历史，是 1970 年代美国科学基金会为了避免将科研项目的拨款决定置于国会议员手中。英国的情况类似。如今同行审议已成为标准流程。加快审稿的一种方法是引入 AI 审稿。未来 AI 生成的审稿意见可能会日益常见，今天的很多审稿人已经在使用 AI 工具。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85045" target="_blank"&gt;全世界种植的蔬菜在减少&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                PNAS 上发表的一项研究显示，大多数人摄入的蔬菜量远远不够，因而承受着健康方面的后果。与此同时全世界种植的蔬菜品种也越来越少，进一步恶化了饮食的多样性。全世界大多数人的蔬菜摄入量比健康饮食推荐量少约 40%。农业工业化前种植的食用植物品种要丰富得多。如土豆有逾 4000 个不同的品种，但美国只有大约五到八个品种广泛种植。从人工选择到大规模生产的单一栽培，再到基因改造，农业工业化——以及相关供应链——逐渐减少了我们餐桌上的蔬菜品种。随着蔬菜遗传多样性的丧失，我们也失去了它们的营养成分以及作物适应气候变化的能力。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85054" target="_blank"&gt;Meta 推出 300 亿参数的开放权重模型 Muse Glimmer&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Meta 在 Apache 2.0 许可证下推出了 300 亿参数的开放权重模型 Muse Glimmer。Muse Glimmer 为本地运行的智能体工作流程进行了优化，能在配备了单个消费级 GPU 的 Mac 或 PC 上运行，支持从本地智能体和函数调用到本地编程和 LLM 自动化评估等多种应用场景。Meta 将在未来几天推出针对 llama.cpp、MLX 和 ExecuTorch  的集成。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85046" target="_blank"&gt;微软回应悄悄在 Windows 11 上安装新照片应用 OneDrive Photos&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软最近被发现悄悄在 Windows 11 上安装新照片应用 OneDrive Photos，该应用与 OneDrive 在同一个文件夹，无法单独卸载，如果想要卸载需要同时卸载 OneDrive，而 OneDrive 与系统高度集成，卸载 OneDrive 会影响系统集成以及快捷方式。这一消费者应用还出现在了 Windows 11 企业版机器上，会自动扫描系统存储中的照片。微软此举引发了批评和争议。软件巨人回应时承认 OneDrive Photos 的推广范围超出了预期，它正在修复该问题，此外 OneDrive Photos 将会添加本地照片和云端照片的选项，给予用户是否使用 OneDrive 的选择。微软正在开发相关控件，允许用户分开卸载 OneDrive 和 OneDrive Photos。企业级 PC 上安装的该应用会自动删除。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85055" target="_blank"&gt;对磁星的测量或证实了真空双折射理论&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 Murriyang 无线电望远镜，对磁星 1E 1547-5408 进行了超过 140 小时的联合观测。这是人类史上首次针对磁星进行同步的无线电与 X 射线偏振测量。这颗每 2 秒自转一周的磁星能持续发出明亮的无线电与 X 射线。观测显示，其光子偏振度是类似天体的三倍之多，远高于标准表面辐射模型的预期。为了寻找原因，科学家将目光转向量子电动力学中拥有 90 年历史的真空双折射理论。该理论于 1936 年首次提出，认为在极端强烈的磁场下，太空的真空会如同透镜或稜鏡般过滤光线，进而提升总体偏振度。 IXPE 的 X 射线偏振测量能力成为检验此理论的关键。研究团队的模拟结果支持了真空双折射造成此信号的可能性。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85047" target="_blank"&gt;五分之一美国人在财务建议上咨询 AI，七成美国人不信任 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                盖洛普与金融服务公司 Edward Jones 合作展开的一项调查显示，过去一年有五分之一美国人在财务建议上咨询 AI，但只有三成美国人非常信任或部分信任 AI 的理财能力，3% 的人非常信任 AI， 七成美国人不信任 AI。随着 AI 的普及，金融专家表示，消费者应谨慎对待这些工具，切勿完全依赖它们。MIT 斯隆管理学院副教授 Taha Choukhmane 的建议是利用 AI 获取金融概念相关的解释和定义，如利用 AI 了解股市，了解共同基金和指数基金的区别，等等。研究显示，年轻一代更倾向于使用 AI 获取理财建议，而老年人则更倾向于寻求专业理财顾问的帮助。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85056" target="_blank"&gt;欧亚草原中东部人群饮食结构呈现显著的同步演变&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《中国科学：地球科学》上的一项研究，中国研究团队对新疆天山北麓白杨河墓地出土的青铜时代晚期至唐代的人骨与动物骨骼进行了碳、氮稳定同位素分析，并结合放射性碳十四测年，首次系统重建了该地区长达4000年的人群饮食演变历史。结果显示，尽管各地生态环境与社会文化存在差异，但整个欧亚草原中-东部人群的饮食结构呈现出显著的同步演变趋势：青铜时代（距今 5000–3000 年），各地普遍以C3类食物（小麦、大麦及家畜肉奶制品）为主；早期铁器时代至汉代（距今3000–2000年），C4作物（主要是黍）消费量大幅增加，动物蛋白摄入也明显增强；汉唐时期（距今2000–1000年），黍的消费显著减少，饮食结构回归以C3作物为主导。研究还揭示了饮食转变中的区域与社会差异：早期铁器时代至汉代（距今3000–2000年），米努辛斯克盆地、中亚东南部及天山北麓为C4作物高强度利用区，黍已成为多数人群主食；哈萨克斯坦中部、阿尔泰山及蒙古中部则为C4作物有限利用区，黍消费多限于精英阶层，具有社会地位象征功能。白杨河墓地数据显示，随葬品丰富或随葬金器者δ¹⁵N值普遍较高，但也存在例外，表明社会地位与动物蛋白饮食之间存在相关但非绝对对应的关联。研究团队综合古气候与考古学证据提出，青铜时代至早期铁器时代–汉代的饮食结构转变，很可能得益于暖湿气候环境下牧业群体跨区域交流的增强；而汉代至晋唐时期的饮食转型，则可能受气候冷干化趋势与谷物加工技术发展的共同影响。该研究为理解欧亚草原人地关系演化及大规模饮食转型的驱动机制提供了关键实证依据。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85048" target="_blank"&gt;果糖会帮助癌细胞扩散&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Nature Aging》期刊上的一项研究，科学家发现果糖会帮助癌细胞扩散。研究团队针对的是顺铂（cisplatin）治疗的卵巢癌，顺铂是一种强效铂类化疗药物，会诱导细胞衰老。多数患者最初对治疗反应良好，但复发很常见。研究人员想知道是什么导致了癌症复发——九成的癌症死亡都是由复发引起的。研究人员的代谢分析发现问题与果糖有关。研究人员分析了果糖触发的代谢级联反应，发现果糖不仅作为燃料，还会改变线粒体代谢，降低胆固醇的生成。胆固醇有助于稳定细胞膜，将细胞彼此连接并锚定到周围组织。胆固醇的减少，会降低癌细胞的黏附性，使其更容易脱落，从而帮助癌细胞在体内转移。实验显示抑制癌细胞代谢果糖的能力减少了转移的癌细胞数量。研究人员指出，果糖在调节肿瘤细胞行为上发挥的作用可能被低估了，限制果糖摄入量可能是一种有前景的饮食干预措施，有助于提高治疗反应。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85057" target="_blank"&gt;狗能识别人的恐惧与悲伤&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家以及爱狗人士早已知晓，狗在解读人类的笑声、皱眉和泪水方面表现出色。然而这种能力背后的生物学机制此前在很大程度上一直未被深入研究。科学家对狗在观察各种人类表情图像时的脑部活动进行了研究。脑部扫描结果显示，狗在一个独特的脑区处理笑容，并且首次提供了证据，表明狗能够区分负面面部表情，包括愤怒、悲伤和恐惧。研究人员首先聚焦于幸福感这一概念。他们在对 8 只狗进行扫描的同时，向其展示陌生人的面部图像，这些人脸的表情或是愉悦或是中立。结果显示，快乐的表情会点亮狗脑中颞叶皮层和尾状核区域——这两个区域分别与较高的认知处理和奖赏处理功能有关。随后团队探究了相同的大脑区域是否会对其他情绪做出反应。他们向 12 只狗展示了表现出快乐、愤怒、恐惧和悲伤情绪的人的图像，并使用机器学习技术分析了这些狗的大脑活动。结果发现，这些狗对这些负面情绪的反应并不一致；颞叶皮层-尾状核网络仅对快乐情绪做出独特反应，这使得研究人员能够轻松区分大脑对微笑与上述三种负面表情的反应。但研究团队发现，犬类的大脑并非只是在将世界划分为善与恶两类。一项全脑分析揭示了截然不同的活动模式，这些模式将恐惧与愤怒和悲伤区分开来，由此首次提供了犬类能够辨别特定负面面部表情的证据。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85049" target="_blank"&gt;中国企业与大学研发经费超过美国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在企业和大学的研发费用总额方面，中国已超过美国，位居全球第一。日本文部省的数据显示，中国 2024 年的研发经费为 97.1 万亿日元，同比增长 13.1%，超过了美国（95.3 万亿日元，同比增长 6.7%）。中国在科研论文数量上于 2017 年超过美国，跃居全球第一。此外，被公认为研究质量高的前 10% 高被引论文数量也在 2018 年跃居首位，而被认为更加优秀的前 1% 顶尖论文数量自 2019 年起同样位居第一。此次中国又在研发经费总额上超过美国，名副其实地走在世界科学研究的最前列。从研发经费来看，中国、美国和日本居前 3 位，其后依次为德国、韩国、英国和法国。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85058" target="_blank"&gt;Sergey Brin 投入 1 亿美元反对加州的亿万富翁税&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                最新披露的文件显示，Google 联合创始人 Sergey Brin 向致力于反对加州亿万富翁税的 Build a Better California 组织捐赠了 2000 万美元。这意味着 Brin 为避免缴纳预计 133 亿美元的税而投入了逾亿美元反对拟议中的新税。加州的 Prop 40——即亿万富翁税——提议对居住在加州的约 200 位亿万富翁根据其净资产征收一次性 5% 的税，这笔税款将于用于资助加州的医保项目。特朗普政府正准备削减加州的联邦拨款，加州的 Medicaid 医保项目将面临 300 亿美元的亏空。加州选民将于 11 月对 Prop 40 进行投票。英伟达 CEO 黄仁勋公开表示愿意缴纳该税。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85050" target="_blank"&gt;苹果测试长鑫内存&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7% 的内存市场份额，三星、SK海力士和美光占据了九成的市场份额。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85059" target="_blank"&gt;Tribar 机器人从 5.7 米高处坠落后能正常运行&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人最早源于建筑学家 Richard Buckminster Fuller 提出的“张拉整体”结构概念，即通过连续的张力元件与间断的压力元件共同维持结构稳定。这一概念应用于机器人领域后，其主体由弹性缆绳网络与刚性杆件构成，结构柔韧轻便，能够像弹簧一样吸收较大的外部载荷，即使受到撞击也不会轻易损坏。Tribar 是一款专为兼顾抗冲击与自主控制而设计的三杆张拉整体机器人。它配备了可拉伸的传感器“肌腱”以及机载运动传感器，能够实时估算自身的形态与方向。Tribar 从一座桥上坠落5.7 米至沥青路面后依然继续前进。这是目前张拉整体机器人坠落高度的最高纪录。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-10</guid><pubDate>Mon, 10 Aug 2026 10:16:14 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85060" target="_blank"&gt;扎克伯格的超级游轮未帮助一艘搁浅的船&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                8 月 3 日 9:32 pm，一艘搁浅船只在阿拉斯加 Point Highland 附近发出求助信号。海岸警卫队确认该船未遇险后发布了海上援助请求广播，呼吁附近海员提供自愿帮助。这意味着附近船只没有法律义务提供援助。如果海岸警卫队认定该搁浅船只遇险，那么根据国际海事法和美国法律，附近船只的船长有义务提供援助。扎克伯格的超级游轮 Launchpad 当时就在附近，但它没有参与自愿营救，而是减速让身后的一艘船 Wilderness Legacy 驶过它去营救搁浅船只。Wilderness Legacy 将船拖至 Farragut Bay，为其补充了燃料，这艘船上有两名女子、一名儿童和一只狗。扎克伯格发言人称当时扎克伯格及其家人并不在游轮上，称船员未及时收听救援信息，当他们查看到救援信息时救援行动已经开始了。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-11</guid><pubDate>Tue, 11 Aug 2026 10:00:33 +0000</pubDate></item></channel></rss>
