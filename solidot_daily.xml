@@ -1,75 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 12 Aug 2026 10:04:56 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月12日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 13 Aug 2026 10:05:51 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月13日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85061" target="_blank"&gt;直接给现金能使贫困家庭长期受益&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                贫困问题的一个潜在解决方案是：直接给穷人现金。越来越多的研究表明，现金转移支付能使贫困家庭受益。加州圣克鲁兹经济学家 Jonathan Robinson 的团队在美国国际开发署（USAID）的支持下分别在利比里亚和马拉维选择了 150 个村庄，向每户家庭提供一笔一次性的现金（250 美元或 500 美元、750 美元），在每个国家再选择 150 个对照村庄，不提供现金。在之后的两年时间里，研究人员每月实地调查和电话调查了数百名女性。结果显示，贫困家庭通常会很快花光钱，但这笔钱通常花在改善粮食安全等方面的投资上。在两年后，实验组家庭的粮食安全状况仍然高于对照组家庭，显示现金给贫困家庭带来了至少两年的益处。研究人员本想要长期追踪这 600 个村庄，但所有资金都来自 USAID，而 USAID 在 2025 年初被特朗普政府/马斯克的政府效率部解散了，研究没法继续下去了。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85076" target="_blank"&gt;研究预测农村和城市之间的温差在缩小&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升温速度更快”，除寒冷地区外，城市热岛效应正在减弱。此前的研究表明，随着气温升高导致乡村地区更加干燥，蒸发降温空气的能力下降，因此乡村的升温速度将加快，从而缩小与城市的温差。这一结果并不意味着气候变化对城市的升温影响会消失，只是说明城市与乡村之间的温差可能减小。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85062" target="_blank"&gt;Google Play Store 美区上架了第一个替代应用商店&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                因 Google 与 Epic 诉讼案法官的裁决，Google 开始向第三方应用商店开放其 Play Store。Play Store 美区上架的第一个替代应用商店是 Aptoide，Epic、亚马逊、三星、微软等公司上架各自的应用商店可能只是时间问题。Android 生态系统有大量第三方应用商店，但大部分应用商店都由 Android 厂商捆绑在各自的产品中，如亚马逊的 Fire 平板捆绑了亚马逊的应用商店，三星 Galaxy 智能手机捆绑了其 Galaxy Store。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85077" target="_blank"&gt;农民因听从 AI 建议而导致 150 亩芝麻几乎全毁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与杂草大面积枯死。事后他再次询问 AI，AI 才指出配方中的“氟磺胺草醚”可能是造成芝麻死亡的主要原因。当地农技人员表示，氟磺胺草醚主要用于大豆田防除阔叶杂草，并不适用于芝麻田；即使部分其他作物可使用，也必须采取定向喷洒，不能全田施用，否则可能造成药害。吴大伯认为，AI 提供方案时未明确提醒风险，若当时多一句警告，他可能不会照做。不过，AI 对话页面上方其实标示“AI 生成可能有误，注意核实”的提醒，只是他此前从未留意。涉事 AI 软件客服表示，系统没有独立知识库，回答主要是根据网络公开信息整合生成，目前将进一步核查信息来源。至于农户损失，客服表示已完成登记并会向内部反映。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85063" target="_blank"&gt;Claude 生成的文本添加看不见的水印&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Anthropic 为其 AI 工具 Claude 生成的文本添加看不见但能被机器读取的水印。此举是为了遵守欧盟 AI Act 第 50 条关于 AI 生成文本透明度要求。Anthropic 表示，水印将适用于全球用户，而不仅仅是欧洲用户。Anthropic 的系统将对文本和支持的文件使用不同的技术，文本添加不可见水印，文件则包含签名的来源信息。用户在阅读文本时不会看到水印。当用户复制粘贴文本内容时，水印仍将保留。Anthropic 还预计部分水印在编辑后仍然有效。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85078" target="_blank"&gt;Google 宣布 Pixel 11 系列，价格上涨 100 美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 宣布了 Pixel 11 系列智能手机，一大变化是所有型号的起售价上涨 100 美元。现已开放预购， 8 月 20 日发售。Pixel 11 系列沿用了 Pixel 9 的设计风格，主要变化包括：通知 LED 的回归，但仅限于 Pro 型号，基础款没有；屏幕亮度提升，基础款仍然是 3000 尼特，但 Pro 型号提高到 3600 尼特；电池容量略有下降，但 Google 声称由于新 SoC Tensor G6 效能提升了 20%，电池续航时间与上一代差不多；Tensor G6 细节未公开，泄露信息称它是一款 7 核 Arm 芯片，比 Tensor G5 少一个 CPU 核心；摄像头像素与上一代一致，但变焦倍数提升至 30 倍，Pro 版提升至 120 倍；其它是 AI 功能的增强，等等。Pixel 11 起售价 899 美元，Pixel 11 Pro Fold 最高售价 1899 美元。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85064" target="_blank"&gt;微软大幅上涨 Windows 11 的 OEM 授权费&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软据报道大幅上涨了 PC OEM 厂商的 Windows 11 授权费。价格上涨于 7 月生效，平均上涨了 7% 至 10%。过去 Windows OEM 授权费上涨通常是个位数，这次上涨幅度更大。具体涨幅将基于 PC 处理器而存在差异，高端 CPU 系统需要支付不同的价格。微软此举无疑是雪上加霜，PC 市场已因内存和存储器涨价而苦苦挣扎。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85079" target="_blank"&gt;企业错配系统向 @noreply.net 之类的域名发送邮件&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                安全研究员 Cory Solovewicz 分别在 2020 年和 2024 年购买了两个域名 noreply.us 和 noreply.net，他原本计划用于过滤该域名地址收到的邮件，结果发现有很多企业的邮件系统也会向该域名发送邮件，而且数量非常庞大。他无意中打造了一个蜜罐。他在本月举行的 Defcon 安全大会公布了结果：noreply.net 自 2024 年 12 月以来收到了 401,796 封邮件，平均每天 699.99 封；noreply.us 数量没有这么多，自 2020 年以来发送了 37255 封邮件。他指出，邮件是企业邮件系统自动发送的，并非人工撰写，这些都是内部系统配置错误导致的。另一名安全研究员 Mike Sheward 在购买了 deleteduser.com 域名之后也有类似的发现，企业没有真的彻底删除用户账号，而只是改了电邮地址。Sheward 透露，一家 AI 公司向该域名发送了大量邮件，该公司利用目标识别技术检测中东工业场所中可能违反安全规程的工人，他从这家公司收到了数千张 CCTV 监控录像截图。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85065" target="_blank"&gt;科技公司高管称 AI 将会减少工作时间，实际上 AI 增加了工作时间&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人精疲力竭，频繁举行危机会议，周末要加班，绩效考核残酷无情，同事会被突然解雇。科技公司员工称，他们的工作时长远超典型的每周五天 40 小时。前 OpenAI 员工表示，他们每周至少工作 70 小时。他现在在一家 AI 初创公司工作，每周工作时间接近 50-60 小时，在工作生活平衡上比 OpenAI 好点。OpenAI 和 Anthropic 员工称，公司的冲刺开发通常持续数周，一周的工作时长甚至超过 90 小时。前 Google 员工 Amin Shali 称在离职后其睡眠和整体健康状况都改善了。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85080" target="_blank"&gt;社媒如何导致西班牙难民危机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                自 2026 年 7 月下旬起，约有 75,000 名移民从摩洛哥越过边境，进入西班牙位于北非的自治市休达。休达政府为此宣布进入“绝对的人道与社会紧急状态”，请求西班牙中央政府宣布国家紧急状态，派军队支援。这一切是如何发生的？在数万移民涌入休达两天前，当地的一家报纸《El Faro de Ceuta》在 TikTok 和 Instagram 上发布了一则视频，展示了两名身穿潜水衣的年轻女性在城市中行走，头发仍然湿漉漉的。虽然未明说，但意思非常明显：两名女性是刚从摩洛哥游泳穿越边境过来的。报纸宣称：“休达再也承受不了了。”在边境的另一侧，这则视频引发了截然不同的反响。被裁剪后用阿拉伯语转发的视频看起来像是一封邀请函。视频中的女性面带微笑，比着和平手势和大拇指，最重要的一点是，她们在自由行走。这段视频似乎验证了社媒上流传数周的传言——西班牙最高法院最近的一项裁决意味着非法抵达的移民可以留在该国。正如 Facebook 上一个账号错误声称：“休达正变成一扇敞开的大门”，但实际上移民在司法审查后仍可能被驱逐。此事成为了社媒直接导致现实悲剧的最典型案例之一。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85066" target="_blank"&gt;在未加密密钥不小心泄露后 Mozilla 撤销了 Firefox 签名密钥&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 披露，它的 Firefox 和 Thunderbird 签名密钥的未加密版本不小心被人递交到了一个不公开的 GitHub 代码库里，该代码库只有少数员工才能访问，而相关员工早已通过其它方式获得密钥的访问授权。尽管如此，将未加密签名私钥保留在源代码控制系统中不是好的做法，因此 Mozilla 撤销了密钥。相关密钥被用于给 Firefox 和 Thunderbird 的 Linux tarball、RPM 包以及校验和文件进行签名。Mozilla 表示，它的调查未发现密钥被未经授权第三方访问的证据。对于密钥更换，大多数 Firefox 和 Thunderbird 用户无需任何操作，但手动验证 Mozilla GPG 签名的用户需要导入新的签名密钥以及旧密钥的撤销信息。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85081" target="_blank"&gt;韦伯望远镜在银河系中心黑洞附近发现水和尘埃&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                位于银河系中心的超大质量黑洞 Sgr A* 周围，存在极端强烈的辐射与复杂的星际环境，长久以来被认为不利于尘埃与分子长时间存在。最新研究利用韦伯太空望远镜（JWST）的中红外线仪器（MIRI），观测距离 Sgr A* 投影约 0.17 秒差距的恒星 IRS 3。研究团队在 2025 年的观测中取得 4.9 至 27.9 微米的中红外线光谱，首次获得 IRS 3 完整且经前景消光修正的连续光谱，借此分析其周围尘埃包层的化学组成与物理环境。更令人瞩目的是，研究团队首次在 IRS 3 的包层中确认明确的水吸收特征，模型显示水可能位于距离恒星约 900 天文单位的内侧包层。这项发现显示，即使在 Sgr A* 周围由强烈辐射主导的极端环境中，基本分子仍可能存活。超大质量黑洞附近并非完全无法形成或保存尘埃与分子。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85067" target="_blank"&gt;Gemini 成为 Google 月活数最快突破 10 亿的产品&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中，
-为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews 的背后都是 Gemini，但 10 亿用户数指标并不涉及这些集成 AI 功能的使用。Gemini 的月活数指的是用户过去一个月访问过 Gemini 应用、Gemini Web 端或 Gemini Live。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85068" target="_blank"&gt;Cloudflare 数据显示北美一工作日 Linux 桌面使用率飙升至 22%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率为 9.7%。分析师认为，Linux 桌面使用率增长的趋势是由 AI 开发者和 AI 智能体用户推动的。Windows 当然能本地运行 AI 工作负载，但 Linux 在管理多种 AI 工具和多个有不同依赖项的项目上更具有优势。Linux 被视为是 AI 智能体的首选操作系统。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85069" target="_blank"&gt;英格兰有望成为全球首个消除丙肝的国家&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                英格兰有望成为全球首个消除丙肝的国家。英格兰已实现治疗八成已知病例的目标，过去十年丙肝死亡人数下降了 36%，距离 2030 年降低 65% 的目标仅一步之遥。丙肝早期症状轻微甚至没有症状，患者通常在感染后很久才会出现症状。如果不进行治疗，丙肝会导致严重的、甚至危及生命的肝损伤。它的传播大多借由共用针头、消毒不完全的医疗设备、在进行健康照护时的针扎伤害还有输血造成。逾 95% 病例可通过服用抗病毒药物 8-12 周治愈。NHS England 表示，自 2015 年以来，有逾 10 万人确诊并接受了丙肝治疗。2024 年的数据显示有约 50200 名成年人患有丙肝。据估计 84.6% 的丙肝患者已得到确诊。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85070" target="_blank"&gt;Freenet 的最新进展&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                诞生于 1999 年的 Freenet 是世界第一个可扩展、去中心化的 P2P 网络。它在某种程度上就像是一个共享硬盘。20 多年后的今天，互联网日益的中心化对个人的自由构成了一种根本性的威胁，少数公司控制着绝大部分的互联网服务和基础设施。这些公司拥有巨大的权力，但基本上不需要承担任何责任。它们能审查内容、利用我们的数据、将用户驱逐出他们所依赖的服务之外。Freenet 在 2023 年宣布了它的新计划，创建 Web 的完整去中心化替代，从共享硬盘转变成共享计算机，开发者可以开发中心化服务的去中心化替代，包括消息、社交媒体、电子邮件和电子商务。今年 3 月全新设计的 Freenet 上线。Freenet 设计者 Ian Clarke 在 7 月的 FUTO 上发表演讲谈论了 Freenet 的最新进展：用户现在可使用四个应用，River 用于群聊，新增了私密聊天室功能；Delta 用于发布；Atlas 用于发现和搜索，目前已发布首个工作版本；freenet-git 支持通过 Freenet 进行克隆、获取和推送操作。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85071" target="_blank"&gt;微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻击者会安装名为 Troy 的后门。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85073" target="_blank"&gt;欧洲多座核电站因高温停运&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                欧洲多座核电站受到热浪影响相继停运。由于河流水位下降等原因，核电站无法确保冷却所需的水源。罗马尼亚国营核电企业 Nuclearelectrica 于 8 月 11 日表示，该国东南部切尔纳沃德核电站的两座反应堆中，目前正在运行的一座可能于 13 日停运。另一座反应堆已于 7 月下旬停运。由于 5 月以来热浪多次袭击，欧洲已有多座核电站陆续出现间歇性停运。法国和瑞士的部分核电站受到热浪导致河水水温升高的影响，于 6～7 月停运。匈牙利唯一的核电站也被迫停运。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-12</guid><pubDate>Wed, 12 Aug 2026 10:04:56 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-13</guid><pubDate>Thu, 13 Aug 2026 10:05:51 +0000</pubDate></item></channel></rss>
