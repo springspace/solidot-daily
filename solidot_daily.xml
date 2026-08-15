@@ -1,80 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 14 Aug 2026 10:02:14 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月14日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 15 Aug 2026 09:25:34 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月15日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85084" target="_blank"&gt;图书零售商怀疑 AI 公司购买然后销毁珍本图书&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                扫描且不破坏珍本图书是一件费时费劲的工作。根据互联网档案馆 2021 年发表的一篇文章，该机构尝试过自动化图书扫描，但对于易碎珍本图书而言不可行，干净干燥的人手仍然是最佳的翻页方式。自 2010 年起就在互联网档案馆工作的图书扫描员 Eliza Zhang 表示这项工作需要高度集中注意力。她当时已扫描了逾 300 万页、14000 张折页和 18000 件物品。AI 公司如果要扫描图书显然不太可能使用这种方式。最近发表的多篇报道引发了对 AI 公司收购然后销毁珍本图书的担忧。《每日电讯报》称硅谷销毁了数百万册珍稀图书并“撕碎了原件”，404 Media 报道称名为 ISBNdb 的图书数据库公司宣传其可以帮助 AI 公司大量获取图书。2025 年的图书侵权诉讼披露 Anthropic 内部启动了扫描数百万册图书的 Project Panama 项目。但没有证据表明 Anthropic 曾销毁过珍本图书，该公司也公开声明否认。包括马斯克旗下 xAI 在内的 AI 公司也公开表示，他们不会为了训练 AI 而销毁珍本图书。与此同时，珍本图书零售商则在标记可疑订单，因为他们知道，大多数真心想购买珍本图书的人通常只会购买单本，而不是一次性订购大量不同种类的图书。爱尔兰书店 Kennys 报告了一笔令人匪夷所思的订单，该订单订购了 5000 本冷门图书。买家甚至没有试图还价。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85098" target="_blank"&gt;长鑫市值超越腾讯&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                长鑫科技已超过互联网巨头腾讯控股，成为全球市值最大的中国企业，凸显 AI 热潮正推动投资者对存储晶片股的需求。截至周五 A 股收盘，长鑫科技最新市值约 3.58 万亿元人民币。港股方面，由于市场对腾讯不断增加的 AI 投资担忧加剧，腾讯周五最新市值约 4.0 万亿港元。分析认为，这一市值排名的逆转反映出，投资者继续青睐与 AI 相关的硬件企业，而非传统互联网巨头。总部位于安徽合肥的长鑫科技也是全球第四大 DRAM 供应商。DRAM 广泛应用于从手机到先进 AI 服务器等各种设备。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85085" target="_blank"&gt;Django 项目宣布采用每年发布一个版本的发布模式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Django Python Web 框架项目宣布采用每年发布一个版本的发布模式，放弃以前使用的短期支持、长期支持版本交叉发布方案。Django 不再有长期支持版本（LTS），每个功能版本都有相同的支持承诺。每个功能版本都有三年支持时间，第一年为主流支持，之后两年为安全更新和数据丢失 bug 修正。Django 项目将在任何时候支持三个版本，用户可以按照自身需求在支持期间升级。从 2028 年 1 月发布的 Django 2028 起开始采用这一发布模式。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85099" target="_blank"&gt;天文学家发现黑洞恒星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                MIT 等的天文学家利用韦伯太空望远镜（JWST）在早期宇宙发现了一个极其明亮的红色斑点。该天体形似一颗巨大的恒星，大小与太阳系相当。但它释放的能量是已知恒星能量的 1000 亿倍。这种能量更接近黑洞可能产生的能量。红色斑点代表了一种全新的天体——天文学家称之为“黑洞恒星”。它是黑洞和恒星的混合体——这种组合此前从未被观测到过。该天体很可能是一团极高密度的气体云，其能量来源并非是核聚变，而是中心的黑洞。天文学家估计黑洞质量为太阳的 10 万倍，他们将该天体命名为 MoM-BH*-1，或者是“一号黑洞恒星（black hole star–one）”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85086" target="_blank"&gt;火星岩石中发现刚玉&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2025 年 NASA 毅力号火星车利用激光对 Jezero 陨石坑周围浅色岩石进行分析时，意外发现了此前在火星上从未发现过的物质：刚玉。部分刚玉颗粒还含有铬——在地球上掺有铬的刚玉被称为红宝石。火星岩石中发现刚玉令人惊讶，因为火星条件很难解释它们是如何形成的。毅力号是在三块富含斜长石的岩石块中发现刚玉颗粒，这三块岩石分别被称为 Hampden River、Coffee Cove 和 Smiths Harbour，它们都是浮岩——即不再附着在形成它们的基岩上的岩石，它们可能来自其他地方。对于刚玉如何形成，研究人员猜测可能是几十亿年前火星表面遭到撞击后产生的，地球以及月球的撞击蚀变岩石中都发现了刚玉。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85100" target="_blank"&gt;GLP-1 减肥药将五年糖尿病风险降低 26%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Alzheimer's &amp;amp; Dementia: Diagnosis》上的一项研究，GLP-1 减肥药 Semaglutide 将五年预测糖尿病风险降低 26%。研究人员将 2970 名年龄 65 岁以上且有超重/肥胖和心血管疾病但无糖尿病的成年人随机分配到 Semaglutide 组或安慰剂组。Dementia SomaSignal Test(dSST)对非空腹血清样本的分析显示，Semaglutide 将五年预测糖尿病风险降低 26%，二十年预测风险降低 8.8%。结果表明 GLP-1 减肥药可能具有神经保护作用。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85087" target="_blank"&gt;爬楼梯有助于延寿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《American Journal of Cardiovascular Drugs》期刊上的一项研究，爬楼梯能显著降低死于心血管疾病的风险。研究期间，相比与不常爬楼梯的人，常爬楼梯的人死于心脏相关疾病的风险降低 39%，全因死亡率降低 24%。常爬楼梯的人患心脏病、中风和心力衰竭等严重心血管疾病的风险也较低。研究人员称，心血管疾病是全球首要死因，1990-2019 年间相关病例数几乎翻了一番。研究人员分析了来自 9 项高质量研究的逾 48 万名参与者的数据，中位随访时间为 14 年。研究人群包括健康参与者和有心脏病史的参与者。年龄范围为 35-84 岁，其中 53% 为女性。“与去健身房或进行锻炼不同，爬楼梯很容易融入日常生活，无论是在家、在工作场所还​​是外出。对于没有太多时间或不方便锻炼的人而言，这是一个不错的选择。”“所以，如果可以选择走楼梯或乘电梯，那就选择楼梯，因为它对你的心脏有益。”
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85088" target="_blank"&gt;科技巨头想要收集你的思想&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                消费级神经技术正从实验室迅速走向工作场所和家庭，包括苹果、Meta 和 Snap 在内的公司开发能监测或解读大脑活动的产品。研究人员警告，神经数据可能成为下一个隐私争夺焦点。部分神经学家开始呼吁“神经权利”以保护“精神隐私”、“身份”和个人“自主权”。过去二十年研究人员利用 fMRI 技术构建日益详细的哺乳动物脑皮层结构图谱和相关连接清单。得益于机器学习 AI 的巨大进步，fMRI 扫描现在可用来识别从抑郁情绪到嫉妒和幸灾乐祸等情绪。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85089" target="_blank"&gt;NASA 延长旅行者2号的科学使命&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                NASA 工程师找到一个方法，可以释放旅行者 2 号探测器的额外电力，帮助这台服役将近 50 年的航天设备延长科学探测工作的时间。代号为“大爆炸”的调整工程由 NASA 喷气推进实验室完成。团队同步关闭部分耗电组件，替换为功耗更低的备选方案，同时保证旅行者2号维持足够温度，保障设备正常运转。旅行者2号及其姊妹探测器旅行者1号，依靠放射性同位素热电发生器供电。该装置利用钚元素衰变释放的热量产生电能。随着钚燃料不断消耗，两台探测器每年可用电力都会减少约 4 瓦。每台探测器原本搭载 10 个仪器。自2024 年起，由于电力持续下降，团队被迫在两台探测器上各自关闭两个科学仪器。其余仪器此前就已经关停，它们仅用于任务初期的行星飞越探测阶段。如果没有这次“大爆炸”工程的节电改造，旅行者系列探测器项目团队原本需要在 2026 年底前再关闭旅行者2号上的一个仪器。此次改造释放出来的电力，预计可以让探测器剩余3个仪器至少再多工作一年。NASA计划对距离地球更远的旅行者1号实施同样的节电改造工程。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85090" target="_blank"&gt;微软正从中国撤退&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                过去五年，随着中国更倾向于国产软件，微软一直在缩减在华业务，至少关闭了 15 家分支机构和合资企业。美国的出口管制也让微软云计算和 AI 业务的推广更困难，中国市场的经济增长空间变得相对有限。微软最终决定继续留在中国，是因为它开辟了一项盈利的业务，​​为字节跳动等中国企业提供服务，这些企业需要西方技术管理海外业务。微软认为，为了继续获得中国世界一流的工程人才，它需要在中国保留业务。微软前中国区负责人 Alain Crozier 表示微软与中国政府建立了深厚的关系，“由于地缘政治因素……有时情况会比较艰难，但我们从未遇到过危机。”微软发言人表示公司在“适用于所有国际供应商的监管环境”下运营，重申对中国市场的承诺。微软表示，其在中国的业务状况反映了市场竞争、监管要求和技术发展趋势。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85091" target="_blank"&gt;小鼠在一半以上突触连接暂时失去后记忆仍能保留&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《科学》上的小鼠研究，即使脑暂时失去了一半以上的突触连接，记忆仍可得以保留；这一发现挑战了长期以来关于长期记忆依赖于稳定单个突触的观点。这些发现表明，记忆的保存依赖于具有韧性的神经结构模式，这种模式使脑能够在重建其神经回路的同时保留已储存的信息。研究人员发现，即使在人工冬眠期间海马体活动下降约 70% 且超过一半的突触被消除，小鼠在恢复正常状态后仍保留了记忆，并恢复了原有的神经组织结构。这一发现表明，记忆可能并非通过单个突触而是由具有韧性的神经结构模式保存的，其中包括在冬眠相关的脑广泛重塑过程中仍受到保护的特定连接突触簇。这些得以保留的结构基序可能充当了“核心记忆痕迹”，从而使脑能够在经历重大扰动后重建功能性网络，并同时维持已储存的记忆。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85092" target="_blank"&gt;科学家观测到核子内部奇特结构&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中外科学家通过高能原子核-原子核对撞实验中净重子数和净电荷数的精确测量发现核子内部存在一种奇特结构，可能颠覆人们对核子内部结构的根本认识。研究结果发表于《科学》期刊。核子是组成物质世界的基本粒子，宇宙中可见物质世界 99% 以上的质量由核子携带，理解核子内部结构对理解物质世界的基本组成和基本相互作用具有极其重要的意义。人们普遍认为核子由夸克（含反夸克）和胶子组成。夸克携带+2/3或-1/3电子电荷和1/3重子数，反夸克携带的电荷和重子数与夸克相反，而胶子既不携带电荷也不携带重子数。研究人员通过精确的实验测量发现核子内部需要一种携带重子数但不携带电荷和色荷的基本结构，对上述用来描述核子内部结构的朴素夸克模型提出了重大挑战。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85093" target="_blank"&gt;VLC 因 Microsoft Defender 而启动缓慢&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，核心问题与它无关，是 Windows 11 / Microsoft Defender 的一次更新隔离了 VLC 的插件缓存导致的，重新安装  VLC 或清空缓存可解决该问题。Linux 用户称 VLC 启动播放一个 MP3 文件只需要 1-2 秒。其他 Windows 用户建议在 Microsoft Defender 中排除 vlc.exe 也能解决该问题。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85094" target="_blank"&gt;YouTube 要求新内容创作者一年至少 8000 小时观看量才能获得收入&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                YouTube 宣布新内容创作者需要达到更高的门槛才能开始通过广告和订阅获得收入。想要通过 YouTube 平台获利的创作者，需要过去一年内至少获得 8000 小时的有效观看时长，或者在过去 90 天内获得 2000 万次的 Shorts 有效短视频观看量。此前创作者只需要过去一年内有 1000 名订阅者和 4000 小时的有效观看时长，或者在过去 90 天内有 1000 名订阅者和 1000 万次 Shorts 视频观看量。这项变更将于 2 月 1 日生效。此次更新不影响已加入 YouTube 合作伙伴计划的创作者。YouTube 表示，这些调整是为了跟上 YouTube 的发展步伐，目前 YouTube Shorts 的日均观看量逾 2000 亿次，电视观看时长逾 10 亿小时。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85095" target="_blank"&gt;苹果与阿里巴巴合作为中国市场训练专用大模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone&amp;nbsp; 等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，使​​其在竞争最激烈的中国市场更好掌控 AI 体验。苹果在中国已被华为等本土竞争对手蚕食市场份额，竞争对手凭借 AI 手机迅速占据领先地位。网信办已经登记了苹果的生成式 AI 服务，为 Apple Intelligence 服务首次登陆国行 iPhone 铺平道路。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=85096" target="_blank"&gt;uBlock Origin 放弃与 Facebook 的猫鼠游戏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                恼人的 Facebook 广告一直是广告屏蔽工具过滤的对象，而 Meta 的工程师也不断迭代广告技术以绕过广告屏蔽工具的过滤。这种猫鼠游戏持续了如此长时间以至于广告屏蔽工具的开发者都受不了，流行广告屏蔽扩展 uBlock Origin 的开发者宣布他们放弃继续反制 Facebook 的广告技术。一位开发者说，“我们将不再支持 Facebook。它是一个令人恶心的反用户网站。它所做的就是监视开源项目的公开活动，然后针对性地投放恶意广告。没错，那些拿着七位数薪水的开发者就是在干这个。”开发者表示，任何有兴趣对抗 Facebook 广告投放的用户都可以提交自己的过滤器补丁。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-14</guid><pubDate>Fri, 14 Aug 2026 10:02:14 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-15</guid><pubDate>Sat, 15 Aug 2026 09:25:34 +0000</pubDate></item></channel></rss>
