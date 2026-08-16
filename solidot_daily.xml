@@ -1,20 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 15 Aug 2026 09:25:34 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月15日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 16 Aug 2026 09:26:43 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月16日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85098" target="_blank"&gt;长鑫市值超越腾讯&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                长鑫科技已超过互联网巨头腾讯控股，成为全球市值最大的中国企业，凸显 AI 热潮正推动投资者对存储晶片股的需求。截至周五 A 股收盘，长鑫科技最新市值约 3.58 万亿元人民币。港股方面，由于市场对腾讯不断增加的 AI 投资担忧加剧，腾讯周五最新市值约 4.0 万亿港元。分析认为，这一市值排名的逆转反映出，投资者继续青睐与 AI 相关的硬件企业，而非传统互联网巨头。总部位于安徽合肥的长鑫科技也是全球第四大 DRAM 供应商。DRAM 广泛应用于从手机到先进 AI 服务器等各种设备。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85101" target="_blank"&gt;法国宪法委员会否决青少年社媒禁令&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                法国宪法委员会否决了禁止 15 岁以下儿童使用社媒的法案，裁定该法律过度限制了言论自由，且缺乏足够的年龄验证隐私保护措施。总统马克龙(Emmanuel Macron)要求政府修改法案，目标是在 2027 年春季前推出修订版本。宪法委员会认为，一方面有争议的条款过度侵犯言论和通信自由；另一方面未能提供必要法律保障确保尊重私人生活的权利。法国议员于 7 月批准了该法案，让法国成为继澳大利亚之后欧洲首个禁止 16 岁以下未成年人使用社媒的国家。澳大利亚于去年 12 月实施了全球首个青少年社媒禁令，禁止 16 岁以下未成年人访问包括 Facebook、Snapchat、TikTok 和 YouTube 在内的平台。但在数据表明效果不佳后，澳大利亚议员考虑推行更严厉的处罚措施。欧盟也表示，计划寻求更强有力的保护措施以保护儿童免受有害社媒功能的侵害。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85099" target="_blank"&gt;天文学家发现黑洞恒星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                MIT 等的天文学家利用韦伯太空望远镜（JWST）在早期宇宙发现了一个极其明亮的红色斑点。该天体形似一颗巨大的恒星，大小与太阳系相当。但它释放的能量是已知恒星能量的 1000 亿倍。这种能量更接近黑洞可能产生的能量。红色斑点代表了一种全新的天体——天文学家称之为“黑洞恒星”。它是黑洞和恒星的混合体——这种组合此前从未被观测到过。该天体很可能是一团极高密度的气体云，其能量来源并非是核聚变，而是中心的黑洞。天文学家估计黑洞质量为太阳的 10 万倍，他们将该天体命名为 MoM-BH*-1，或者是“一号黑洞恒星（black hole star–one）”。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85102" target="_blank"&gt;身陷剽窃丑闻的前剑桥大学教授死亡&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                身陷剽窃丑闻的前剑桥大学教授 Jason Arday 在伦敦死亡，年仅 41 岁。Jason Arday 于 2023 年获剑桥大学任命为教育社会学教授，成为该校历史上最年轻的黑人教授。2026 年初，他被曝出论文抄袭和学术不端，被指抄袭行为明目张胆。他此前做出的大量虚假陈述也引起广泛关注。他声称自己三岁时被诊断患有自闭症、全面发展迟缓、失聪及计算障碍，一直到 11 岁仍没有语言能力。他称自己 18 岁前都不懂阅读和书写，入读大学第一年则被诊断患有阅读障碍。他称自己在 35 日内完成 30 场马拉松，帮助慈善机构筹集巨额资金；声称有人去其在剑桥的办公室威胁他，但剑桥大学未找到任何证据证明发生了此事。他于上周辞去了剑桥大学教授职务，但否认辞职代表着自己承认相关指控。警方表示他的死亡被视为是意外，未发现可疑之处。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85100" target="_blank"&gt;GLP-1 减肥药将五年糖尿病风险降低 26%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Alzheimer's &amp;amp; Dementia: Diagnosis》上的一项研究，GLP-1 减肥药 Semaglutide 将五年预测糖尿病风险降低 26%。研究人员将 2970 名年龄 65 岁以上且有超重/肥胖和心血管疾病但无糖尿病的成年人随机分配到 Semaglutide 组或安慰剂组。Dementia SomaSignal Test(dSST)对非空腹血清样本的分析显示，Semaglutide 将五年预测糖尿病风险降低 26%，二十年预测风险降低 8.8%。结果表明 GLP-1 减肥药可能具有神经保护作用。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85103" target="_blank"&gt;年轻美国人日益不信任 AI 及 AI 公司高管&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                对 1088 名年龄在 18-34 岁美国人的调查发现，绝大多数受访者表示不信任投资 AI 的大公司高管，包括 Elon Musk、Sam Altman 和 Mark Zuckerberg。45% 的受访者认为 AI 会对其职业生涯产生负面影响，只有 10% 的人认为 AI 会对他们有帮助。年轻人对 AI 公司高层也日益表达不信任，Palantir CEO Alex Karp 的信任度最低，81% 的受访者表示不信任他，紧随其后的是 Palantir 董事长 Peter Thiel（79%）、Alphabet CEO Sundar Pichai（75%）和 Anthropic CEO Dario Amodei（75%）。OpenAI CEO Sam Altman、Meta CEO Mark Zuckerberg、英伟达 CEO 黄仁勋和 SpaceX CEO Elon Musk 的不信任度都在 70% 左右，微软 CEO Satya Nadella 略好一点，不信任度为 65%。60% 的美国人认为数据中心建设必须放缓，只有 15% 的人表示希望加快建设速度。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-15</guid><pubDate>Sat, 15 Aug 2026 09:25:34 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85104" target="_blank"&gt;俄罗斯导弹使用了英伟达的 Jetson Orin&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                俄罗斯新型 S-71“Monochrome”巡航航空被发现使用了英伟达的 Jetson Orin 计算模块。俄罗斯使用的是 2023 年推出的 Jetson Orin NX 16GB 模块，而英伟达早在 2022 年初就退出了俄罗斯市场，这意味俄罗斯是通过其它渠道获得英伟达芯片的。英伟达表示，Jetson 是消费级产品，军事应用不在其预期设计范围内，但它的销售没有什么限制，因此俄罗斯有很多方法获取该芯片。英伟达表示，“虽然我们无法在产品售出后对其进行追踪，但如果我们确定任何客户违反了美国出口管制，我们将采取适当的行动。”
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-16</guid><pubDate>Sun, 16 Aug 2026 09:26:43 +0000</pubDate></item></channel></rss>
