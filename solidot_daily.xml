@@ -1,80 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 18 Aug 2026 09:33:13 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月18日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 19 Aug 2026 09:33:41 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85112" target="_blank"&gt;刻薄话让你在社媒上更引人瞩目&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                社媒使用的推荐算法会特别突出能吸引眼球、引发用户持续参与互动并激怒他们的负面内容，从而在此过程中创造广告收入。假如没有算法引流，那么社媒上的互动是否也会导向负面？根据发表在 PNAS 期刊上的一项研究，研究人员分析了 2150 个 Reddit 社区的逾 20 亿条评论，发现随着时间的推移，帖子和社区的负面情绪都在增加，语义分化（semantic differentiation）推动了这一趋势。也说就是说，用户为了在社媒上突出自己而更喜欢写一些负面性质的评论。研究人员发现，Reddit 整个网站随时间变得更负面；一个社区存在的时间越长，其负面程度就越高；讨论串持续时间越长，负面程度也越高。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85126" target="_blank"&gt;极端高温对老年人口的危害比预期的更大&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                老年人在极高温度下更易面临危险。因为他们出汗较少，心脏在高温下需要更努力工作，且血管扩张能力较弱，限制了保持体温凉爽的能力。随着全球气温上升，以及预计到 2050 年全球 60 岁及以上人口将翻一番达到 21 亿，这意味着会有更多老年人将遭受高温相关的健康问题。发表在《The Lancet Public Health》期刊上的一项研究预测老年人将比年轻人面临更频繁、更广泛的不可补偿热应激（uncompensable heat stress）。研究表明，气温仅比工业化前水平升高 1.5C 老年人就会面临有害甚至致命的热应激风险，而年轻人需要升高 4C 才会面临相同风险。全球气温每升高 1C，每年就会有约一百万人暴露在至少 180 小时的极端高温环境中。老年人承受的负担尤为沉重。研究人员表示，如果全球气温持续升高，热带和亚热带部分地区可能变得不适宜居住，尤其对老年人而言。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85113" target="_blank"&gt;微软将移除有 25 年历史的命令行工具 WMIC&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软证实，今年下半年释出的 Windows 11 26H2 将移除有 25 年历史的命令行工具 Windows Management Instrumentation Command-line (WMIC)。WMIC 于 2001 年随 Windows XP 推出，允许 IT 管理员与 Windows Management Instrumentation (WMI) 交互去管理 PC 硬件和软件生态系统的不同组件，比如查看主板型号和产品密钥。WMIC 如今早已被 PowerShell 之类更强大的工具所取代，微软 Windows Server 早在 2016 年淘汰了 WMIC， Windows 10 在 2021 年淘汰 WMIC，Windows 11 也默认禁用 WMIC。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85127" target="_blank"&gt;美国青少年吸烟率降至历史新低的 1.4%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据 FDA 上月发布的年度调查报告《2025 National Youth Tobacco Survey》，2025 年美国青少年吸烟率降至历史新低的 1.4%。该年度报告自 1999 年以来一直在追踪 11-18 岁美国青少年吸烟情况。美国青少年吸烟率历史最高水平发生在 1997 年，当时有 36% 的高中生表示正在吸烟，70% 表示至少尝试过一次吸烟。美国青少年的电子烟使用率也在 2025 年降至 5.2%。美国成年人的吸烟率保持相对稳定。老年人的吸烟率仍然高于年轻人，他们面临的吸烟相关风险最大。吸烟率的下降可能主要归功于公共卫生政策和关于吸烟危害的公共宣传。但最近 Make America Healthy Again 运动将尼古丁宣传为一种健康产品，未来吸烟率是否回升有待观察。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85114" target="_blank"&gt;GIMP 准备推出新的项目文件格式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                GIMP 项目公布了正在开发的新功能。其中之一是新的项目文件格式。GIMP 使用的主项目格式 XCF 始于 1997 年，其局限性已日益显现，在支持庞大或复杂项目上日益力不从心。正在开发的新项目格式使用了常见的 zipped XML 结构，其保存速度将会更快，因为每次保存只需要更新部分文件，它也将能更容易实现自动保存等用户期待已久的功能。开发者强调 XCF 格式不会淘汰，将会向后兼容。其它开发中的新功能包括了 MyPaint 画笔的 Spectral Blending；图层蒙版（layer mask）和渐变工具支持非破坏性编辑；改进 PSD 支持；改进 UI 等等。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85128" target="_blank"&gt;苹果开发配备摄像头的耳机 AirPods&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据在 macOS Tahoe 26.7 RC 版本发现的一则视频，苹果正在研发配备摄像头的耳机 AirPods，该产品处于即将发布状态。AirPods 的摄像头可以在 AI 帮助进行目标识别，在演示视频中，苹果通过摄像头识别一本书的书名。摄像头会将信息传输给 Visual Intelligence‌，Siri 将能回答佩戴者周围环境的问题并记录信息。配备摄像头的 AirPods 代号为 B790，最早可能会在 9 月宣布。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85115" target="_blank"&gt;中国货轮开辟北极航线&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国集装箱货轮“迪拜塔（Dubai Tower）”号周六晚间离开宁波，一路向北，途经白令海峡，然后转向西，沿着俄罗斯北部的北极航道航行。它预计于 9 月 7 日抵达英国费利克斯托港。北极航道比原来途径红海-苏伊士运河的航线要短得多，但只有在冰层融化到足以让船舶无需破冰船即可通行时才能航行。2024 年使用北极航道的货轮有 15 艘，2025 年增加到 23 艘。环保组织警告，越来越多的轮船选择北极航道可能会加速北极海冰的消融，而全球气温上升已使北极海冰变得更脆弱。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85129" target="_blank"&gt;Google 拍下破产航空公司 Spirit 的数据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 以 1000 万美元拍下了破产航空公司 Spirit 的数据。Spirit 成立于 1980 年，主要经营加勒比海地区、拉丁美洲等定期国际航线。该公司在新冠疫情后遭遇财政困难，2026 年 5 月宣布倒闭，公司进入清算程序，目前正拍卖资产以筹集资金和偿还部分债务。法庭文件显示，Google 以 1000 万美元拍下 Spirit 的数据，包括 1 亿封电子邮件、5 亿条 Microsoft Teams 信息、1700 万份 OneDrive 文件，2050 万 SharePoint 文件，逾 3000 万则客户服务电话录音和逾 1500 万则客户服务聊天记录，60 万个 ServiceNow 工单，以及逾 76.3 万次航班、500 万组机组人员、逾 120 万张燃油单据，787452 个零部件采购记录等公司运营数据，等等。Google 表示购买这些数据是为了改进其 AI 服务。法庭文件显示，这些数据在出售前已进行匿名化处理，Google 也承诺会清除其中发现的任何个人身份信息。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85116" target="_blank"&gt;谁决定中文维基条目的删除？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中文维基是最大的非官方中文百科，它通过公开讨论决定条目的存废，编辑们引用政策进行辩论，最终由一名编辑审阅整个讨论并对条目最终命运做出具有约束力的决定。但究竟是谁参与了讨论？决策权的集中程度如何？哪些议题会引发争议？又是什么逻辑驱动最终结果？纽约城市大学的两名研究人员分析了 2020-2024 年间中文维基 47,030 个条目存废讨论案例，发现虽然每年有数百名编辑参与讨论，但最终决定权集中在少数人手中，而且这些决定者的人数还在不断减少，其中一人在一年内做出了 89.9% 的决定。研究还发现，虽然简体中文用户人数是繁体中文人数的 45 倍，但中文维基中繁体中文编辑人数是简体中文编辑的 1.2-1.8 倍。删除条目的最主要理由是缺乏知名度，逾四分之一删除没有给出明确的理由。研究人员发现 6 名中文维基管理员做出了 85%- 100% 的决定。2023 年 Shizhao 处理了 6,312 个案件，每天 17.3 个，占到了总决定的 89.9%；2024 年  Shizhao 和 Manchiu 总共处理了 86.5% 的案件；三位管理员蟲蟲飛、Lanwi1 和 AT 在 2021-2023 年离职，而 Manchiu 在 2022-2023 年间处于非活跃状态，2024 年回归。当编辑们投票保留条目时 Shizhao 倾向于删除，而编辑们投票删除条目时 Manchiu 倾向于保留。两人处理了 86.5% 的决策，他们的个人倾向会影响最终结果的分布。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85130" target="_blank"&gt;Firefox 154 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Mozilla 释出了 Firefox 154。主要新特性包括：Local Network Access 保护支持 WebSocket 连接，当网站尝试与本地网络的一个设备建立 WebSocket 连接，它们需要先获得许可；Smart Window 能建议相关标签页分组，并为每个分组建议一个名称；Windows、Linux 和 macOS 都支持本地配置文件备份，能在所有三个平台上恢复备份；网站可设置在浏览器关闭时豁免清除其 Cookie 和网站数据；地址栏新增 Manage AI 快捷操作；修复 bug，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85117" target="_blank"&gt;OpenAI 举报了一名在与 ChatGPT 聊天中透露奸杀前女友计划的佛罗里达男子&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenAI 举报了一名在与 ChatGPT 聊天中透露奸杀前女友计划的佛罗里达男子。Darren Zhou 告诉 AI 机器人，“我打算在这个月底之前杀了她，如果我得不到她，谁也别想得到她。”Zhou 是一名被高盛解雇的分析师，他在 3 月开始与 ChatGPT 谈论分手的女友，描述了女友的爱好、常去的地方、对女友身边其他男人的嫉妒以及想复合的愿望。OpenAI 的政策规定，当公司检测到用户计划伤害他人时，一个小型团队会审查互动记录。严重的情况下可能会举报给执法部门。Zhou 的聊天提及了强奸、谋杀和谋杀后自杀。联邦探员于 5 月将其两个月的聊天记录转交给当地警方。警方检查了 Zhou 前女友的安全状况。他的前女友 21 岁，因 Zhou“反复无常、嫉妒心强且控制欲强”而与他分手，因为害怕而通过电话分手。警方于 5 月将其逮捕。他在县监狱待了两天后缴纳 10 万美元保释金后获释。他与检方达成认罪协议，于 8 月 13 日对三项指控认罪，被判处 8 年缓刑，缓刑期间须遵守一系列限制。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85131" target="_blank"&gt;出生后限制摄入糖分与成年后更低的癌症风险相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                二次大战结束后，英国实施了数年的糖供应配额制，这一限制于 1953 年 9 月结束，居民的糖摄入量随即大幅增长，糖消耗量几乎翻了一番。这一历史提供了罕见的机会了解糖摄入量对未来健康的影响。研究人员分析了 1951-1956 年间出生于英国的逾 64,000 人数据。较早出生者在出生后前 1000 天内受制于更长的糖摄入量限制，而较晚出生者受到限制的时间较短。研究人员利用英国生物银行的数据跟踪了参与者数十年的健康信息。研究人员发现，出生前 1000 天内经历较长时间糖摄入量限制的人群罹患五种癌症的几率较低：乳腺癌、前列腺癌、肝癌、直肠癌和肺癌。其中肝癌的降低最为显著，发病率降低了约 69%；乳腺癌的降低幅度最小，但也降低了 36%。他们还发现糖分限制与生物衰老相关，研究人员通过端粒长度衡量生物衰老，在出生前 1000 天内经历更长时间糖摄入量限制的人的端粒更长，这种差异相当于生物衰老速度减缓了约 2.2 年。出生后很少摄入糖的人在成年后也会延续这一趋势，他们的总糖摄入量更少，饮食也更健康、更多样化。研究人员强调，这一结果并不意味着儿童完全不应该吃糖。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85118" target="_blank"&gt;阿里巴巴开放权重模型下载量过去半年突破 30 亿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 Hugging Face 的报告，阿里巴巴旗下的开放权重模型通义千问（Qwen）过去半年全球下载量突破 30 亿次，高居第一。相比下 Google 的开放权重模型下载量为 4.18 亿次，Meta 为 2.27 亿次。Hugging Face 称，2026 年几乎每个月中国 AI 实验室都会发布高性能开放权重模型，模型参数上限 7540 亿到 2.78 万亿之间，相比下美国实验室的开放权重模型参数通常低于 1300 亿，少数例外是英伟达发布了 5610 亿参数的 Nemotron 3 Ultra 模型，Thinking Machines 发布了 9520 亿参数的 Inkling——该模型是基于中国模型构建。中国发布的 178 个 200 亿以上参数的模型中，55% 使用了 Apache 2.0 许可证，22% 使用了 MIT 许可证，大部分有非商业使用限制。最近发布的 Kimi K3 和 Qwen3.8 大型模型除了有非商业使用限制外，还有收入分成要求。报告将阿里巴巴的 Qwen 称为是开放 AI 生态系统最大的社区基础模型，有 151,448 个衍生模型是基于 Qwen，其次是 Google 有 82,506 个衍生模型。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85132" target="_blank"&gt;Comcast 将数百万路由器变成运动探测器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国通信公司 Comcast 正在数百万台兼容 Xfinity 网关上启用 Wi-Fi 运动感应功能，允许路由器通过测量网关和连接设备之间的信号中断探测运动。该功能是 Xfinity Shield 服务的一部分，不需要额外付费。Wi-Fi 感应技术已存在一段时间，但直到最近其准确性和可靠性才得以提升，从而得到广泛应用。Linksys 在 2021 年推出了类似的服务，但几年后便终止了。照明公司 Wiz 在 2023 年推出了一系列支持 Wi-Fi 感应的智能灯泡，而飞利浦 Hue 最近也在其产品中部署了类似的射频感应技术（使用 Zigbee 而非 Wi-Fi）。Comcast 用户可根据自己的活动开启或关闭该感应功能。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85119" target="_blank"&gt;对一批珍稀图书的跟踪显示它们进入了亚马逊的 AI 训练设施&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                亚马逊正在大量采购图书，拆开书脊扫描书页，在此过程中销毁图书。404 Media 在一本怀疑会被 AI 公司收购用作训练数据的珍本图书内放置了跟踪设备 Apple AirTag，一路跟踪到了目的地。最终目的地是位于内华达州拉斯维加斯的一个亚马逊仓库。在该仓库工作的亚马逊员工表示，他们的工作是接收大量印刷版图书，拆开书脊快速扫描图书。印刷图书在扫描过程中会被销毁。该仓库工作的亚马逊团队被称为 VGT3，其 logo 是一只张着嘴、手里拿着一本书的恐龙。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85133" target="_blank"&gt;DDR5 内存条价格在 12 个月内上涨 500%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                因为 AI 热，主要内存厂商都将产能集中到 AI 数据中心使用的 HBM 内存上，导致消费者使用的 DDR5 内存条供应短缺。过去 12 个月部分 DDR5 内存条价格上涨了 500%。今天一套 128GB 内存套装售价高达 3399 美元，是之前最低价的十倍多。一套 64GB（2x32GB）DDR5-5600 内存套装去年夏天售价不到 200 美元，如今超过 1100 美元。上一代 DDR4 内存条的价格也普遍上涨 120%-180%，虽然没有 DDR5 上涨的那么离谱。硬盘和固态硬盘的价格也普遍上涨了 125%。DRAM 芯片如今是按重量计算的全球价值最高的商品之一，主流 DRAM 芯片的每公斤价值超过纯金的一半。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85120" target="_blank"&gt;通过 Zoom 解雇 900 名雇员的 CEO 被解雇&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2021 年 12 月 Better.com CEO Vishal Garg 通过 Zoom Call 解雇了 900 名雇员，约占员工总数的 9%。Garg 在 Zoom Call 中告诉员工，你是不幸被裁员的成员之一，你的工作被终止，即时生效。Better.com 是一家抵押放款公司。五年之后，Garg 也成为了被解雇的对象，而且他还想要恢复原职。Garg 于 8 月 3 日被董事会解雇，接替他的 Daniel Lewi 是在一周前在他帮助下进入董事会的。在其领导下，公司市值从 80 亿美元暴跌至 3 亿美元。尽管如此他的律师致函董事会，要求恢复 CEO 职位。信中称Garg 将通过一项新计划扭转公司颓势，该计划旨在训练 AI 处理抵押贷款业务。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85134" target="_blank"&gt;蓝箭航天成功回收朱雀三号火箭第一级&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                蓝箭航天于 8 月 19 日 7 时 35 分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭，将鸿擎科技的鸿鹄 03 星送入预定轨道；7 时 41 分火箭第一级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪。这是朱雀三号火箭的第二次飞行，它成为继美国的 Falcon 9 和 New Glenn，以及中国的长征十号乙火箭之后第四种经过飞行验证的入轨级部分可重复使用火箭。本次任务是中国首次实现运载火箭一子级着陆支腿方式回收，也是中国首次实现入轨级运载火箭一子级陆地回收（长征十号乙火箭为海上网状回收）。朱雀三号高 66 米，直径 4.5 米，第一级使用了 9 台天鹊 12 引擎，第二级使用了 1 台天鹊 15 引擎，它的着陆方式与 Falcon 9 基本相同。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85121" target="_blank"&gt;Web 开发者不再重视 Web 标准&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                法国独立开发者 Théo Ducreux 创建的 ValidateHTML 项目检查了最广泛使用的 5000 个 Web 域名的内容，这些域名既有 Google、YouTube 和 Akamai 等巨头，也有不面向公众的如 Google 的 gstatic 和 EZVIZ 的 Ezviz7。Ducreux 发现，2656 个网站有人类可读的主页，还有很多域名则只是流量重定向网站。近九成的网站未提供符合 W3C 和 WHATWG (Web Hypertext Application Technology Working Group)规范的 HTML。统计显示，所有网站包含 100,305 处违反 HTML 规范的错误，有 18,863 处 CSS 错误。只有 12.8% 的网站有完全有效的 HTML，只有 2.6% 的网站完全符合规范。逾三分之一的网站未通过无障碍检查。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85135" target="_blank"&gt;诺基亚大幅缩减中国业务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                诺基亚计划今年年底前裁减大部分在华员工，并分阶段关闭各地工厂，该公司将主要保留售后服务。前员工透露，裁员补偿采用 N+3 方案 —— 即按服务年限 N 计算的经济补偿，外加三个月工资。虽然受影响人数未公布，但诺基亚年报显示，截至 2025 年底，该公司在中国大陆、港湾地区共拥有约 7,200 名员工。据诺基亚中国官网的信息，诺基亚在中国设立了研发、市场、服务、全球交付，以及供货等全产业链布局。诺基亚在 1995 年创立北京研发中心。官网介绍，这是诺基亚全球重要的移动网络和诺基亚软件的研发基地。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85122" target="_blank"&gt;Anthropic CEO 称对 AI 的抵触根源在于信任危机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Anthropic CEO Dario Amodei 表示，对 AI 日益高涨的抵触情绪根源在于企业、政府和科技行业普遍存在的信任危机。Amodei 承认公众对 AI 持负面看法，认同这是一个大问题。但他不同意这种负面看法主要是由他或其他任何 AI 行业领袖对 AI 风险的警告造成的，“我认为这从根本上来说是一场信任危机。我认为普通民众不信任公司、政府或科技行业，总是怀疑我们在谋划某种新方法去坑他们。”
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85123" target="_blank"&gt;Meta 面临修改社媒算法和设计的诉讼&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国 30 个州联合起诉社媒巨头 Meta 的案件将于 8 月 18 日开审，若 Meta 败诉，已成为社交媒体日常使用核心的功能都可能被迫改变，公司还可能面对高达 1 万亿美元的索赔。这起诉讼由包括加利福尼亚州和纽约州在内的 30 个州于 2023 年提出，涉及多项联邦和州儿童隐私法规。各州认为，Meta 明知旗下平台可能对年轻用户造成伤害，却仍利用相关功能让儿童和青少年长时间停留在平台，以扩大用户群和商业收益。诉方要求 Meta 对未成年用户使用 Instagram 和 Facebook 的方式作出一系列改变，包括取消点赞数和无限滚动、停止视频自动播放，并调整被指会刺激用户持续使用平台的推荐算法。各州还要求 Meta 建立家长验证机制、移除部分会改变用户外貌的图片滤镜、禁止未成年用户开设多个账号，以及取消 Instagram Stories 等阅后消失内容。诉方认为，这些如今已成为社媒日常体验的功能，很多本身就是为了提高使用频率和延长用户停留时间。Meta 否认相关指控。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=85124" target="_blank"&gt;日常饮用含糖饮料与胃癌风险上升相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mass General Brigham 医院的一项研究发现，每天至少饮用一杯含糖饮料会使胃癌风险增加两倍以上，很少饮用含糖饮料的人风险较低。研究分析了 112,284 名参与者的数据，收集了参与者数十年的饮食、生活方式和健康信息。在长达数十年的随访期间，共有 278 名参与者罹患胃癌。在考虑了其他潜在风险因素后，相比每月饮用不到一份含糖饮料的人，每天至少饮用一份含糖饮料的人患胃癌的风险高 2.45 倍。这种关联性在男性和女性中均观察到。较高的总果糖摄入量也与更高的胃癌发病率相关，果糖是含糖饮料使用的主要甜味剂。胃癌是全球第五大癌症死因。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-18</guid><pubDate>Tue, 18 Aug 2026 09:33:13 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-19</guid><pubDate>Wed, 19 Aug 2026 09:33:41 +0000</pubDate></item></channel></rss>
