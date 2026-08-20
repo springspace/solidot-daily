@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 19 Aug 2026 09:33:41 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 20 Aug 2026 09:34:26 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月20日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85126" target="_blank"&gt;极端高温对老年人口的危害比预期的更大&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                老年人在极高温度下更易面临危险。因为他们出汗较少，心脏在高温下需要更努力工作，且血管扩张能力较弱，限制了保持体温凉爽的能力。随着全球气温上升，以及预计到 2050 年全球 60 岁及以上人口将翻一番达到 21 亿，这意味着会有更多老年人将遭受高温相关的健康问题。发表在《The Lancet Public Health》期刊上的一项研究预测老年人将比年轻人面临更频繁、更广泛的不可补偿热应激（uncompensable heat stress）。研究表明，气温仅比工业化前水平升高 1.5C 老年人就会面临有害甚至致命的热应激风险，而年轻人需要升高 4C 才会面临相同风险。全球气温每升高 1C，每年就会有约一百万人暴露在至少 180 小时的极端高温环境中。老年人承受的负担尤为沉重。研究人员表示，如果全球气温持续升高，热带和亚热带部分地区可能变得不适宜居住，尤其对老年人而言。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85137" target="_blank"&gt;量子存储器间纠缠距离提升至 420 公里&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国科技大学等单位在远距离量子中继研究中取得重要突破，成功实现了两个冷原子量子存储器间跨越 420 公里光纤的量子纠缠，并在 230 公里以上距离突破无中继量子纠缠分发的理论极限。这一成果大幅提升了物质量子比特间的纠缠距离，为城际尺度量子网络构建奠定了基础。量子存储器间的远距离纠缠是构建量子互联网的技术基础，有望应用于基于量子中继的远程量子通信、分布式量子计算、分布式量子传感等方向。中国科大团队近年来在该研究方向持续取得突破。2020 年，团队成功实现经由 50 公里光纤的双节点量子存储器间纠缠；2024 年，在此基础上，于合肥市构建了国际首个城域三节点量子存储网络；2026 年，进一步实现了百公里高保真双节点纠缠和器件无关量子密码分发。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85127" target="_blank"&gt;美国青少年吸烟率降至历史新低的 1.4%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 FDA 上月发布的年度调查报告《2025 National Youth Tobacco Survey》，2025 年美国青少年吸烟率降至历史新低的 1.4%。该年度报告自 1999 年以来一直在追踪 11-18 岁美国青少年吸烟情况。美国青少年吸烟率历史最高水平发生在 1997 年，当时有 36% 的高中生表示正在吸烟，70% 表示至少尝试过一次吸烟。美国青少年的电子烟使用率也在 2025 年降至 5.2%。美国成年人的吸烟率保持相对稳定。老年人的吸烟率仍然高于年轻人，他们面临的吸烟相关风险最大。吸烟率的下降可能主要归功于公共卫生政策和关于吸烟危害的公共宣传。但最近 Make America Healthy Again 运动将尼古丁宣传为一种健康产品，未来吸烟率是否回升有待观察。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85138" target="_blank"&gt;童年创伤可能导致成年后快感缺失&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                童年时期创伤经历可能会导致成年后缺乏动力，从奖赏中获得的快乐减少——即快感缺失（anhedonia）。人类的童年创伤与大脑奖赏相关通路活动的改变有关，这些通路来自海马体区域。动物临床前研究表明，海马体的改变可能会导致快感缺失。但与童年创伤相关的海马体改变是否会使人更容易发展出快感缺失呢？研究人员让一群参与者填写了童年创伤和体验快乐能力的问卷，然后使用 fMRI 检查海马体与动机相关脑区的相互作用。结果发现，童年时期经历过创伤且海马体通路受损的人，比童年创伤但海马体通路未受损的人表现出更多的快感缺失。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85128" target="_blank"&gt;苹果开发配备摄像头的耳机 AirPods&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据在 macOS Tahoe 26.7 RC 版本发现的一则视频，苹果正在研发配备摄像头的耳机 AirPods，该产品处于即将发布状态。AirPods 的摄像头可以在 AI 帮助进行目标识别，在演示视频中，苹果通过摄像头识别一本书的书名。摄像头会将信息传输给 Visual Intelligence‌，Siri 将能回答佩戴者周围环境的问题并记录信息。配备摄像头的 AirPods 代号为 B790，最早可能会在 9 月宣布。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85139" target="_blank"&gt;人类爱宠物，猴子也是&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                当一只老鼠闯入上海动物园白颊长臂猿馆时，猴子没有试图吃掉它，或者驱赶它。一只雌性长臂猿迅速抓起了它，温柔地捧着它，抚摸着它。看到这一幕的牛津大学演化生物学家 Cyril Grueter 感到十分困惑。他随后与一个国际团队合作，发现了更多灵长类动物与其它物种亲密互动的例子。一只年轻雄性倭黑猩猩小心翼翼地抱着一只獴崽。一些猴子爬到猪背上；另一些猴子骑在鹿背上。一只灰叶猴抚摸着一只松鼠。一群短尾猕猴一起为一只流浪狗梳毛。研究团队共收集了 427 个案例，数据来源包括科学论文、媒体报道以及一项针对 37 位灵长类动物学家的全球调查。互动多数涉及玩耍或梳毛，发生在野外和圈养环境中。涉及的物种包括 88 种灵长类动物和 127 种其它物种。不是所有的动物互动记录是友好的，有 26 起事件被认定是虐待。研究发现，灵长类动物与其它物种的互动模式与其年龄和性别有关。幼年灵长类动物更倾向于玩耍，雌性灵长类动物则更倾向于梳毛。大多数互动都由灵长类动物主动发起。研究结果表明，饲养宠物的行为不是突然出现在人类身上的，而是源远流长。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85129" target="_blank"&gt;Google 拍下破产航空公司 Spirit 的数据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 以 1000 万美元拍下了破产航空公司 Spirit 的数据。Spirit 成立于 1980 年，主要经营加勒比海地区、拉丁美洲等定期国际航线。该公司在新冠疫情后遭遇财政困难，2026 年 5 月宣布倒闭，公司进入清算程序，目前正拍卖资产以筹集资金和偿还部分债务。法庭文件显示，Google 以 1000 万美元拍下 Spirit 的数据，包括 1 亿封电子邮件、5 亿条 Microsoft Teams 信息、1700 万份 OneDrive 文件，2050 万 SharePoint 文件，逾 3000 万则客户服务电话录音和逾 1500 万则客户服务聊天记录，60 万个 ServiceNow 工单，以及逾 76.3 万次航班、500 万组机组人员、逾 120 万张燃油单据，787452 个零部件采购记录等公司运营数据，等等。Google 表示购买这些数据是为了改进其 AI 服务。法庭文件显示，这些数据在出售前已进行匿名化处理，Google 也承诺会清除其中发现的任何个人身份信息。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85140" target="_blank"&gt;刚果埃博拉疫情确诊病例突破 5000 例&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                刚果周三公布的数据显示，该国的埃博拉疫情确诊病例突破 5000 例达到 5021 例，死亡病例 2378 例。始于今年五月的埃博拉疫情主要发生地为刚果以及邻国乌干达。这场疫情已成为有记录以来扩散速度最快的埃博拉病毒爆发，其规模有可能超过 2014-2016 年席卷西非的埃博拉疫情——该波疫情有逾 1.1 万人死亡。这起疫情的病毒是罕见的 Bundibugyo 毒株，目前没有针对该毒株的获批疫苗或疗法。疫情最严重的 Ituri 省已成为暴力事件频发的地区，医护人员成为袭击目标，严重制约了抗疫工作。当前的病毒致死率为 47.4%，但不同地区死亡率也有巨大差异，其中 North Kivu 省的致死率高达 70%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85130" target="_blank"&gt;Firefox 154 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 释出了 Firefox 154。主要新特性包括：Local Network Access 保护支持 WebSocket 连接，当网站尝试与本地网络的一个设备建立 WebSocket 连接，它们需要先获得许可；Smart Window 能建议相关标签页分组，并为每个分组建议一个名称；Windows、Linux 和 macOS 都支持本地配置文件备份，能在所有三个平台上恢复备份；网站可设置在浏览器关闭时豁免清除其 Cookie 和网站数据；地址栏新增 Manage AI 快捷操作；修复 bug，等等。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85141" target="_blank"&gt;mRNA 癌症疫苗在 III 期黑色素瘤临床试验中取得积极成果&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                制药公司 Merck 和 Moderna 宣布其研发的基于 mRNA 技术的实验性癌症疫苗在 III 期黑色素瘤临床试验中初步取得积极成果。逾 1100 名高危或晚期黑色素瘤患者参加了临床试验。患者的癌细胞已通过手术完全切除。实验中疫苗与 Merck 的免疫疗法 Keytruda 联合使用。相比单独使用 Keytruda，联合疗法显著延长了患者的无复发生存期，降低了癌细胞扩散到身体其它部位的风险。黑色素瘤仅占皮肤癌的约 1%，但绝大多数皮肤癌死亡病例都是由其引发的，多数黑色素瘤复发发生在初次治疗和切除后的两到三年内。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85131" target="_blank"&gt;出生后限制摄入糖分与成年后更低的癌症风险相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                二次大战结束后，英国实施了数年的糖供应配额制，这一限制于 1953 年 9 月结束，居民的糖摄入量随即大幅增长，糖消耗量几乎翻了一番。这一历史提供了罕见的机会了解糖摄入量对未来健康的影响。研究人员分析了 1951-1956 年间出生于英国的逾 64,000 人数据。较早出生者在出生后前 1000 天内受制于更长的糖摄入量限制，而较晚出生者受到限制的时间较短。研究人员利用英国生物银行的数据跟踪了参与者数十年的健康信息。研究人员发现，出生前 1000 天内经历较长时间糖摄入量限制的人群罹患五种癌症的几率较低：乳腺癌、前列腺癌、肝癌、直肠癌和肺癌。其中肝癌的降低最为显著，发病率降低了约 69%；乳腺癌的降低幅度最小，但也降低了 36%。他们还发现糖分限制与生物衰老相关，研究人员通过端粒长度衡量生物衰老，在出生前 1000 天内经历更长时间糖摄入量限制的人的端粒更长，这种差异相当于生物衰老速度减缓了约 2.2 年。出生后很少摄入糖的人在成年后也会延续这一趋势，他们的总糖摄入量更少，饮食也更健康、更多样化。研究人员强调，这一结果并不意味着儿童完全不应该吃糖。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85142" target="_blank"&gt;NASA 终止 Swift 天文台的拯救任务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，原计划尝试用其三个机械臂抓住 Swift 启动推进器，将其送回 600 公里高度的安全轨道。然而 LINK 卫星自己也出现了问题，三个反作用轮中有两个没有正常工作。Katalyst 称持续存在的姿态控制问题导致 LINK 无法完成拯救任务。Katalyst 表示将充分利用 LINK 的剩余能力，尝试接近 Swift，演示其近距离导航系统。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85132" target="_blank"&gt;Comcast 将数百万路由器变成运动探测器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国通信公司 Comcast 正在数百万台兼容 Xfinity 网关上启用 Wi-Fi 运动感应功能，允许路由器通过测量网关和连接设备之间的信号中断探测运动。该功能是 Xfinity Shield 服务的一部分，不需要额外付费。Wi-Fi 感应技术已存在一段时间，但直到最近其准确性和可靠性才得以提升，从而得到广泛应用。Linksys 在 2021 年推出了类似的服务，但几年后便终止了。照明公司 Wiz 在 2023 年推出了一系列支持 Wi-Fi 感应的智能灯泡，而飞利浦 Hue 最近也在其产品中部署了类似的射频感应技术（使用 Zigbee 而非 Wi-Fi）。Comcast 用户可根据自己的活动开启或关闭该感应功能。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85143" target="_blank"&gt;X 算法向民主党用户推送更多激发愤怒的内容&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能是因为 X 上右翼内容总体上更多，或者民主党用户更倾向于与其不认同的帖子互动。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85133" target="_blank"&gt;DDR5 内存条价格在 12 个月内上涨 500%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                因为 AI 热，主要内存厂商都将产能集中到 AI 数据中心使用的 HBM 内存上，导致消费者使用的 DDR5 内存条供应短缺。过去 12 个月部分 DDR5 内存条价格上涨了 500%。今天一套 128GB 内存套装售价高达 3399 美元，是之前最低价的十倍多。一套 64GB（2x32GB）DDR5-5600 内存套装去年夏天售价不到 200 美元，如今超过 1100 美元。上一代 DDR4 内存条的价格也普遍上涨 120%-180%，虽然没有 DDR5 上涨的那么离谱。硬盘和固态硬盘的价格也普遍上涨了 125%。DRAM 芯片如今是按重量计算的全球价值最高的商品之一，主流 DRAM 芯片的每公斤价值超过纯金的一半。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85144" target="_blank"&gt;Stripe 以 75 亿美元收购 OpenRouter&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85134" target="_blank"&gt;蓝箭航天成功回收朱雀三号火箭第一级&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                蓝箭航天于 8 月 19 日 7 时 35 分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭，将鸿擎科技的鸿鹄 03 星送入预定轨道；7 时 41 分火箭第一级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪。这是朱雀三号火箭的第二次飞行，它成为继美国的 Falcon 9 和 New Glenn，以及中国的长征十号乙火箭之后第四种经过飞行验证的入轨级部分可重复使用火箭。本次任务是中国首次实现运载火箭一子级着陆支腿方式回收，也是中国首次实现入轨级运载火箭一子级陆地回收（长征十号乙火箭为海上网状回收）。朱雀三号高 66 米，直径 4.5 米，第一级使用了 9 台天鹊 12 引擎，第二级使用了 1 台天鹊 15 引擎，它的着陆方式与 Falcon 9 基本相同。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85145" target="_blank"&gt;因 DRAM 和 eMMC 短缺 PINE64 暂停 Linux 设备生产&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                因 DRAM 和 eMMC 持续短缺，香港电脑制造商 PINE64 宣布暂停 Linux 设备生产，未来是否恢复生产将取决于 2027 年中期之后的组件价格。该公司现有的 Linux 平板 PineNote 和 PineTab2 库存可能在大约三个月内售罄。PineTime、PineVoice 和 Pinecil 的生产则将照常进行。Pine64 创办于 2015 年，产品包括了单板电脑、笔记本电脑、智能手机和智能手表等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85135" target="_blank"&gt;诺基亚大幅缩减中国业务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                诺基亚计划今年年底前裁减大部分在华员工，并分阶段关闭各地工厂，该公司将主要保留售后服务。前员工透露，裁员补偿采用 N+3 方案 —— 即按服务年限 N 计算的经济补偿，外加三个月工资。虽然受影响人数未公布，但诺基亚年报显示，截至 2025 年底，该公司在中国大陆、港湾地区共拥有约 7,200 名员工。据诺基亚中国官网的信息，诺基亚在中国设立了研发、市场、服务、全球交付，以及供货等全产业链布局。诺基亚在 1995 年创立北京研发中心。官网介绍，这是诺基亚全球重要的移动网络和诺基亚软件的研发基地。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85146" target="_blank"&gt;科学家首次实验观测到真空涨落对超导的增强效应&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在量子电动力学世界中，真空并非空无一物，而是伴随虚粒子的不断产生与湮灭。然而自由空间中的真空涨落通常较弱，难以对宏观凝聚态体系产生可观测影响。如何将其转化为调控量子物态的资源，是凝聚态物理与腔量子电动力学交叉领域的重要课题。研究团队探索利用真空涨落，实现对宏观量子物态的可控调节。研究团队为此引入太赫兹分裂环谐振器构成的“暗腔”，通过重塑电磁环境显著增强真空涨落。研究团队将超导体二硒化铌嵌入暗腔，发现暗腔中二硒化铌的超导临界温度获得实质性提高。在六层二硒化铌器件中临界温度最高提升 5.4%。同时，超导体的临界电流和临界磁场在超导转变附近也显著增强。这是国际上首次实验观测到真空涨落增强超导。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-19</guid><pubDate>Wed, 19 Aug 2026 09:33:41 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-20</guid><pubDate>Thu, 20 Aug 2026 09:34:26 +0000</pubDate></item></channel></rss>
