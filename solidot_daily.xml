@@ -1,62 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 20 Aug 2026 09:34:26 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月20日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 21 Aug 2026 09:36:11 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月21日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85137" target="_blank"&gt;量子存储器间纠缠距离提升至 420 公里&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国科技大学等单位在远距离量子中继研究中取得重要突破，成功实现了两个冷原子量子存储器间跨越 420 公里光纤的量子纠缠，并在 230 公里以上距离突破无中继量子纠缠分发的理论极限。这一成果大幅提升了物质量子比特间的纠缠距离，为城际尺度量子网络构建奠定了基础。量子存储器间的远距离纠缠是构建量子互联网的技术基础，有望应用于基于量子中继的远程量子通信、分布式量子计算、分布式量子传感等方向。中国科大团队近年来在该研究方向持续取得突破。2020 年，团队成功实现经由 50 公里光纤的双节点量子存储器间纠缠；2024 年，在此基础上，于合肥市构建了国际首个城域三节点量子存储网络；2026 年，进一步实现了百公里高保真双节点纠缠和器件无关量子密码分发。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85148" target="_blank"&gt;AI 记录员捏造了患者服用迷幻蘑菇的经历&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个保守估计。AI 记录员可以减轻医生的负担，但也会犯下导致临床决策改变的错误信息。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85138" target="_blank"&gt;童年创伤可能导致成年后快感缺失&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                童年时期创伤经历可能会导致成年后缺乏动力，从奖赏中获得的快乐减少——即快感缺失（anhedonia）。人类的童年创伤与大脑奖赏相关通路活动的改变有关，这些通路来自海马体区域。动物临床前研究表明，海马体的改变可能会导致快感缺失。但与童年创伤相关的海马体改变是否会使人更容易发展出快感缺失呢？研究人员让一群参与者填写了童年创伤和体验快乐能力的问卷，然后使用 fMRI 检查海马体与动机相关脑区的相互作用。结果发现，童年时期经历过创伤且海马体通路受损的人，比童年创伤但海马体通路未受损的人表现出更多的快感缺失。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85149" target="_blank"&gt;Google 通过 Google Drive 提供 Android 特定源代码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Android 安全加固项目 GrapheneOS 抨击 Google 违反了 GPLv2 许可证，原因是 Android 的部分源代码需要通过表单（Google Forms）递交申请然后通过云盘 Google Drive 获取，而且 Google 处理申请的速度越来越慢。GrapheneOS 指出，AOSP(Android 开源项目)现在只提供年度版本和季度更新版本 QPR2，以及针对这两个版本的安全回溯移植。Google 也停止向 AOSP 项目推送 Pixel 智能手机相关的特定代码，而 GrapheneOS 目前只支持 Pixel 智能手机，Google 此举严重影响了 GrapheneOS 对 Pixel 支持，这一状况促使 GrapheneOS 项目转而与摩托罗拉合作，预计支持 GrapheneOS 的摩托罗拉设备将在 2027 年推出。GrapheneOS 称，以前 Google 通常会在数小时内响应特定内核源代码的请求，如今需要数周甚至更长时间。Android 的内核使用的是 GPLv2 许可证，根据该许可证，如果用户索要修改后的源代码，Google 需要提供。但 GPLv2 没有规定多长时间提供。Google 作为全球科技巨头之一，它至少应在合理时间内提供源代码，不应该故意拖延。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85139" target="_blank"&gt;人类爱宠物，猴子也是&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                当一只老鼠闯入上海动物园白颊长臂猿馆时，猴子没有试图吃掉它，或者驱赶它。一只雌性长臂猿迅速抓起了它，温柔地捧着它，抚摸着它。看到这一幕的牛津大学演化生物学家 Cyril Grueter 感到十分困惑。他随后与一个国际团队合作，发现了更多灵长类动物与其它物种亲密互动的例子。一只年轻雄性倭黑猩猩小心翼翼地抱着一只獴崽。一些猴子爬到猪背上；另一些猴子骑在鹿背上。一只灰叶猴抚摸着一只松鼠。一群短尾猕猴一起为一只流浪狗梳毛。研究团队共收集了 427 个案例，数据来源包括科学论文、媒体报道以及一项针对 37 位灵长类动物学家的全球调查。互动多数涉及玩耍或梳毛，发生在野外和圈养环境中。涉及的物种包括 88 种灵长类动物和 127 种其它物种。不是所有的动物互动记录是友好的，有 26 起事件被认定是虐待。研究发现，灵长类动物与其它物种的互动模式与其年龄和性别有关。幼年灵长类动物更倾向于玩耍，雌性灵长类动物则更倾向于梳毛。大多数互动都由灵长类动物主动发起。研究结果表明，饲养宠物的行为不是突然出现在人类身上的，而是源远流长。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85150" target="_blank"&gt;AliExpress 被发现静默运行 WebAudio 指纹&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                有开发者注意到一个奇怪的现象：蓝牙耳机支持多点蓝牙音频，能同时连接 PC 和手机，PC 通常优先播放音频，只有在 PC 没有播放内容时手机才会播放音频。这位开发者注意到，在 Firefox 或 Chrome 浏览器中打开 AliExpress 网页后，手机会停止播放音频，关闭网页则会恢复。这位开发者随后展开了调查，发现高度混淆的阿里巴巴安全脚本会创建两个 WebAudio 图形，成为浏览器指纹的一部分，该静默运行的 WebAudio 指纹会干扰多点蓝牙音频。用户可利用 uBlock Origin 扩展屏蔽阿里巴巴的脚本 collina.js 和 fireyejs.js 关闭这一指纹。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85140" target="_blank"&gt;刚果埃博拉疫情确诊病例突破 5000 例&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                刚果周三公布的数据显示，该国的埃博拉疫情确诊病例突破 5000 例达到 5021 例，死亡病例 2378 例。始于今年五月的埃博拉疫情主要发生地为刚果以及邻国乌干达。这场疫情已成为有记录以来扩散速度最快的埃博拉病毒爆发，其规模有可能超过 2014-2016 年席卷西非的埃博拉疫情——该波疫情有逾 1.1 万人死亡。这起疫情的病毒是罕见的 Bundibugyo 毒株，目前没有针对该毒株的获批疫苗或疗法。疫情最严重的 Ituri 省已成为暴力事件频发的地区，医护人员成为袭击目标，严重制约了抗疫工作。当前的病毒致死率为 47.4%，但不同地区死亡率也有巨大差异，其中 North Kivu 省的致死率高达 70%。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85151" target="_blank"&gt;海冰消失巨型鲸鱼进入格陵兰&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85141" target="_blank"&gt;mRNA 癌症疫苗在 III 期黑色素瘤临床试验中取得积极成果&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                制药公司 Merck 和 Moderna 宣布其研发的基于 mRNA 技术的实验性癌症疫苗在 III 期黑色素瘤临床试验中初步取得积极成果。逾 1100 名高危或晚期黑色素瘤患者参加了临床试验。患者的癌细胞已通过手术完全切除。实验中疫苗与 Merck 的免疫疗法 Keytruda 联合使用。相比单独使用 Keytruda，联合疗法显著延长了患者的无复发生存期，降低了癌细胞扩散到身体其它部位的风险。黑色素瘤仅占皮肤癌的约 1%，但绝大多数皮肤癌死亡病例都是由其引发的，多数黑色素瘤复发发生在初次治疗和切除后的两到三年内。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85152" target="_blank"&gt;太阳能扩张政策与鸟类多样性下降相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                南京信息工程大学的研究人员在《科学》上发表研究报告，称全球对太阳能发展的推动可能带来隐性的损害生物多样性的代价。可再生能源的扩张有助于应对气候变化，但大规模太阳能开发也可能因栖息地改变或破碎化而导致生物多样性丧失，从而引发新的环境得失权衡。研究人员汇编了一个大型数据集，它涵盖了 2014 年至 2023 年中国的 2344 个县。他们的数据集整合了鸟类观测数据、太阳能政策、环境条件和社会经济信息。他们还考察了土地利用、植被状况和农业生产力变化所带来的影响。研究结果表明，太阳能扩张政策的力度加大与鸟类多样性的显著下降有关：政策强度每增加一个标准差，鸟类生物多样性指数便会下降 2.10%。这些影响在较富裕地区和非沙漠地区最为显著，且对地理分布广泛的物种影响尤为严重。这主要应归因于土地的迅速转化，特别是将农田和草地转化为开发区，后者降低了植被的多样性。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85142" target="_blank"&gt;NASA 终止 Swift 天文台的拯救任务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，原计划尝试用其三个机械臂抓住 Swift 启动推进器，将其送回 600 公里高度的安全轨道。然而 LINK 卫星自己也出现了问题，三个反作用轮中有两个没有正常工作。Katalyst 称持续存在的姿态控制问题导致 LINK 无法完成拯救任务。Katalyst 表示将充分利用 LINK 的剩余能力，尝试接近 Swift，演示其近距离导航系统。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85153" target="_blank"&gt;Thunderbird 跟随 Firefox 采用双周发布模式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Mozilla 工程总监 Sylvestre Ledru 上月宣布，从 2026 年 9 月起 Firefox 桌面版和 Android 版本的发布周期从 4 周减少到 2 周。本周释出的 Firefox 154 是最后一个按四周发布模式释出的版本，九月初释出的 v155 则是第一个双周发布版本。由 Mozilla 子公司 MZLA 开发的开源邮件客户端 Thunderbird 宣布也将采用双周发布模式。MZLA 的 Corey Bryant 称，从 9 月起 Thunderbird 采用相同的更新频率。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85143" target="_blank"&gt;X 算法向民主党用户推送更多激发愤怒的内容&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能是因为 X 上右翼内容总体上更多，或者民主党用户更倾向于与其不认同的帖子互动。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85154" target="_blank"&gt;天文学家发现银河系已知最快的恒星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家发现了银河系已知运行速度最快的恒星。这颗名为 S301 的恒星围绕银河系中心的超大质量黑洞——人马座A*运行，最快速度达到每秒 2.5 万公里，超过光速的 8%。它的运行轨道非常接近人马座A*，其运动有望帮助科学家首次直接测量大质量黑洞的自转，并为检验爱因斯坦广义相对论提供新的机会。S301 绕人马座A* 公转周期为 8.7年。在它距离人马座 A*最近时——类似于太阳到土星的距离——恒星的运行速度超过光速的 8%。研究人员认为，S301的轨道特征以及恒星无法在如此靠近超大质量黑洞的位置形成，表明它很可能原本属于一个双星系统。当这个双星系统靠近人马座A*时，黑洞强大的潮汐力将两颗恒星撕裂，其中一颗被黑洞引力捕获，成为如今的 S301；另一颗则被高速抛出，其速度可能高到足以逃离银河系。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85144" target="_blank"&gt;Stripe 以 75 亿美元收购 OpenRouter&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85155" target="_blank"&gt;Bilibili 进军国际市场&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Bilibili 本周重新发布了国际版应用，准备推出英文版本，进军全球市场。新的国际版应用将不需要身份验证，用户无需提供护照或身份证件即可注册。Bilibili 此前已积极邀请西方知名主播如 MrBeast 在其有 3.76 亿月活用户的中文主站发布视频。更大规模的全球扩张可能会挑战 YouTube 的霸主地位，但也面临类似 TikTok 的审查、内容审核和数据安全等棘手问题。根据招聘信息，B 站正在洛杉矶、伦敦、墨西哥城、圣保罗、伊斯坦布尔和东京招聘社区经理。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85145" target="_blank"&gt;因 DRAM 和 eMMC 短缺 PINE64 暂停 Linux 设备生产&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                因 DRAM 和 eMMC 持续短缺，香港电脑制造商 PINE64 宣布暂停 Linux 设备生产，未来是否恢复生产将取决于 2027 年中期之后的组件价格。该公司现有的 Linux 平板 PineNote 和 PineTab2 库存可能在大约三个月内售罄。PineTime、PineVoice 和 Pinecil 的生产则将照常进行。Pine64 创办于 2015 年，产品包括了单板电脑、笔记本电脑、智能手机和智能手表等。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85156" target="_blank"&gt;达斯·维达赞美 Flock 车牌跟踪系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Flock 的车牌跟踪系统最近在美国引发了激烈争论，媒体同一时间报道了大量警官利用 Flock 摄像头跟踪女友/前女友、妻子/前妻的新闻。但在一片争论之中，皇帝最忠实的助手、西斯尊主达斯·维达则大肆赞美了 Flock。周三晚上加州圣地亚哥公共安全与宜居社区委员会会议（Public Safety and Livable Neighborhoods Committee Meeting）的公众评论期间，达斯·维达在台上说，“皇帝是 Flock 的粉丝，我们必须继续利用 Flock 技术，如此才能跟踪和监视那些叛军渣滓，看着他们从一个游乐场到另一个游乐场，从游乐场到游泳池，从游泳池到体育馆。因为我们都知道，Flock 摄像头不仅跟踪车牌；它们还跟踪孩子。它们在公园和体育馆里跟踪孩子，我们需要这个，我需要它来跟踪前女友。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85146" target="_blank"&gt;科学家首次实验观测到真空涨落对超导的增强效应&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在量子电动力学世界中，真空并非空无一物，而是伴随虚粒子的不断产生与湮灭。然而自由空间中的真空涨落通常较弱，难以对宏观凝聚态体系产生可观测影响。如何将其转化为调控量子物态的资源，是凝聚态物理与腔量子电动力学交叉领域的重要课题。研究团队探索利用真空涨落，实现对宏观量子物态的可控调节。研究团队为此引入太赫兹分裂环谐振器构成的“暗腔”，通过重塑电磁环境显著增强真空涨落。研究团队将超导体二硒化铌嵌入暗腔，发现暗腔中二硒化铌的超导临界温度获得实质性提高。在六层二硒化铌器件中临界温度最高提升 5.4%。同时，超导体的临界电流和临界磁场在超导转变附近也显著增强。这是国际上首次实验观测到真空涨落增强超导。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85157" target="_blank"&gt;混合型 T 细胞在超级百岁老人血液中显著增加&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                当代人类的平均寿命约为 71 岁，有少数人能迎来百岁生日，而能活过 110 岁的人则更稀有，他们被称为“超级百岁老人”。根据发表在《Cell Reports》期刊上的一项研究，日本大阪大学研究团队发现，一种罕见的免疫细胞会随着极端高龄而显著增加。这类细胞兼具识别威胁和杀伤危险细胞的能力，或有助于超级百岁老人应对随着年龄增长而增加的持续性健康威胁。随着年龄增长，一些疾病的患病风险会增加，人体抵御感染的免疫能力也会逐渐减弱。T细胞是人体免疫系统的一类重要细胞，主要分为两类：辅助性T细胞负责协调免疫反应，杀伤性T细胞则负责清除受感染或癌变细胞。研究人员发现，超级百岁老人会积累一种不同寻常的“混合型”T细胞，即CD4细胞毒性T淋巴细胞（CD4 CTL）。这类罕见细胞同时具备识别威胁和摧毁危险细胞的能力。研究人员分析了不同年龄组人群的免疫细胞，包括70—90岁人群、百岁老人以及超级百岁老人。结果发现，在生命的大部分阶段，这类细胞始终十分少见，但在接近100岁时开始显著增加。在超级百岁老人中，CD4 CTL占血液中全部T细胞的比例接近1/5，而在较年轻的研究参与者中，这一比例仅约4%。进一步分析发现，部分CD4 CTL发生了明显的克隆扩增，即少数细胞不断复制，形成了数量庞大的同源细胞群。这一现象提示，这些细胞可能长期受到某些特定抗原的反复刺激，并在持续的免疫应答过程中不断增殖。研究人员还发现，超级百岁老人这类细胞所携带的部分T细胞受体，与癌症患者肿瘤组织中的T细胞受体高度相似，但这些超级百岁老人均无癌症病史。研究人员表示，这一发现提示，这些免疫细胞可能具有识别肿瘤细胞的能力，甚至可能在肿瘤尚未发展到临床可检测阶段时，就已对其产生免疫反应。这些发现意味着，极端高龄时期的免疫变化可能并非免疫系统单纯“衰老”和“耗竭”，而更像是免疫系统为适应长期健康生存而进行的一种重新组织。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-20</guid><pubDate>Thu, 20 Aug 2026 09:34:26 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85158" target="_blank"&gt;微软调查部分用户在安装 Windows 11 八月安全更新后遭遇游戏崩溃的报告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-21</guid><pubDate>Fri, 21 Aug 2026 09:36:11 +0000</pubDate></item></channel></rss>
