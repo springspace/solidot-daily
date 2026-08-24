@@ -1,32 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 23 Aug 2026 09:27:28 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月23日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 24 Aug 2026 09:47:42 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月24日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85161" target="_blank"&gt;中国要求政府部门提前停用 Windows 10 政府版改用 Linux&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神州网信开发。神州网信原计划到 2027 年 2 月停止支持该版本，但其生命结束时间被提前到今年下半年。中国政府机构采用的国产 Linux 发行版可能包括了麒麟操作系统（Kylin OS)和统信 UOS。统信 UOS 桌面版源自 Deepin 和 Debian Linux。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85166" target="_blank"&gt;波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Nicole Suszek 最后一次收到哥哥 Sylwester 的电话语音留言是在 2022 年，在留言中 Sylwester 急迫的请求她给他寄去比特币，否则以后就永远见不到面了。Sylwester 从此杳无音信，家人认为他已经遇害。Sylwester 是东欧和中欧最大加密货币交易所 Zondacrypto 的创始人，他在 2014 年创办了 Zondacrypto 的前身 BitBay。接替 Sylwester 担任 Zondacrypto CEO 的波兰律师 Przemyslaw Kral 在今年四月也失踪了，这一事件让 Sylwester 案再次浮出水面。波兰总理 Donald Tusk 则指责 Zondacrypto 与俄罗斯情报机构、有组织犯罪和右 翼政客有关联。Zondacrypto 网站在 4 月关闭，导致数十万客户无法提现或交易。Zondacrypto 发行的代币 ZND 已贬值逾 99.9%。Przemyslaw Kral 最后一次露面是在 4 月 16 日，他通过社媒发表了一则视频，呼吁客户不要恐慌，不要对交易所失去信心，称公司还有 4000 比特币，但这些比特币所在的钱包密钥只有前 CEO 才知道。加密货币专家对此表示怀疑，因为该钱包已有近十年没有活动了。对于 Kral 身在何处，有人据称曾在以色列、博茨瓦纳和迪拜等地目击到他，但这些说法都未经证实。代表 Zondacrypto 账户被冻结客户的华沙律师 Robert Nogacki 认为&amp;nbsp; Kral 在东南亚，他表示关于 Zondacrypto 他唯一确定的就是：“它从一开始就是个骗局。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85162" target="_blank"&gt;使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2025 年 1 月，Samuel Tunick 从多米尼加共和国度假返回美国时，在亚特兰大 Hartsfield-Jackson 国际机场被拦下，美国海关和边境保护局官员要求搜查他的手机。他最终交出了手机以及一个密码，该密码删除了手机上的数据。他的 Pixel 智能手机运行的是安全加固的 Android 操作系统 GrapheneOS，它内置了被称为胁迫密码的安全功能，输入该密码后会删除手机上的数据。美国检方以妨碍联邦执法的重罪起诉了他，他因此面临最高五年的监禁。这是已知首个因输入特定密码删除设备数据而遭到起诉的案例。佐治亚州北区联邦检察官 Theodore Hertzberg 在一份声明中表示：“妨碍联邦执法是性质严重、有严重后果的罪行。任何销毁或试图销毁财产（包括数据）以阻止合法搜查和扣押的人，都应预料到会因其行为受到起诉和惩罚。”Tunick 在接受《纽约时报》采访时表示：“政府不拥有我们的数据。政府不拥有我们的通信、我们的人际关系，无论他们多么努力尝试。我们必须捍卫对隐私的基本权利；否则我们无法真正说自己生活在一个民主社会中。”
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85167" target="_blank"&gt;柳树和杨树释放出的化合物会恶化城市空气质量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                数百万棵垂柳和白杨树将北京装缀成一个绿色的大都市。然而根据《Science Advances》上发表的一项研究，柳树和杨树释放出的化合物是城市空气污染的重要来源。广州暨南大学的研究人员最初想要了解人类活动对臭氧污染的影响，结果意外发现城市植被是臭氧的重要来源。植物会释放出挥发性有机化合物，作为植物光合作用的副产品，被广泛种植的柳树和杨树会释放出大量的异戊二烯。研究团队发现，北京 35% 的树木会释放异戊二烯。研究人员在北京各地采集空气样本，测量挥发性有机化合物浓度，在城市各监测站收集臭氧数据。研究发现，在 2021 年 5 月至 7 月期间，植物排放的化合物约占北京总排放量的 10%，其余来自人类活动如汽车尾气和工业化学品。植物释放出的挥发性有机化合物与大气中的羟基反应生成过氧自由基，过氧自由基再与空气中的氮氧化物（NOx）反应生成化合物，这些化合物在阳光照射下会转化为臭氧。研究发现，植物排放的有机化合物占最终生成臭氧的化学物质的 52%，其中异戊二烯是主要贡献者。人类活动产生的挥发性有机化合物总排放量高于植物排放，但对生成臭氧的贡献远小于植物。研究人员还调查了 24 个特大城市种植的树种，发现澳大利亚悉尼和墨尔本所种植树的异戊二烯排放量预计会高于北京，悉尼有 65% 的树木会排放异戊二烯。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85163" target="_blank"&gt;因门把手安全隐患特斯拉在华召回近 300 万辆车&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                特斯拉和另外 8 家汽车制造商 21 日宣布，将在中国召回总计约 430 万辆汽车，创下中国汽车召回规模纪录。此次召回的整改措施包括软件更新、加贴警示标签，以及改进门把手周围的标识等。大多数车企还将通过 OTA 远程升级软件。根据国家市场监督管理总局发布的公告，特斯拉将从 9 月 25 日起召回 298 万辆进口及中国制造的 Model 3、Model Y、Model S 和 Model X 汽车。特斯拉的召回规模最大，这也反映出该公司采用此类门把手设计的车型销量巨大。除特斯拉外，此次召回行动涉及车企包括中国一汽、北汽蓝谷、东风汽车、奇瑞、吉利、小鹏、零跑和小米。小米将召回约 39 万辆汽车，零跑约 37.1 万辆，小鹏约 26.4 万辆。零跑、小鹏和吉利此次召回的规模也均创下各自公司的历史纪录。监管机构表示，在发生严重碰撞并导致车辆电气系统失效后，机械式紧急车门解锁装置可能难以识别。车内人员可能难以打开车门逃生，救援人员也可能难以进入车内。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85168" target="_blank"&gt;卡巴斯基发现第一种针对汽车的 Android 恶意程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                俄罗斯安全公司卡巴斯基的研究人员报告他们发现第一种针对汽车的 Android 恶意程序。恶意程序通过基于 Android 的兜风出行汽车主机（head unit）固件的内置更新程序传播，被认为与 MoYu Group 黑客组织有关，该组织与 BADBOX 僵尸网络有关联。卡巴斯基称它已经通知了兜风出行，对方表示已修复相关安全问题。这一汽车恶意程序传播案例类似廉价电视盒，攻击者旨在创建住宅代理僵尸网络，因此使用了相同的网络基础设施。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85164" target="_blank"&gt;Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2022 年 9 月一名黑客泄漏了当时尚未宣布的 GTA6 的图片和视频，此事促使开发商 Rockstar Games 加强了安全措施。然而到了 2026 年 8 月游戏还有 3 个月即将发售时，自称 Cyber​​Leek 的个人或组织发布了 GTA6 的一系列新视频，视频显示泄密者手中可能有一个可运行的版本，也就是游戏本体被盗了。彭博社援引知情人士的消息称，Rockstar 尚未确定泄密者身份，也不知道游戏本体是如何泄漏出去的。该公司目前正全力查明泄露源头并追踪泄密者。为了识别泄密者，Rockstar 母公司 Take-Two 的律师正向法院申请传票，要求微软和 Discord 提供信息帮助识别泄密者身份。Take-Two 要求微软在  9 月 4 日前提供信息，要求 Discord 在相同的截止日期前提供 CYBERLEEK、CINEMATICROCKSTAR 和 Surfer24k™  等账号的信息。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85169" target="_blank"&gt;机器人短跑超越人类，但刹住是问题&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨大软垫，然后跌倒在地，多台机器人翻倒后甚至出现了明显损坏。这次运动会还设置了在模拟工厂、餐厅、办公室及紧急情况场景下测试机器人性能的比赛项目。比如人形机器人能否在处理包装和仓储作业的同时，可靠地完成诸如线缆连接等精密任务？它们能否应对角度不当的线缆、刚好够不到的物体、发生位移的包裹等工厂中常见的困难？这些任务旨在评估它们在那些不那么引人注目的岗位上像人类一样工作的能力。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85165" target="_blank"&gt;3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切除并迅速进入血液循环。33 种与降低心血管和代谢疾病风险相关的蛋白质有 32 种会因短暂的冲刺跑发生改变，只有 3 种会受到中等强度运动的影响。逾四分之一蛋白质还与延缓生物衰老相关。研究结果表明，运动强度可能会强烈影响释放到血液中的蛋白质和代谢物，进而影响全身组织的反应方式。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85170" target="_blank"&gt;极端磁场改变光传播方式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家首次利用天然极端磁场，即对磁星信号的观测研究，为 90 年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据：看似空无一物的真空，在极端磁场中会改变光的传播方式，产生真空双折射效应。研究人员利用 NASA 成像 X射 线偏振探测器，对编号 1E 1547.0-5408 的射电磁星进行了观测，并结合国际空间站 X 射线望远镜以及澳大利亚帕克斯射电望远镜的数据展开分析。磁星是大质量恒星爆炸后留下的致密残骸，拥有宇宙已知最强的磁场。理论认为，当磁场足够强时，真空不再是无性质的虚空，而是表现出类似晶体的光学性质，使不同偏振方向的光以不同速度传播，从而改变 X 射线偏振特征。1E1547.0-5408 每两秒自转一周，是少数能持续发射射电波的磁星之一。2025 年 3 月和 4 月，团队将探测器指向这颗天体。结果显示，其 X 射线偏振度接近同类天体的  3倍，且偏振方向与恒星磁场方向完全一致，这一特征符合海森堡等人预测的真空双折射效应。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-23</guid><pubDate>Sun, 23 Aug 2026 09:27:28 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85171" target="_blank"&gt;免费游戏隐藏的高成本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                免费游戏并不真免费，游戏内虚拟物品的售价可能比一款典型 3A 游戏的定价高得多。免费游戏内的虚拟交易通常被称为微交易，然而很多微交易动辄上百美元，“微”之名其实名不副实。根据《Frontiers in Public Health》上的一项研究，研究人员基于 2308 名 10-19 岁奥地利学生（48.8% 为男性；平均年龄 14.3 岁）的数据，分析了游戏内消费的分布情况及其与游戏成瘾、赌博成瘾和社会经济地位的关联。他们发现，支出前 10% 的青少年贡献了 61.4% 的总消费额；重度消费者比轻度消费者更容易出现游戏成瘾和赌博成瘾；高消费额并非仅限于家庭经济条件较好的青少年。研究人员认为，免费游戏这种消费模式与赌博行业高度相似，但相比高度监管的赌博行业，游戏行业受到的监管要少得多。他们呼吁为保护青少年加强监管。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85172" target="_blank"&gt;调查显示三分之一英文网页有 AI 创作痕迹&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国皮尤研究中心的数据科学家使用 AI 检测工具分析了过去五年的 50 万英文网页，估计其中 AI 撰写内容的比例。所有这些样本网页中，十分之一有明显 AI 创作痕迹。在 OpenAI 的 AI 工具 ChatGPT 于 2022 年底推出之后，AI 内容的比例在不断上升。2026 年 7 月的快照中，逾三分之一 ChatGPT 推出后发布的网页显示出 AI 创作的痕迹。在主要顶级域名中 AI 创作文本的分布并不均匀。ChatGPT 最初发布时 AI 语言模式在 .com、.org、.edu 和 .gov 等域名上的出现频率大致相同。但 2026 年的样本中十分之一的 .com 域名显示出 AI 创作的痕迹，是 .org 域名（4.6%）的两倍，.edu 或.gov域名（1%）的十倍。相比 2023 年，今天的网页：破折号的使用频率增加了一倍；牛津逗号的使用频率增加了 63%；AI 常用词如 delve、interplay 或 testament 的使用频率增加了一倍以上；it's not just X, it's Y 的负面/对比平行语言模式几乎是之前的三倍。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85173" target="_blank"&gt;九成生物医学论文有 AI 辅助写作痕迹&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在论文写作中使用 AI 的情况可能比以前认为的更普遍。根据发表在 arXiv 上的一篇预印本，对 PubMed Central 数据库收录的 2025 年全年发表的英文论文的分析显示，LLM 的使用比例高达 77%，而 2024 年这一比例为 52%。这一结论与 2025 年进行的一项调查结果一致。调查显示，71% 的研究人员表示在使用 AI 辅助写作——实际使用率可能高于承认的水平。2025 年 12 月发表的论文有近九成出现了 AI 辅助写作的痕迹。最新研究还发现，AI 辅助写作在摘要、引言和讨论部分比在方法和结果部分更为常见。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85174" target="_blank"&gt;摩托罗拉的 GrapheneOS 手机预计比 Pixel 手机更贵&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                摩托罗拉正与 Android 安全加固项目 GrapheneOS 合作，准备在 2027 年推出支持 GrapheneOS 的智能手机。GrapheneOS 目前只支持 Google 的 Pixel 智能手机，原因是 Pixel 使用的 Tensor SoC 提供了项目所需的安全特性，但不是所有高通手机芯片都提供了类似的安全特性。高通只有最昂贵的 8 系列芯片才具有类似安全功能。这意味着摩托罗拉只有高端旗舰型号才能支持 GrapheneOS，而此类型号价格不菲。GrapheneOS 项目透露其定价甚至比 Pixel 手机更贵。最新的 Pixel 11 系列起售价为 900 美元。 摩托罗拉未来的中低端型号可能会支持 GrapheneOS，但在短时间内不会发生。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-24</guid><pubDate>Mon, 24 Aug 2026 09:47:42 +0000</pubDate></item></channel></rss>
