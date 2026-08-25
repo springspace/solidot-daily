@@ -1,56 +1,80 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 24 Aug 2026 09:47:42 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月24日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 25 Aug 2026 09:35:06 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85166" target="_blank"&gt;波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Nicole Suszek 最后一次收到哥哥 Sylwester 的电话语音留言是在 2022 年，在留言中 Sylwester 急迫的请求她给他寄去比特币，否则以后就永远见不到面了。Sylwester 从此杳无音信，家人认为他已经遇害。Sylwester 是东欧和中欧最大加密货币交易所 Zondacrypto 的创始人，他在 2014 年创办了 Zondacrypto 的前身 BitBay。接替 Sylwester 担任 Zondacrypto CEO 的波兰律师 Przemyslaw Kral 在今年四月也失踪了，这一事件让 Sylwester 案再次浮出水面。波兰总理 Donald Tusk 则指责 Zondacrypto 与俄罗斯情报机构、有组织犯罪和右 翼政客有关联。Zondacrypto 网站在 4 月关闭，导致数十万客户无法提现或交易。Zondacrypto 发行的代币 ZND 已贬值逾 99.9%。Przemyslaw Kral 最后一次露面是在 4 月 16 日，他通过社媒发表了一则视频，呼吁客户不要恐慌，不要对交易所失去信心，称公司还有 4000 比特币，但这些比特币所在的钱包密钥只有前 CEO 才知道。加密货币专家对此表示怀疑，因为该钱包已有近十年没有活动了。对于 Kral 身在何处，有人据称曾在以色列、博茨瓦纳和迪拜等地目击到他，但这些说法都未经证实。代表 Zondacrypto 账户被冻结客户的华沙律师 Robert Nogacki 认为&amp;nbsp; Kral 在东南亚，他表示关于 Zondacrypto 他唯一确定的就是：“它从一开始就是个骗局。”
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85178" target="_blank"&gt;TikTok 同意支付 4 亿美元和解美国儿童隐私诉讼&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                TikTok 与字节跳动同意支付 4 亿美元与美国司法部就儿童网络隐私争议达成和解。美国司法部 2024 年代表联邦贸易委员会（FTC）起诉 TikTok，指控 TikTok 允许数百万名 13 岁以下儿童在家长不知情或未同意的情况下创建账户，并设置障碍，让家长难以要求删除这些账户。诉讼指 TikTok 违反儿童网络隐私法，在未取得家长同意的情况下收集儿童个人资料。TikTok 与字节跳动同意达成一项 4 亿美元的和解协议，以解决美国司法部对 TikTok 的指控。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85167" target="_blank"&gt;柳树和杨树释放出的化合物会恶化城市空气质量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                数百万棵垂柳和白杨树将北京装缀成一个绿色的大都市。然而根据《Science Advances》上发表的一项研究，柳树和杨树释放出的化合物是城市空气污染的重要来源。广州暨南大学的研究人员最初想要了解人类活动对臭氧污染的影响，结果意外发现城市植被是臭氧的重要来源。植物会释放出挥发性有机化合物，作为植物光合作用的副产品，被广泛种植的柳树和杨树会释放出大量的异戊二烯。研究团队发现，北京 35% 的树木会释放异戊二烯。研究人员在北京各地采集空气样本，测量挥发性有机化合物浓度，在城市各监测站收集臭氧数据。研究发现，在 2021 年 5 月至 7 月期间，植物排放的化合物约占北京总排放量的 10%，其余来自人类活动如汽车尾气和工业化学品。植物释放出的挥发性有机化合物与大气中的羟基反应生成过氧自由基，过氧自由基再与空气中的氮氧化物（NOx）反应生成化合物，这些化合物在阳光照射下会转化为臭氧。研究发现，植物排放的有机化合物占最终生成臭氧的化学物质的 52%，其中异戊二烯是主要贡献者。人类活动产生的挥发性有机化合物总排放量高于植物排放，但对生成臭氧的贡献远小于植物。研究人员还调查了 24 个特大城市种植的树种，发现澳大利亚悉尼和墨尔本所种植树的异戊二烯排放量预计会高于北京，悉尼有 65% 的树木会排放异戊二烯。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85179" target="_blank"&gt;国际计量大会将讨论用闰时取代闰秒&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                今年 10 月在法国举行的国际计量大会将讨论用闰时取代闰秒。闰秒需要经常性修改，会导致混乱，而引入闰时后数百年内无需修改。协调世界时（UTC）基于用原子振动实现的高精度原子钟来确定，成为 1 秒长度的标准。不过由地球自转时间决定的 1 天长度会发生不规则变化，因此会产生偏差。地球的自转速度根据潮汐涨落以及地球内部地核运动而波动。地球的一天即地球自转一圈，大约需要 86,400 秒。闰秒的作用就是调整与原子钟的偏差，当偏差累积即将超过 0.9 秒时，就会在一天中增加1秒。1972 年引入闰秒以来已修改了 27 次。然而对于需要同步时间进行自动控制的金融交易、交通、电力等高端通信系统而言，哪怕是微小的误差也可能导致整个网络陷入混乱。2012 年增加闰秒时大型网络服务等发生故障。因此美国 IT 巨头 Google 和微软等方面为避免影响而引入各自的调整方法。各公司采用的“时间系统”各不相同，导致闰秒作为标准时间基准的地位动摇。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85168" target="_blank"&gt;卡巴斯基发现第一种针对汽车的 Android 恶意程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                俄罗斯安全公司卡巴斯基的研究人员报告他们发现第一种针对汽车的 Android 恶意程序。恶意程序通过基于 Android 的兜风出行汽车主机（head unit）固件的内置更新程序传播，被认为与 MoYu Group 黑客组织有关，该组织与 BADBOX 僵尸网络有关联。卡巴斯基称它已经通知了兜风出行，对方表示已修复相关安全问题。这一汽车恶意程序传播案例类似廉价电视盒，攻击者旨在创建住宅代理僵尸网络，因此使用了相同的网络基础设施。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85180" target="_blank"&gt;Valve 诞生 30 周年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Valve 由前微软员工 Gabe Newell 和 Mike Harrington 创办于 1996 年 8 月 24 日，该公司的第一款游戏是备受好评的《半条命》，它被认为对 FPS 这一游戏类别产生了深远影响。Harrington 于 2000 年离开 Valve。Valve  在 2003 年开发了 Steam，之后随《半条命2》的发布强制捆绑推送给玩家，此举曾引起广泛批评，但它最终成为 Valve 最主要的收入来源，它过于成功以至于部分导致 Valve 大幅减少了游戏新作的开发速度。Valve 的游戏开发主要集中在 2013 年前，它发布了一系列享有盛誉的游戏作品，包括《反恐精英》系列、《传送门》系列，《求生之路》系列和《Dota 2》。2020 年代之后的新作包括 VR 游戏《Half-Life: Alyx》，以及仍然在封闭测试的多人游戏《Deadlock》。Valve 还开发了一系列硬件产品，包括 Linux 游戏机 Steam Machine、掌机 Steam Deck 和 VR 头显 Valve Index。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85169" target="_blank"&gt;机器人短跑超越人类，但刹住是问题&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨大软垫，然后跌倒在地，多台机器人翻倒后甚至出现了明显损坏。这次运动会还设置了在模拟工厂、餐厅、办公室及紧急情况场景下测试机器人性能的比赛项目。比如人形机器人能否在处理包装和仓储作业的同时，可靠地完成诸如线缆连接等精密任务？它们能否应对角度不当的线缆、刚好够不到的物体、发生位移的包裹等工厂中常见的困难？这些任务旨在评估它们在那些不那么引人注目的岗位上像人类一样工作的能力。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85181" target="_blank"&gt;Anthropic 最强模型难以吸引用户&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Anthropic 的美国客户正使用其最强大 AI 工具的更廉价替代品，引发了外界对其高投入商业模式的质疑，而市场普遍预计 Anthropic 即将进行史上规模最大的 IPO。根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Anthropic 规模最大、成本最高的模型 Fable 5 发布两个多月后，其支出占该公司各类工具总支出的比例仍仅约为 11%，目前已趋于稳定。这打破了企业用户默认选择最强大模型的惯例。分析师和投资者表示，这一变化主要是由于 Fable 5 价格高昂，以及旧款模型能满足大部分企业需求。如果这一转变持续下去，可能会彻底改变前沿 AI 实验室的商业模式。前沿 AI 实验室一直将数十亿美元的研发经费投入到训练规模越来越大、技术越来越复杂的模型上。Fable 的低需求和低市场接受度，加剧了Anthropic 在 IPO 前的不确定性。投资者预计 Anthropic 的 IPO 估值将达到 2 万亿美元或更高，它最早可能会在下个月上市。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85170" target="_blank"&gt;极端磁场改变光传播方式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                天文学家首次利用天然极端磁场，即对磁星信号的观测研究，为 90 年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据：看似空无一物的真空，在极端磁场中会改变光的传播方式，产生真空双折射效应。研究人员利用 NASA 成像 X射 线偏振探测器，对编号 1E 1547.0-5408 的射电磁星进行了观测，并结合国际空间站 X 射线望远镜以及澳大利亚帕克斯射电望远镜的数据展开分析。磁星是大质量恒星爆炸后留下的致密残骸，拥有宇宙已知最强的磁场。理论认为，当磁场足够强时，真空不再是无性质的虚空，而是表现出类似晶体的光学性质，使不同偏振方向的光以不同速度传播，从而改变 X 射线偏振特征。1E1547.0-5408 每两秒自转一周，是少数能持续发射射电波的磁星之一。2025 年 3 月和 4 月，团队将探测器指向这颗天体。结果显示，其 X 射线偏振度接近同类天体的  3倍，且偏振方向与恒星磁场方向完全一致，这一特征符合海森堡等人预测的真空双折射效应。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85182" target="_blank"&gt;Wi-Fi 8 专注于提升可靠性&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                从 2009 年的 Wi-Fi 4 起，每一代  Wi-Fi 的一大卖点都是相比前一代数据速率提升多少。Wi-Fi 5 的最大数据速率十倍于 Wi-Fi 4，到 Wi-Fi 7 每频段理论最大吞吐量达到了 23Gbps，对于大部分用户的网速是绰绰有余了。也许是时候放慢速度了。正在开发中的 Wi-Fi 8 将与 Wi-Fi 7 维持基本相同的最大数据速率、支持相同数量的空间流，使用相同的 4096-QAM（4K-QAM）调制，工作在相同的频段，支持相同的 320MHz 信道带宽。Wi-Fi 8 将专注于提升可靠性，目标是在不同的信噪比 (SINR) 水平下吞吐量提升 25%；95% 的请求延迟降低 25%；MAC 协议数据单元丢失率 (MPDU) 降低 25%。Wi-Fi 8 标准预计将于 2028 年定稿。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85171" target="_blank"&gt;免费游戏隐藏的高成本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                免费游戏并不真免费，游戏内虚拟物品的售价可能比一款典型 3A 游戏的定价高得多。免费游戏内的虚拟交易通常被称为微交易，然而很多微交易动辄上百美元，“微”之名其实名不副实。根据《Frontiers in Public Health》上的一项研究，研究人员基于 2308 名 10-19 岁奥地利学生（48.8% 为男性；平均年龄 14.3 岁）的数据，分析了游戏内消费的分布情况及其与游戏成瘾、赌博成瘾和社会经济地位的关联。他们发现，支出前 10% 的青少年贡献了 61.4% 的总消费额；重度消费者比轻度消费者更容易出现游戏成瘾和赌博成瘾；高消费额并非仅限于家庭经济条件较好的青少年。研究人员认为，免费游戏这种消费模式与赌博行业高度相似，但相比高度监管的赌博行业，游戏行业受到的监管要少得多。他们呼吁为保护青少年加强监管。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85183" target="_blank"&gt;微软删除了逾 17 万非营利组织的数据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年初它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。6 月 11 日前如果没有转为付费的账号内相关数据将被删除。根据 Slate 的报道，没有注意到微软邮件通知的非营利组织遭到重创，17.1 万非营利组织储存在 OneDrive 中的数据被删除，全部丢失。一名经营着一家儿童医保组织的人士称，他翻遍了该组织的邮件存档和垃圾邮件，没有看到任何授权终止的通知。在 Reddit 和微软官方的技术社区论坛，很多非营利组织都表示他们没有收到提前通知就被删除了数据。还有很多人报告在数据删除后才注意到微软的警告邮件。微软没有解释为什么客户的数据无法恢复。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85172" target="_blank"&gt;调查显示三分之一英文网页有 AI 创作痕迹&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国皮尤研究中心的数据科学家使用 AI 检测工具分析了过去五年的 50 万英文网页，估计其中 AI 撰写内容的比例。所有这些样本网页中，十分之一有明显 AI 创作痕迹。在 OpenAI 的 AI 工具 ChatGPT 于 2022 年底推出之后，AI 内容的比例在不断上升。2026 年 7 月的快照中，逾三分之一 ChatGPT 推出后发布的网页显示出 AI 创作的痕迹。在主要顶级域名中 AI 创作文本的分布并不均匀。ChatGPT 最初发布时 AI 语言模式在 .com、.org、.edu 和 .gov 等域名上的出现频率大致相同。但 2026 年的样本中十分之一的 .com 域名显示出 AI 创作的痕迹，是 .org 域名（4.6%）的两倍，.edu 或.gov域名（1%）的十倍。相比 2023 年，今天的网页：破折号的使用频率增加了一倍；牛津逗号的使用频率增加了 63%；AI 常用词如 delve、interplay 或 testament 的使用频率增加了一倍以上；it's not just X, it's Y 的负面/对比平行语言模式几乎是之前的三倍。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85184" target="_blank"&gt;Protocol Labs 停止资助星际文件系统的核心维护团队&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 Cloudflare 和 Brave 之后，Protocol Labs 停止资助星际文件系统（IPFS）的核心维护团队 Shipyard，IPFS 的未来打上了巨大的问号。IPFS 是 Protocol Labs 从 2014 年起开发的开源项目，目的是实现文件分布式存储、共享和持久化的网络传输协议，它是一种内容可寻址的对等超媒体分发协议，在 IPFS 网络中的节点构成一个集群文件系统。Cloudflare 和 Brave 都曾支持过 IPFS，但都已经退出，目前使用 IPFS 最知名服务可能是 Bluesky，它的 ATProto 协议是基于 IPFS 内容寻址构建的。Shipyard 团队称，与 IPFS 相关的工作将于 2026 年 9 月 30 日结束。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85173" target="_blank"&gt;九成生物医学论文有 AI 辅助写作痕迹&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在论文写作中使用 AI 的情况可能比以前认为的更普遍。根据发表在 arXiv 上的一篇预印本，对 PubMed Central 数据库收录的 2025 年全年发表的英文论文的分析显示，LLM 的使用比例高达 77%，而 2024 年这一比例为 52%。这一结论与 2025 年进行的一项调查结果一致。调查显示，71% 的研究人员表示在使用 AI 辅助写作——实际使用率可能高于承认的水平。2025 年 12 月发表的论文有近九成出现了 AI 辅助写作的痕迹。最新研究还发现，AI 辅助写作在摘要、引言和讨论部分比在方法和结果部分更为常见。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85185" target="_blank"&gt;15 年前库克接替乔布斯担任苹果 CEO&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                15 年前的 2011 年 8 月 24 日，蒂姆·库克（Timothy Donald Cook）接替史蒂夫·乔布斯担任苹果 CEO，下周的 9 月 1 日，库克将卸任 CEO 一职，John Ternus 将接替他。Ternus 于 2001 年加入苹果产品设计团队。他于 2013 年晋升为硬件工程副总裁，2021 年升任高级副总裁，期间负责监督了 AirPods、Mac、iPad 和 iPhone 的开发。库克将继续留在苹果公司，担任执行董事长，负责与政策制定者沟通，帮助苹果应对监管压力。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85174" target="_blank"&gt;摩托罗拉的 GrapheneOS 手机预计比 Pixel 手机更贵&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                摩托罗拉正与 Android 安全加固项目 GrapheneOS 合作，准备在 2027 年推出支持 GrapheneOS 的智能手机。GrapheneOS 目前只支持 Google 的 Pixel 智能手机，原因是 Pixel 使用的 Tensor SoC 提供了项目所需的安全特性，但不是所有高通手机芯片都提供了类似的安全特性。高通只有最昂贵的 8 系列芯片才具有类似安全功能。这意味着摩托罗拉只有高端旗舰型号才能支持 GrapheneOS，而此类型号价格不菲。GrapheneOS 项目透露其定价甚至比 Pixel 手机更贵。最新的 Pixel 11 系列起售价为 900 美元。 摩托罗拉未来的中低端型号可能会支持 GrapheneOS，但在短时间内不会发生。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85186" target="_blank"&gt;安娜的档案在长时间宕机之后恢复服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                安娜的档案（Anna's Archive）在本月初遭遇长时间宕机之后恢复了正常运行。该组织通过 Reddit 发表了一则声明，称网站遭遇了一次协同攻击，目前并不清楚攻击者身份。安娜的档案成立于 2022 年，今年以来遭遇了一连串的挑战：因 Spotify 以及唱片公司的起诉它失去了 .org 主域名，被勒令向 Spotify 等公司赔偿 3.22 亿美元；图书出版商 Penguin Random House、Elsevier  和 HarperCollins 提起了侵权诉讼，被判处赔偿 1950 万美元，法院还发布了针对其域名注册商和注册管理机构的禁令。目前安娜的档案 annas-archive.pk、annas-archive.gd 以及 annas-archive.gl 等域名都能正常访问。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-24</guid><pubDate>Mon, 24 Aug 2026 09:47:42 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85187" target="_blank"&gt;Firefox 和 Chrome 准备启用对 JPEG XL 的支持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Firefox 和 Chrome 都宣布准备启用对 JPEG XL 的支持。JPEG XL 是一种免版税的位图文件格式，支持有损和无损压缩。它旨在超越现有的位图格式，并成为它们的通用替代。Google Chrome 在 2023 年 移除了对实验性的 JPEG-XL 图像格式的支持，引发了很多争议，因为 Chrome/Chromium 占据了九成市场份额，它是 Web 标准事实上的仲裁者。但到了 2025 年 Google 改变了主意，Chrome/Chromium 加入了 Rust 语言开发的 JPEG-XL 图像解码器 jxl-rs，但对 JPEG-XL 的支持还没有默认启用。Mozilla 开发者通过邮件列表宣布即将释出的 Firefox 157 将默认启用对 JPEG XL 的支持。Google 也宣布准备默认启用。苹果的 Safari 则早在 2023 年就加入了对  JPEG-XL 的支持，但它使用的不是 Rust 实现而是 C++ 实现。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85188" target="_blank"&gt;美国计划再次对 H1B 签证征收 10 万美元费用，计划吊销 20 万商务或旅游签证&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国总统特朗普于 2025 年 9 月签署总统令，规定申请 H1B 签证需缴纳 10 万美元手续费。但联邦地区法院今年 6 月判定这一措施违法并予以撤销。本周一特朗普政府公布了新草案，计划再次对 H1B 签证收取 10 万 3265 美元手续费。国土安全部表示，虽然新规草案规定的金额与总统令相近，但两者并非同一措施，法律依据也不同。根据新规草案，这笔附加手续费将在现行数千美元手续费的基础上另行收取，目的是用于“各政府部门合法移民系统的运营费用”，包括移民局系统现代化以及检测违规行为等。与此同时，特朗普政府还计划吊销多达 20 万名外国人的商务或旅游签证（B1 和 B2  签证）。如果这一计划得以实施，这将是美国历史上规模最大的单次签证吊销行动。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85189" target="_blank"&gt;狩猎采集者的睡眠时间并不比工业社会的现代人长&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                三个狩猎采集者社会——坦桑尼亚的哈扎人、纳米比亚的桑人、玻利维亚的齐曼内人——他们的睡眠时间并不比生活在工业社会的现代人长。他们每夜睡 6.4-7.1小时。但生活在工业社会的现代人推迟了睡眠时间，不再日复一日的规律性睡眠，与自然光的同步减弱了，可诊断的睡眠障碍也变多了。睡眠的总时长恰恰是变动最小的。研究人员认为，区分现代睡眠与祖先睡眠的关键在于时相与规律性，而非睡眠时长。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=85190" target="_blank"&gt;已知最大星系直径 170 万光年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家通过超深成像观测确认已知最大星系边界。名为 IC1101 的星系直径达到约 520 千秒差距（星系尺度单位），接近 170 万光年，宽度相当于 17 个银河系并排排列，而这个星系目前还在成长。IC1101 的恒星物质总质量约为 3.4 万亿个太阳质量。IC1101 坐落在距地球超过 10 亿光年的 Abell2029 星系团中心，是该星系团中光度最高的星系。这类星系位居宇宙中最庞大星系之列，其成长方式是通过反复吞并附近较小的星系不断扩张，这一过程被称作星系同类相食。作为已知最大的星系，它的存在也揭示了在数十亿年的时间尺度上，宇宙中的最大尺度星系结构可以通过持续吞并周围星系而发展到何等极端的规模。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-25</guid><pubDate>Tue, 25 Aug 2026 09:35:06 +0000</pubDate></item></channel></rss>
