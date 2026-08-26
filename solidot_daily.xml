@@ -1,80 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 25 Aug 2026 09:35:06 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 26 Aug 2026 09:40:58 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月26日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85178" target="_blank"&gt;TikTok 同意支付 4 亿美元和解美国儿童隐私诉讼&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                TikTok 与字节跳动同意支付 4 亿美元与美国司法部就儿童网络隐私争议达成和解。美国司法部 2024 年代表联邦贸易委员会（FTC）起诉 TikTok，指控 TikTok 允许数百万名 13 岁以下儿童在家长不知情或未同意的情况下创建账户，并设置障碍，让家长难以要求删除这些账户。诉讼指 TikTok 违反儿童网络隐私法，在未取得家长同意的情况下收集儿童个人资料。TikTok 与字节跳动同意达成一项 4 亿美元的和解协议，以解决美国司法部对 TikTok 的指控。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85191" target="_blank"&gt;Linux 诞生 35 周年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                1991 年 8 月 25 日，Linus Torvalds 在新闻组 comp.os.minix 宣布了他正在开发的操作系统内核：“我正在为386（486）AT clones写一个（自由的）操作系统（只是爱好而已，不会和 GNU 一样成为广泛且专业的操作系统）。这个计划从 4 月开始酝酿，现在已做好准备。我希望得到人们关于 minix 优缺点的任何反馈意见，因为我的操作系统和它有类似的方面（因为可行性方面的原因，两者的文件系统物理布局相同）。我刚刚把 bash(1.08) 和 gcc(1.40) 移植到了系统上，而且看来运行得很好。这意味着我可以在几个月内我就可以把它变得有实用性了。我想知道大家想要些什么特色。欢迎提任何的建议，但是我不保证我会实现你的建议 :-)”Torvalds 原计划将项目名字命名为 “fread”——free和 x（即 Unix）的合成词，然而文件上传的 FTP 服务器管理员认为该名字不好听，因此改名为 Linux。如今这个原本是爱好的项目已经走过了 35 年，成为了世界上最流行的操作系统，被无数人使用，虽然桌面是一个例外。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85179" target="_blank"&gt;国际计量大会将讨论用闰时取代闰秒&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                今年 10 月在法国举行的国际计量大会将讨论用闰时取代闰秒。闰秒需要经常性修改，会导致混乱，而引入闰时后数百年内无需修改。协调世界时（UTC）基于用原子振动实现的高精度原子钟来确定，成为 1 秒长度的标准。不过由地球自转时间决定的 1 天长度会发生不规则变化，因此会产生偏差。地球的自转速度根据潮汐涨落以及地球内部地核运动而波动。地球的一天即地球自转一圈，大约需要 86,400 秒。闰秒的作用就是调整与原子钟的偏差，当偏差累积即将超过 0.9 秒时，就会在一天中增加1秒。1972 年引入闰秒以来已修改了 27 次。然而对于需要同步时间进行自动控制的金融交易、交通、电力等高端通信系统而言，哪怕是微小的误差也可能导致整个网络陷入混乱。2012 年增加闰秒时大型网络服务等发生故障。因此美国 IT 巨头 Google 和微软等方面为避免影响而引入各自的调整方法。各公司采用的“时间系统”各不相同，导致闰秒作为标准时间基准的地位动摇。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85192" target="_blank"&gt;微软画图和照片应用生成的图像嵌入了看不见的水印&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Windows 画图（Paint）和照片（Photos）应用都集成了微软的 AI 工具 Copilot，支持通过本地模型和云端生成图像。AI 生成的图像会嵌入两个水印，其一是可见的 Copilot logo，其二是不可见的能跟踪到用户身份的唯一识别码 GUID。画图和照片使用的本地模型（仅限于 Copilot+ PC）共四个文件，容量不到 400MB，无论本地还是云端用户输入的提示词都会发送到微软服务器进行内容审核，服务器会返回 GUID 以及审核后的提示词，GUID 随后就嵌入在 AI 生成的图像之中。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85180" target="_blank"&gt;Valve 诞生 30 周年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Valve 由前微软员工 Gabe Newell 和 Mike Harrington 创办于 1996 年 8 月 24 日，该公司的第一款游戏是备受好评的《半条命》，它被认为对 FPS 这一游戏类别产生了深远影响。Harrington 于 2000 年离开 Valve。Valve  在 2003 年开发了 Steam，之后随《半条命2》的发布强制捆绑推送给玩家，此举曾引起广泛批评，但它最终成为 Valve 最主要的收入来源，它过于成功以至于部分导致 Valve 大幅减少了游戏新作的开发速度。Valve 的游戏开发主要集中在 2013 年前，它发布了一系列享有盛誉的游戏作品，包括《反恐精英》系列、《传送门》系列，《求生之路》系列和《Dota 2》。2020 年代之后的新作包括 VR 游戏《Half-Life: Alyx》，以及仍然在封闭测试的多人游戏《Deadlock》。Valve 还开发了一系列硬件产品，包括 Linux 游戏机 Steam Machine、掌机 Steam Deck 和 VR 头显 Valve Index。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85193" target="_blank"&gt;社媒的设计方式让年轻人难以批判性思考&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                以 TikTok 为代表社媒通过无限滚动的信息流让用户无法对其浏览的内容进行深度思考。这种设计在世界各地引发激烈的讨论，欧洲正考虑限制此类设计。伯明翰大学的研究人员通过访谈和小组讨论的方式，收集了英格兰各地中小学和大学 16-25 岁年轻人的意见。年轻人并非社交媒体的被动用户，他们会思考，且常对所看到的内容持怀疑态度。但研究表明，TikTok 的设计使得批判性思维难以发挥作用。参与者一致认为 TikTok 是一个娱乐平台，而非严肃的学习场所，他们用“有趣但虚假”来形容它。研究还发现，TikTok 的算法驱动设计鼓励用户快速被动地消费内容。严肃的心理健康视频之后可能紧接着无关的娱乐内容，几乎没有给用户留下反思或批判性评估的机会。尽管参与者表示他们试图通过点赞或跳过内容去训练算法，但很多人发现算法的反馈不稳定，有害内容仍然会不断涌现。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85181" target="_blank"&gt;Anthropic 最强模型难以吸引用户&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Anthropic 的美国客户正使用其最强大 AI 工具的更廉价替代品，引发了外界对其高投入商业模式的质疑，而市场普遍预计 Anthropic 即将进行史上规模最大的 IPO。根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Anthropic 规模最大、成本最高的模型 Fable 5 发布两个多月后，其支出占该公司各类工具总支出的比例仍仅约为 11%，目前已趋于稳定。这打破了企业用户默认选择最强大模型的惯例。分析师和投资者表示，这一变化主要是由于 Fable 5 价格高昂，以及旧款模型能满足大部分企业需求。如果这一转变持续下去，可能会彻底改变前沿 AI 实验室的商业模式。前沿 AI 实验室一直将数十亿美元的研发经费投入到训练规模越来越大、技术越来越复杂的模型上。Fable 的低需求和低市场接受度，加剧了Anthropic 在 IPO 前的不确定性。投资者预计 Anthropic 的 IPO 估值将达到 2 万亿美元或更高，它最早可能会在下个月上市。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85194" target="_blank"&gt;因保安可能罢工 Anthropic 通知员工远程办公&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                因保安可能罢工 Anthropic 通知旧金山办公室的员工本周在家远程办公。Anthropic 上周收到了提供安保服务的  
+Allied Universal 公司的通知，称该公司的保安可能罢工。Anthropic 随后通知其员工，为以防万一周一和周二在家办公。代表保安的工会 Service Employees International Union (SEIU)表示正与 Allied 等安保服务公司进行合同谈判，但工会没有发起罢工授权投票，也没有发出任何罢工威胁。SEIU 代表了加州数以千计的保安，自 4 月以来一直在进行谈判，以争取更高的工资、更好的医保和更全面的职业培训。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85182" target="_blank"&gt;Wi-Fi 8 专注于提升可靠性&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                从 2009 年的 Wi-Fi 4 起，每一代  Wi-Fi 的一大卖点都是相比前一代数据速率提升多少。Wi-Fi 5 的最大数据速率十倍于 Wi-Fi 4，到 Wi-Fi 7 每频段理论最大吞吐量达到了 23Gbps，对于大部分用户的网速是绰绰有余了。也许是时候放慢速度了。正在开发中的 Wi-Fi 8 将与 Wi-Fi 7 维持基本相同的最大数据速率、支持相同数量的空间流，使用相同的 4096-QAM（4K-QAM）调制，工作在相同的频段，支持相同的 320MHz 信道带宽。Wi-Fi 8 将专注于提升可靠性，目标是在不同的信噪比 (SINR) 水平下吞吐量提升 25%；95% 的请求延迟降低 25%；MAC 协议数据单元丢失率 (MPDU) 降低 25%。Wi-Fi 8 标准预计将于 2028 年定稿。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85195" target="_blank"&gt;XCancel /Nitter 收到 X 寄出的终止服务通知&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                允许用户无需登录阅读 X/Twitter 推文的开源项目 Nitter 收到了 X 寄出的勒令停止信函。基于 Nitter 的服务如 XCancel 都收到了类似的律师函，相关项目和网站都被迫宣布关闭。这不是第一次 X 试图关闭 Nitter 项目。2024 年 在 X 推出新的 API 限制后 Nitter 的主要实例 Nitter.net 一度下线。Nitter 的工作原理是获取公开的推文，移除广告、跟踪 cookie 和 JavaScript，为用户提供一种简洁无干扰的推文阅读方式，无需注册账号或打开应用。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85183" target="_blank"&gt;微软删除了逾 17 万非营利组织的数据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年初它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。6 月 11 日前如果没有转为付费的账号内相关数据将被删除。根据 Slate 的报道，没有注意到微软邮件通知的非营利组织遭到重创，17.1 万非营利组织储存在 OneDrive 中的数据被删除，全部丢失。一名经营着一家儿童医保组织的人士称，他翻遍了该组织的邮件存档和垃圾邮件，没有看到任何授权终止的通知。在 Reddit 和微软官方的技术社区论坛，很多非营利组织都表示他们没有收到提前通知就被删除了数据。还有很多人报告在数据删除后才注意到微软的警告邮件。微软没有解释为什么客户的数据无法恢复。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85196" target="_blank"&gt;亚马逊以内存短缺为由大幅上涨自有品硬件产品价格&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                亚马逊以内存短缺为由大幅上涨了自有品硬件产品的价格。受到影响的产品包括 Fire TV、Echo、Kindle 和 Eero，以最廉价的智能音箱 Echo Dot 为例，其价格从 49.99 美元涨至 79.99 美元。亚马逊在一份声明中称，“消费电子行业面临内存和存储组件成本的大幅上涨。在长期承担这些成本上涨后，我们最近对产品线进行了价格调整。”亚马逊的涨价再次证明如今不是购买硬件产品的好时机，苹果刚刚宣布的新款 Mac Mini 就大幅提高了起售价。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85184" target="_blank"&gt;Protocol Labs 停止资助星际文件系统的核心维护团队&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 Cloudflare 和 Brave 之后，Protocol Labs 停止资助星际文件系统（IPFS）的核心维护团队 Shipyard，IPFS 的未来打上了巨大的问号。IPFS 是 Protocol Labs 从 2014 年起开发的开源项目，目的是实现文件分布式存储、共享和持久化的网络传输协议，它是一种内容可寻址的对等超媒体分发协议，在 IPFS 网络中的节点构成一个集群文件系统。Cloudflare 和 Brave 都曾支持过 IPFS，但都已经退出，目前使用 IPFS 最知名服务可能是 Bluesky，它的 ATProto 协议是基于 IPFS 内容寻址构建的。Shipyard 团队称，与 IPFS 相关的工作将于 2026 年 9 月 30 日结束。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85197" target="_blank"&gt;新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                新西兰提出了一项法案 The Online Safety (Minimum Age and Child Safety Risk Assessment) Bill，提议禁止 16 岁以下儿童使用社媒和 AI 陪伴服务。总理 Christopher Luxon 表示：现实世界有保护儿童安全的措施，
+虚拟世界也需要有同样的措施。法案要求对包含对儿童有害功能的社媒平台设置年龄限制。有害功能包括推荐系统、无限信息流、反馈功能和限时功能。法案还试图限制未成年用户访问 AI 陪伴服务。即时通讯应用、职业社交网站、游戏和音乐平台以及其它教育和健康工具不会受到限制。法案要求社媒平台通过面部扫描和用户活动模式等方式验证用户年龄，要求平台对所有 18 岁以下用户进行儿童安全风险评估，保护他们免受欺凌、暴力和色情材料等有害内容的侵害。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85185" target="_blank"&gt;15 年前库克接替乔布斯担任苹果 CEO&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                15 年前的 2011 年 8 月 24 日，蒂姆·库克（Timothy Donald Cook）接替史蒂夫·乔布斯担任苹果 CEO，下周的 9 月 1 日，库克将卸任 CEO 一职，John Ternus 将接替他。Ternus 于 2001 年加入苹果产品设计团队。他于 2013 年晋升为硬件工程副总裁，2021 年升任高级副总裁，期间负责监督了 AirPods、Mac、iPad 和 iPhone 的开发。库克将继续留在苹果公司，担任执行董事长，负责与政策制定者沟通，帮助苹果应对监管压力。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85198" target="_blank"&gt;全球海洋表面温度创历史最高水平&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                由于人类活动导致的气候变化以及日益严重的厄尔尼诺现象，全球海洋温度创历史最高水平。根据欧洲哥白尼气候变化服务中心的数据，除极地外，全球海洋表面平均温度周六达到了 21.1C，略微高于 2024 年 3 月创下的 21.09C 的纪录，远高于往年同期平均水平。海洋变暖会带来广泛的影响，包括加剧极端天气、海平面上升以及损害海洋生物。该数据是基于海面以下 10 米的海水温度，利用浮标、船舶和卫星的测量数据，综合得出全球估算值。全球海水平均温度的年度峰值通常出现在 3 月或 4 月，对应南半球夏季结束，因为南半球的海洋面积比北半球大，对海水平均温度的影响也更大。令科学家尤为担忧的是，厄尔尼诺现象尚未达到预期峰值，海洋温度已如此之高。厄尔尼诺现象会将异常温暖的海水带到东太平洋和中太平洋的海，通常会导致全球平均气温飙升。预计厄尔尼诺现象将持续增强至圣诞节前后，科学家警告，它有望成为几个世纪以来最强的一次。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85186" target="_blank"&gt;安娜的档案在长时间宕机之后恢复服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                安娜的档案（Anna's Archive）在本月初遭遇长时间宕机之后恢复了正常运行。该组织通过 Reddit 发表了一则声明，称网站遭遇了一次协同攻击，目前并不清楚攻击者身份。安娜的档案成立于 2022 年，今年以来遭遇了一连串的挑战：因 Spotify 以及唱片公司的起诉它失去了 .org 主域名，被勒令向 Spotify 等公司赔偿 3.22 亿美元；图书出版商 Penguin Random House、Elsevier  和 HarperCollins 提起了侵权诉讼，被判处赔偿 1950 万美元，法院还发布了针对其域名注册商和注册管理机构的禁令。目前安娜的档案 annas-archive.pk、annas-archive.gd 以及 annas-archive.gl 等域名都能正常访问。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85199" target="_blank"&gt;芬兰准备启用全球首座核废料最终处置场&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                全球首座用于处置核电站产生的高放射性核废料的最终处置场预计将在芬兰投入使用。该国的核能监管机构本月 4 日公布评估报告称，经过约 4 年半的审查，用于将乏燃料埋入地下的“翁卡洛”处置场符合安全条件。芬兰政府拟于今年秋季正式批准其投入使用。最快可能于明年初启用。根据计划，乏燃料将被隔绝在地下约 430 米处长达 10 万年以上。根据芬兰的计划，乏燃料将被放入铜制和铸铁制的双层容器，用粘土覆盖后埋入地下，进行长达 10 万年以上的隔离，直到核燃料的放射能降至安全水平。处置场位于西南部的奥尔基卢奥托岛，岛上遍布约 19 亿年前形成的岩盘，几乎不存在大地震及火山喷发的风险。&amp;nbsp;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85187" target="_blank"&gt;Firefox 和 Chrome 准备启用对 JPEG XL 的支持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Firefox 和 Chrome 都宣布准备启用对 JPEG XL 的支持。JPEG XL 是一种免版税的位图文件格式，支持有损和无损压缩。它旨在超越现有的位图格式，并成为它们的通用替代。Google Chrome 在 2023 年 移除了对实验性的 JPEG-XL 图像格式的支持，引发了很多争议，因为 Chrome/Chromium 占据了九成市场份额，它是 Web 标准事实上的仲裁者。但到了 2025 年 Google 改变了主意，Chrome/Chromium 加入了 Rust 语言开发的 JPEG-XL 图像解码器 jxl-rs，但对 JPEG-XL 的支持还没有默认启用。Mozilla 开发者通过邮件列表宣布即将释出的 Firefox 157 将默认启用对 JPEG XL 的支持。Google 也宣布准备默认启用。苹果的 Safari 则早在 2023 年就加入了对  JPEG-XL 的支持，但它使用的不是 Rust 实现而是 C++ 实现。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85188" target="_blank"&gt;美国计划再次对 H1B 签证征收 10 万美元费用，计划吊销 20 万商务或旅游签证&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国总统特朗普于 2025 年 9 月签署总统令，规定申请 H1B 签证需缴纳 10 万美元手续费。但联邦地区法院今年 6 月判定这一措施违法并予以撤销。本周一特朗普政府公布了新草案，计划再次对 H1B 签证收取 10 万 3265 美元手续费。国土安全部表示，虽然新规草案规定的金额与总统令相近，但两者并非同一措施，法律依据也不同。根据新规草案，这笔附加手续费将在现行数千美元手续费的基础上另行收取，目的是用于“各政府部门合法移民系统的运营费用”，包括移民局系统现代化以及检测违规行为等。与此同时，特朗普政府还计划吊销多达 20 万名外国人的商务或旅游签证（B1 和 B2  签证）。如果这一计划得以实施，这将是美国历史上规模最大的单次签证吊销行动。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85189" target="_blank"&gt;狩猎采集者的睡眠时间并不比工业社会的现代人长&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                三个狩猎采集者社会——坦桑尼亚的哈扎人、纳米比亚的桑人、玻利维亚的齐曼内人——他们的睡眠时间并不比生活在工业社会的现代人长。他们每夜睡 6.4-7.1小时。但生活在工业社会的现代人推迟了睡眠时间，不再日复一日的规律性睡眠，与自然光的同步减弱了，可诊断的睡眠障碍也变多了。睡眠的总时长恰恰是变动最小的。研究人员认为，区分现代睡眠与祖先睡眠的关键在于时相与规律性，而非睡眠时长。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=85190" target="_blank"&gt;已知最大星系直径 170 万光年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                天文学家通过超深成像观测确认已知最大星系边界。名为 IC1101 的星系直径达到约 520 千秒差距（星系尺度单位），接近 170 万光年，宽度相当于 17 个银河系并排排列，而这个星系目前还在成长。IC1101 的恒星物质总质量约为 3.4 万亿个太阳质量。IC1101 坐落在距地球超过 10 亿光年的 Abell2029 星系团中心，是该星系团中光度最高的星系。这类星系位居宇宙中最庞大星系之列，其成长方式是通过反复吞并附近较小的星系不断扩张，这一过程被称作星系同类相食。作为已知最大的星系，它的存在也揭示了在数十亿年的时间尺度上，宇宙中的最大尺度星系结构可以通过持续吞并周围星系而发展到何等极端的规模。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-25</guid><pubDate>Tue, 25 Aug 2026 09:35:06 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-26</guid><pubDate>Wed, 26 Aug 2026 09:40:58 +0000</pubDate></item></channel></rss>
