@@ -1,58 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 26 Aug 2026 09:40:58 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月26日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 27 Aug 2026 19:27:12 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月27日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85191" target="_blank"&gt;Linux 诞生 35 周年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                1991 年 8 月 25 日，Linus Torvalds 在新闻组 comp.os.minix 宣布了他正在开发的操作系统内核：“我正在为386（486）AT clones写一个（自由的）操作系统（只是爱好而已，不会和 GNU 一样成为广泛且专业的操作系统）。这个计划从 4 月开始酝酿，现在已做好准备。我希望得到人们关于 minix 优缺点的任何反馈意见，因为我的操作系统和它有类似的方面（因为可行性方面的原因，两者的文件系统物理布局相同）。我刚刚把 bash(1.08) 和 gcc(1.40) 移植到了系统上，而且看来运行得很好。这意味着我可以在几个月内我就可以把它变得有实用性了。我想知道大家想要些什么特色。欢迎提任何的建议，但是我不保证我会实现你的建议 :-)”Torvalds 原计划将项目名字命名为 “fread”——free和 x（即 Unix）的合成词，然而文件上传的 FTP 服务器管理员认为该名字不好听，因此改名为 Linux。如今这个原本是爱好的项目已经走过了 35 年，成为了世界上最流行的操作系统，被无数人使用，虽然桌面是一个例外。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85206" target="_blank"&gt;英伟达同意以 129 亿美元收购 Hugging Face&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                The Information 报道，英伟达同意以 129 亿美元收购 Hugging Face。这笔交易仍处于敲定阶段，仍有可能告吹。英伟达是 Hugging Face 的投资者，它在 2023 年参与了 Hugging Face 的 D 轮融资，当时以 45 亿美元估值融资 2.35 亿美元。英伟达去年还提议以 70 亿美元估值投资 5 亿美元，但遭到 Hugging Face 的拒绝。Hugging Face 是开源 AI 生态系统的核心，托管着数百万个可供开发者使用的 AI 模型和数据集。收购该平台有助于让英伟达在 AI 开发者中占据更大的市场份额。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85192" target="_blank"&gt;微软画图和照片应用生成的图像嵌入了看不见的水印&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Windows 画图（Paint）和照片（Photos）应用都集成了微软的 AI 工具 Copilot，支持通过本地模型和云端生成图像。AI 生成的图像会嵌入两个水印，其一是可见的 Copilot logo，其二是不可见的能跟踪到用户身份的唯一识别码 GUID。画图和照片使用的本地模型（仅限于 Copilot+ PC）共四个文件，容量不到 400MB，无论本地还是云端用户输入的提示词都会发送到微软服务器进行内容审核，服务器会返回 GUID 以及审核后的提示词，GUID 随后就嵌入在 AI 生成的图像之中。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85207" target="_blank"&gt;新 Twitter.now 上线&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                总部位于美国弗吉尼亚州的初创公司 Operation Bluebird 上线了新社交网络 Twitter.now，致力于复兴已被马斯克（Elon Musk）的 X 抛弃了的 Twitter。马斯克在 2022 年收购 Twitter 之后迅速将其改名为 X，弃用了 Twitter 相关标识。Operation Bluebird 的联合创始人认为此举标志着 X 放弃了 Twitter 的身份和知识产权，
+为其申请 Twitter 商标权创造了机会，他们因此准备推出新版的 Twitter。X 去年底起诉了 Operation Bluebird，要求特拉华州联邦法官发布初步禁令，阻止新版 Twitter 上线。法官 Colm Connolly 在今年四月做出了临时裁决，认为 X 看起来放弃了对“tweet”一词和 Twitter 蓝鸟 logo 的知识产权主张，甚至可能也包括对“Twitter”一词的知识产权主张。法官尚未发布书面命令。新版的 Twitter.now 与旧版的 Twitter.com 外观非常相似，一大不同之处是内置了事实核查功能，强调自己与 X 毫无关系。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85193" target="_blank"&gt;社媒的设计方式让年轻人难以批判性思考&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                以 TikTok 为代表社媒通过无限滚动的信息流让用户无法对其浏览的内容进行深度思考。这种设计在世界各地引发激烈的讨论，欧洲正考虑限制此类设计。伯明翰大学的研究人员通过访谈和小组讨论的方式，收集了英格兰各地中小学和大学 16-25 岁年轻人的意见。年轻人并非社交媒体的被动用户，他们会思考，且常对所看到的内容持怀疑态度。但研究表明，TikTok 的设计使得批判性思维难以发挥作用。参与者一致认为 TikTok 是一个娱乐平台，而非严肃的学习场所，他们用“有趣但虚假”来形容它。研究还发现，TikTok 的算法驱动设计鼓励用户快速被动地消费内容。严肃的心理健康视频之后可能紧接着无关的娱乐内容，几乎没有给用户留下反思或批判性评估的机会。尽管参与者表示他们试图通过点赞或跳过内容去训练算法，但很多人发现算法的反馈不稳定，有害内容仍然会不断涌现。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85208" target="_blank"&gt;亚马逊收购开源数据库 DuckDB 开发团队&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                亚马逊同意收购开源数据库 DuckDB 开发团队 DuckLabs。DuckLabs 员工将加入亚马逊 AWS，其中包括联合创始人 Hannes Muhleisen 和 Mark Raasveldt，他们将继续领导团队和制定项目的技术方向，员工也将继续在阿姆斯特丹办公。DuckDB 项目将继续维持现有的开源状态，使用 MIT 许可证，由独立基金会管理。收购 DuckLabs 被认为有助于将亚马逊的云存储服务 S3 转型为客户分析数据而非仅仅存储数据的平台。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85194" target="_blank"&gt;因保安可能罢工 Anthropic 通知员工远程办公&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                因保安可能罢工 Anthropic 通知旧金山办公室的员工本周在家远程办公。Anthropic 上周收到了提供安保服务的  
-Allied Universal 公司的通知，称该公司的保安可能罢工。Anthropic 随后通知其员工，为以防万一周一和周二在家办公。代表保安的工会 Service Employees International Union (SEIU)表示正与 Allied 等安保服务公司进行合同谈判，但工会没有发起罢工授权投票，也没有发出任何罢工威胁。SEIU 代表了加州数以千计的保安，自 4 月以来一直在进行谈判，以争取更高的工资、更好的医保和更全面的职业培训。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85209" target="_blank"&gt;中尼边境泥石流灾害逾 1300 人失踪&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                8 月 26 日周三上午中尼边境吉隆口岸发生泥石流灾害。尼泊尔周四报告有 165 人死亡，826 人失踪。中国央视报告，截至周四上午有 3 人死亡，558 人失踪，其中外国人 260 人。这次事件被认为是冰川崩塌引起的，冰川崩塌的震动是如此之大，以至于当地地震仪记录到了地震事件。美国地质调查局（USGS）称未发生地震，地震事件是 5.2 级冰川崩塌引起的。加拿大卡尔加里大学的 Dan Shugar 说，过去两天的卫星图像显示附近冰川损失了不少雪，“我猜测，积雪融化以及冰川冰的融化，将大量液态水注入冰川，这些水渗入冰川底部，起到润滑作用。这足以导致冰川崩塌。”他表示冰川崩塌可能与气候变化无关，但此类灾害发生频率增加表明，气候变暖是其促成因素之一。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85195" target="_blank"&gt;XCancel /Nitter 收到 X 寄出的终止服务通知&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                允许用户无需登录阅读 X/Twitter 推文的开源项目 Nitter 收到了 X 寄出的勒令停止信函。基于 Nitter 的服务如 XCancel 都收到了类似的律师函，相关项目和网站都被迫宣布关闭。这不是第一次 X 试图关闭 Nitter 项目。2024 年 在 X 推出新的 API 限制后 Nitter 的主要实例 Nitter.net 一度下线。Nitter 的工作原理是获取公开的推文，移除广告、跟踪 cookie 和 JavaScript，为用户提供一种简洁无干扰的推文阅读方式，无需注册账号或打开应用。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85210" target="_blank"&gt;Apple Maps 加入广告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果的地图服务 Apple Maps 加入了广告。美国和加拿大用户的搜索结果顶部以及“推荐地点（suggested places）”部分会显示付费广告商家的名字。苹果表示，广告可能基于用户的大致位置、搜索词或正在查看的地图区域，但不会与用户的 Apple 帐户关联，个人数据也保留在设备上。付费商家上会显示“Ad”的蓝色徽章。苹果强调，其广告政策致力于保护用户隐私，苹果不会收集或存储个人数据，也不会与第三方共享。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85196" target="_blank"&gt;亚马逊以内存短缺为由大幅上涨自有品硬件产品价格&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                亚马逊以内存短缺为由大幅上涨了自有品硬件产品的价格。受到影响的产品包括 Fire TV、Echo、Kindle 和 Eero，以最廉价的智能音箱 Echo Dot 为例，其价格从 49.99 美元涨至 79.99 美元。亚马逊在一份声明中称，“消费电子行业面临内存和存储组件成本的大幅上涨。在长期承担这些成本上涨后，我们最近对产品线进行了价格调整。”亚马逊的涨价再次证明如今不是购买硬件产品的好时机，苹果刚刚宣布的新款 Mac Mini 就大幅提高了起售价。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85211" target="_blank"&gt;LibreOffice 26.8 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                The Document Foundation 宣布释出 LibreOffice 26.8，强调该版本不包含生成式 AI 功能，不会将文档传输到远程服务进行处理，各个组件也不需要网络访问就能运行。LibreOffice 26.8 最大的单项改进聚焦于双向文本和复杂文本处理。Writer 现在会在打开或粘贴文档/纯文本时自动检测段落方向；换行时行尾空格的位置会根据段落方向而非相邻字符方向调整。从右至左或竖排中日韩（CJK）文档的对象大小调整句柄能正确工作。双向控制字符现已与其他格式标记一同可见。在 Calc 中，若在空单元格中输入从右至左的文本，系统会自动设置该单元格的方向。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85197" target="_blank"&gt;新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                新西兰提出了一项法案 The Online Safety (Minimum Age and Child Safety Risk Assessment) Bill，提议禁止 16 岁以下儿童使用社媒和 AI 陪伴服务。总理 Christopher Luxon 表示：现实世界有保护儿童安全的措施，
-虚拟世界也需要有同样的措施。法案要求对包含对儿童有害功能的社媒平台设置年龄限制。有害功能包括推荐系统、无限信息流、反馈功能和限时功能。法案还试图限制未成年用户访问 AI 陪伴服务。即时通讯应用、职业社交网站、游戏和音乐平台以及其它教育和健康工具不会受到限制。法案要求社媒平台通过面部扫描和用户活动模式等方式验证用户年龄，要求平台对所有 18 岁以下用户进行儿童安全风险评估，保护他们免受欺凌、暴力和色情材料等有害内容的侵害。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85212" target="_blank"&gt;亚马逊 Mechanical Turk 将于 9 月 30 日关闭&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                亚马逊宣布其众包平台 Mechanical Turk 将于 9 月 30 日关闭。亚马逊上个月才宣布将于 7 月 30 日起停止接受新用户。当时亚马逊表示该决定是在“慎重考虑”后做出的，“现有用户可以继续正常使用该服务。AWS 将继续投资改进 Mechanical Turk 的安全性和可用性，但我们不打算推出新功能。如今它正式给 Mechanical Turk 画上了句号。亚马逊是从 2018 年起将 Mechanical Turk 变成训练神经网络的标注数据服务。但讽刺的是 2023 年的研究发现，该平台 33% 到 46% 的众包工作者使用大模型去完成任务，引发了对标注数据的可靠性以及是否真的需要人类参与的质疑。由于大量的机器人和欺骗行为，研究人员已经放弃了该平台，它的关闭只是时间问题。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85198" target="_blank"&gt;全球海洋表面温度创历史最高水平&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                由于人类活动导致的气候变化以及日益严重的厄尔尼诺现象，全球海洋温度创历史最高水平。根据欧洲哥白尼气候变化服务中心的数据，除极地外，全球海洋表面平均温度周六达到了 21.1C，略微高于 2024 年 3 月创下的 21.09C 的纪录，远高于往年同期平均水平。海洋变暖会带来广泛的影响，包括加剧极端天气、海平面上升以及损害海洋生物。该数据是基于海面以下 10 米的海水温度，利用浮标、船舶和卫星的测量数据，综合得出全球估算值。全球海水平均温度的年度峰值通常出现在 3 月或 4 月，对应南半球夏季结束，因为南半球的海洋面积比北半球大，对海水平均温度的影响也更大。令科学家尤为担忧的是，厄尔尼诺现象尚未达到预期峰值，海洋温度已如此之高。厄尔尼诺现象会将异常温暖的海水带到东太平洋和中太平洋的海，通常会导致全球平均气温飙升。预计厄尔尼诺现象将持续增强至圣诞节前后，科学家警告，它有望成为几个世纪以来最强的一次。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85213" target="_blank"&gt;亚马逊 AI 训练设施员工谈内部工作&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                404 Media 前不久跟踪一本珍本图书到亚马逊位于内华达州拉斯维加斯的一个仓库，在该仓库工作的亚马逊团队被称为 VGT3，其 logo 是一只张着嘴、手里拿着一本书的恐龙。他们的主要工作是拆开书脊扫描图书训练 AI。一名在该仓库的亚马逊员工匿名接受了采访，谈论了他们的工作。这名员工称，仓库接收了大量图书，有新书，也有二手书，甚至还看到过代表英女王给议会的文件；图书的语种也是各种各样，有德语、俄语还有日语；他们会扫描图书的条形码移除重复的图书，重复的书会退还给图书经销商；他们使用一种人工操作的机器去切开书脊，使用几十台扫描仪扫描书页，扫描过的书页会处理掉；亚马逊最初告诉他们扫描的书页是用于 kindle 电子书库，这无疑是借口，因为肯定存在版权方面的问题，后来他们才知道是为训练 AI 建立语料库。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85199" target="_blank"&gt;芬兰准备启用全球首座核废料最终处置场&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                全球首座用于处置核电站产生的高放射性核废料的最终处置场预计将在芬兰投入使用。该国的核能监管机构本月 4 日公布评估报告称，经过约 4 年半的审查，用于将乏燃料埋入地下的“翁卡洛”处置场符合安全条件。芬兰政府拟于今年秋季正式批准其投入使用。最快可能于明年初启用。根据计划，乏燃料将被隔绝在地下约 430 米处长达 10 万年以上。根据芬兰的计划，乏燃料将被放入铜制和铸铁制的双层容器，用粘土覆盖后埋入地下，进行长达 10 万年以上的隔离，直到核燃料的放射能降至安全水平。处置场位于西南部的奥尔基卢奥托岛，岛上遍布约 19 亿年前形成的岩盘，几乎不存在大地震及火山喷发的风险。&amp;nbsp;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85214" target="_blank"&gt;NASA 准备本周日发射罗曼太空望远镜&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 准备本周日 8 月 30 日在佛罗里达州的肯尼迪太空中心使用 SpaceX 的重型火箭 Falcon Heavy 发射罗曼太空望远镜。罗曼太空望远镜以 NASA 首任天文学部门女主任 Nancy Grace Roman 的名字命名，使用了美国国家侦察局捐赠的 2.4 米口径主镜，配备了两台科学仪器：3 亿像素多波段红外相机大视场仪表（WFI），能直接观测邻近恒星周围的类木行星的日冕仪（CGI）。其核心任务包括探测暗能量、发现系外行星及验证广义相对论宇宙时空曲率。罗曼望远镜不仅拥有哈勃望远镜的清晰视力，其视场扩大了 100 倍，能快速进行巡天观测，以解答天文学中的一些重大问题。望远镜在前五年主要开展 3 项大型巡天观测：第一项聚焦超新星，第二项聚焦宇宙学，第三项则聚焦系外行星。前两个项目旨在揭示暗能量的奥秘，暗能量是推动宇宙加速膨胀的神秘力量。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-26</guid><pubDate>Wed, 26 Aug 2026 09:40:58 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85215" target="_blank"&gt;Meta将支付 170 亿美元和解儿童隐私保护诉讼，将限制青少年在特定时间访问社媒&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Meta 与美国多州就儿童隐私和消费者保护案达成和解，同意向各州支付总额将近 167 亿美元和解金，以及对青少年用户施加一系列社媒使用限制，包括每天不能使用超过两小时。最具深远影响的和解条款是 Meta 同意实施一系列新的保障措施。这些措施将对面向青少年的社媒运作方式起到实质改变。其中一项变更将启用“夜间屏蔽”功能：在默认设置情况下，从午夜至凌晨6时，青少年将无法访问 Facebook 和 Instagram。此外青少年账户在 Meta 旗下所有社媒的每日累计使用时长，默认上限为两小时。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85216" target="_blank"&gt;一名微软工程师一个月的 AI 支出高达 2.8 万美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在长时间鼓励之后，本月初微软开始要求员工限制 AI 使用。执行副总裁 Jay Parikh 在一封发给微软员工的邮件中要求工程师专注于业务成果，而非最大化 AI token 的使用量，为了“从 token 投资中获得更大的价值”，微软将比 Anthropic 模型更便宜的 OpenAI GPT-5.6 设为内部使用的默认模型。根据一份微软员工自愿提交的 AI 使用费账单：Customer and Partner Solutions 部门的一名员工在 28 天内的 AI 支出高达 2.8 万美元；多名员工支出超过 1 万美元；中位数约为每 28 天 300 美元，少数部门的 AI 支出仅仅为几十美元；CoreAI 部门的 AI 支出中位数最高为 975 美元。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-27</guid><pubDate>Thu, 27 Aug 2026 19:27:12 +0000</pubDate></item></channel></rss>
