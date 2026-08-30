@@ -1,32 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 29 Aug 2026 14:11:13 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月29日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 30 Aug 2026 14:17:47 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月30日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85224" target="_blank"&gt;无人机拍下了引发中尼边境致命泥石流的冰川崩塌&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据网友在小红书上发布、由 BBC 验证真实性的两则无人机拍摄视频，视频记录了喜马拉雅山脉蓝塘里壤峰冰川崩塌的瞬间，中尼边境的致命泥石流灾害正是由其引发的。蓝塘里壤峰海拔约 7200 米，冰川崩塌扬起的尘土直冲云霄。截至目前，尼泊尔报告其境内的死亡人数达到了 547 人，失踪外国游客 575 人——其中包括 183 名印度公民、65 名美国公民、62 名乌克兰公民以及 33 名英国公民，此外还有 149 名尼泊尔游客失踪。中国西藏境内目前只报告 5 人死亡，558 人失踪，其中 260 人为外国人。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85231" target="_blank"&gt;女性在产后遭遇 PTSD&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有更多女性正遭受严重的心理健康问题困扰，却无法获得所需的帮助。他们的研究表明，每 20 名产后女性就有1人会患上 PTSD。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85225" target="_blank"&gt;一次性纸杯会释放大量微塑料&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一次性纸杯虽然主要是纸做的，但并非没有使用塑料，为提高防水性和结构完整性，纸杯内有一层薄塑料内衬，使用的材料可能是聚乙烯或可生物降解的聚乳酸。昆士兰大学的研究人员发现，一次性纸杯在接触热水时会释放大量的微米级和纳米级塑料物质。测量发现，聚乳酸内衬纸杯每毫升含有约 430 万个纳米颗粒，而聚乙烯内衬纸杯每毫升含有约 270 万个纳米颗粒。聚乳酸纸杯释放的塑料颗粒总数是聚乙烯纸杯的 12 倍。研究进一步证实，用于食品储存和制备的新塑料制品是人类通过摄入途径接触塑料的重要来源。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85232" target="_blank"&gt;中国账户试图悄悄煽动美国反数据中心情绪？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 OpenAI 之后，另一家美国 AI 关联公司 X/SpaceX 称，有约 200 个中国关联水军账号在社媒上悄悄煽动美国民众的反数据中心情绪。相关账号的推文内容包括 AI 如何加剧电网压力并推高电价，以及“描绘数据中心运营商如何以牺牲公众利益为代价中饱私囊的漫画”。前 Twitter 通信主管 Jim Prosser 反驳了硅谷关于反对数据中心是中国心理战的说法，他认为大型科技公司利用中国心理战的说法忽视当地民众的合理担忧。 “如果  Greg Abbott 和 Kathy Hochul 都能在某件事上达成一致，那这很可能不是中国的心理战。”共和党籍的德州州长  Greg Abbott 以及民主党籍的纽约州长&amp;nbsp; Kathy Hochul 最近都限制了新数据中心在当地的开发。Prosser 称，科技行业需要花更多时间倾听受影响社区的声音，而不是居高临下对他们置之不理：“如果你是生活在 Atherton 或 Menlo Park 的风投家，从未去过俄亥俄州，却对俄亥俄州居民的感受指手画脚，那就有问题了。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85226" target="_blank"&gt;澳大利亚有望在未来十年消灭宫颈癌&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                宫颈癌是女性第四大常见癌症，而 99% 的宫颈癌病例是由高危型人乳头瘤病毒（HPV）引起的。2006 年澳大利亚在全球率先推出首款宫颈癌疫苗，至今已有 20 年。该疫苗除了预防宫颈癌，还能预防咽喉癌、生殖器癌和肛门癌。因此男女都能从接种疫苗上受益。澳大利亚也是第一个全额资助 HPV 疫苗接种计划的国家，自 2007 年起，澳大利亚 26 岁以下女孩和年轻女性可免费接种该疫苗，2013 年起男孩和年轻男性也纳入该计划。澳大利亚有望在未来十年消灭宫颈癌。但世界各地的疫苗接种率都因为新冠疫情而大幅下降，澳大利亚也存在这一情况：到 15 岁时女孩的 HPV 疫苗接种率从 2020 年的 86.6% 下降到 78.7%。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85233" target="_blank"&gt;Pixel 11 取消了对硬件 MTE 的支持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Android 安全加固项目 GrapheneOS 发现，Google 新一代旗舰智能手机 Pixel 11 取消了对硬件 MTE（hardware memory tagging）的支持，导致该项目无法完成对 Pixel 11 的支持。MTE（Memory Tagging Extension）是 ARMv8.5-A 架构引入的安全特性，通过标记分配的内存去跟踪非法内存操作，改进内存安全性。Google 是从 2023 年发布的 Pixel 8 起开始支持硬件 MTE。但 Android 和 Pixel OS 从未默认启用 MTE，相比下苹果的  iPhone 17 默认启用了它的 MTE 实现 Memory Integrity Enforcement(MIE)。GrapheneOS 会自动为更多应用启用 MTE，为每个安装的应用提供一个开关供用户可选启用。对于不兼容的应用则提供开关可选禁用。GrapheneOS 正与摩托罗拉合作推出支持 GrapheneOS 的手机，新手机将使用高通的骁龙 8 Elite Gen 5，该 SoC 支持硬件 MTE。GrapheneOS 项目不推荐用户购买 Pixel 11，建议购买更便宜的 Pixel 8、9 和 10。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85227" target="_blank"&gt;程序员在公司厕所猝死，人社局以电脑没开不认定工伤&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                39 岁的深圳程序员邢志（化名）于 2026 年 4 月 23 日 8 时 56 分驾车进入公司所在办公楼负 2 楼停车，9 时步行至电梯厅询问值班安保 2 楼卫生间位置，1 分钟后，其到达卫生间一直未出，直至 11 时 28 分被发现失去意识躺坐在马桶上。公司随即用 AED 进行急救并拨打 120。12 时 50 分，医生停止急救，确认邢志死亡。邢志去世后，公司进行了一定补偿，向深圳市人社局申请工伤认定。7 月 3 日，人社局发出了《深圳市不予认定工伤决定书》。决定书显示，其情形不符合《广东省工伤保险条例》第九条、第十条，不予认定或视同工伤。工伤科工作人员称，邢志工位在 11 楼，打完卡后去了 2 楼卫生间，没有先去工位，也没有从事与工作相关的内容，因此无法认定为工伤。邢志家人已提起上诉。工伤认定能让其家人获得 1130040 元的赔偿金，以及丧葬费和抚恤金。律师认为，工作场所的卫生间应被视为员工工作岗位的合理延伸。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85234" target="_blank"&gt;索尼华纳起诉 Anthropic 侵犯版权&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                全球唱片巨头索尼和华纳对 Anthropic 提起诉讼，指控其犯下了历史上规模最大、最明目张胆的知识产权盗窃罪行之一。诉讼指控 Anthropic 非法利用数万首版权音乐作品训练其模型。Anthropic 及其创始人 Dario Amodei 和 Benjamin Mann 被控肆无忌惮的大规模非法下载、抓取和传播受版权保护的作品，目的是开发、运营该公司的 Claude 系列 AI 模型，并从中牟取暴利。唱片公司要求为每部侵权作品索赔最高 15 万美元，每次可识别版权信息被删除的情况则追加最高 2.5 万美元赔偿。如果法院裁决唱片公司胜诉并判决最高赔偿金额，总赔偿金额可能高达数十亿美元。诉讼还指控 Mann 使用 BitTorrent下载了逾 500 万本盗版图书，Anthropic 员工还从 Pirate Library Mirror 网站下载了逾 200 万本盗版图书，从付费获得唱片公司授权的 MusixMatch 和 LyricFind 等网站抓取歌词。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85228" target="_blank"&gt;人形机器人的跑步方式与人类不同&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                北京人形机器人创新中心研发的通用人形机器人天工在世界人形机器人运动会上跑出了 100 米 8.64 秒的成绩，远超博尔特（Usain Bolt）于 2009 年创下的 100 米 9.58 秒的人类世界纪录。机器人的平均速度接近 42 公里/时。专家表示，这一成绩凸显了机器人的强大，也凸显了它们在决策和感知等方面的不足——人形机器人都是靠撞软垫的方式刹车的。人形机器人的跑步方式与人类不同：首先是博尔特的起跑仅仅花了 0.146 秒，相比下机器人等了近 1 秒钟才反应过来开始移动；博尔特仅用 41 步就完成了 100 米，而机器人花了 50 多步，机器人的步频更快步幅更短。韩国光云大学机器人学教授 Park Suhan 表示，机器人的步态映了其电机的性能，而非去刻意模仿人类的短跑。另一位专家认为机器人如果步幅过大会很容易摔倒。人类顶尖运动员在跑步的最后阶段会减速，但天工机器人没有任何减速迹象，因此最后一头撞向软垫。未来几年能转弯和自主决策的机器人将比单纯的提高速度会更令人印象深刻。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-29</guid><pubDate>Sat, 29 Aug 2026 14:11:13 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-30</guid><pubDate>Sun, 30 Aug 2026 14:17:47 +0000</pubDate></item></channel></rss>
