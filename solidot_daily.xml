@@ -1,26 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 30 Aug 2026 14:17:47 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月30日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 31 Aug 2026 16:45:17 +0000</lastBuildDate><item><title>【Solidot 日报】2026年08月31日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85231" target="_blank"&gt;女性在产后遭遇 PTSD&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有更多女性正遭受严重的心理健康问题困扰，却无法获得所需的帮助。他们的研究表明，每 20 名产后女性就有1人会患上 PTSD。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85235" target="_blank"&gt;NASA 成功发射罗曼太空望远镜&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 的 Nancy Grace Roman 太空望远镜于 8 月 30 日 7:26 使用 SpaceX 重型火箭 Falcon Heavy 从佛罗里达肯尼迪太空中心 39A 发射台发射升空。太空望远镜以 NASA 首任天文学部门女主任的名字命名，使用了美国国家侦察局捐赠的 2.4 米口径主镜，配备了两台科学仪器——3 亿像素多波段红外相机大视场仪表（WFI）以及能直接观测邻近恒星周围的类木行星的日冕仪（CGI）。其核心任务包括探测暗能量、发现系外行星及验证广义相对论宇宙时空曲率。火箭在飞行 31 分钟后与望远镜分离，助推器安全返回发射场。Roman 望远镜将飞往日地之间的 L2 拉格朗日点，它将首先进行为期三个月的调试，NASA 计划 2027 年初发布望远镜拍摄的首批图像。望远镜每天将传回 1.4TB 的数据。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85232" target="_blank"&gt;中国账户试图悄悄煽动美国反数据中心情绪？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 OpenAI 之后，另一家美国 AI 关联公司 X/SpaceX 称，有约 200 个中国关联水军账号在社媒上悄悄煽动美国民众的反数据中心情绪。相关账号的推文内容包括 AI 如何加剧电网压力并推高电价，以及“描绘数据中心运营商如何以牺牲公众利益为代价中饱私囊的漫画”。前 Twitter 通信主管 Jim Prosser 反驳了硅谷关于反对数据中心是中国心理战的说法，他认为大型科技公司利用中国心理战的说法忽视当地民众的合理担忧。 “如果  Greg Abbott 和 Kathy Hochul 都能在某件事上达成一致，那这很可能不是中国的心理战。”共和党籍的德州州长  Greg Abbott 以及民主党籍的纽约州长&amp;nbsp; Kathy Hochul 最近都限制了新数据中心在当地的开发。Prosser 称，科技行业需要花更多时间倾听受影响社区的声音，而不是居高临下对他们置之不理：“如果你是生活在 Atherton 或 Menlo Park 的风投家，从未去过俄亥俄州，却对俄亥俄州居民的感受指手画脚，那就有问题了。”
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85236" target="_blank"&gt;Google Maps 在美国将安大略湖更名为美国湖&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在墨西哥湾之后，Google 宣布其地图服务 Google Maps 将安大略湖（Lake Ontario）更名为美国湖（Lake America）——这一更改主要针对美国用户，加拿大用户仍然看到的是安大略湖，而世界其他地方的用户则会看到两个名字。另一家美国地图服务 MapQuest 表示不会改名，但会提供一款工具，允许用户根据自己的意愿随便改名字。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85233" target="_blank"&gt;Pixel 11 取消了对硬件 MTE 的支持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Android 安全加固项目 GrapheneOS 发现，Google 新一代旗舰智能手机 Pixel 11 取消了对硬件 MTE（hardware memory tagging）的支持，导致该项目无法完成对 Pixel 11 的支持。MTE（Memory Tagging Extension）是 ARMv8.5-A 架构引入的安全特性，通过标记分配的内存去跟踪非法内存操作，改进内存安全性。Google 是从 2023 年发布的 Pixel 8 起开始支持硬件 MTE。但 Android 和 Pixel OS 从未默认启用 MTE，相比下苹果的  iPhone 17 默认启用了它的 MTE 实现 Memory Integrity Enforcement(MIE)。GrapheneOS 会自动为更多应用启用 MTE，为每个安装的应用提供一个开关供用户可选启用。对于不兼容的应用则提供开关可选禁用。GrapheneOS 正与摩托罗拉合作推出支持 GrapheneOS 的手机，新手机将使用高通的骁龙 8 Elite Gen 5，该 SoC 支持硬件 MTE。GrapheneOS 项目不推荐用户购买 Pixel 11，建议购买更便宜的 Pixel 8、9 和 10。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85237" target="_blank"&gt;柏林市遭到黑客攻击和勒索&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                柏林市长 Kai Wegner 表示，本月初黑客入侵了柏林市政府系统，窃取了数据，并提出了勒索要求。他表示政府不会屈服于勒索要求。他没有透露赎金金额。据媒体报道，黑客索要 30 个比特币，价值约 200 万欧元。攻击导致部分在线系统被迫关闭。在俄罗斯和东欧活动的 Rhysida 组织宣布对此负责。该组织宣布计划一周后拍卖从柏林市窃取的 5.79TB 数据。柏林市政府官员表示，数据泄露发生在 8 月 7-12 日之间。8 月 14 日，两个政府部门的网络被关闭，导致住房补贴申请和付款在数日内无法进行。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85234" target="_blank"&gt;索尼华纳起诉 Anthropic 侵犯版权&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                全球唱片巨头索尼和华纳对 Anthropic 提起诉讼，指控其犯下了历史上规模最大、最明目张胆的知识产权盗窃罪行之一。诉讼指控 Anthropic 非法利用数万首版权音乐作品训练其模型。Anthropic 及其创始人 Dario Amodei 和 Benjamin Mann 被控肆无忌惮的大规模非法下载、抓取和传播受版权保护的作品，目的是开发、运营该公司的 Claude 系列 AI 模型，并从中牟取暴利。唱片公司要求为每部侵权作品索赔最高 15 万美元，每次可识别版权信息被删除的情况则追加最高 2.5 万美元赔偿。如果法院裁决唱片公司胜诉并判决最高赔偿金额，总赔偿金额可能高达数十亿美元。诉讼还指控 Mann 使用 BitTorrent下载了逾 500 万本盗版图书，Anthropic 员工还从 Pirate Library Mirror 网站下载了逾 200 万本盗版图书，从付费获得唱片公司授权的 MusixMatch 和 LyricFind 等网站抓取歌词。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85238" target="_blank"&gt;韩国准备向所有民众提供免费 AI 服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                韩国准备向所有民众提供免费 AI 服务 AI for All。该服务计划从下月起进行 beta 测试，计划今年晚些时候推出。服务由韩国两家最大的电信公司以及 Kakao 牵头的三个联盟提供，政府提供部分算力，包括提供最多 512 块英伟达 B200 芯片和支付部分运营费用。AI 服务预计将与政府系统连接，而不只是作为独立的聊天机器人运行。居民将能使用这些服务预约医生、搜索公寓和获取税务指导。小型企业将能计算税款和查询是否符合政府补贴资格。家长将收到教育内容的推荐。每个联盟都计划推出自己的 AI 应用，在现有产品中加入生成式 AI 功能。在政府支持的计划下，用户可以无限次访问，没有 token 限制。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-30</guid><pubDate>Sun, 30 Aug 2026 14:17:47 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85239" target="_blank"&gt;天文学家可能发现首个没有恒星的星系&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                被称为 Cloud 9 的星系可能是人类发现的第一个没有恒星的“失败”星系。此类星系虽然有大量气体和尘埃，却几乎没有恒星存在。Cloud 9 距离地球 1400 万光年，靠近旋涡星系 M94，它包含一团巨大的氢气云，估计质量是太阳的 100 万倍，以及质量约为太阳 500 万倍的暗物质。它几乎不发出任何星光。无恒星星系形成的主流解释与紫外背景辐射相关，在宇宙早期的再电离时代后，紫外辐射场将低质量暗物质晕中的气体加热到足够高的温度，使得气体无法有效冷却并坍缩形成恒星。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85240" target="_blank"&gt;人类何时开始不爱吃昆虫？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                研究人员借助基因组证据，还原了数千年来人类食用昆虫的模式。研究表明，在欧洲、中亚与东亚地区，吃昆虫可能只是偶然行为；而在热带地区以及尼安德特人中，食虫则更为普遍。研究人员检测了 745 份来自现代人的牙结石样本，其年代最早可追溯至 3.3 万年前。牙结石能保存食物的 DNA，为研究人员提供了远古饮食的记录。研究结果显示，生活在欧亚大陆北部的现代人并不会经常食用昆虫。研究团队还检测了与分解几丁质相关的基因，几丁质是昆虫外骨骼的主要成分。在欧亚大陆北部人群中，几丁质酶基因发生了突变，导致人体消化昆虫外骨骼的能力下降。这种基因模式已延续了约 9000 年，可追溯至农业兴起之时。尼安德特人的情况则截然不同，他们的牙结石中所含的昆虫 DNA 要多得多。尼安德特人牙结石中最常见的基因痕迹来自双翅目昆虫，包含苍蝇和蚊子，其中蚊子的 DNA 含量尤其丰富。该结果佐证了近期的一个假说——尼安德特人可能经常食用带有蝇蛆的动物尸体。而蚊子遗骸的大量存在也支持了另一种观点——猎物的尸体有时可能被存放在池塘或沼泽环境中，而蚊子会在这些地方产卵。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85241" target="_blank"&gt;植物如何应对高温&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家早就知道，植物叶片表面分布着许多微小的气孔。当温度升高时，这些微小的孔隙会“张嘴”，让水分蒸发，从而带走热量，就像人出汗能降温一样，但气孔这一植物“散热器”背后的分子调控机制，一直是个未解之谜。该通路的核心是一种名为“泛素特异性蛋白酶24”（UBP24）的蛋白质。他们发现，当高温来袭，植物体内的激酶会“唤醒”UBP24，导致其分子电荷发生变化，使其变得更加稳定。在更稳定的状态下，UBP24 有助于“保护”并激活其他参与维持气孔开口的蛋白质，使植物的蒸发冷却系统在热应激时保持活跃。通俗来说，UBP24 就像“空调”上灵敏的温控开关。类似的故事并非只在植物身上上演。科学家还发现，啤酒酵母中的一种相关蛋白质也依靠相似原理应对热应激。酵母与植物分属不同物种，生活方式大相径庭，且两者之间存在数亿年的进化差距，却在细胞层面使用了相似的“散热逻辑”。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85242" target="_blank"&gt;Google 改变了其搜索结果的展示方式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 过去一年对其搜索结果的展示方式进行了两次重大改变。其一是搜索结果链接，以前你将鼠标悬停在搜索结果上会在浏览器底部看到网站链接，现在显示的是 google.com/goto + 一串看起来随机的字符串。搜索结果中的 AI Overview 引用的链接也是采用此类展示方式。其二是用户以前可以在搜索词末尾添加 &amp;amp;num=100，可以在一个页面上显示前 100 个搜索结果，如今这一快捷方式被取消了，Google 强制只展示最多 10 个搜索结果，意味着你想要看前 100 个结果需要点击 10 次。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85243" target="_blank"&gt;Steam 平台 2003-2013 年的几乎所有游戏泄露&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                上周末 Steam 平台逾 12TB 数据泄露，涵盖了该平台 2003-2013 年之间几乎所有的游戏。这些数据是通过一个公开访问的 API 获取的，但不清楚是近期访问还是早就下载但直到上周才公开。相关数据来自被称为 Steam2 的内容分发系统，2013 年 Steam2 被 SteamPipe 系统所取代，因此数据仅限于 2013 年前。泄露的数据包括了Valve 和第三方发行商发布的热门游戏的早期版本、原型版本和试玩版本，其中包括《传送门2》的被删减内容，被取消的《半条命2：第三章》的部分文件。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85244" target="_blank"&gt;Linux 7.3-rc1 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Linus Torvalds 宣布释出 Linux 7.3-rc1，关闭了 7.3 的合并窗口，正式版预计将在十月底释出。Linux 7.3 的主要特性包括：Ryzen AI Halo LED/RGB 驱动、继续即将推出的 AMD Zen 6 的支持工作、KSMBD 兼容 Apple Time Machine 备份、内核驱动初步支持 2026 年款 Steam Controller、合并 FailFS、Intel Xe3P Nova Lake 集显支持稳定、改进了显存容量有限的系统的游戏性能、改进 SMP 降低延迟提升实时性能、等等。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-08-31</guid><pubDate>Mon, 31 Aug 2026 16:45:17 +0000</pubDate></item></channel></rss>
