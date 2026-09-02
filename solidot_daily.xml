@@ -1,80 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 01 Sep 2026 13:57:43 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月01日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 02 Sep 2026 13:17:52 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月02日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85243" target="_blank"&gt;Steam 平台 2003-2013 年的几乎所有游戏泄露&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                上周末 Steam 平台逾 12TB 数据泄露，涵盖了该平台 2003-2013 年之间几乎所有的游戏。这些数据是通过一个公开访问的 API 获取的，但不清楚是近期访问还是早就下载但直到上周才公开。相关数据来自被称为 Steam2 的内容分发系统，2013 年 Steam2 被 SteamPipe 系统所取代，因此数据仅限于 2013 年前。泄露的数据包括了Valve 和第三方发行商发布的热门游戏的早期版本、原型版本和试玩版本，其中包括《传送门2》的被删减内容，被取消的《半条命2：第三章》的部分文件。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85256" target="_blank"&gt;Softaculous 遭遇长达 33 小时的 BGP 路由劫持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                8 月 28 日 20:57 UTC 左右，一个不相关网络 BGP 路由通告了 Softaculous 使用的 Hetzner IP 段，将部分原本发送到 Softaculous 系统的流量劫持到攻击者控制的服务器。Hetzner 是 Softaculous 的上游基础设施供应商，而 Softaculous 则是一家为 Web 托管服务商提供软件的公司，它的 Virtualizor 控制面板被管理员用于部署和管理 VPS。这次 BGP 路由劫持影响了 Virtualizo 更新服务器以及客户和计费网站。攻击者还从 Let's Encrypt CA 获取了有效的 TLS 证书，Let's Encrypt 的自动域名所有权验证也被劫持到了攻击者控制的 IP。Softaculous 于 8 月 29 日 08:50 UTC 向 Hetzner 报告了事件，Hetzner 随后通过发布相同的路由通告遏制了问题。但攻击者于 20:00 UTC 再次了长达 10 小时的路由劫持。8 月 30 日 05:50-06:10 UTC 路由通告被撤回，劫持停止。Softaculous 建议在攻击期间登陆过的用户立即重置密码，以及重置所有重用该密码的账户。同一时间段内输入过银行卡信息的客户也应检查其账单。攻击者在此期间推送了一个恶意的 Virtualizor 更新包，它建议所有 Virtualizor 用户检查其服务器并轮换凭证。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85244" target="_blank"&gt;Linux 7.3-rc1 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Linus Torvalds 宣布释出 Linux 7.3-rc1，关闭了 7.3 的合并窗口，正式版预计将在十月底释出。Linux 7.3 的主要特性包括：Ryzen AI Halo LED/RGB 驱动、继续即将推出的 AMD Zen 6 的支持工作、KSMBD 兼容 Apple Time Machine 备份、内核驱动初步支持 2026 年款 Steam Controller、合并 FailFS、Intel Xe3P Nova Lake 集显支持稳定、改进了显存容量有限的系统的游戏性能、改进 SMP 降低延迟提升实时性能、等等。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85257" target="_blank"&gt;小规模民调显示七成韩国民众支持限制青少年使用社交网络&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                周二公布的一项民调显示，七成韩国民众表示支持出台限制青少年使用社媒的政策。这项民意调查访问了 1000 名年龄在 14-58 岁之间的受访者。调查结果显示，70.7% 的受访者支持，29.3% 的受访者反对。占总调查人数五分之一的青少年受访者中，59% 反对，41% 支持。当被问及实施此类限制的合适年龄时，16.8% 选择了 15 岁，14.9% 选择了 18 岁，13.1% 选择了 11 岁及以下。大多数受访者表示，即使出台此类政策，在限制青少年使用社媒方面仍然存在局限性，青少年用户可能会盗用他人账号或转向其它不受限制的平台，因此 59.8% 的受访者认为，平台应采取更多措施营造安全的社媒使用环境。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85245" target="_blank"&gt;加州议会通过年龄验证法案，Linux BSD 豁免&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                加州参议院和众议院批准了年龄验证法案 Assembly Bill 1856。在递交给州长批准之后法案预计于 2027 年 1 月 1 日生效。法案豁免了 Linux 和 BSD 等开源操作系统。法案要求，如果操作系统有账户设置功能，那么系统提供商须提供一个界面，在账户设置期间要求输入设备主用户的出生日期、年龄或两者兼有。操作系统通过相对一致的实时 API 向受监管的应用商店和应用开发商提供数字年龄信号。该信号不显示精确的出生日期，而是四个年龄段之一：13 岁以下、13-15 岁、16-17 岁或 18 岁及以上。对 2027 年 1 月 1 日之前的设备，操作系统提供商必须在 2027 年 7 月 1 日之前提供界面让账户持有人提供所需的年龄信息。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85258" target="_blank"&gt;苹果地图在 Google 地图之后将安大略湖更名为美国湖&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果在 Google 之后将其地图服务中的安大略湖（Lake Ontario）更名为美国湖（Lake America）。和 Google Maps 类似，这一改名主要针对美国地区的用户，加拿大地区用户仍然看到的是安大略湖，而世界其它地方的用户则同时看到两个名字。此前 Apple Maps 也以类似的方式将墨西哥湾改名为美国湾。与此同时，拒绝改名的美国地图服务 MapQuest 则成为美国 App Store 下载量最高的地图应用。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85246" target="_blank"&gt;OpenShot 4.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                自由软件视频编辑器项目 OpenShot 释出了 v4.0 版本。主要新特性包括：新色彩视图；新录制视图：将麦克风、屏幕、Web 摄像头和系统音频直接添加到项目中，每个音源保持独立且可编辑；10 种新特效；使用本地大模型选择和跟踪对象；更简洁的原生时间线；更快的特效和编辑速度；智能的创意工作流程；扩展 Qt 6 支持，改进了与较新 Linux 发行版的兼容性，为 Android 和其它平台奠定了基础。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85259" target="_blank"&gt;Firefox 155 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Mozilla 释出了 Firefox 155。从该版本起 Firefox 将每隔两周发布一个新版本。Firefox 155 主要变化包括：
+地址栏中新增 Firefox 已拦截广告追踪器的数量；容器重排序；mailto: 链接仅在用户明确操作后打开；用于登录酒店 Wi-Fi 的域名 detectportal.firefox.com 改为 firefox-portal-detection.com；Smart Window 对所有美国、加拿大和法国用户可用；bug 修正和安全补丁，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85247" target="_blank"&gt;Google 从其扩展商店移除了包括 uBlock Origin 在内的所有 Manifest V2 扩展&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 从其扩展商店 Chrome Web Store 移除了包括 uBlock Origin 在内的所有 Manifest V2 扩展。Chrome 用户已安装的 Manifest V2 扩展目前还能使用，但不会再收到任何更新，卸载之后将无法再重新安装。Chrome Web Store 将只提供 Manifest v3 扩展，Manifest v3 相比 Manifest v2 的一大区别是移除了 blockingWebRequest 和 declarativeNetRequest，限制了广告屏蔽扩展的功能，uBlock Origin 是基于 Manifest V2，它没有 Manifest V3 版本，但有一个基于 V3 的精简版本。用户如果想要继续使用 uBlock Origin 只能改用 Firefox 以及另一款基于 Chromium 的浏览器 Brave。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85260" target="_blank"&gt;Starman Holding 以 2.85 亿美元现金收购 GoPro&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Starman Holding 以 2.85 亿美元现金收购了知名运动相机制造商 GoPro 几乎所有股份。股东将保留公司 10% 的股份；YouTube 主播 Mark“Markiplier”Fischbach 此前收购了 GoPro 8.5% 的股份——但不清楚是否还会继续持续股份。Starman 的业务相当复杂，涉及多个领域，包括手机壳品牌 Incipio、Incase、Griffin 和 Survivor，曾获得新冠病毒检测合同的 Digital Gadgets，Onward Brands 等。根据递交到 SEC 的文件，名为 Action Acquisitions LLC 的公司将成为 GoPro 的母公司。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85248" target="_blank"&gt;拒绝改名的 MapQuest 成为美国 App Store 下载量最高的地图导航应用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 Google Maps 以极快的速度屈服特朗普的行政令，将安大略湖（Lake Ontario）更名为美国湖（Lake America）之后，公开宣布拒绝改名的美国地图导航服务 MapQuest 立即赢得了公众的支持，其移动应用下载量飙升，排在苹果美国 App Store 非游戏类榜单第四，总排名第八，成为美国排名第一的地图导航应用。MapQuest 也成为苹果加拿大 App Store 下载量总排名第二的应用。该公司表示，自决定保留安大略湖名称以来，其应用的下载量增加了数十万次，使用量更是飙升至正常水平的 50 倍。Sensor Tower 的第三方数据也显示，8 月 24 日开始的一周内 MapQuest 全球和美国应用总下载量分别为 18.4 万次和 16.2 万次，均较前一周增长逾 10 倍。在美国 8 月 26-30 日间 MapQuest 应用的日下载量环比增长了 128%。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85261" target="_blank"&gt;LWN 上调订阅价格&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                所有东西都在慢慢涨价，包括订阅服务。历史悠久的自由软件和开源新闻网站 LWN 宣布它将从 9 月 15 日起上调订阅费用。LWN 从 2002 年起采用订阅模式，过去 24 年只涨价过两次，最近一次是 2022 年。根据美国官方的数据，2022 年以来消费者价格通胀率累计接近 20%，因此 LWN 的订阅价格也将上调 20%。
+订阅级别：&lt;br /&gt;
+Starving hacker	$6.00&lt;br /&gt;
+Professional hacker	$11.00&lt;br /&gt;
+Project leader	$19.00&lt;br /&gt;
+Maniacal supporter	$55.00
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85249" target="_blank"&gt;带电雨滴会腐蚀汽车&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                德国科学家研究显示，作为一种自然发生的现象，带电雨滴能分解经过保护性涂层处理的表面。这一此前被忽视的腐蚀机制有助于寻找新方法保护如汽车、船舶、建筑和文化遗址等金属物体。腐蚀是户外金属制品和结构面临的一个经济和安全问题。之前认为，雨水造成的腐蚀主要是因为雨滴具有物理腐蚀性或带有来自污染物的酸性。虽然既往研究已证明水滴在滑过植物叶子和窗玻璃这类常见表面时会带电，但这种电荷对金属表面的腐蚀作用却被忽视了。马普学会高分子研究所的研究人员分析了电中性水滴如何带电并腐蚀不同材料。他们将水滴到四种常见表面——植物叶子、PVC（聚氯乙烯）泡沫板、聚苯乙烯玻璃，和常用疏水涂层PFOTS（全氟辛基三乙氧基硅烷）。这些水滴随后会滑到有聚四氟乙烯涂层的铜上。研究者发现，水滴带上了很微弱的电荷（0.2-2纳库仑）。在3000个水滴从这些表面滴到有聚四氟乙烯涂层的铜上后，观察发现这一涂层会分解，导致底下的金属被腐蚀。如果水滴不带电，就不会观察到表面损伤。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85262" target="_blank"&gt;鳄梨树为何能一天数次变换性别&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                鳄梨/牛油果树是雌雄同株，它的花既能作为雌蕊接收花粉，也能作为雄蕊释放花粉。鳄梨树会在一天中数次切换性别。为了避免自花授粉，半数鳄梨树（被称为A 型）被设定为早上开雌蕊，下午开雄蕊，B 型树则与之相反。根据发表在 PNAS 期刊上的一项研究，科学家分析了数百棵鳄梨树的基因组，发现名为 SDMYB 的基因与 A/B 型树开花模式密切相关。该基因有两个等位基因，一个显性一个隐性，A 型树有一个显性一个隐性，B 型树有两个隐性。这种遗传机制并非鳄梨树所独有，其它 26 种相近树种也有相同的两个版本基因。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85250" target="_blank"&gt;Paint.NET 实验性支持 Wine/Linux&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Windows 上的流行图像编辑软件 Paint.NET 释出了 v5.2 Alpha (build 9739)，实验性的加入了对 Wine/Linux 的支持。想要尝试的 Linux 用户需要：1）使用便捷式版本，安装程序无法工作；WINE 版本至少为 v11.14；添加一个注册表项 wine reg add "HKCU\Software\Wine\DllOverrides" /v d3dcompiler_47 /d native /f，防止 Wine 用自身版本覆盖 DLL；已安装 DXVK； 用 /wine 命令行参数运行。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85263" target="_blank"&gt;ChatGPT/Codex 应用捆绑了完整的 LibreOffice 副本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                OpenAI 的 ChatGPT/Codex 桌面应用被发现捆绑了完整的 LibreOffice 副本、完整的 Python 安装包、完整的 Node.js 安装包，以及 Poppler 和 git 等常用工具，这些文件位于名为 codex-primary-runtime 的文件夹内，占据了数 GB 的空间。此前 Anthropics 的 Claude 桌面应用被发现捆绑了 10GB 的虚拟机。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85251" target="_blank"&gt;中国光伏装机容量首次超过煤电&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国国家能源局星期二公布的最新数据显示，截至今年 7 月底，全国光伏发电装机容量达到 12.86 亿千瓦，略高于 12.85 亿千瓦的煤电装机容量。目前光伏占全国发电总装机容量的31.5%。今年前七个月，全国光伏发电量超过 8024 亿千瓦时，同比增长 15.5%，相当于全国每八度电中约有一度来自光伏。能源局预计，未来五年中国光伏产业投资将超过 2 万亿元人民币。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85264" target="_blank"&gt;联合国报告警告全球气温升幅数年内将超过 1.5 度&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                联合国环境规划署（UNEP）2 日发布报告，警告称地球变暖导致全球平均气温较工业革命前上升的幅度将在数年内超过 1.5 度，灾害、健康危害等风险将上升至危机水平。报告指出若要减轻负面影响，重要的是将超过 1.5 度的持续时间缩至最短。报告称，若保持当前的气候变暖对策，到 2100 年全球平均气温将上升约 2.6 度。即使《巴黎协定》框架下各国自主设定的温室气体减排目标全部达成，排放量和森林等吸收量相抵达到净零，预计气温仍将上升约 1.8 度，估计 10 年内将超过 1.5 度。一旦超过 1.5 度，极端的气象现象将增多，小岛被淹没的可能性升高。报告还称，人类健康、粮食生产、基础设施以及经济也将受到严重影响。据称如果本世纪内最高上升 3 度，四分之一以上的冰川将消失，海平面将上升 9-13 厘米。参与撰写报告的　英国埃克塞特大学教授理查德·贝茨以 8 月尼泊尔和中国边境发生泥石流为例强调，“遗憾的是，这种事因气候变暖更易发生。需要采取措施遏制气温上升。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85252" target="_blank"&gt;智神星一号成功完成首次演示飞行&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                民营商业航天公司星河动力于 9 月 1 日 10 时在酒泉东风商业航天创新试验区智神星系列专用发射工位成功发射了其中型火箭智神星一号。智神星一号是基于已投入使用的小型火箭谷神星一号，为两级构型，全长 52 米，芯级直径 3.35 米。智神星一号类似 Falcon 9，使用煤油和液氧作为推进剂，也采用类似的方式回收方式，第一次飞行没有尝试回收。火箭能将 5 吨重的有效载荷送入 400 公里高的近地轨道，或将 3 吨的有效载荷送入 700 公里高的太阳同步轨道，其有效载荷小于 Falcon 9。智神星一号设计回收使用次数不少于 25 次。星河动力正在智神星一号基础上研发重型版本，类似 Falcon Heavy，设计能将 17.5 吨重的有效载荷送入近地轨道。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85253" target="_blank"&gt;太阳风暴导致美国 GPS 信号偏差逾 10 米&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2025 年 11 月太阳释放了多个 X 级耀斑，耀斑还伴随着引发地磁风暴的日冕物质抛射。地球上的居民在此期间目睹了绚丽的极光，极光的范围甚至延伸至低纬度地区。对太阳风暴期间收集的数据的分析发现，美国上空的大气层出现了大范围的、横跨东西海岸的扰动，其规模前所未见。它导致部分地区的 GPS 定位偏差超过 10 米。如此大的偏差足以影响精准农业和自动驾驶汽车的运作。GPS 信号穿过电离层时会被扭曲和衍射，导致抵达接收器时的信号强度快速波动，这种现象被称为振幅闪烁（amplitude scintillation）。闪烁并不罕见，通常发生在两极和赤道，中纬度地区被认为相对安全。但去年底的太阳超级风暴改变了这一切。美国大陆西经 80-120 度之间的大片区域出现了强振幅闪烁。如此大范围的强振幅闪烁以前从未看到过。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85254" target="_blank"&gt;ChatGPT 和 Reddit 被要求遵守欧盟的 DSA&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                欧盟委员会周一表示，OpenAI 的 ChatGPT 将需要遵守更严格的欧盟法规，否则将面临罚款。聊天机器人 ChatGPT、社媒论坛 Reddit 和游戏平台 Roblox 被欧盟网络安全法规《Digital Services Act（DSA）》归类为“超大型在线平台”。该认定意味着这些服务面临额外的义务，如删除非法内容、保护未成年人的隐私和安全，如果未能遵守规定，将面临最高全球收入 6% 的罚款。欧盟的决定标志着 DSA 的适用范围进一步扩大到生成式 AI 领域。此前 X 的 AI 聊天机器人 Grok 已因违反 DSA 而受到调查。这三大服务在欧盟的月活用户数都已超过 4500 万，达到了 DSA 规定的加强审查门槛。它们需要在 12 月底前履行额外义务。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=85255" target="_blank"&gt;科学家定位调控冬眠的关键脑回路&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为弄清动物进入冬眠时大脑的变化，研究人员首先在实验室中诱导叙利亚仓鼠冬眠。两个月里，他们把动物笼舍中开灯的时间缩短，以模拟秋季。然后在接下来的两个月中，将温度降至约4摄氏度，以模拟冬季。 在人造冬季中，动物开始冬眠——体温下降，“在窝里缩成一团”。冬眠持续2到8周，其间仓鼠睡眠状态在微觉醒和深度蛰伏之间循环。团队收集了刚进入深度蛰伏的仓鼠的大脑，并将其与刚从蛰伏中短暂醒来或完全未冬眠的仓鼠的大脑进行比较。结果发现，一种名为Fos的蛋白质高水平表达，表明下丘脑视前区存在活动。该区域参与调节体温、睡眠和其他重要功能。研究人员发现，仓鼠冬眠中活跃的POA神经元特定亚群，似乎与小鼠蛰伏状态中鉴定出的神经元相同。抑制这些神经元会延迟仓鼠重新进入蛰伏，而激活这些神经元则引发仓鼠筑巢行为并使其体温下降。这是体温虽不如自然冬眠时那么低，但也远低于平时，仅13摄氏度。在小鼠中激活这些细胞也能使体温降低，但幅度较小。这组POA细胞可能是进化遗留下来的“关闭键”，使早期温血哺乳动物能够降低维持体温的高能量成本。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-01</guid><pubDate>Tue, 01 Sep 2026 13:57:43 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-02</guid><pubDate>Wed, 02 Sep 2026 13:17:52 +0000</pubDate></item></channel></rss>
