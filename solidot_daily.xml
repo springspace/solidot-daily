@@ -1,44 +1,81 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 03 Sep 2026 13:17:28 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月03日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 04 Sep 2026 13:11:26 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月04日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85265" target="_blank"&gt;AI 时代 Linux 7.x 系列每个版本修复的漏洞数接近 2000 个&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据稳定版内核维护者 Greg Kroah-Hartman 制作的幻灯片，Linux 7.x 系列的 CVE 数量已从 7.1 的逾千增加到 7.2 的逾 1500，按照这一趋势，下个版本 7.3 将会超过 2000。这一切并非是因为 Linux 内核安全性变差，而是因为 AI 辅助安全检测工具对内核源代码的自动扫描发现了大量 bug，大部分 bug 并不严重属于低危级别。AI 工具产生了大量报告，而要从这些报告中发现有用的信息需要维护者耗费大量精力和时间。内核网络系统的维护者 Jakub Kicinski 表示他们有点不堪重负了。为了减少旧代码的 bug 报告，内核维护者们开始移除大量基本上无人使用的驱动代码。Linux 7.3 移除了旧的 SGI 和 IBM 驱动代码，此举旨在减少维护成本，因为这些历史悠久的代码被 AI 工具发现了大量 bug，而维护者有义务调查和修复这些 bug。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85277" target="_blank"&gt;LibreOffice 26.8 发布一周下载量突破 100 万次&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap Store、Flathub 等软件商店渠道进行更新，因此实际数字会更高。为什么这一版本会如此大获成功，也许是在 AI 时代它可能是少数没有引入任何 AI 功能的常用办公软件。微软的 MS Office、苹果的 iWork 甚至开源的 ONLYOFFICE 都在不断集成 AI 功能。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85266" target="_blank"&gt;Steam 在一周内上架了逾 700 款游戏，大部分无人问津&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Steam 平台一周内上架的游戏数量首次突破 700 款，但大部分游戏无人问津。根据 ICO Partners CEO Thomas Bidaux 提供的数据，上周共有 720 款游戏在 Steam 平台上架。其中 520 款游戏的评论数在 0-9 条之间，190 款游戏的评论数超过 10 条，95 款游戏的评论数超过 50 条，62 款游戏超过 100 条，10 款游戏的评论数超过 1000 条。数据存在重叠，评论数超过 1000 条的游戏会被同时计入 50+ 和 100+ 类别中。Steam 平台在 2026 年上半年上架了约 12000 款游戏，同比增长 19%，游戏销售收入达到了 111 亿美元。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85278" target="_blank"&gt;尼泊尔认为主要碳排放国家应补偿它因气候变化遭受的损失&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                尼泊尔和西藏的泥石流灾害发生迄今过去 8 天，累计死亡人数已超过 1200 人，还有近 5000 人仍然下落不明。尼泊尔外交部长卡纳尔（Shisir Khanal）上周接受该国媒体 Kantipur TV 访问，称这场灾难不只是一般的洪水，其规模之大犹如海啸。他认为，冰川快速融化是全球暖化与气候变迁的后果，但气候变迁的始作俑者并不是尼泊尔。“我们在为这场不是我们制造出来的全球危机，付出沉重代价。”卡纳尔指出，世界上最大的碳排放国是中国，美国是第二名，第三是印度，“这些国家负有历史责任，应该补偿像尼泊尔这样的脆弱国家。”尼泊尔的气候倡议者拉兹姆（Tashi Lhazom）认为，气候变迁的背景下，尼泊尔属于最脆弱的国家，却也是最重视气候和环境议题的国家之一。尼泊尔官员表示已向联合国申请“损失与损害”资金（loss and damage）的紧急援助。国际气候倡议组织也纷纷呼吁工业大国应更积极协助。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85267" target="_blank"&gt;每年全球近半农民因农药中毒&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Frontiers in Public Health》期刊上的一项研究，全世界每年有近五成农民因农药中毒。研究发现每年约有 4.02-4.33 亿农民和农场工人因意外急性农药中毒。全球农业人口约为 9.34 亿，这意味着每年约有 46% 的农民农药中毒。中毒人数最多的地区是南亚，其次是东南亚和东非。中毒率最高的国家是西非布基纳法索，该国近 84 %的农民和农场工人曾遭受农药中毒。研究还发现，每年约有 11,000 人死于农药中毒，其中近 60% 发生在印度。研究指出，农药的使用量仍在持续增长，2023 年的使用量达到 380 万吨，比 1990 年翻了一番。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85279" target="_blank"&gt;Audacity 4.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                音频编辑器项目 Audacity 释出了 v4.0。主要变化包括：基于 Qt6 重构了 UI，支持原生高 DPI 渲染；能将 UI  布局保存为 Workspaces；工具栏和面板可移动、停靠、浮动、显示或隐藏；改进了音频片段的处理；新增 .aup4 项目格式；等等。Audacity 4.0 与 Audacity 3.x 不完全兼容，部分 Audacity 3 系列的功能尚未移植到 4.x 版本。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85268" target="_blank"&gt;全世界快速发展太阳能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                全世界正在快速发展太阳能这一廉价电力来源，但各地发展并不均衡。以欧洲为例，除了罗马尼亚，其它欧洲国家几乎没有增长，原因是欧洲大陆电网的局限性。发电高峰期间电网拥堵，储能不足，导致能源浪费、负电价，甚至出现电网故障和灾难性停电风险，欧洲各国正竞相增加电网储能容量以解决这些问题。罗马尼亚太阳能装机量在 2025 年增长了 45%，该国在太阳能建设早期就对电池储能进行了投资。除此之外，巴基斯坦的屋顶太阳能和电池安装速度超过了其他任何市场，巴西、智利、萨尔瓦多、摩洛哥、肯尼亚和纳米比亚在清洁能源转型方面都已超越了美国。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85280" target="_blank"&gt;微软和索尼表示他们无法律义务将美国关税退款退给消费者&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在任天堂之后，另外两大游戏机制造商微软和索尼都表示他们无法律义务将美国关税退款退给消费者。去年美国在全球大规模征收关税，任天堂等公司据此提高了相关产品的售价。今年 2 月美国最高法院裁决征收关税违法，任天堂等公司随后起诉美国政府要求退还关税。玩家们随后起诉了任天堂、微软和索尼等公司，想要获得部分退还的关税。任天堂表示它无法律义务将美国关税退款退给消费者。索尼和微软都持相同的立场。索尼表示它预计将会获得 5.08 亿美元的关税退款，大部分退款将交给游戏部门。索尼律师本周在一份请求法庭驳回诉讼的动议中表示：“为自愿购买的消费品支付公平的市场价格，不构成法律上可认定的实际损害。”微软律师 8 月 21 日在类似案件中提出了相似的观点。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85269" target="_blank"&gt;Uber 裁员 3300 人&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Uber 宣布裁员 3300 人，大约占全球员工总数的 10%。与其它科技公司不同的是，Uber 不是以 AI 的借口裁员的，而是旨在精简管理层和降低成本。这是 Uber 2020 年 5 月以来最大规模的一轮裁员。CEO Dara Khosrowshahi 在一封内部邮件中宣布了裁员决定。该公司计划裁掉 20% 的管理人员，将向 CEO 汇报层级达到或超过七层的员工人数减少 20%，将只有一到两名成员的团队数量减少 50%，合并工程、科学和配送部门，整合餐饮、零售和直销部门的配送业务，取消远程办公岗位——Uber 目前仅允许不到 1% 的员工远程办公。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85281" target="_blank"&gt;纽约市禁止八年级以下公立学校学生使用生成式 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Mamdani 表示，“这项禁令体现了我们对未来负责的承诺，我们将拥抱新技术，但前提是它必须服务于我们的学生。”新政策引入了新的屏幕时间指导方针，包括限制低年级学生一对一使用电子设备，建议 3-5 年级学生每日使用时间上限为 30 分钟，6-8 年级学生每日使用时间上限为 45 分钟。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85270" target="_blank"&gt;CERN 从 RHEL/CentOS 迁移到 Debian&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                欧洲粒子物理研究所（CERN）计划年底前将其加速器控制基础设施中的逾 2200 台工业计算机和嵌入式系统全部迁移到 Debian 13。CERN 的计算机长期使用的是 RHEL/CentOS，此前还维护过基于 RHEL 的企业级发行版 Scientific Linux，2016 年迁移到 CentOS，在 CentOS 停止维护转为滚动更新发行版 CentOS Stream 之后考虑过该发行版。CERN 表示，Red Hat 默认采用“-march=x86-64-v2”编译器标志是压垮骆驼的最后一根稻草，因为这意味着强制淘汰旧硬件。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85282" target="_blank"&gt;衰老的大脑会混淆扭曲记忆&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Cerebral Cortex》期刊上的一项研究，科学家招募了 18-74 岁的成年人，最后的参与者包括 17 名青年人（18-30 岁）、21 名中年人（50-60 岁）和 23 名老年人（61-74 岁）。每一位参与者都躺在 MRI 扫描仪中完成了一项多步骤的记忆任务。参与者首先接受静息扫描，闭上眼睛保持静止不动；接着在学习阶段观看一张脸与一物体或一场景配对出现，被要求想象此人互动的情景以帮助记住配对信息；最后进行记忆测试。结果显示年龄是记忆表现的重要预测因素。年轻参与者正确识别配对的频率远高于中年或老年参与者，而中年和老年人的表现则相近。老年人表现出更多的混淆错误。老年人的大脑可能并非只是记忆力较弱，他们的大脑会记住过多错误的信息，记忆被扭曲混淆了。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85272" target="_blank"&gt;人体不同组织的结构衰老呈现三种模式&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                研究人员开发出名为 PathStAR 的深度学习模型，将 40 种人体组织的 2.5 万余张活检图像分割成 3000 多万个小图像区域，从中提取反映组织结构的特征，以分析不同年龄阶段组织结构的变化。卵巢组织的分析显示，卵巢呈现出明显的“双相结构衰老”特征：35-40 岁期间衰老速度明显加快，这一时期恰逢女性生育能力下降；55-60 岁期间再次出现衰老加速，与绝经期相对应。研究人员将 PathStAR 应用于 15 种样本量较大且覆盖全年龄段的组织，发现不同组织的结构衰老主要呈现三种模式。第一种是早期衰老型，血管系统属于这一类，其结构衰老在30-39 岁期间明显加快，之后衰老速度下降。第二种是晚期衰老型，子宫就属于这一类。它在成年早期相对稳定，直到 50-55 岁才进入衰老加速期。第三种也是最常见的模式是双相衰老型，即组织在一生中出现两个明显的衰老加速阶段，共有 9 种组织呈现这一特征。进一步分析发现，各组织在结构衰老加速期具有相似的分子特征：与炎症相关的基因表达增加，而参与能量产生、细胞生长和细胞质量控制的基因活性下降。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85283" target="_blank"&gt;四大 AI 模型同时下线&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                周四早晨 ChatGPT、Claude、Grok 和 Gemini 四大 AI 服务几乎在同一时间段内遭遇了严重故障。OpenAI 和 Anthropic 报告了高错误率；Downdetector.com 的监测显示 Gemini 可能也发生了故障，虽然  Google 并未公开承认。包括亚马逊 AWS、微软 Azure 和 Cloudflare 在内的主要互联网服务提供商都未报告任何重大故障，DownDetector 上的报告则显示这三家云服务商的故障数量都出现激增。虽然前沿模型时不时会发生故障，但四款 AI 服务同时在短时间内出现中断则相当罕见。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-03</guid><pubDate>Thu, 03 Sep 2026 13:17:28 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85284" target="_blank"&gt;英伟达发布开源工具将闲置算力连成个人数据中心&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以上的芯片。PAIR 会根据用户家用电脑是否处于闲置状态去决定利用其算力，如果用户在电脑上玩游戏，那么该设备将会退出 PAIR 的网络。汇集多台设备的算力可避免单台设备的 GPU 出现算力瓶颈影响推理性能。PAIR 通过一个六位数代码配对所有设备，使用 mTLS(Mutual Transport Layer Security）保护通信通道，在计算机之间建立双向可信的加密通信线路。PAIR 支持 Windows、Linux 和 macOS 系统。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85285" target="_blank"&gt;联合国投票决定是否淘汰传统的墨卡托投影法地图&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                联合国大会周五投票决定是否淘汰传统的墨卡托投影法地图，改用一种能更准确展现非洲面积的地图。墨卡托投影法地图由比利时佛兰德地理学家杰拉杜斯·墨卡托在 1569 年绘制，一直是全球标准地图，其缺点是高纬度地区面积变形失真，纬度越高变形越严重，接近南北极的高纬度地区如格陵兰面积被失真放大数倍之多。地图显示非洲的面积与格陵兰岛相仿，但实际上非洲大陆的面积是其 14 倍。历史学家和地理学家多年来一直指出墨卡托投影法源于西方刻板印象，部分活动人士甚至创造了“制图殖民主义”一词。改变地图的决议由多哥提出，得到了非盟的支持。联合国决议不具有强制执行力，如果投票通过，可能会促使课程和日常技术更新地图。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85287" target="_blank"&gt;维基媒体基金会员工压倒性多数投票支持成立工会&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                虽然维基基金会拒绝自愿认可员工工会，但根据美国劳资关系委员会于 9 月 3 日公布的不记名投票结果：维基媒体基金会美国员工以 158 票赞成、14 票反对压倒性多数通过了组建工会的决议，有效票数占 91.9%，投票率 81%。维基媒体基金会发表声明，表示尊重结果，接下来将与工会展开集体谈判。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85288" target="_blank"&gt;日本在候鸟粪便中发现耐药菌&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本研究团队发布研究结果称，在往返于北海道和东亚的候鸟粪便中发现了耐药菌。这些细菌已被报告对多种抗菌药具有耐药性，可能正在跨国境扩散。团队 2024 年 9 月在北海道厚岸町的灰背鸥繁殖地采集了粪便进行分析。这种鸟夏季在北日本地区繁殖，一天平均在栖息地周边飞 25 公里；冬季则移动至 4000 多公里以外的东亚地区。分析结果显示，检测出了“嗜麦芽窄食单胞菌”。该菌会在免疫力低下者中引发肺炎和血流感染症，也被认为是导致新冠病毒感染重症化的原因之一。检测出的部分细菌对两种用于治疗该菌感染患者的药物表现出耐药性，通过蛋白质等的膜抵抗药物攻击的守护能力以及活动能力较高。分析遗传信息后发现，其中包含日本国内尚无报告案例的类型，有可能是从海外带入的。灰背鸥是杂食性鸟类。或许是它们在各处吃食的过程中，也把细菌摄入了体内。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85289" target="_blank"&gt;被控内幕交易的 Google 工程师称他只是在赌博&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                今年五月被捕的 Google 安全工程师 Michele Spagnuolo 被控利用内部信息在预测市场 Polymarket 押注歌手 d4vd 成为 2025 年 Google 搜索量最高的人物而获利 120 万美元。他被控犯有商品欺诈、电信欺诈和洗钱罪。
+他的律师团队本周递交了一份动议，寻求撤销对他的指控。Spagnuolo 没有直接否认利用内部信息获利，而是宣称他只是在赌博，而赌博行为不是受美国《商品交易法》监管的金融工具，且赌博发生在美国境外，不受美国司法管辖。Spagnuolo 已被 Google 停职。Polymarket 虽然是一家美国公司，但其预测市场在美国被禁，其平台也是由名为 Adventure One QSS 的巴拿马公司运营。Spagnuolo 在 Polymarket 上押注时也不是在美国，而是住在瑞士苏黎世。Spagnuolo 律师团队声称他利用的内部信息对 Google 没有任何价值。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=85290" target="_blank"&gt;美国犹他州要求 VPN 验证用户年龄&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                犹他州成为美国第一个要求 VPN 软件验证用户年龄的州。犹他州的年龄验证法律《Online Age Verification Amendments》明确将 VPN 软件纳入监管范围。这项法律规定，任何商业网站，如果逾三分之一内容被认为对未成年人有害，必须实施合理的年龄验证方法才能允许犹他州用户访问。只要用户的实际位置在犹他州内，不管是否使用 VPN 之类的方法隐藏地理位置，都需要验证年龄。违规网站将面临每次违规最高 2,500 美元的罚款。网站也被禁止发布如何使用 VPN 规避年龄验证要求的说明。EFF 认为这项法律可能迫使网站屏蔽所有已知的 VPN 地址流量，还可能违反了美国宪法第一修正案。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-04</guid><pubDate>Fri, 04 Sep 2026 13:11:26 +0000</pubDate></item></channel></rss>
