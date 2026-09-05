@@ -1,81 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 04 Sep 2026 13:11:26 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月04日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 05 Sep 2026 12:26:11 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月05日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85277" target="_blank"&gt;LibreOffice 26.8 发布一周下载量突破 100 万次&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap Store、Flathub 等软件商店渠道进行更新，因此实际数字会更高。为什么这一版本会如此大获成功，也许是在 AI 时代它可能是少数没有引入任何 AI 功能的常用办公软件。微软的 MS Office、苹果的 iWork 甚至开源的 ONLYOFFICE 都在不断集成 AI 功能。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85291" target="_blank"&gt;科学家发现几乎所有近期捕获的金枪鱼都有寄生虫&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                巴西科学家分析了 53 条当地捕获的金枪鱼，发现几乎所有鱼都携带了寄生虫。研究团队共统计到 1600 多条寄生虫；肾脏和心脏是唯一没有寄生虫的器官；除此之外寄生虫遍布全身；53 条鱼有 96% 携带了寄生虫；肠道是感染最严重的器官，其次是肌肉组织（即食用部分），然后是胃。巴西研究人员分析的是学名为 Katsuwonus pelamis 的金枪鱼品种鲣鱼，它是巴西最丰富的金枪鱼品种，也是 2022 年全球捕捞量第三大的海洋鱼类——当年全球共捕捞并销售了 310 万吨鲣鱼。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85278" target="_blank"&gt;尼泊尔认为主要碳排放国家应补偿它因气候变化遭受的损失&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                尼泊尔和西藏的泥石流灾害发生迄今过去 8 天，累计死亡人数已超过 1200 人，还有近 5000 人仍然下落不明。尼泊尔外交部长卡纳尔（Shisir Khanal）上周接受该国媒体 Kantipur TV 访问，称这场灾难不只是一般的洪水，其规模之大犹如海啸。他认为，冰川快速融化是全球暖化与气候变迁的后果，但气候变迁的始作俑者并不是尼泊尔。“我们在为这场不是我们制造出来的全球危机，付出沉重代价。”卡纳尔指出，世界上最大的碳排放国是中国，美国是第二名，第三是印度，“这些国家负有历史责任，应该补偿像尼泊尔这样的脆弱国家。”尼泊尔的气候倡议者拉兹姆（Tashi Lhazom）认为，气候变迁的背景下，尼泊尔属于最脆弱的国家，却也是最重视气候和环境议题的国家之一。尼泊尔官员表示已向联合国申请“损失与损害”资金（loss and damage）的紧急援助。国际气候倡议组织也纷纷呼吁工业大国应更积极协助。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85292" target="_blank"&gt;阿根廷人抗议 Peter Thiel&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                硅谷亿万富翁、Palantir 联合创始人 Peter Thiel 前不久携家人移居了阿根廷，并斥资 1200 万美元购买了一栋豪宅。许多人猜测他可能是为了躲避可能的三次世界大战，阿根廷地处南半球深处，农业资源丰富，是末日避难的理想之地。然而 Peter Thiel 在阿根廷深入参与了当地的政治活动。他与阿根廷总统 Javier Milei 及其亲密顾问进行了多次闭门会谈，之后 Milei 的政府提出了一系列符合 Peter Thiel 利益的提案，其中一项提案要求政府民事部门与国家情报机构共享阿根廷公民个人数据。很多人怀疑 Thiel 的 Palantir 公司可能与阿政府签订了未公开的合同。阿根廷众议院为此邀请 Thiel 和 Milei 前来回答一系列相关问题，但无人出席会议。随后阿根廷人在 Thiel 的豪宅前举行了抗议活动。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85279" target="_blank"&gt;Audacity 4.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                音频编辑器项目 Audacity 释出了 v4.0。主要变化包括：基于 Qt6 重构了 UI，支持原生高 DPI 渲染；能将 UI  布局保存为 Workspaces；工具栏和面板可移动、停靠、浮动、显示或隐藏；改进了音频片段的处理；新增 .aup4 项目格式；等等。Audacity 4.0 与 Audacity 3.x 不完全兼容，部分 Audacity 3 系列的功能尚未移植到 4.x 版本。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85280" target="_blank"&gt;微软和索尼表示他们无法律义务将美国关税退款退给消费者&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在任天堂之后，另外两大游戏机制造商微软和索尼都表示他们无法律义务将美国关税退款退给消费者。去年美国在全球大规模征收关税，任天堂等公司据此提高了相关产品的售价。今年 2 月美国最高法院裁决征收关税违法，任天堂等公司随后起诉美国政府要求退还关税。玩家们随后起诉了任天堂、微软和索尼等公司，想要获得部分退还的关税。任天堂表示它无法律义务将美国关税退款退给消费者。索尼和微软都持相同的立场。索尼表示它预计将会获得 5.08 亿美元的关税退款，大部分退款将交给游戏部门。索尼律师本周在一份请求法庭驳回诉讼的动议中表示：“为自愿购买的消费品支付公平的市场价格，不构成法律上可认定的实际损害。”微软律师 8 月 21 日在类似案件中提出了相似的观点。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85281" target="_blank"&gt;纽约市禁止八年级以下公立学校学生使用生成式 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Mamdani 表示，“这项禁令体现了我们对未来负责的承诺，我们将拥抱新技术，但前提是它必须服务于我们的学生。”新政策引入了新的屏幕时间指导方针，包括限制低年级学生一对一使用电子设备，建议 3-5 年级学生每日使用时间上限为 30 分钟，6-8 年级学生每日使用时间上限为 45 分钟。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85282" target="_blank"&gt;衰老的大脑会混淆扭曲记忆&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Cerebral Cortex》期刊上的一项研究，科学家招募了 18-74 岁的成年人，最后的参与者包括 17 名青年人（18-30 岁）、21 名中年人（50-60 岁）和 23 名老年人（61-74 岁）。每一位参与者都躺在 MRI 扫描仪中完成了一项多步骤的记忆任务。参与者首先接受静息扫描，闭上眼睛保持静止不动；接着在学习阶段观看一张脸与一物体或一场景配对出现，被要求想象此人互动的情景以帮助记住配对信息；最后进行记忆测试。结果显示年龄是记忆表现的重要预测因素。年轻参与者正确识别配对的频率远高于中年或老年参与者，而中年和老年人的表现则相近。老年人表现出更多的混淆错误。老年人的大脑可能并非只是记忆力较弱，他们的大脑会记住过多错误的信息，记忆被扭曲混淆了。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85283" target="_blank"&gt;四大 AI 模型同时下线&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                周四早晨 ChatGPT、Claude、Grok 和 Gemini 四大 AI 服务几乎在同一时间段内遭遇了严重故障。OpenAI 和 Anthropic 报告了高错误率；Downdetector.com 的监测显示 Gemini 可能也发生了故障，虽然  Google 并未公开承认。包括亚马逊 AWS、微软 Azure 和 Cloudflare 在内的主要互联网服务提供商都未报告任何重大故障，DownDetector 上的报告则显示这三家云服务商的故障数量都出现激增。虽然前沿模型时不时会发生故障，但四款 AI 服务同时在短时间内出现中断则相当罕见。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85284" target="_blank"&gt;英伟达发布开源工具将闲置算力连成个人数据中心&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以上的芯片。PAIR 会根据用户家用电脑是否处于闲置状态去决定利用其算力，如果用户在电脑上玩游戏，那么该设备将会退出 PAIR 的网络。汇集多台设备的算力可避免单台设备的 GPU 出现算力瓶颈影响推理性能。PAIR 通过一个六位数代码配对所有设备，使用 mTLS(Mutual Transport Layer Security）保护通信通道，在计算机之间建立双向可信的加密通信线路。PAIR 支持 Windows、Linux 和 macOS 系统。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85285" target="_blank"&gt;联合国投票决定是否淘汰传统的墨卡托投影法地图&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                联合国大会周五投票决定是否淘汰传统的墨卡托投影法地图，改用一种能更准确展现非洲面积的地图。墨卡托投影法地图由比利时佛兰德地理学家杰拉杜斯·墨卡托在 1569 年绘制，一直是全球标准地图，其缺点是高纬度地区面积变形失真，纬度越高变形越严重，接近南北极的高纬度地区如格陵兰面积被失真放大数倍之多。地图显示非洲的面积与格陵兰岛相仿，但实际上非洲大陆的面积是其 14 倍。历史学家和地理学家多年来一直指出墨卡托投影法源于西方刻板印象，部分活动人士甚至创造了“制图殖民主义”一词。改变地图的决议由多哥提出，得到了非盟的支持。联合国决议不具有强制执行力，如果投票通过，可能会促使课程和日常技术更新地图。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85287" target="_blank"&gt;维基媒体基金会员工压倒性多数投票支持成立工会&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                虽然维基基金会拒绝自愿认可员工工会，但根据美国劳资关系委员会于 9 月 3 日公布的不记名投票结果：维基媒体基金会美国员工以 158 票赞成、14 票反对压倒性多数通过了组建工会的决议，有效票数占 91.9%，投票率 81%。维基媒体基金会发表声明，表示尊重结果，接下来将与工会展开集体谈判。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85288" target="_blank"&gt;日本在候鸟粪便中发现耐药菌&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                日本研究团队发布研究结果称，在往返于北海道和东亚的候鸟粪便中发现了耐药菌。这些细菌已被报告对多种抗菌药具有耐药性，可能正在跨国境扩散。团队 2024 年 9 月在北海道厚岸町的灰背鸥繁殖地采集了粪便进行分析。这种鸟夏季在北日本地区繁殖，一天平均在栖息地周边飞 25 公里；冬季则移动至 4000 多公里以外的东亚地区。分析结果显示，检测出了“嗜麦芽窄食单胞菌”。该菌会在免疫力低下者中引发肺炎和血流感染症，也被认为是导致新冠病毒感染重症化的原因之一。检测出的部分细菌对两种用于治疗该菌感染患者的药物表现出耐药性，通过蛋白质等的膜抵抗药物攻击的守护能力以及活动能力较高。分析遗传信息后发现，其中包含日本国内尚无报告案例的类型，有可能是从海外带入的。灰背鸥是杂食性鸟类。或许是它们在各处吃食的过程中，也把细菌摄入了体内。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85289" target="_blank"&gt;被控内幕交易的 Google 工程师称他只是在赌博&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                今年五月被捕的 Google 安全工程师 Michele Spagnuolo 被控利用内部信息在预测市场 Polymarket 押注歌手 d4vd 成为 2025 年 Google 搜索量最高的人物而获利 120 万美元。他被控犯有商品欺诈、电信欺诈和洗钱罪。
-他的律师团队本周递交了一份动议，寻求撤销对他的指控。Spagnuolo 没有直接否认利用内部信息获利，而是宣称他只是在赌博，而赌博行为不是受美国《商品交易法》监管的金融工具，且赌博发生在美国境外，不受美国司法管辖。Spagnuolo 已被 Google 停职。Polymarket 虽然是一家美国公司，但其预测市场在美国被禁，其平台也是由名为 Adventure One QSS 的巴拿马公司运营。Spagnuolo 在 Polymarket 上押注时也不是在美国，而是住在瑞士苏黎世。Spagnuolo 律师团队声称他利用的内部信息对 Google 没有任何价值。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=85290" target="_blank"&gt;美国犹他州要求 VPN 验证用户年龄&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                犹他州成为美国第一个要求 VPN 软件验证用户年龄的州。犹他州的年龄验证法律《Online Age Verification Amendments》明确将 VPN 软件纳入监管范围。这项法律规定，任何商业网站，如果逾三分之一内容被认为对未成年人有害，必须实施合理的年龄验证方法才能允许犹他州用户访问。只要用户的实际位置在犹他州内，不管是否使用 VPN 之类的方法隐藏地理位置，都需要验证年龄。违规网站将面临每次违规最高 2,500 美元的罚款。网站也被禁止发布如何使用 VPN 规避年龄验证要求的说明。EFF 认为这项法律可能迫使网站屏蔽所有已知的 VPN 地址流量，还可能违反了美国宪法第一修正案。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-04</guid><pubDate>Fri, 04 Sep 2026 13:11:26 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-05</guid><pubDate>Sat, 05 Sep 2026 12:26:11 +0000</pubDate></item></channel></rss>
