@@ -1,14 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 05 Sep 2026 12:26:11 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月05日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 06 Sep 2026 12:39:38 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月06日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85291" target="_blank"&gt;科学家发现几乎所有近期捕获的金枪鱼都有寄生虫&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                巴西科学家分析了 53 条当地捕获的金枪鱼，发现几乎所有鱼都携带了寄生虫。研究团队共统计到 1600 多条寄生虫；肾脏和心脏是唯一没有寄生虫的器官；除此之外寄生虫遍布全身；53 条鱼有 96% 携带了寄生虫；肠道是感染最严重的器官，其次是肌肉组织（即食用部分），然后是胃。巴西研究人员分析的是学名为 Katsuwonus pelamis 的金枪鱼品种鲣鱼，它是巴西最丰富的金枪鱼品种，也是 2022 年全球捕捞量第三大的海洋鱼类——当年全球共捕捞并销售了 310 万吨鲣鱼。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85294" target="_blank"&gt;F-Droid 考虑采用与 Debian 相同的 AI 政策&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android  自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian 的名字替换为 F-Droid。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85292" target="_blank"&gt;阿根廷人抗议 Peter Thiel&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                硅谷亿万富翁、Palantir 联合创始人 Peter Thiel 前不久携家人移居了阿根廷，并斥资 1200 万美元购买了一栋豪宅。许多人猜测他可能是为了躲避可能的三次世界大战，阿根廷地处南半球深处，农业资源丰富，是末日避难的理想之地。然而 Peter Thiel 在阿根廷深入参与了当地的政治活动。他与阿根廷总统 Javier Milei 及其亲密顾问进行了多次闭门会谈，之后 Milei 的政府提出了一系列符合 Peter Thiel 利益的提案，其中一项提案要求政府民事部门与国家情报机构共享阿根廷公民个人数据。很多人怀疑 Thiel 的 Palantir 公司可能与阿政府签订了未公开的合同。阿根廷众议院为此邀请 Thiel 和 Milei 前来回答一系列相关问题，但无人出席会议。随后阿根廷人在 Thiel 的豪宅前举行了抗议活动。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85295" target="_blank"&gt;肾病患者靠移植猪肾生活九个月&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                两年前，蒂姆·安德鲁斯疲惫不堪，唯一想做的就是睡觉。糖尿病和高血压毁掉了他的肾脏，而通过过滤血液维持他生命的频繁透析治疗令人精疲力竭。尽管只有 66 岁，他却毫无精力与食欲，虚弱得无法行走，还曾两次心脏病发作。肾移植本可以救他的命，但器官供应短缺。根据美国器官共享联合网络的数据，约有 9 万人在等待肾移植，平均每天有 11 人在等待中去世。而且由于安德鲁斯的血型较为罕见，他获得匹配的人类肾脏的几率尤其渺茫。当他听说麻省总医院布里格姆的医生正在为患者移植转基因猪的肾脏时，他主动联系了他们。“我想，如果我要死了，不如为人类做点事，参与这个实验，”他说。2025 年 1 月 25 日，安德鲁斯接受了转基因猪肾的移植，带着它生活了九个月。今年他成为已知首例在猪肾移植后接受人类供体肾脏的患者，周四发表于《柳叶刀》的一篇论文中描述了这一里程碑式的成就。他的病例为移植医学中一个引人关注的概念提供了初步证据：猪肾虽尚非永久性解决方案，但可以作为通往人类器官移植的“桥梁”。这些猪肾来自经过大量基因编辑的猪，其中一些编辑旨在防止严重的器官排斥反应，还有一些用于灭活猪基因组中的病毒。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-05</guid><pubDate>Sat, 05 Sep 2026 12:26:11 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85296" target="_blank"&gt;等效原理适用于量子领域&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                物理学有两大不兼容的理论，其一是爱因斯坦广义相对论，适用于宏观物理领域；其二是量子力学，适用于微观物理领域。爱因斯坦曾尝试将两大理论融合成一个统一的理论，但没有成功。广义相对论的一个核心概念是等效原理，它认为引力和加速度不可区分。等效原理指出，对于自由落体的观察者，引力在局部应该消失。例如在电梯中自由落体的人会体验到失重。根据发表在《Science Advances》上的一项研究，科学家利用冷却到绝对零度附近的铷原子云，将其置于量子叠加态，通过以伽利略名字命名的量子干涉仪，在实验中测试了量子领域的等效原理。结果显示等效原理适用于量子领域，观察结果与引力如何影响量子波的预测相吻合。研究本身并未统一广义相对论和量子力学，但它朝着该目标迈出了一步。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85297" target="_blank"&gt;食用加工肉增加肺癌食道癌风险&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家利用欧洲 450,112 名参与者（131,426 名男性 和 318,686 名女性）的数据，评估了红肉、加工肉和白肉与胃腺癌和食管腺癌之间的关联。研究人员对红肉、加工肉和白肉的定义是：红肉包括猪肉、牛肉、小牛肉、羊肉等；加工肉包括火腿、培根、香肠、加工肉块、汉堡包、肉丸、肉酱等；白肉包括鸡肉、鸭肉、鹅肉、兔肉以及其它禽肉。结果显示，每天每摄入 30 克加工肉，胃癌风险增加 9%，食管癌风险增加 13%；每天每摄入 20 克白肉，非贲门胃癌风险增加 12%。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-06</guid><pubDate>Sun, 06 Sep 2026 12:39:38 +0000</pubDate></item></channel></rss>
