@@ -1,26 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 06 Sep 2026 12:39:38 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月06日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 07 Sep 2026 14:50:32 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月07日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85294" target="_blank"&gt;F-Droid 考虑采用与 Debian 相同的 AI 政策&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android  自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian 的名字替换为 F-Droid。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85300" target="_blank"&gt;观鸟有益身心健康&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Ambio》期刊上的一项研究，观鸟有益身心健康。Project FeederWatch 项目的参与者中有 95% 表示喂鸟和观鸟对其幸福感产生了积极影响。相比之下只有 55% 的参与者表示同期生活中其他事件对其幸福感产生了积极影响。参与者表示，喂鸟时会感到快乐、感激、充满希望和内心平静。一部分人表示观鸟有助于减轻压力，或者在生病或家人去世等困难时期将注意力集中在积极的事情上。还有人表示观察喂鸟器激发了好奇心，有助于保持专注，或者帮助培养鸟类识别技能。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85295" target="_blank"&gt;肾病患者靠移植猪肾生活九个月&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                两年前，蒂姆·安德鲁斯疲惫不堪，唯一想做的就是睡觉。糖尿病和高血压毁掉了他的肾脏，而通过过滤血液维持他生命的频繁透析治疗令人精疲力竭。尽管只有 66 岁，他却毫无精力与食欲，虚弱得无法行走，还曾两次心脏病发作。肾移植本可以救他的命，但器官供应短缺。根据美国器官共享联合网络的数据，约有 9 万人在等待肾移植，平均每天有 11 人在等待中去世。而且由于安德鲁斯的血型较为罕见，他获得匹配的人类肾脏的几率尤其渺茫。当他听说麻省总医院布里格姆的医生正在为患者移植转基因猪的肾脏时，他主动联系了他们。“我想，如果我要死了，不如为人类做点事，参与这个实验，”他说。2025 年 1 月 25 日，安德鲁斯接受了转基因猪肾的移植，带着它生活了九个月。今年他成为已知首例在猪肾移植后接受人类供体肾脏的患者，周四发表于《柳叶刀》的一篇论文中描述了这一里程碑式的成就。他的病例为移植医学中一个引人关注的概念提供了初步证据：猪肾虽尚非永久性解决方案，但可以作为通往人类器官移植的“桥梁”。这些猪肾来自经过大量基因编辑的猪，其中一些编辑旨在防止严重的器官排斥反应，还有一些用于灭活猪基因组中的病毒。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85301" target="_blank"&gt;美国最大汽车业协会促国会永久禁止中国汽车进入美国市场&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国最大的汽车行业协会致函国会参众两院两党领袖，敦促国会在年底前立法，永久禁止中国汽车及相关网联软件和硬件进入美国市场，理由是这些产品威胁美国经济和国家安全。美国汽车创新联盟在信中呼吁国会迅速采取行动。联盟成员包括通用汽车、福特、丰田、大众、现代、本田和斯泰兰蒂斯等主要车企。联盟首席执行官博泽拉称，中国汽车制造商目前正在全球倾销获得补贴并搭载联网软硬件的汽车。这种情况尚未在美国发生，“但鉴于这一威胁的规模和紧迫性，我们敦促国会在今年休会前，通过禁止中国汽车、软件和硬件的法案，使这项政策正式成为美国法律”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85296" target="_blank"&gt;等效原理适用于量子领域&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                物理学有两大不兼容的理论，其一是爱因斯坦广义相对论，适用于宏观物理领域；其二是量子力学，适用于微观物理领域。爱因斯坦曾尝试将两大理论融合成一个统一的理论，但没有成功。广义相对论的一个核心概念是等效原理，它认为引力和加速度不可区分。等效原理指出，对于自由落体的观察者，引力在局部应该消失。例如在电梯中自由落体的人会体验到失重。根据发表在《Science Advances》上的一项研究，科学家利用冷却到绝对零度附近的铷原子云，将其置于量子叠加态，通过以伽利略名字命名的量子干涉仪，在实验中测试了量子领域的等效原理。结果显示等效原理适用于量子领域，观察结果与引力如何影响量子波的预测相吻合。研究本身并未统一广义相对论和量子力学，但它朝着该目标迈出了一步。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85302" target="_blank"&gt;内存短缺将继续推动消费电子产品价格上涨&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，几乎所有消费电子产品类别都受到短缺影响。IDC 称，制造商和零售商正将价格提高最多 20%。Counterpoint 的数据显示，过去一年 DRAM 价格上涨了五倍，合约价格每季度上涨 10%-20%。虽然 DRAM 供应短缺最为严重，但包括 GPU 和 CPU 在内的半导体也面临供应紧张。MS Hwang 称过去一年智能手机使用的 DRAM 价格上涨最高 250 美元，他预计这笔费用将在今年秋季转嫁到手机价格上。电信巨头诺基亚 CEO Justin Hotard 表示该公司正在重新设计部分产品以减少内存组件的使用。他表示，芯片短缺正在影响诺基亚的移动、宽带和互联网路由设备。他预计短缺将持续到 2027 年。分析师表示，随着价格不断飙升，消费者将减少新设备的购买量，延长现有设备的使用寿命。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85297" target="_blank"&gt;食用加工肉增加肺癌食道癌风险&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                科学家利用欧洲 450,112 名参与者（131,426 名男性 和 318,686 名女性）的数据，评估了红肉、加工肉和白肉与胃腺癌和食管腺癌之间的关联。研究人员对红肉、加工肉和白肉的定义是：红肉包括猪肉、牛肉、小牛肉、羊肉等；加工肉包括火腿、培根、香肠、加工肉块、汉堡包、肉丸、肉酱等；白肉包括鸡肉、鸭肉、鹅肉、兔肉以及其它禽肉。结果显示，每天每摄入 30 克加工肉，胃癌风险增加 9%，食管癌风险增加 13%；每天每摄入 20 克白肉，非贲门胃癌风险增加 12%。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85303" target="_blank"&gt;Chrome 的网站数据设置再次豁免了 Google 网站&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2020 年一位扩展开发者注意到，在 Chrome 的“Cookie 和网站数据”设置中，用户可以启用“关闭 Chrome 时删除 Cookie 与网站数据”。但在启用该选项之后，Google 旗下网站如搜索和 YouTube 的数据在关闭之后并没有删除。他对其进行了一番测试，在没有登陆 Chrome 或任何 Google 服务的情况下 YouTube 等 Google 服务的数据在浏览器关闭之后仍然保留了，也就是说 Google 旗下网站默认豁免于用户设置。Google 此举引发了广泛关注，它后来修复了这一 bug。然而六年后同样的“bug”再次出现了，调查显示，www.google.com 是 Chrome 唯一豁免的网站。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-06</guid><pubDate>Sun, 06 Sep 2026 12:39:38 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85304" target="_blank"&gt;瑞士政府试点用开源软件取代 Microsoft 365&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                瑞士联邦政府启动了一项试点项目，将 3000 名联邦雇员工作站上的 Microsoft 365 用开源办公软件替代，该项目计划在 2027 年底完成迁移。瑞士政府此前完成了名为 PoC BOSS 的可行性概念验证，有 172 名联邦雇员参与测试了德国开源协作平台 openDesk 套件，结果显示文档处理和电子邮件等核心办公任务表现良好，但大规模视频会议还存在技术局限性。如果最新的试点成功，那么瑞士政府所有 54,000 个工作站可能都将进行迁移。军方的网络安全部门则不继续进行测试直接迁移到 openDesk。此举旨在维持数据主权独立性，过度依赖微软的软件被广泛认为存在风险。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85305" target="_blank"&gt;Nitter 和 XCancel 恢复服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                两周前，Nitter 开源项目及基于 Nitter 的实例如 XCancel 收到了 X 的律师函，要求立即停止服务。Nitter 和 XCancel 等遵守了这一要求。但在听取法律建议之后，Nitter 和 XCancel 恢复了服务，Nitter 项目表示将会在稍后公布更多信息。Nitter 是 X/Twitter 的第三方开源前端，没有 JS 也没有广告，X 也无法跟踪用户的 IP 地址或 JS 指纹。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85306" target="_blank"&gt;Autistici/Inventati 在被美国列为恐怖分子组织后宣布关闭&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                上月底，美国国务院和财政部将提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。Autistici/Inventati 上周日宣布了关闭。该组织称“坚守人性并非空谈”，在被美国列入恐怖分子组织之后它需要考虑到用户以及项目成员所面临的风险，它别无选择只能选择关闭，“我们不推崇英雄主义的壮举或殉道精神，不会要求任何人做出牺牲——无论是我们自己还是他人。在当前的政治环境下，继续提供服务会将用户及社区成员置于危险之中。在这个指控与现实日益脱节的世界里，我们只能预见压制会变得越发无度。基于此，我们已无法再坚持初心——提供安全、非商业化的数字工具。”
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85307" target="_blank"&gt;中国白色家电欧洲市场份额达到两成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                欧睿国际的数据显示，海尔与海信在欧洲的洗衣机市场份额 2016 年合计为 2.9%，但到 2025 年上升至 20.5%。冰箱份额也从 5.6% 提升至1 8.7%。中国企业的优势已不再局限于低价。面对不仅在研发和制造方面、还寻求包括销售在内掌控商品流动的中国动向，欧洲监管部门正加强警惕。欧盟执行机构欧盟委员会于 2026 年 5 月宣布，将调查京东是否获得了中国政府的补贴和优惠政策，从而妨碍欧盟境内的公平竞争。中国政府表示，欧盟的调查已延伸至中国境内，构成“不当域外管辖措施”，对此提出反对。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85308" target="_blank"&gt;2026 年 Ig Nobel 宣布&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                从美国波士顿迁往瑞士苏黎世的 Ig Nobel 奖颁奖典礼宣布了 2026 年的获奖者。明年的颁奖典礼将在德国 Flanders 的 Antwerp 举行，2028 年重返瑞士，以后的偶数年颁奖典礼都在苏黎世举行。获奖名单包括：&lt;br /&gt;
+生物力学奖授予了对接吻进行精确定义的 Matilda Brindle 等人，研究人员称接吻是“非对抗性的、同种个体间的口口接触行为，伴随嘴唇或口器的轻微运动，但不涉及食物传递”，适用于蚂蚁、鸟类、北极熊和人类。&lt;br /&gt;
+经济学奖授予了 Paul Piff 等人，他们收集的证据证明，上层阶级人士更可能偷窃儿童的糖果，以及从事其他不道德行为，倾向于将贪婪视为一种积极的品质。&lt;br /&gt;
+化学奖授予了 Sanchari Banerjee 等人，名为 Diploptera punctata 的蟑螂能通过育卵囊壁内分泌乳汁直接滋养胚胎，这种繁殖方式被称为“胎生（viviparity）”，研究人员分析了其乳汁结晶发现其乳蛋白能量是牛奶蛋白的三倍以上。&lt;br /&gt;
+医学奖授予了日本已故科学家海野德二，其学生高原干教授代表他领奖，这是日本人连续 20 年获奖。　海野的研究是对擤鼻涕时的空气流动和速度等进行测定。他得出结论认为，若按住一个鼻孔从另一边呼气的话，空气的流速会变快，分别按住一侧鼻孔、用另一侧充分呼气的方式擤鼻子更为有效。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85309" target="_blank"&gt;Liquid Network 价值 3.2 亿美元的比特币被盗&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                比特币支付结算网络 Liquid Network 周日披露，自称白帽黑客的攻击者从其联盟钱包内转走了价值 3.2 亿美元的 4000 比特币。该联盟钱包共有 4200 比特币。攻击者被认为利用了一个上周修复的漏洞。Liquid Network 开发商 Blockstream 尝试通过链上签名消息与其对话，黑客表示在确保所有节点都打好补丁后会将比特币转回去。目前这些比特币仍然牢牢掌控在黑客手中。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85310" target="_blank"&gt;中国游戏市场规模在 2025 年首次突破 500 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据 Niko Partners 的报告，中国游戏市场规模在 2025 年首次突破 500 亿美元达到 518 亿美元，2026 年预计将增长 4% 达到 539 亿美元，2030 年将达到 598 亿美元，到 2030 年中国游戏玩家将达到 7.69 亿，周平均游戏时长将从 2025 年的 14.1 小时增至 15.8 小时。迷你游戏（Mini-games）是一个主要增长领域，八成中国玩家玩过迷你游戏，其消费额占到了手游总消费额的二成。近半玩家通过短视频发现游戏新作和相关信息。在被调查的玩家中，30.8% 的人在全球服务器上游戏，33.6% 的人使用游戏加速器，21.9% 的人使用 VPN。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-07</guid><pubDate>Mon, 07 Sep 2026 14:50:32 +0000</pubDate></item></channel></rss>
