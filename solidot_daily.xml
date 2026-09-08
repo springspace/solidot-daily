@@ -1,72 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 07 Sep 2026 14:50:32 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月07日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 08 Sep 2026 13:21:08 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85300" target="_blank"&gt;观鸟有益身心健康&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Ambio》期刊上的一项研究，观鸟有益身心健康。Project FeederWatch 项目的参与者中有 95% 表示喂鸟和观鸟对其幸福感产生了积极影响。相比之下只有 55% 的参与者表示同期生活中其他事件对其幸福感产生了积极影响。参与者表示，喂鸟时会感到快乐、感激、充满希望和内心平静。一部分人表示观鸟有助于减轻压力，或者在生病或家人去世等困难时期将注意力集中在积极的事情上。还有人表示观察喂鸟器激发了好奇心，有助于保持专注，或者帮助培养鸟类识别技能。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85311" target="_blank"&gt;LG 智能电视会在待机状态下扫描家庭网络和记录麦克风音频&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据 YouTube 主播 Gamers Nexus、Level1Techs 以及独立安全研究员合作展开的调查，测试了包括 G5 在内的零售 LG OLED 电视机，发现 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 称其智能电视的全球销量约为 2.16 亿台，支持内容识别 Automated Content Recognition (ACR)技术，会将屏幕上的音频和视频采样成数字指纹，记录用户在不同输入源上的观看内容。当研究人员断开电视与网络的连接后，电视仍然会将语音输入保存到本地，在网络连接恢复后上传这些文件。研究人员建议用户直接断开 LG 电视与互联网的连接，改用外部串流设备。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85301" target="_blank"&gt;美国最大汽车业协会促国会永久禁止中国汽车进入美国市场&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国最大的汽车行业协会致函国会参众两院两党领袖，敦促国会在年底前立法，永久禁止中国汽车及相关网联软件和硬件进入美国市场，理由是这些产品威胁美国经济和国家安全。美国汽车创新联盟在信中呼吁国会迅速采取行动。联盟成员包括通用汽车、福特、丰田、大众、现代、本田和斯泰兰蒂斯等主要车企。联盟首席执行官博泽拉称，中国汽车制造商目前正在全球倾销获得补贴并搭载联网软硬件的汽车。这种情况尚未在美国发生，“但鉴于这一威胁的规模和紧迫性，我们敦促国会在今年休会前，通过禁止中国汽车、软件和硬件的法案，使这项政策正式成为美国法律”。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85312" target="_blank"&gt;泰国暂停所有数据中心项目建设&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                泰国经济和社会发展委员会上周下令暂停所有数据中心项目的建设，给予数据中心运营商和投资者一周时间提交运营信息，以帮助政府加快制定统一的数据中心监管框架。经济和社会发展委员会考虑将所有用电量超过 2 MW 的数据中心视为工业企业，考虑引入“资源利用费”，以避免数据中心建设产生的间接成本增加公众负担，并建立一套针对未来数据中心建设的评估流程，以确保新建数据中心为泰国创造最大效益。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85302" target="_blank"&gt;内存短缺将继续推动消费电子产品价格上涨&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，几乎所有消费电子产品类别都受到短缺影响。IDC 称，制造商和零售商正将价格提高最多 20%。Counterpoint 的数据显示，过去一年 DRAM 价格上涨了五倍，合约价格每季度上涨 10%-20%。虽然 DRAM 供应短缺最为严重，但包括 GPU 和 CPU 在内的半导体也面临供应紧张。MS Hwang 称过去一年智能手机使用的 DRAM 价格上涨最高 250 美元，他预计这笔费用将在今年秋季转嫁到手机价格上。电信巨头诺基亚 CEO Justin Hotard 表示该公司正在重新设计部分产品以减少内存组件的使用。他表示，芯片短缺正在影响诺基亚的移动、宽带和互联网路由设备。他预计短缺将持续到 2027 年。分析师表示，随着价格不断飙升，消费者将减少新设备的购买量，延长现有设备的使用寿命。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85313" target="_blank"&gt;Isar Aerospace 成为成功将火箭送入轨道的首个欧洲公司&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                由德国 Isar Aerospace 公司制造的 Spectrum 运载火箭 9 月 6 日从位于挪威北极圈内的 Andoya 航天发射场发射升空。该公司表示，“我们已进入轨道！并创造了欧洲航天史上的里程碑：这是欧洲大陆首次有私营企业研发的火箭成功进入轨道。”Spectrum 火箭专为运载中小型有效载荷而设计。此次发射任务搭载了五颗小型卫星以及一项飞行技术实验。这是这家德国公司第二次尝试将 Spectrum 火箭发射升空。首次尝试发生在 18 个月前，但未能成功。Spectrum 火箭发射成功被认为使欧洲向在本土提供商业卫星发射服务迈出了重要一步。包括英国和瑞典在内的多个国家都对日益增长的商业航天任务市场表现出了兴趣。Isar Aerospace 公司指出，去年美国共发射了 198 枚火箭，而欧洲的发射数量仅为 8 枚。Isar 的目标是实现年产约 40 枚火箭。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85303" target="_blank"&gt;Chrome 的网站数据设置再次豁免了 Google 网站&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2020 年一位扩展开发者注意到，在 Chrome 的“Cookie 和网站数据”设置中，用户可以启用“关闭 Chrome 时删除 Cookie 与网站数据”。但在启用该选项之后，Google 旗下网站如搜索和 YouTube 的数据在关闭之后并没有删除。他对其进行了一番测试，在没有登陆 Chrome 或任何 Google 服务的情况下 YouTube 等 Google 服务的数据在浏览器关闭之后仍然保留了，也就是说 Google 旗下网站默认豁免于用户设置。Google 此举引发了广泛关注，它后来修复了这一 bug。然而六年后同样的“bug”再次出现了，调查显示，www.google.com 是 Chrome 唯一豁免的网站。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85314" target="_blank"&gt;小鼠实验显示 GLP-1 减肥药或有助于延缓衰老&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                GLP-1 减肥药或有助于延缓衰老。加州伯克利等机构研究人员通过小鼠试验发现，老年雌性小鼠服用 GLP-1 类药物司美格鲁肽后，寿命比未服药小鼠延长12%，同时多项与衰老相关的生物学变化得到减缓。研究人员选取 20 个月大的健康雌性小鼠开展试验，这一年龄大致相当于人类 60 岁。结果显示，持续接受司美格鲁肽治疗的小鼠中位寿命为 834 天，而对照组为 742 天，前者延长约 12%。此外，服用司美格鲁肽的小鼠在运动协调、肌肉功能和血糖调节等测试中的表现更好。研究人员进一步分析发现，司美格鲁肽能够减缓小鼠体内一些变化，包括炎症、干细胞减少、细胞衰老、基因组不稳定、线粒体功能障碍和蛋白质稳态失衡等。服用司美格鲁肽的小鼠热量摄入减少了 24%。其延长寿命作用是否只是因为让小鼠吃得更少？为排除这一因素的影响，他们又设置了一组小鼠，通过限制饮食使其摄入与司美格鲁肽组相当的热量。结果显示，单纯限制热量摄入的小鼠与服用司美格鲁肽的小鼠寿命相近。但在部分测试中，司美格鲁肽组表现更好。例如在空间记忆测试中，服药小鼠记忆迷宫出口位置的能力优于饮食限制组。这提示司美格鲁肽可能还具有一些无法用减少热量摄入解释的作用，但这些作用的具体原因目前尚不清楚。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85304" target="_blank"&gt;瑞士政府试点用开源软件取代 Microsoft 365&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                瑞士联邦政府启动了一项试点项目，将 3000 名联邦雇员工作站上的 Microsoft 365 用开源办公软件替代，该项目计划在 2027 年底完成迁移。瑞士政府此前完成了名为 PoC BOSS 的可行性概念验证，有 172 名联邦雇员参与测试了德国开源协作平台 openDesk 套件，结果显示文档处理和电子邮件等核心办公任务表现良好，但大规模视频会议还存在技术局限性。如果最新的试点成功，那么瑞士政府所有 54,000 个工作站可能都将进行迁移。军方的网络安全部门则不继续进行测试直接迁移到 openDesk。此举旨在维持数据主权独立性，过度依赖微软的软件被广泛认为存在风险。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85315" target="_blank"&gt;美国今年上半年 CD 和黑胶唱片销量大幅增长&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据 RIAA 公布的数据，美国今年上半年 CD 和黑胶唱片等实体唱片销量大幅增长。消费者对订阅服务价格上涨的不满推动了实体音乐的复苏。上半年录制音乐收入比去年同期增长 6.9%，实体唱片收入增长了 25.9%，其中黑胶唱片增长 17.7%，CD 收入飙升了 58.6%。流媒体仍然是录制音乐收入的最大来源，收入增长 4.7% 达到 49 亿美元，付费订阅收入增长 6.4% 达到 34 亿美元，广告支持的免费订阅收入增长 3.7% 达到 9 亿美元。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85305" target="_blank"&gt;Nitter 和 XCancel 恢复服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                两周前，Nitter 开源项目及基于 Nitter 的实例如 XCancel 收到了 X 的律师函，要求立即停止服务。Nitter 和 XCancel 等遵守了这一要求。但在听取法律建议之后，Nitter 和 XCancel 恢复了服务，Nitter 项目表示将会在稍后公布更多信息。Nitter 是 X/Twitter 的第三方开源前端，没有 JS 也没有广告，X 也无法跟踪用户的 IP 地址或 JS 指纹。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85316" target="_blank"&gt;英国犯罪率下降，但公众并没有感到更安全&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                英国犯罪率在下降，但公众并没有感到更安全。极右翼英国改革党领导人 Nigel Farage 上个月声称人人都知道英国的治安状况比五年前或十年前更糟。逾八成英国民众认为犯罪率过去几年有所上升。八成英国民众认为自 2010 年以来手机盗窃案有所增加，六成民众认为汽车盗窃和入室盗窃案有所增加。事实上所有这些案件的发生率在同一时期都下降了 50% 甚至更多。警方犯罪统计数据所衡量的谋杀率自 2010 年以来下降了 20%，而三分之二民众认为谋杀案数量有所增加或保持不变。我们对现实的认知更多地受到情绪反应和身份认同的影响，而非基于统计数据的研究。在解释认知偏差时，关键原因可归结为两个相互关联的方面：思维方式和被告知的信息。前者涵盖了可能误导偏见和思维捷径。人类天生就更容易关注负面信息，因为负面信息预示着威胁。媒体、政客和社交媒体平台深知人们更倾向于关注负面信息，因此会推送更多此类信息。人们的思维方式和他们被告知的信息之间的相互作用，强化了对现实的过度负面看法。真正的风险不在于犯错，而在于固执坚信自己所认知的现实才是正确的，而对方则是在故意欺骗自己和我们。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85306" target="_blank"&gt;Autistici/Inventati 在被美国列为恐怖分子组织后宣布关闭&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                上月底，美国国务院和财政部将提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。Autistici/Inventati 上周日宣布了关闭。该组织称“坚守人性并非空谈”，在被美国列入恐怖分子组织之后它需要考虑到用户以及项目成员所面临的风险，它别无选择只能选择关闭，“我们不推崇英雄主义的壮举或殉道精神，不会要求任何人做出牺牲——无论是我们自己还是他人。在当前的政治环境下，继续提供服务会将用户及社区成员置于危险之中。在这个指控与现实日益脱节的世界里，我们只能预见压制会变得越发无度。基于此，我们已无法再坚持初心——提供安全、非商业化的数字工具。”
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85317" target="_blank"&gt;iPhone 折叠版早期产能严重受限&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                市场期待已久的首部苹果折叠 iPhone 由于苹果极为严格的质量管控标准，初期生产量每天仅有“数百部”。苹果计划今年内生产 800万~1000 万部折叠屏 iPhone，希望凭借这款全新外型设计的机型激发市场需求，进而推升营收。除非苹果能更快提高产量，否则可能无法达成生产目标，也可能需要比预期更长的时间才能满足消费者需求。苹果与其供货商正昼夜赶工，努力提升日产能。但是产能爬坡仍需要时间，而前期的测试、验证工序已经推迟了原定的时程。如果现状得不到大幅改善，待折叠屏 iPhone 开售时，可能面临库存有限的问题。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85307" target="_blank"&gt;中国白色家电欧洲市场份额达到两成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                欧睿国际的数据显示，海尔与海信在欧洲的洗衣机市场份额 2016 年合计为 2.9%，但到 2025 年上升至 20.5%。冰箱份额也从 5.6% 提升至1 8.7%。中国企业的优势已不再局限于低价。面对不仅在研发和制造方面、还寻求包括销售在内掌控商品流动的中国动向，欧洲监管部门正加强警惕。欧盟执行机构欧盟委员会于 2026 年 5 月宣布，将调查京东是否获得了中国政府的补贴和优惠政策，从而妨碍欧盟境内的公平竞争。中国政府表示，欧盟的调查已延伸至中国境内，构成“不当域外管辖措施”，对此提出反对。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85318" target="_blank"&gt;美国军方正禁用设备上的广告追踪功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国军方正在禁用设备上的广告追踪功能，防止敌人借助于购买的公开追踪数据去锁定美国士兵的位置。此前有报道称，商业追踪数据被用于锁定驻扎在中东的美军。美国陆军在一份声明中表示，Windows PC 上的广告 ID 功能早在 2021 年之前就被禁用，但 Android 和苹果移动设备上的广告 ID 则“至少从 2026 年 2 月起”才默认禁用。美国军方还在考虑对手机使用实施更严格的限制。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85308" target="_blank"&gt;2026 年 Ig Nobel 宣布&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                从美国波士顿迁往瑞士苏黎世的 Ig Nobel 奖颁奖典礼宣布了 2026 年的获奖者。明年的颁奖典礼将在德国 Flanders 的 Antwerp 举行，2028 年重返瑞士，以后的偶数年颁奖典礼都在苏黎世举行。获奖名单包括：&lt;br /&gt;
-生物力学奖授予了对接吻进行精确定义的 Matilda Brindle 等人，研究人员称接吻是“非对抗性的、同种个体间的口口接触行为，伴随嘴唇或口器的轻微运动，但不涉及食物传递”，适用于蚂蚁、鸟类、北极熊和人类。&lt;br /&gt;
-经济学奖授予了 Paul Piff 等人，他们收集的证据证明，上层阶级人士更可能偷窃儿童的糖果，以及从事其他不道德行为，倾向于将贪婪视为一种积极的品质。&lt;br /&gt;
-化学奖授予了 Sanchari Banerjee 等人，名为 Diploptera punctata 的蟑螂能通过育卵囊壁内分泌乳汁直接滋养胚胎，这种繁殖方式被称为“胎生（viviparity）”，研究人员分析了其乳汁结晶发现其乳蛋白能量是牛奶蛋白的三倍以上。&lt;br /&gt;
-医学奖授予了日本已故科学家海野德二，其学生高原干教授代表他领奖，这是日本人连续 20 年获奖。　海野的研究是对擤鼻涕时的空气流动和速度等进行测定。他得出结论认为，若按住一个鼻孔从另一边呼气的话，空气的流速会变快，分别按住一侧鼻孔、用另一侧充分呼气的方式擤鼻子更为有效。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85319" target="_blank"&gt;Asahi Linux 宣布支持 M3 系列 Mac&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版 Asahi Linux 宣布支持 M3 系列 Mac。开发者表示，Linux 对 M3 系列 SoC 及其相关设备支持已达到几乎与 M1 和 M2 系列设备相当的水平，绝大多数功能都能正常工作。其中包括：网络摄像头、内置麦克风、USB（最高支持 USB 3.0 的 10 Gb/s）、硬件加速视频解码（包括 AV1 解码）、WiFi 和蓝牙等，完整的 DCP 支持和 GPU 功能尚未完成，用户暂时不要期待高性能或高能效的 3D 加速。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85309" target="_blank"&gt;Liquid Network 价值 3.2 亿美元的比特币被盗&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                比特币支付结算网络 Liquid Network 周日披露，自称白帽黑客的攻击者从其联盟钱包内转走了价值 3.2 亿美元的 4000 比特币。该联盟钱包共有 4200 比特币。攻击者被认为利用了一个上周修复的漏洞。Liquid Network 开发商 Blockstream 尝试通过链上签名消息与其对话，黑客表示在确保所有节点都打好补丁后会将比特币转回去。目前这些比特币仍然牢牢掌控在黑客手中。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85320" target="_blank"&gt;澳大利亚想要社媒平台允许用户退出算法驱动的信息流&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在禁止儿童使用社媒平台之后，澳大利亚工党政府提出了一项新的法律草案，要求社媒平台允许用户退出算法驱动的信息流。用户可选择算法推荐的个性化内容作为默认信息流，或者拒绝接收算法推荐的内容，只浏览用户关注的朋友和创作者的内容。被称为 My Feed, My Way 的法案旨在给予用户选择权，违反者将面临最高 1.092 亿澳元的罚款。澳大利亚总理 Anthony Albanese 表示，“它赋予用户选择权，如果大型科技公司不遵守我们的法律，我们将追究它们的责任。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85310" target="_blank"&gt;中国游戏市场规模在 2025 年首次突破 500 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 Niko Partners 的报告，中国游戏市场规模在 2025 年首次突破 500 亿美元达到 518 亿美元，2026 年预计将增长 4% 达到 539 亿美元，2030 年将达到 598 亿美元，到 2030 年中国游戏玩家将达到 7.69 亿，周平均游戏时长将从 2025 年的 14.1 小时增至 15.8 小时。迷你游戏（Mini-games）是一个主要增长领域，八成中国玩家玩过迷你游戏，其消费额占到了手游总消费额的二成。近半玩家通过短视频发现游戏新作和相关信息。在被调查的玩家中，30.8% 的人在全球服务器上游戏，33.6% 的人使用游戏加速器，21.9% 的人使用 VPN。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-07</guid><pubDate>Mon, 07 Sep 2026 14:50:32 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-08</guid><pubDate>Tue, 08 Sep 2026 13:21:08 +0000</pubDate></item></channel></rss>
