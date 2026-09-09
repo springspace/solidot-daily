@@ -1,62 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 08 Sep 2026 13:21:08 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 09 Sep 2026 13:28:14 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85311" target="_blank"&gt;LG 智能电视会在待机状态下扫描家庭网络和记录麦克风音频&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 YouTube 主播 Gamers Nexus、Level1Techs 以及独立安全研究员合作展开的调查，测试了包括 G5 在内的零售 LG OLED 电视机，发现 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 称其智能电视的全球销量约为 2.16 亿台，支持内容识别 Automated Content Recognition (ACR)技术，会将屏幕上的音频和视频采样成数字指纹，记录用户在不同输入源上的观看内容。当研究人员断开电视与网络的连接后，电视仍然会将语音输入保存到本地，在网络连接恢复后上传这些文件。研究人员建议用户直接断开 LG 电视与互联网的连接，改用外部串流设备。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85321" target="_blank"&gt;Jellyfin 12.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                开源媒体服务器 Jellyfin 项目释出了 v12.0。Jellyfin 采用了新版本号，在旧版本下 Jellyfin 12.0 其实就是 10.12.0，10.11.x 将是最后一个使用旧方案的分支。Jellyfin 12.0 主要变化包括：重写了媒体库数据库，显著改进了性能，但数据库重构尚未完全完成；电视剧集支持多版本，可同时包含电视版和加长版，或者 1080p 和 4K 等不同分辨率版本；支持图书和漫画；等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85312" target="_blank"&gt;泰国暂停所有数据中心项目建设&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                泰国经济和社会发展委员会上周下令暂停所有数据中心项目的建设，给予数据中心运营商和投资者一周时间提交运营信息，以帮助政府加快制定统一的数据中心监管框架。经济和社会发展委员会考虑将所有用电量超过 2 MW 的数据中心视为工业企业，考虑引入“资源利用费”，以避免数据中心建设产生的间接成本增加公众负担，并建立一套针对未来数据中心建设的评估流程，以确保新建数据中心为泰国创造最大效益。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85322" target="_blank"&gt;控制呼吸为何能控制焦虑？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85313" target="_blank"&gt;Isar Aerospace 成为成功将火箭送入轨道的首个欧洲公司&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                由德国 Isar Aerospace 公司制造的 Spectrum 运载火箭 9 月 6 日从位于挪威北极圈内的 Andoya 航天发射场发射升空。该公司表示，“我们已进入轨道！并创造了欧洲航天史上的里程碑：这是欧洲大陆首次有私营企业研发的火箭成功进入轨道。”Spectrum 火箭专为运载中小型有效载荷而设计。此次发射任务搭载了五颗小型卫星以及一项飞行技术实验。这是这家德国公司第二次尝试将 Spectrum 火箭发射升空。首次尝试发生在 18 个月前，但未能成功。Spectrum 火箭发射成功被认为使欧洲向在本土提供商业卫星发射服务迈出了重要一步。包括英国和瑞典在内的多个国家都对日益增长的商业航天任务市场表现出了兴趣。Isar Aerospace 公司指出，去年美国共发射了 198 枚火箭，而欧洲的发射数量仅为 8 枚。Isar 的目标是实现年产约 40 枚火箭。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85323" target="_blank"&gt;科学家建议冲马桶合盖以减少气凝胶&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Flinders 大学的研究人员发现，冲马桶会向周围空气释放气溶胶和生物气溶胶，气溶胶颗粒甚至会进入到成年人的呼吸区，而冲水后气溶胶会在空气中悬浮至少 20 秒。这些发现是基于对 22 项马桶气溶胶研究的分析。结果表明，保持良好的厕所卫生，包括定期清洁马桶及其周围表面，以及使用后洗手，有助于最大限度减少微生物污染和潜在的微生物疾病风险。使用马桶的低冲水模式也有助于最大限度减少气溶胶的产生。充足的通风有助于扩散和清除悬浮的空气颗粒，关闭马桶盖会改变气溶胶的扩散方向，气溶胶会从马桶盖和马桶座之间的缝隙逸出，而不是向上扩散。研究人员建议保持卫生间通风良好，在冲水前盖上马桶盖。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85314" target="_blank"&gt;小鼠实验显示 GLP-1 减肥药或有助于延缓衰老&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                GLP-1 减肥药或有助于延缓衰老。加州伯克利等机构研究人员通过小鼠试验发现，老年雌性小鼠服用 GLP-1 类药物司美格鲁肽后，寿命比未服药小鼠延长12%，同时多项与衰老相关的生物学变化得到减缓。研究人员选取 20 个月大的健康雌性小鼠开展试验，这一年龄大致相当于人类 60 岁。结果显示，持续接受司美格鲁肽治疗的小鼠中位寿命为 834 天，而对照组为 742 天，前者延长约 12%。此外，服用司美格鲁肽的小鼠在运动协调、肌肉功能和血糖调节等测试中的表现更好。研究人员进一步分析发现，司美格鲁肽能够减缓小鼠体内一些变化，包括炎症、干细胞减少、细胞衰老、基因组不稳定、线粒体功能障碍和蛋白质稳态失衡等。服用司美格鲁肽的小鼠热量摄入减少了 24%。其延长寿命作用是否只是因为让小鼠吃得更少？为排除这一因素的影响，他们又设置了一组小鼠，通过限制饮食使其摄入与司美格鲁肽组相当的热量。结果显示，单纯限制热量摄入的小鼠与服用司美格鲁肽的小鼠寿命相近。但在部分测试中，司美格鲁肽组表现更好。例如在空间记忆测试中，服药小鼠记忆迷宫出口位置的能力优于饮食限制组。这提示司美格鲁肽可能还具有一些无法用减少热量摄入解释的作用，但这些作用的具体原因目前尚不清楚。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85324" target="_blank"&gt;Brave 声称其比竞争对手使用的系统资源更少页面加载速度更快&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                基于 Chromium 的浏览器 Brave 公布了一份测试结果，称其桌面版比竞争对手 Chrome、Microsoft Edge 和 Firefox 占用更少的系统资源，页面加载速度更快。测试使用的 Firefox 不是最新版本 v155，而是旧版本 v146.0.1。结果显示，Brave 的平均 CPU 占用率为 33%，Chrome 为 47%，Edge 为 53%，Firefox 为 78%；Brave 使用了约 1.2 GB 内存，而 Chrome 为 1.75 GB，Edge 为 1.62 GB，Firefox 为 1.65 GB；Brave 完成网页加载约需要 4.4 秒，Chrome 需要 5.1 秒，Firefox 需要 5.3 秒，Edge 需要 6 秒。Brave 内置了广告屏蔽功能，其网页加载速度受益了这一功能。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85315" target="_blank"&gt;美国今年上半年 CD 和黑胶唱片销量大幅增长&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据 RIAA 公布的数据，美国今年上半年 CD 和黑胶唱片等实体唱片销量大幅增长。消费者对订阅服务价格上涨的不满推动了实体音乐的复苏。上半年录制音乐收入比去年同期增长 6.9%，实体唱片收入增长了 25.9%，其中黑胶唱片增长 17.7%，CD 收入飙升了 58.6%。流媒体仍然是录制音乐收入的最大来源，收入增长 4.7% 达到 49 亿美元，付费订阅收入增长 6.4% 达到 34 亿美元，广告支持的免费订阅收入增长 3.7% 达到 9 亿美元。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85325" target="_blank"&gt;孕期记忆力下降背后的生物学机制&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”神经环路，从而暂时性损害记忆功能，从机制层面解答了高水平雌激素影响认知的生物学基础。研究人员首先构建了模拟孕期持续高雌激素水平的小鼠模型，发现高雌激素会引起可逆的记忆损伤，但并不影响情绪或探索动机，表明这是一种特异性的认知效应。在机制层面，研究团队发现，外侧下丘脑中占主导地位的雌激素受体集中在GABA能神经元上。这类神经元通常向大脑其他区域发送抑制性信号。单核RNA测序与电生理实验表明，高雌激素水平会抑制这些神经元中的GABA-A受体信号，导致其自发放电频率显著增加。当特异性敲除这些下丘脑神经元中的雌激素受体后，小鼠中由高雌激素及孕期本身引起的记忆损伤均得到恢复。进一步神经环路追踪显示，这些过度活跃的下丘脑神经元直接投射到海马CA3区（记忆形成的关键枢纽）。利用化学遗传学技术，研究人员证明：沉默这一“下丘脑-海马”通路可保护小鼠免受高雌激素诱导的记忆损伤；而在无雌激素升高的情况下，人工激活同一通路本身已足以损害记忆。研究表明，低水平、周期性的雌激素暴露主要作用于海马，维持认知功能；但持续高水平的雌激素暴露则主要激活了以下丘脑为中心的神经通路。这一不同作用靶区的发现，成功调和了该领域长期存在的争议。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85316" target="_blank"&gt;英国犯罪率下降，但公众并没有感到更安全&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                英国犯罪率在下降，但公众并没有感到更安全。极右翼英国改革党领导人 Nigel Farage 上个月声称人人都知道英国的治安状况比五年前或十年前更糟。逾八成英国民众认为犯罪率过去几年有所上升。八成英国民众认为自 2010 年以来手机盗窃案有所增加，六成民众认为汽车盗窃和入室盗窃案有所增加。事实上所有这些案件的发生率在同一时期都下降了 50% 甚至更多。警方犯罪统计数据所衡量的谋杀率自 2010 年以来下降了 20%，而三分之二民众认为谋杀案数量有所增加或保持不变。我们对现实的认知更多地受到情绪反应和身份认同的影响，而非基于统计数据的研究。在解释认知偏差时，关键原因可归结为两个相互关联的方面：思维方式和被告知的信息。前者涵盖了可能误导偏见和思维捷径。人类天生就更容易关注负面信息，因为负面信息预示着威胁。媒体、政客和社交媒体平台深知人们更倾向于关注负面信息，因此会推送更多此类信息。人们的思维方式和他们被告知的信息之间的相互作用，强化了对现实的过度负面看法。真正的风险不在于犯错，而在于固执坚信自己所认知的现实才是正确的，而对方则是在故意欺骗自己和我们。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85326" target="_blank"&gt;《南方公园》改名为《南方美国》&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                《南方公园（South Park）》创作者 Matt Stone 和 Trey Parker 宣布，“受苹果和 Google 的勇敢和爱国精神的启发，我们将把《南方公园》更名为《南方美国（South America）》。”美国总统特朗普上个月签署了行政令，将安大略湖（Lake Ontario）更名为美国湖（Lake America），去年他下令将墨西哥湾（Gulf of Mexico）更名为“美国湾”（Gulf of America）。《南方公园/南方美国》将于 9 月 16 日播出第 29 季第一集，它曾在 27 季刻画了特朗普睡了撒旦并让其怀孕的情节，被白宫抨击是“如垂死蛛丝，用枯竭的灵感，不择手段博取关注”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85317" target="_blank"&gt;iPhone 折叠版早期产能严重受限&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                市场期待已久的首部苹果折叠 iPhone 由于苹果极为严格的质量管控标准，初期生产量每天仅有“数百部”。苹果计划今年内生产 800万~1000 万部折叠屏 iPhone，希望凭借这款全新外型设计的机型激发市场需求，进而推升营收。除非苹果能更快提高产量，否则可能无法达成生产目标，也可能需要比预期更长的时间才能满足消费者需求。苹果与其供货商正昼夜赶工，努力提升日产能。但是产能爬坡仍需要时间，而前期的测试、验证工序已经推迟了原定的时程。如果现状得不到大幅改善，待折叠屏 iPhone 开售时，可能面临库存有限的问题。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85327" target="_blank"&gt;Valve 要求澳大利亚玩家用信用卡验证年龄以访问 R18+ 游戏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                澳大利亚玩家通过社媒报告，Valve 要求澳大利亚玩家用信用卡验证年龄，之后才允许访问 Steam 商店的 R18+ 类游戏。玩家抱怨，他们的账号历史都超过 20 年了，如今却还被迫要通过信用卡去验证年龄。而在澳大利亚，信用卡并不像美国那样普及，大部分成年人都只有借记卡，为了访问 R18+ 游戏页面去申请信用卡有点小题大作。此前 Valve 也对访问 R18+ 游戏的英国玩家推行了信用卡年龄验证要求。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85318" target="_blank"&gt;美国军方正禁用设备上的广告追踪功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国军方正在禁用设备上的广告追踪功能，防止敌人借助于购买的公开追踪数据去锁定美国士兵的位置。此前有报道称，商业追踪数据被用于锁定驻扎在中东的美军。美国陆军在一份声明中表示，Windows PC 上的广告 ID 功能早在 2021 年之前就被禁用，但 Android 和苹果移动设备上的广告 ID 则“至少从 2026 年 2 月起”才默认禁用。美国军方还在考虑对手机使用实施更严格的限制。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85328" target="_blank"&gt;Fermi Explorer Mission 项目考虑 2029 年向半人马座α星发射探测器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标：探测器应朝半人马座α星系统飞行，8 万年内至少完成整个旅程的 99%；有效载荷至少 1 公斤，封装在 10×10×10 厘米空间内；2029 年底前发射；全周期成本低于 1500 万美元。半人马座α星系统由半人马座αA、αB与比邻星组成，是太阳系最近的恒星邻居。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85319" target="_blank"&gt;Asahi Linux 宣布支持 M3 系列 Mac&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版 Asahi Linux 宣布支持 M3 系列 Mac。开发者表示，Linux 对 M3 系列 SoC 及其相关设备支持已达到几乎与 M1 和 M2 系列设备相当的水平，绝大多数功能都能正常工作。其中包括：网络摄像头、内置麦克风、USB（最高支持 USB 3.0 的 10 Gb/s）、硬件加速视频解码（包括 AV1 解码）、WiFi 和蓝牙等，完整的 DCP 支持和 GPU 功能尚未完成，用户暂时不要期待高性能或高能效的 3D 加速。
-&lt;p&gt;&lt;/p&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85330" target="_blank"&gt;NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。
+&lt;br /&gt;
+
+半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合生态伙伴共同把脉 AI 产业趋势，现场设专属展区供近距离体验。
+&lt;br /&gt;
+
+活动面向科创企业、投资人、大企业、云厂商、创业加速器等生态从业者开放报名，审核制确认，报名从速！
+https://scrm.nvidia.cn/events/semi-final-20261015?pushId=8kJQ2pgiiMFxtKL7Gapgdg1
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85320" target="_blank"&gt;澳大利亚想要社媒平台允许用户退出算法驱动的信息流&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在禁止儿童使用社媒平台之后，澳大利亚工党政府提出了一项新的法律草案，要求社媒平台允许用户退出算法驱动的信息流。用户可选择算法推荐的个性化内容作为默认信息流，或者拒绝接收算法推荐的内容，只浏览用户关注的朋友和创作者的内容。被称为 My Feed, My Way 的法案旨在给予用户选择权，违反者将面临最高 1.092 亿澳元的罚款。澳大利亚总理 Anthony Albanese 表示，“它赋予用户选择权，如果大型科技公司不遵守我们的法律，我们将追究它们的责任。”
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85331" target="_blank"&gt;《星际迷航》上映 60 周年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                1966 年 9 月 8 日，《星际迷航：原初系列》上映。60 年之后，《星际迷航》系列包含了 967 集电视剧、14 部电影，以及大量小说等其它媒介，形成了庞大的《星际迷航》宇宙，是史上最成功的科幻作品系列之一。《星际迷航》最著名的开头旁白是：“宇宙，终极的边疆。这里叙述的是星舰进取号的旅程，它的五年任务，是为了要探索这全然未知的新世界戏中，寻找新生命和新文明，勇踏前人未至之境。”以前被称为 Trekkies 的星际迷航粉丝可能只记住 James T. Kirk 这位进取号船长的名字，如今 Picard、Janeway 或 Sisko 等船长的名字对大部分粉丝而言都如雷贯耳。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-08</guid><pubDate>Tue, 08 Sep 2026 13:21:08 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-09</guid><pubDate>Wed, 09 Sep 2026 13:28:14 +0000</pubDate></item></channel></rss>
