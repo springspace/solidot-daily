@@ -1,68 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 09 Sep 2026 13:28:14 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 10 Sep 2026 13:20:51 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85321" target="_blank"&gt;Jellyfin 12.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                开源媒体服务器 Jellyfin 项目释出了 v12.0。Jellyfin 采用了新版本号，在旧版本下 Jellyfin 12.0 其实就是 10.12.0，10.11.x 将是最后一个使用旧方案的分支。Jellyfin 12.0 主要变化包括：重写了媒体库数据库，显著改进了性能，但数据库重构尚未完全完成；电视剧集支持多版本，可同时包含电视版和加长版，或者 1080p 和 4K 等不同分辨率版本；支持图书和漫画；等等。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85332" target="_blank"&gt;Google 将“降级”欧洲搜索服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为遵守欧洲的数字市场法律《Digital Markets Act（DMA）》，Google 宣布将调整欧洲的搜索服务，提升 Expedia 和 Hotels.com 等竞争对手比价服务的权重，移除酒店、航空公司和餐厅搜索结果中的部分实时信息功能。Google 高级副总裁 Nick Fox 表示，“这些改变降低（degrade）了欧洲用户的体验——以牺牲本地企业为代价提升了在线中介平台的地位，移除了用户每天依赖的实用功能。”DMA 禁止科技巨头在排名中给予自家服务高于第三方服务的待遇。搜索排名仍然由 Google 的算法决定，这意味着搜索巨人在搜索结果的展示方式上仍掌握着很大程度的控制权。Google 尚未披露欧洲用户何时会看到这些改变。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85322" target="_blank"&gt;控制呼吸为何能控制焦虑？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85333" target="_blank"&gt;屏幕使用时长导致学生阅读得分大幅下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任务的学生，其科学成绩平均低了 20分，相当于一年的学习差距。PISA 阅读成绩指数于 2012 年达到 501 分的最高值，到去年降至了 466 分。OECD 秘书长 Mathias Cormann 表示：“在阅读上，屏幕使用时长的增加和兴趣阅读的减少，与成绩下滑有着密切联系。我们还观察到更多‘仓促阅读’的现象，即学生匆忙浏览文本后给出草率且错误的答案。”研究还发现，富裕家庭学生阅读成绩下滑幅度更明显。由于阅读水平下降，青少年在科学和数学上也处于本世纪以来的最低水平。科学成绩从 2009 年 506 分的最高值降至 486 分，数学成绩则从 502 分降至 469 分。东亚地区表现最出色。参与测试的中国城市、日本、韩国、新加坡和台湾等拥有最优秀的教育体系，其它地区仅有英国和爱沙尼亚跻身阅读、数学和科学的前十名。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85323" target="_blank"&gt;科学家建议冲马桶合盖以减少气凝胶&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Flinders 大学的研究人员发现，冲马桶会向周围空气释放气溶胶和生物气溶胶，气溶胶颗粒甚至会进入到成年人的呼吸区，而冲水后气溶胶会在空气中悬浮至少 20 秒。这些发现是基于对 22 项马桶气溶胶研究的分析。结果表明，保持良好的厕所卫生，包括定期清洁马桶及其周围表面，以及使用后洗手，有助于最大限度减少微生物污染和潜在的微生物疾病风险。使用马桶的低冲水模式也有助于最大限度减少气溶胶的产生。充足的通风有助于扩散和清除悬浮的空气颗粒，关闭马桶盖会改变气溶胶的扩散方向，气溶胶会从马桶盖和马桶座之间的缝隙逸出，而不是向上扩散。研究人员建议保持卫生间通风良好，在冲水前盖上马桶盖。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85334" target="_blank"&gt;小岛秀夫与索尼终止合作，改为与微软合作&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                知名日本游戏制作人小岛秀夫证实在索尼取消对其正在开发中的谍战动作游戏项目 PHYSINT 的资助之后，他找到了新的合作伙伴——索尼 PS 的竞争对手微软 XBOX。此前索尼游戏资助小岛开发了《死亡搁浅》系统。小岛称在索尼于 5 月发出取消 PHYSINT 项目的通知之后，过去三个月他们一直在寻找新合作伙伴，称 PHYSINT 对他们非常重要。微软 XBOX CEO Asha Sharma 表示，“创作者可选择在哪里以及如何将他们的想法变为现实。我们感到荣幸，小岛先生选择与 XBOX 合作打造《PHYSINT》。他挑战传统的雄心壮志，正是 XBOX 想要支持的那种创造力。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85324" target="_blank"&gt;Brave 声称其比竞争对手使用的系统资源更少页面加载速度更快&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                基于 Chromium 的浏览器 Brave 公布了一份测试结果，称其桌面版比竞争对手 Chrome、Microsoft Edge 和 Firefox 占用更少的系统资源，页面加载速度更快。测试使用的 Firefox 不是最新版本 v155，而是旧版本 v146.0.1。结果显示，Brave 的平均 CPU 占用率为 33%，Chrome 为 47%，Edge 为 53%，Firefox 为 78%；Brave 使用了约 1.2 GB 内存，而 Chrome 为 1.75 GB，Edge 为 1.62 GB，Firefox 为 1.65 GB；Brave 完成网页加载约需要 4.4 秒，Chrome 需要 5.1 秒，Firefox 需要 5.3 秒，Edge 需要 6 秒。Brave 内置了广告屏蔽功能，其网页加载速度受益了这一功能。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85335" target="_blank"&gt;苹果推出折叠屏手机 iPhone Duo&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出起售价 15,999 元的折叠屏手机，消费者是否接受还有待市场检验。iPhone Duo 配备了 7.6 英寸超视网膜 XDR 可折叠屏，5.4 英寸超视网膜 XDR 外屏，A20 Pro 芯片，10 月 16 日（星期五）起接受预购，10 月 23 日（星期五）起正式发售。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85325" target="_blank"&gt;孕期记忆力下降背后的生物学机制&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”神经环路，从而暂时性损害记忆功能，从机制层面解答了高水平雌激素影响认知的生物学基础。研究人员首先构建了模拟孕期持续高雌激素水平的小鼠模型，发现高雌激素会引起可逆的记忆损伤，但并不影响情绪或探索动机，表明这是一种特异性的认知效应。在机制层面，研究团队发现，外侧下丘脑中占主导地位的雌激素受体集中在GABA能神经元上。这类神经元通常向大脑其他区域发送抑制性信号。单核RNA测序与电生理实验表明，高雌激素水平会抑制这些神经元中的GABA-A受体信号，导致其自发放电频率显著增加。当特异性敲除这些下丘脑神经元中的雌激素受体后，小鼠中由高雌激素及孕期本身引起的记忆损伤均得到恢复。进一步神经环路追踪显示，这些过度活跃的下丘脑神经元直接投射到海马CA3区（记忆形成的关键枢纽）。利用化学遗传学技术，研究人员证明：沉默这一“下丘脑-海马”通路可保护小鼠免受高雌激素诱导的记忆损伤；而在无雌激素升高的情况下，人工激活同一通路本身已足以损害记忆。研究表明，低水平、周期性的雌激素暴露主要作用于海马，维持认知功能；但持续高水平的雌激素暴露则主要激活了以下丘脑为中心的神经通路。这一不同作用靶区的发现，成功调和了该领域长期存在的争议。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85336" target="_blank"&gt;2026 年拉斯克奖宣布&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                拉斯克奖公布了 2026 年的获奖名单。基础医学奖授予了发现掌管睡眠的大脑神经传递物质“食欲素”（Orexin）的日本筑波大学教授柳泽正史（66岁）和美国斯坦福医学院的 Emmanuel Mignot。临床医学奖项授予了开发血友病治疗药的中外制药公司前顾问服部有宏（66岁）、顾问北泽刚久（57岁）以及研究总部长井川智之（49岁）。这是日本人自 2014 年名城大学教授森和俊获奖以来，时隔近 12 年再次获奖。该奖被称为诺贝尔奖的风向标。公共服务奖授予了为帕金森病治疗作出贡献的美国演员迈克尔·J·福克斯。他本人罹患帕金森病，以其姓名冠名的基金会出资逾 30 亿美元加快了开发治疗方法的研究。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85326" target="_blank"&gt;《南方公园》改名为《南方美国》&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                《南方公园（South Park）》创作者 Matt Stone 和 Trey Parker 宣布，“受苹果和 Google 的勇敢和爱国精神的启发，我们将把《南方公园》更名为《南方美国（South America）》。”美国总统特朗普上个月签署了行政令，将安大略湖（Lake Ontario）更名为美国湖（Lake America），去年他下令将墨西哥湾（Gulf of Mexico）更名为“美国湾”（Gulf of America）。《南方公园/南方美国》将于 9 月 16 日播出第 29 季第一集，它曾在 27 季刻画了特朗普睡了撒旦并让其怀孕的情节，被白宫抨击是“如垂死蛛丝，用枯竭的灵感，不择手段博取关注”。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85337" target="_blank"&gt;Google 向司机推荐更长的行驶路线以缓解拥堵&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Nature Cities》期刊上的一项研究，Google 研究人员利用 Google Maps 有意向部分司机推荐更长的行驶路线，此举有助于将车流分散到更多条道路上，从而缓解交通拥堵。研究人员在西雅图、盐湖城、芝加哥和亚特兰大等 10 座城市进行了实验，结果显示拥堵路段的平均车速提高了 2%，通行时间缩短了 0.7%。这种方法对大城市如洛杉矶的高速公路路段的引导效果最为显著，相关路段的车速提高了 4.6%。大部分城市的效果不那么显著，高峰时段的整体车速仅提高了 0.5%。UCLA 城市规划教授 Michael Manville 指出，Google 的研究发现证实了研究人员长期以来的猜测：如果一条交通干道面临长时间拥堵，那么将少量汽车分流出去能产生虽不巨大但显而易见的效果。研究指出，更顺畅的车流以及更短的通行时间有助于减少了二氧化碳排放，每年总计减排约 1000 公吨，相当于约 200 辆汽车的排放量，虽然对大城市而言是如九牛一毛，但长期能带来累积效应。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85327" target="_blank"&gt;Valve 要求澳大利亚玩家用信用卡验证年龄以访问 R18+ 游戏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                澳大利亚玩家通过社媒报告，Valve 要求澳大利亚玩家用信用卡验证年龄，之后才允许访问 Steam 商店的 R18+ 类游戏。玩家抱怨，他们的账号历史都超过 20 年了，如今却还被迫要通过信用卡去验证年龄。而在澳大利亚，信用卡并不像美国那样普及，大部分成年人都只有借记卡，为了访问 R18+ 游戏页面去申请信用卡有点小题大作。此前 Valve 也对访问 R18+ 游戏的英国玩家推行了信用卡年龄验证要求。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85338" target="_blank"&gt;微软九月例行更新修复近千个 Bug&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。比较严重的 bug 包括存在于 Windows Server 2012 以上版本 和 Windows 10 的 DNS 漏洞 CVE-2026-69730，未经身份验证的攻击者只需向受影响系统发送特制数据包即可利用该漏洞；另一个是 Windows Shell 程代码执行 bug CVE-2026-69829，威胁评分 9.8.10，极其容易利用。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85328" target="_blank"&gt;Fermi Explorer Mission 项目考虑 2029 年向半人马座α星发射探测器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标：探测器应朝半人马座α星系统飞行，8 万年内至少完成整个旅程的 99%；有效载荷至少 1 公斤，封装在 10×10×10 厘米空间内；2029 年底前发射；全周期成本低于 1500 万美元。半人马座α星系统由半人马座αA、αB与比邻星组成，是太阳系最近的恒星邻居。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85330" target="_blank"&gt;NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。
-&lt;br /&gt;
-
-半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合生态伙伴共同把脉 AI 产业趋势，现场设专属展区供近距离体验。
-&lt;br /&gt;
-
-活动面向科创企业、投资人、大企业、云厂商、创业加速器等生态从业者开放报名，审核制确认，报名从速！
-https://scrm.nvidia.cn/events/semi-final-20261015?pushId=8kJQ2pgiiMFxtKL7Gapgdg1
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85331" target="_blank"&gt;《星际迷航》上映 60 周年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                1966 年 9 月 8 日，《星际迷航：原初系列》上映。60 年之后，《星际迷航》系列包含了 967 集电视剧、14 部电影，以及大量小说等其它媒介，形成了庞大的《星际迷航》宇宙，是史上最成功的科幻作品系列之一。《星际迷航》最著名的开头旁白是：“宇宙，终极的边疆。这里叙述的是星舰进取号的旅程，它的五年任务，是为了要探索这全然未知的新世界戏中，寻找新生命和新文明，勇踏前人未至之境。”以前被称为 Trekkies 的星际迷航粉丝可能只记住 James T. Kirk 这位进取号船长的名字，如今 Picard、Janeway 或 Sisko 等船长的名字对大部分粉丝而言都如雷贯耳。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-09</guid><pubDate>Wed, 09 Sep 2026 13:28:14 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-10</guid><pubDate>Thu, 10 Sep 2026 13:20:51 +0000</pubDate></item></channel></rss>
