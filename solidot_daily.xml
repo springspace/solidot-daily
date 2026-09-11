@@ -1,44 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 10 Sep 2026 13:20:51 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 11 Sep 2026 13:18:32 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月11日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85332" target="_blank"&gt;Google 将“降级”欧洲搜索服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为遵守欧洲的数字市场法律《Digital Markets Act（DMA）》，Google 宣布将调整欧洲的搜索服务，提升 Expedia 和 Hotels.com 等竞争对手比价服务的权重，移除酒店、航空公司和餐厅搜索结果中的部分实时信息功能。Google 高级副总裁 Nick Fox 表示，“这些改变降低（degrade）了欧洲用户的体验——以牺牲本地企业为代价提升了在线中介平台的地位，移除了用户每天依赖的实用功能。”DMA 禁止科技巨头在排名中给予自家服务高于第三方服务的待遇。搜索排名仍然由 Google 的算法决定，这意味着搜索巨人在搜索结果的展示方式上仍掌握着很大程度的控制权。Google 尚未披露欧洲用户何时会看到这些改变。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85339" target="_blank"&gt;OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为六大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。如果得到确认，将标志着 AI 首次解决了一个重大的数学难题。但此事在数学界引发了巨大争议。过去一个月，纽约大学数学家 Tristan Buckmaster 和 Anthropic 研究员 Levent Alpöge 利用来自 OpenAI 和 Anthropic 的 AI 工具在解决 Navier-Stokes 问题上取得了重大进展。然而就在他们准备公布研究成果之前，OpenAI 投入了数百万美元算力，开展了大规模攻坚行动。OpenAI 声称它未利用 Buckmaster 和 Alpöge 的最新研究成果，但 Buckmaster 公开发表声明，对此提出质疑。纽约大学团队指控 OpenAI 抓取了他们的数据训练其模型。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85333" target="_blank"&gt;屏幕使用时长导致学生阅读得分大幅下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任务的学生，其科学成绩平均低了 20分，相当于一年的学习差距。PISA 阅读成绩指数于 2012 年达到 501 分的最高值，到去年降至了 466 分。OECD 秘书长 Mathias Cormann 表示：“在阅读上，屏幕使用时长的增加和兴趣阅读的减少，与成绩下滑有着密切联系。我们还观察到更多‘仓促阅读’的现象，即学生匆忙浏览文本后给出草率且错误的答案。”研究还发现，富裕家庭学生阅读成绩下滑幅度更明显。由于阅读水平下降，青少年在科学和数学上也处于本世纪以来的最低水平。科学成绩从 2009 年 506 分的最高值降至 486 分，数学成绩则从 502 分降至 469 分。东亚地区表现最出色。参与测试的中国城市、日本、韩国、新加坡和台湾等拥有最优秀的教育体系，其它地区仅有英国和爱沙尼亚跻身阅读、数学和科学的前十名。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85340" target="_blank"&gt;育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将测试一项名为‘Ubisoft Connect Services’的全新 Steam 工具。该工具能保留跨平台进度、跨平台联机、玩家安全保障、挑战与奖励等育碧游戏功能，而无需安装或启动 Ubisoft Connect PC 客户端。”Ubisoft Connect Services 未来将逐步推广给 Steam 平台上更多的育碧游戏。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85334" target="_blank"&gt;小岛秀夫与索尼终止合作，改为与微软合作&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                知名日本游戏制作人小岛秀夫证实在索尼取消对其正在开发中的谍战动作游戏项目 PHYSINT 的资助之后，他找到了新的合作伙伴——索尼 PS 的竞争对手微软 XBOX。此前索尼游戏资助小岛开发了《死亡搁浅》系统。小岛称在索尼于 5 月发出取消 PHYSINT 项目的通知之后，过去三个月他们一直在寻找新合作伙伴，称 PHYSINT 对他们非常重要。微软 XBOX CEO Asha Sharma 表示，“创作者可选择在哪里以及如何将他们的想法变为现实。我们感到荣幸，小岛先生选择与 XBOX 合作打造《PHYSINT》。他挑战传统的雄心壮志，正是 XBOX 想要支持的那种创造力。”
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85341" target="_blank"&gt;LG 强烈否认其监视电视用户&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电视仅在用户按住遥控器上的语音按钮，或在激活 Far-Field 功能后识别出‘Hi LG’等唤醒词时，才会处理语音数据。”LG 表示除此之外其智能电视不会收集或记录环境中的对话。如果未识别出唤醒词，电视不会向服务器传输任何语音数据，针对唤醒词的音频处理是在设备本地完成的。LG 声称 Automatic content recognition (ACR)是可选启用的功能，旨在提供个性化的内容推荐、服务及广告。在默认情况下，未经用户同意，ACR 数据不会被用于广告目的。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85335" target="_blank"&gt;苹果推出折叠屏手机 iPhone Duo&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出起售价 15,999 元的折叠屏手机，消费者是否接受还有待市场检验。iPhone Duo 配备了 7.6 英寸超视网膜 XDR 可折叠屏，5.4 英寸超视网膜 XDR 外屏，A20 Pro 芯片，10 月 16 日（星期五）起接受预购，10 月 23 日（星期五）起正式发售。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85336" target="_blank"&gt;2026 年拉斯克奖宣布&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                拉斯克奖公布了 2026 年的获奖名单。基础医学奖授予了发现掌管睡眠的大脑神经传递物质“食欲素”（Orexin）的日本筑波大学教授柳泽正史（66岁）和美国斯坦福医学院的 Emmanuel Mignot。临床医学奖项授予了开发血友病治疗药的中外制药公司前顾问服部有宏（66岁）、顾问北泽刚久（57岁）以及研究总部长井川智之（49岁）。这是日本人自 2014 年名城大学教授森和俊获奖以来，时隔近 12 年再次获奖。该奖被称为诺贝尔奖的风向标。公共服务奖授予了为帕金森病治疗作出贡献的美国演员迈克尔·J·福克斯。他本人罹患帕金森病，以其姓名冠名的基金会出资逾 30 亿美元加快了开发治疗方法的研究。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85337" target="_blank"&gt;Google 向司机推荐更长的行驶路线以缓解拥堵&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Nature Cities》期刊上的一项研究，Google 研究人员利用 Google Maps 有意向部分司机推荐更长的行驶路线，此举有助于将车流分散到更多条道路上，从而缓解交通拥堵。研究人员在西雅图、盐湖城、芝加哥和亚特兰大等 10 座城市进行了实验，结果显示拥堵路段的平均车速提高了 2%，通行时间缩短了 0.7%。这种方法对大城市如洛杉矶的高速公路路段的引导效果最为显著，相关路段的车速提高了 4.6%。大部分城市的效果不那么显著，高峰时段的整体车速仅提高了 0.5%。UCLA 城市规划教授 Michael Manville 指出，Google 的研究发现证实了研究人员长期以来的猜测：如果一条交通干道面临长时间拥堵，那么将少量汽车分流出去能产生虽不巨大但显而易见的效果。研究指出，更顺畅的车流以及更短的通行时间有助于减少了二氧化碳排放，每年总计减排约 1000 公吨，相当于约 200 辆汽车的排放量，虽然对大城市而言是如九牛一毛，但长期能带来累积效应。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85338" target="_blank"&gt;微软九月例行更新修复近千个 Bug&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。比较严重的 bug 包括存在于 Windows Server 2012 以上版本 和 Windows 10 的 DNS 漏洞 CVE-2026-69730，未经身份验证的攻击者只需向受影响系统发送特制数据包即可利用该漏洞；另一个是 Windows Shell 程代码执行 bug CVE-2026-69829，威胁评分 9.8.10，极其容易利用。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-10</guid><pubDate>Thu, 10 Sep 2026 13:20:51 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-11</guid><pubDate>Fri, 11 Sep 2026 13:18:32 +0000</pubDate></item></channel></rss>
