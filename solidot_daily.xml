@@ -1,26 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 13 Sep 2026 13:41:10 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月13日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 14 Sep 2026 15:42:16 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月14日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85359" target="_blank"&gt;克雷数学研究所就 Navier-Stokes 问题发表公开声明&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞加莱猜想确认解决，但解决该问题的俄罗斯数学家格里戈里·佩雷尔曼拒绝接受该奖。克雷数学研究所就此公开声明，表示将根据其评奖流程确认成果。根据克雷数学研究所的规则，OpenAI 首先需要在同行评审的期刊上发表解题结果，需要至少发表两年并且获得数学界的普遍认可。OpenAI 至今没有给出 Navier-Stokes 问题的证明，因此确认该问题被解决至少需要到 2029 年。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85367" target="_blank"&gt;青藏高原升温与加州的洪水相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                受拉尼娜（La Niña）气候的影响，加州通常会在冬季面临干旱。然而 2016-2017 年和 2022-2023 年两个冬季虽然都是拉尼娜气候，加州却反常的出现了强降水、洪水、大量降雪以及反复的大气河流事件。研究人员发现，在加州遭遇洪水前，青藏高原上空都出现了异常的升温。研究人员将青藏高原升温因素纳入气候模拟，发现能解释加州及周边的异常降雨。青藏高原升温之所以能影响大气，是因为该地区海拔极高。大片区域的海拔逾 4000 米，地面直接处于通常远高于低海拔地形的大气层中。如此广袤的高海拔地区温度发生变化，会进而改变气压场、高空风以及在亚洲上空移动的大型大气波动。这些扰动能为 Rossby 波（Rossby waves，即跨大陆与海洋的大气环流巨大蛇形波动）提供能量。模拟结果表明，在此类情境下，会出现一种从青藏高原向落基山脉延伸的波动模式。该波动横跨太平洋，改变了东北太平洋和北美西部的环流，进而影响了与大气河流及 Rossby 波破碎相关的气象条件。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85360" target="_blank"&gt;Waymo 举报了两名携带幽灵枪的青少年乘客&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Waymo 举报了两名携带幽灵枪的年轻乘客。事件发生在 9 月 3 日凌晨 4 点前，地点是旧金山的 Richmond 区。Waymo 发言人称，它在检测到乘客携带枪支之后，停下了无人出租车，通知了执法部门。旧金山警方拘留了两名未成年青少年，一名男孩和一名女孩，搜查汽车后发现了一支已上膛的 AR 风格突击步枪。两名乘客已被送往少年拘留中心。这不是 Waymo 第一次举报乘客，它在今年 7 月曾举报了玩玩具枪的两名青少年乘客。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85368" target="_blank"&gt;中国要求电动汽车显示屏配备物理按键&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                今天越来越多的汽车都配备了中央显示屏，厂商也将越来越多的功能整合到触摸屏控制系统中。但中国工信部起草了新规定，要求新车恢复提供关键功能的物理控制。新规将于 2027 年 7 月 1 日生效，增加了对实体控制的要求，明确规定物理控制应易于触及和使用，支持在驾驶过程中进行盲操作——即驾驶员无需视线注视即可操作相应的按键与开关。将雨刷器启动、转向灯控制等功能从触摸屏中剥离出来，旨在减少驾驶员在行车过程中注视并操作屏幕而产生的分心。奔驰等汽车厂商也开始重新引入物理按键。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85361" target="_blank"&gt;墨西哥毒贩涉足加密货币挖矿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货币矿场。根据区块链分析公司 Chainalysis 对流向非法钱包地址的交易量进行的分析，全球范围内非法加密货币交易在 2025 年增长一倍以上，与犯罪活动相关的地址接收的资金总额达到 1540 亿美元，而前一年仅为 590 亿美元。拉美的贩毒集团也愈来愈频繁利用加密货币转账和挖矿洗钱。电力是加密货币挖矿的最主要成本，挖一枚比特币的成本接近 4.5 万美元。按当前约 7.8 万美元的市场价出售，矿场仍能有可观的利润。如果矿场还能偷电，那么利润会更高。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85369" target="_blank"&gt;微信蠕虫事件敲响 AI 安全警钟&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使用的应用程序发起毁灭性的攻击。“从破坏力的角度来讲这个是非常强的，”上海复旦大学美国研究中心副主任赵明昊说。他表示，鉴于微信对中国公众的重要性及其庞大的用户群，搞垮这样一款应用程序的能力相当于“一种新的核武器”。这一发现进一步印证了研究人员的警告：人工智能黑客能力的发展速度超过了防御手段的跟进速度。Calif 展示了这款被他们命名为 WeWorm 的工具，它可以劫持微信用户的账户，拨打其联系人的电话，然后在无需任何人接听电话的情况下，在手机之间传播。Calif 表示，该公司花了一个多星期的时间构建了这个漏洞利用程序，并且已经向白宫和微信的母公司腾讯披露了该缺陷。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85362" target="_blank"&gt;暴雪宣布 FPS 版《星际争霸》&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的第三部《虚空之遗》，时隔 11 年之后宣布的正统续作不再属于 RTS。FPS 版《星际争霸》游戏设定在 Koprulu 星区（Koprulu Sector），时间位于《虚空之遗》剧情结束后的 70 年。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85370" target="_blank"&gt;AI 时代隐晦式安全已死&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻漏洞——其中一些漏洞极其隐蔽且存在已久。这导致安全漏洞披露和补丁发布数量创下历史新高，同时也给项目维护者带来了巨大的积压事项。微软上周二释出例行安全更新，修复了 974 个 CVE 漏洞。趋势科技的 Dustin Child 指出，微软和 Adob​​e 所修复漏洞涉及的组件多年来基本无人问津，如 Telnet 客户端、Windows RNDIS、NFS Portmapper 和 Link Layer Topology Discovery。与此同时，攻击者也在利用 AI 对补丁进行逆向工程，在数小时内开发出相应的漏洞利用方法。在 AI 时代，攻击者无需成为某个领域的专家就能针对关键网络和设施发动破坏性网络攻击。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-13</guid><pubDate>Sun, 13 Sep 2026 13:41:10 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85371" target="_blank"&gt;日本无意结婚的男女比例都超两成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本国立社会保障与人口问题研究所公布了 2025 年出生动向基本调查。18-34 岁未婚人群“终生不打算结婚”的男女受访者比例首次都超过 2 成，其中男性为 24.0%，女性为 21.5%。表示“打算将来结婚”的人群中男性占 75.1%，女性占 77.8%。均首次跌破 8 成。回答结婚有好处的人群男性占 56.3%，女性占 63.4%，均创历史最低水平。夫妻理想中的子女数量比 2021 年上一次调查的平均 2.25 人减少 0.07 人至 2.18 人。计划生育的子女数量为 1.95人，自统计开始以来首次跌破 2 人。减少生育的原因回答“育儿和教育花费太高”的受访者达到 52.9%，比例最高。回答“不想高龄生育”（35.0%）和“无法再承受育儿带来的心理及身体负担”（27.8%）紧随其后。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85372" target="_blank"&gt;律师在谋杀案中捏造了证词，他将此归咎于 ChatGPT&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭审记录及其它案卷材料输入了 ChatGPT，想当然地认为它会生成一份“无懈可击的摘要”。他不清楚 AI 工具会产生“幻觉”——即虚构信息。
+法官对此难以置信，反问他没看新闻吗？法官对他处以 5000 美元罚款，将把他移交至律师纪律委员会进行调查。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85373" target="_blank"&gt;养狗有助于降低老人患认知症风险&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本国立环境研究所等机构从 2016 年起，历时 7 年半对约 1.1 万名老年人开展了调查。他们在学术期刊上发表了研究成果。养狗的老年人因认知症需要接受护理的风险比从未养狗的人群低 48%。研究认为，遛狗带来的身体活动以及社交往来起到了积极作用。曾经养过狗的人患认知症的风险也低于从未养过狗的人群。虽然该差异在统计学上并不显著，但推测养狗时期建立的人际联系等因素可能带来了积极影响。研究还表明，养狗能拉动经济。若养狗人群增加，宠物食品、宠物保险、宠物寄养等相关商品与服务的需求预计随之上涨。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85374" target="_blank"&gt;中国地震局与苹果公司沟通推进地震预警信息接入 iOS&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国地震局监测司上周五表示，中国地震台网中心正在与苹果公司沟通，力争加快推进地震预警信息接入 iOS 系统。苹果手机用户目前可通过微信小程序获取该局统一发布的地震预警信息。今年 8&amp;nbsp; 月 24 日，四川宜宾长宁发生 4.7 级地震，但成都高新减灾研究所用自己的系统生成了一个“7.7级”的地震预警，并以“中国地震预警网”的名义，通过荣耀、vivo、魅族手机以及小天才手表等终端向用户推送。中国地震局后来把这种行为定性为“擅自生成”“违规推送”。 成都高新减灾研究所对此提出异议，称“中国地震预警网”是它与中国地震局此前合作建设的，否认是“冒用”。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-14</guid><pubDate>Mon, 14 Sep 2026 15:42:16 +0000</pubDate></item></channel></rss>
