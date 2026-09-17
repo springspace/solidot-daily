@@ -1,69 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 16 Sep 2026 14:03:29 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月16日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 17 Sep 2026 14:08:00 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月17日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85386" target="_blank"&gt;英国殖民之前的澳大利亚原居民人口约 222 万&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在英国舰队于 1788 年登陆澳大利亚前，这块大陆生活了多少原居民？在英国殖民澳大利亚 140 多年后的 1930 年代，人口学家 Alfred Radcliffe-Brown 首次对原居民的人口总数进行了估计。他估计澳洲原居民的人口在 25 万到 30 万之间，他强调这是一个最低估计值。现在研究人员使用了五种不同的方法重新进行了估计，得出的中位数是——殖民前澳大利亚的原住民约有 222 万。研究人员称，原住民人口至少 100 万以上，有可能在 200 万至 300 万之间，甚至可能超过 500 万。殖民后原居民的人口锐减则是疾病以及暴力导致的。到 1861 年，原住民人口仅剩约 17.7-19.3 万人。时至今日原居民人口仍然未达到殖民前的水平。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85397" target="_blank"&gt;AWS 称无法恢复中东部分可用区资源和数据的访问&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az2 情况类似，阿联酋有三个可用区，另外两个 mec1-az1 和 mec1-az3 也受到战争影响，AWS 目前还在继续恢复这两个可用区的资源的访问。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85387" target="_blank"&gt;出于兴趣阅读有助于促进终身的身心健康&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                WHO 的数据显示，全球逾 10 亿人有心理健康障碍，其中焦虑症和抑郁症等病症造成了巨大的个人痛苦和经济损失。全世界约有七分之一 10-19 岁青少年有心理障碍，占该年龄段疾病负担的 15%。抑郁症、焦虑症和行为障碍是导致疾病和残疾的主因，而自杀则是 15-29 岁人群的第三大死因，凸显了为青少年提供心理健康支持的迫切性。人们已经认识到，环境因素会影响大脑健康、认知能力、心理健康及身体健康，而这些因素可通过改变行为加以改善。因此通过改善生活方式，人们不仅能提升大脑健康和认知能力，还能降低患心理健康障碍和躯体疾病的风险。剑桥大学的研究人员指出，出于兴趣阅读以及参加读书会，是一种有助于促进终身身心健康的低成本干预措施。阅读投入与大脑及心理健康的改善、认知表现的提升以及认知衰退风险的降低密切相关。对成人的调查数据显示，阅读与压力减轻、共情能力增强、幸福感提升以及孤独感降低有关。对青少年研究显示，出于兴趣阅读与注意力、记忆力、执行功能及学业成绩相关，同时也与较少的心理健康问题相关。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85398" target="_blank"&gt;Denuvo 起诉黑客违反 DMCA 反规避条款&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Denuvo 在美国加州北区联邦法院起诉了名叫 voices38 的匿名游戏破解黑客，指控其违反了 DMCA 的反规避条款。被告被控绕过了逾二十款游戏使用的 Denuvo DRM，相关游戏包括了《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。随着诉讼的推进，Denuvo 可能会向 Reddit、Discord 和 Valve 发出传票，以获取黑客的身份信息。voices38 发布了一系列使用 Denuvo DRM 的游戏破解补丁，曾在一天之内发布了创纪录的五款 Denuvo DRM 游戏破解补丁，以至于引起了 Denuvo 公司的注意。Denuvo 称被告是一名专注于对 Denuvo DRM 游戏进行逆向工程的计算机黑客。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85388" target="_blank"&gt;夜晚睡眠光照太亮可能会损伤心脏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                研究人员分析了 英国生物样本库（UK Biobank）11,071 名参与者的数据，参与者在一周时间内手腕佩戴了光线和运动传感器。研究开始时参与者均未有心血管疾病。在几年之后他们接受了心脏 MRI 检查。研究人员主要针对两类人群，其一是夜间睡眠时几乎没有任何光；其二是接触至少 3 lux（照度单位）的光，这些光线可能来自透过窗帘射入的街灯，家用电器上的 LED 灯。在考虑个人背景、生活方式、健康状况和环境因素后，研究人员发现，夜间睡眠时的光照水平如果超过3 lux，每增加一点光照都与可测量的、细微的心脏损伤有关。相比在最黑暗房间内睡觉的参与者，光照暴露量最高的参与者左心室体积增大 2.4%、心壁增厚 1.5%，以及心脏收缩能力下降 1.9%。虽然心脏变化微小，但与心血管疾病及中风存在关联。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85399" target="_blank"&gt;PS2 Fat 使用的安全芯片在时隔 26 年被破解&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。MechaCon 芯片也被用于当时推出的几款街机，包括 Namco System 246 和 System 256 以及 Konami Python 1 等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85389" target="_blank"&gt;日本百岁老人人数首次超过 10 万人&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据日本厚生劳动省公布的数据，日本全国百岁以上老人达到 107,677 人，较去年增加 7914 人。百岁以上老人连续 56 年增加，首次超过 10 万人。其中女性为 94,298 人，占 87.6%，男性为 13,379 人。与去年相比，男性增加 1400 人，女性增加 6514 人。女性最年长者是京都市的岸本Fuyo，她出生于 1911 年（明治 44 年）12 月 20 日，现年 114 岁。男性最年长者是熊本市的加藤光，他出生于 1914 年（大正 3 年）5 月 2 日，现年 112 岁。2025 年日本人的平均寿命为女性 87.33 岁，男性 81.35 岁。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85400" target="_blank"&gt;付费给大学生睡足七小时提高了他们的学习成绩&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                全世界有无数人的睡眠不足，睡眠不足与肥胖、糖尿病、高血压、心脏病、中风及过早死亡相关。如果有人付费让你睡更长时间？科学家为此做了一项社会实验。研究人员向匹兹堡大学的 1100 多名本科生提供了 Fitbit 以及一款能发送就寝提醒和晨间反馈的应用。在为期四周内研究人员随机选择了 468 名学生，只要他们某晚睡眠时间达到至少七小时，就向其支付 5 美元报酬。研究人员通过他们佩戴的设备核实实际睡眠时长。参与研究的学生平均年龄约为 19 岁，其中半数为大一新生。72% 为女性。55% 为白人，28% 为亚裔，9% 为黑人，4% 为西班牙裔。研究结果表明，提供即时经济奖励有助于学生实现每晚七小时的睡眠目标，且这种效果在停止发放奖励后仍能持续一个月。参与研究的学生此前平均每晚睡眠时间为 6.6 小时。半数学生在凌晨 1 点之后才睡觉，四分之一学生甚至在凌晨 2 点之后才入睡。在实验中，获得现金激励的学生在每个上课日夜晚平均多睡了 19 分钟，该学期的 GPA 得分上升了约 0.08 分——相当于成绩高于平均水平和低于平均水平的学生之间差距的四分之一。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85390" target="_blank"&gt;Firefox 156 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 释出了 Firefox 156 正式版，以及 Firefox 157 Beta 版本。Firefox 156 主要变化包括：改进了内置 PDF 浏览器的性能，启动速度提高最多 45%；改进了根据网页自适应尺寸的大型 JPEG 图像的内存和 CPU 占用；修正了 Bilibili 上 MP4 高采样率 FLAC 音频无法播放问题，Firefox 在 macOS 上能设置自动打开，等等。Firefox 157 正式版将于 9 月 29 日释出。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85401" target="_blank"&gt;卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额外 200-300 万人每年面临至少一次洪水威胁。研究发现，六分之五的冰体流失并非源于气温升高，而是因为较温海水从底部和侧面侵蚀冰盖，导致冰川滑向海洋。格陵兰岛的 Jakobshavn 冰川目前每天退缩的距离达到 50 米。数据显示，1970 年代、1980 年代和 1990 年代的冰盖状况相对稳定；但随后融化现象开始出现，2010 年代显著加剧。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85391" target="_blank"&gt;Fedora 45 Beta 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Fedora 项目宣布释出 Fedora 45 Beta，正式版预计于 10 月 20 日释出。Fedora 45 的主要变化包括：用 kmscon 取代了内核控制台（in-kernel console），提供了更流畅的渲染，更出色的 Unicode 与字体支持，增强了系统稳定性；默认要求在安装前验证软件包签名的有效性，防止意外安装未签名的软件包；通过 oo7 标准化桌面密钥管理，取代了  GNOME Keyring 和 KWallet 等后端实现；软件方面的更新包括 GNOME 51，Go 1.27、Python 3.15、GCC 16.2、Glibc 2.44、LLVM 23、RPM 6.1 等等。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85402" target="_blank"&gt;广州提议禁止公共交通内外放声音&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                广州市人大常委会公布了《广州市噪声污染防治规定（草案修改稿·征求意见稿）》，向社会各界征求意见和建议，截止日期为 10 月 15 日。
+
+《征求意见稿》明确，在巴士、地铁等公共交通运输工具内使用手机、平板电脑等电子设备时不得外放声音。使用电子设备外放声音的，公共交通运输工具司乘人员应当劝阻，劝阻无效的，可以向公安机关报告。
+
+违反规定，在公共交通运输工具内使用电子设备外放声音，经公共交通运输工具司乘人员劝阻仍不改正的，由公安机关说服教育，给予警告，可以处 200 元以上 1000 元以下的罚款。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85392" target="_blank"&gt;时光机器遭遇大规模机器流量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联网内容的历史存档，很多内容除了时光机器可能在其它地方都找不到了。时光机器是重要的知识库，因此也是 AI 公司和互联网公司网络爬虫重要的抓取目标。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85403" target="_blank"&gt;商船再次安装基于风帆的推进系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                被现代商船逐渐淘汰的风帆正以新的形式再次回归。散货船、油轮到集装箱船等各类商船正在安装高耸的转子帆、刚性翼帆以及吸风式推进系统。此举并非是要将现代船舶重新变成帆船，而是让基于风帆的系统与现代推进系统协同合作，在条件允许时利用风力降低油耗。International Windship Association 协会的数据显示，已有逾百艘大型商船配备了现代风力推进系统，总载重吨位逾 500 万吨。Maersk 公司计划在一艘有 8700 个标准箱的集装箱货船上安装一座 35 米高的转子帆，预计于 2027 年在大西洋常规航线上启动测试。它有望成为第一艘安装转子帆的集装箱货船。Vale 旗下一艘载重吨位达 40 万吨的巨型矿砂船 Sohar Max 已经安装了五座 35 米高的转子帆，风帆系统将油耗降低多达 6%。韩国船舶制造公司最近宣布研究在液化天然气货船（LNG）上安装风帆系统。如果研究取得成功，那么将进一步证明风帆技术重新迈向主流。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85393" target="_blank"&gt;SDL3 移植到 HarmonyOS / OpenHarmony&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                广泛用于游戏和应用、提供跨平台软硬件抽象层的 SDL3 库已移植到华为的 HarmonyOS / OpenHarmony 操作系统。游戏工作室 Outfit7 资助了 Ryan "Icculus" Gordon 的移植工作。HarmonyOS 是华为开发的私有操作系统，适用于智能手机、平板电脑、 PC、智能设备等多种终端，其架构采用了微内核设计。OpenHarmony 则是 HarmonyOS 的开源版本。Icculus 透露，支持 HarmonyOS/OpenHarmony 的 SDL3 移植版本已用于部分商业游戏。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85405" target="_blank"&gt;人脑类器官在小鼠体内形成神经网络&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85394" target="_blank"&gt;Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工作、高强度检索以及长上下文。
-配送公司 DoorDash 将月之暗面的 Kimi 模型用于处理日常工作，将 Anthropic 的闭源模型 Fable 用于更复杂的任务。前沿模型完成一项任务的成本经常达到了最先进开放权重模型的五倍。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85406" target="_blank"&gt;GNOME 51 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                GNOME 桌面环境项目释出了代号为 A Coruña 的 GNOME 51，该代号旨在感谢 GUADEC 2026 的主办城市。GNOME 51 主要变化包括：Mutter 重新设计了调度和屏幕帧交付系统，即使系统处于高负荷下，动画仍然流畅；全面提升了屏幕录制性能；记住显示器的亮度设置；移除了基于 EGLStreams 的旧 NVIDIA 驱动接口支持；支持新 Wayland 协议如 ext-background-effect-v1；支持自定义指针加速配置文件；GNOME Maps 支持离线地图；GNOME Software 启动更快，GNOME File Previewer UI 重构，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85395" target="_blank"&gt;Mistral 与 Mozilla 合作推出 Firefox Smart Window&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何数据。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85407" target="_blank"&gt;地球正变得不那么扁平&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                地球并非是完美的球形，自转以及围绕太阳公转使其赤道部分隆起，两极部分扁平。根据一项新研究，可能是由于极地地区的冰雪融化，地球两极在隆起，与此同时赤道地区则在加速下沉，地球的整体形状变得不那么扁平。研究人员利用了 GNSS 导航网络地面站在 1997-2015 年间的测量数据，绘制了地球固体部分的升降变化。结果显示，1997-2000 年间地球两极以每年约 0.5 毫米的速度隆起。到 2015 年，隆起速度已增至每年 1 毫米。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85396" target="_blank"&gt;FAST 发现极短周期、最轻双中子星系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                天文学家利用中国天眼（500 米口径球面射电望远镜，FAST）开展大规模银道面脉冲星系统性搜寻，迄今已成功发现约 900 颗新脉冲星。通过持续后续精准观测，研究讨团队识别了一颗处于紧致轨道的双中子星系统  PSRJ1856-0039。该双中子星系统轨道周期仅 2.36 小时，在人类已知双中子星系统中位列第二短。极短的轨道周期意味着两颗中子星间距极小、双星相互绕转轨道的致密程度极高，是目前已知相对论效应表现最显著的双中子星系统之一。同时该系统刷新了人类已知双中子星质量下限，整体总质量仅为 2.488 倍太阳质量，为迄今发现的总质量最轻的双中子星组合。其中可见脉冲星质量约 1.30 倍太阳质量，伴星中子星的质量约 1.19 倍太阳质量。该系统将在约 8200 万年后发生并合，最终大概率形成一颗更大质量的中子星。
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85408" target="_blank"&gt;今年上线的微短剧逾九成是 AI 剧&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe 工作室，创始人 Sun Wei 表示，之所以为一部唐朝背景的 AI 电影项目获取真人肖像授权主要是担心无意中窃取他人肖像。她指出，受 AI 训练数据偏差的影响，AI 生成的演员通常面部特征相似，长相千篇一律。这促使她和其他中国 AI 电影制作人去搜寻和购买新面孔，将演员的真实表情数字化。根据广电总局的数据，今年首八个月，中国上线微短剧共 43 万部，是去年全年的 13 倍，其中 AI 剧占比超过九成。Sun Wei 的团队则计划以 50 万美元的预算制作一部 90 分钟的 AI 长片。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-16</guid><pubDate>Wed, 16 Sep 2026 14:03:29 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-17</guid><pubDate>Thu, 17 Sep 2026 14:08:00 +0000</pubDate></item></channel></rss>
