@@ -1,72 +1,74 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 17 Sep 2026 14:08:00 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月17日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 18 Sep 2026 13:26:24 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月18日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85397" target="_blank"&gt;AWS 称无法恢复中东部分可用区资源和数据的访问&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az2 情况类似，阿联酋有三个可用区，另外两个 mec1-az1 和 mec1-az3 也受到战争影响，AWS 目前还在继续恢复这两个可用区的资源的访问。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85409" target="_blank"&gt;Roman 太空望远镜有足够的燃料可服役 22 年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远镜控制推进器在发射后的第一次长点火燃烧仅用了 18 公斤的联氨燃料，远低于预留的 200 公斤。望远镜的实际重量为 8,056 公斤，比最大允许重量轻了两吨，因此地面人员给其燃料箱多加了 290 加仑的联氨燃料。加满燃料的望远镜在发射时的总重为 9,173.5 公斤，仍然比最大允许重量少了半吨，更低的质量意味着望远镜在执行航向修正机动时推进器的点火时间无需过长。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85398" target="_blank"&gt;Denuvo 起诉黑客违反 DMCA 反规避条款&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Denuvo 在美国加州北区联邦法院起诉了名叫 voices38 的匿名游戏破解黑客，指控其违反了 DMCA 的反规避条款。被告被控绕过了逾二十款游戏使用的 Denuvo DRM，相关游戏包括了《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。随着诉讼的推进，Denuvo 可能会向 Reddit、Discord 和 Valve 发出传票，以获取黑客的身份信息。voices38 发布了一系列使用 Denuvo DRM 的游戏破解补丁，曾在一天之内发布了创纪录的五款 Denuvo DRM 游戏破解补丁，以至于引起了 Denuvo 公司的注意。Denuvo 称被告是一名专注于对 Denuvo DRM 游戏进行逆向工程的计算机黑客。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85410" target="_blank"&gt;刚果埃博拉疫情死亡人数超过 3500 人&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                刚果民主共和国的埃博拉疫情死亡人数超过 3500 人，确诊病例超过 7400 例，逾 1700 人康复。WHO 称，疫情最严重的 Ituri 省的病毒传播速度在下降，上周报告了约 300 例新增病例和 160 例死亡病例，占全国的一半；South Kivu 省自 5 月以来未报告新增病例；North Kivu 省的传播速度在加快，过去两周的新增病例从 100 多增加到 200 多；邻国乌干达境内的传播已经遏制。WHO 宣布，埃博拉疫苗试验将在未来几周内启动，如果疫苗证明有效将会扩大其使用范围。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85399" target="_blank"&gt;PS2 Fat 使用的安全芯片在时隔 26 年被破解&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。MechaCon 芯片也被用于当时推出的几款街机，包括 Namco System 246 和 System 256 以及 Konami Python 1 等。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85411" target="_blank"&gt;德国法庭裁决 Meta 要为其平台上第三方发布的虚假广告承担责任&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                德国一家法院周四裁定，Meta 必须对其 Instagram 和 Facebook 平台上第三方发布的虚假广告承担责任，责令 Meta 删除此类内容和支付赔偿。诉讼由一家德国金融门户网站的运营商及其创始人提起，虚假广告在推荐可疑投资项目时未经许可使用了它的 logo 和图像。该运营商在 2024 年 8 月向 Meta 举报了近 260 起违规，而 Meta 花了 62 天时间才删除部分内容。Meta 发言人表示对裁决持异议，正在考虑后续行动。法院表示，该裁决还不具有最终的法律效力，Meta 可通过提起上诉提出异议。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85400" target="_blank"&gt;付费给大学生睡足七小时提高了他们的学习成绩&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                全世界有无数人的睡眠不足，睡眠不足与肥胖、糖尿病、高血压、心脏病、中风及过早死亡相关。如果有人付费让你睡更长时间？科学家为此做了一项社会实验。研究人员向匹兹堡大学的 1100 多名本科生提供了 Fitbit 以及一款能发送就寝提醒和晨间反馈的应用。在为期四周内研究人员随机选择了 468 名学生，只要他们某晚睡眠时间达到至少七小时，就向其支付 5 美元报酬。研究人员通过他们佩戴的设备核实实际睡眠时长。参与研究的学生平均年龄约为 19 岁，其中半数为大一新生。72% 为女性。55% 为白人，28% 为亚裔，9% 为黑人，4% 为西班牙裔。研究结果表明，提供即时经济奖励有助于学生实现每晚七小时的睡眠目标，且这种效果在停止发放奖励后仍能持续一个月。参与研究的学生此前平均每晚睡眠时间为 6.6 小时。半数学生在凌晨 1 点之后才睡觉，四分之一学生甚至在凌晨 2 点之后才入睡。在实验中，获得现金激励的学生在每个上课日夜晚平均多睡了 19 分钟，该学期的 GPA 得分上升了约 0.08 分——相当于成绩高于平均水平和低于平均水平的学生之间差距的四分之一。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85412" target="_blank"&gt;微塑料像特洛伊木马一样传播有毒物质&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                欧洲的一项研究发现，微塑料会像特洛伊木马一样在土壤中传播污染物、农药和细菌。研究人员在 11 个国家测试了 227 块农田，都发现了微塑料。研究人员还发现，微塑料可能会与农药兽药发生相互作用。瑞士的一项研究发现，轮胎磨损颗粒含量最高的农田，其有毒化学物质和金属的含量也最高。微塑料的表面能为微生物创造新的栖息地，该表面被称为塑料圈（plastisphere）。相比对照组，塑料圈内的抗生素抗性基因有所增加，农药则进一步放大了这一效应。研究人员表示，微塑料颗粒越小，越容易吸附污染物、微生物和 DNA，从而产生一种“特洛伊木马效应”，可能导致病原体和抗生素抗性基因的扩散加剧。可生物降解塑料不一定更安全，它们仍可能降解为微塑料。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85401" target="_blank"&gt;卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额外 200-300 万人每年面临至少一次洪水威胁。研究发现，六分之五的冰体流失并非源于气温升高，而是因为较温海水从底部和侧面侵蚀冰盖，导致冰川滑向海洋。格陵兰岛的 Jakobshavn 冰川目前每天退缩的距离达到 50 米。数据显示，1970 年代、1980 年代和 1990 年代的冰盖状况相对稳定；但随后融化现象开始出现，2010 年代显著加剧。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85413" target="_blank"&gt;朝鲜地下核试验诱发了持续多年的地震活动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《科学》期刊上的一项研究，朝鲜在万塔山（Mt. Mantap）进行的地下核试验对该地区周边地壳产生了持久且延迟的影响，引发了在核爆结束后持续数年——甚至不断加剧——的地震活动。朝鲜位于万塔山下的丰溪里（Punggye-ri）核试验场在 2006 年至 2017 年间共进行了六次地下核试验。最后一次——也是规模最大的一次——核试验发生在 2017 年 9 月。这次爆炸的当量估计为 10 万至 25 万吨，美国地质调查局（USGS）将其记录为一次 6.3 级的地震事件。此外据卫星雷达测量报告，万塔山顶部发生了显著的地表形变。成都理工大学的研究人员和同事分析了自 2008 年以来在中国和韩国所记录的地震数据，旨在追踪万塔山周边地震活动随时间的变化。他们在 2008 年至 2025 年间在当地识别出了 1399 次地震——远多于以往地震目录中记录的数量。值得注意的是，2017 年核试验后，万塔山周围的地震活动并未表现出以往核爆后的序列特征——后者往往会在试验结束后产生迅速衰减的短期地震序列。相反在 2017 年的试验后，地震活动在核爆后约三周开始增加，并持续至 2025 年，其频率和震级均不断增长。高精度定位显示，这些地震集中在两条先前已存在或此前未被识别的、大致呈北北西走向的断层构造上，表明这是持续且有序的断层再激活，而非随机的地震活动。研究人员认为，反复的核爆炸逐步破坏了浅层地壳并改变了其内部应力场，使那些本已接近破裂的断层在数年间逐渐变得活跃。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85402" target="_blank"&gt;广州提议禁止公共交通内外放声音&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                广州市人大常委会公布了《广州市噪声污染防治规定（草案修改稿·征求意见稿）》，向社会各界征求意见和建议，截止日期为 10 月 15 日。
-
-《征求意见稿》明确，在巴士、地铁等公共交通运输工具内使用手机、平板电脑等电子设备时不得外放声音。使用电子设备外放声音的，公共交通运输工具司乘人员应当劝阻，劝阻无效的，可以向公安机关报告。
-
-违反规定，在公共交通运输工具内使用电子设备外放声音，经公共交通运输工具司乘人员劝阻仍不改正的，由公安机关说服教育，给予警告，可以处 200 元以上 1000 元以下的罚款。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85414" target="_blank"&gt;Waymo 将在新加坡提供无人出租车服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Waymo 宣布进军新加坡市场，将于 2028 年正式推出服务，这是该公司首次进军东南亚市场。 它的自动驾驶车队将在接下来几个月内运抵新加坡，从明年起由技术专员人工驾驶“上路”，让车内系统适应新加坡道路设计和天气等元素。计划在 2028 年启用手机应用，让公众预订无人出租车服务。它的自动驾驶汽车均配有激光雷达（LiDAR）和雷达感应器，以及 360 度零死角摄像头，以监测周围行人、骑士和活跃通勤工具使用者等。 Waymo 引入新加坡的首批车队将全是捷豹（Jaguar）I-Pace 纯电动车。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85403" target="_blank"&gt;商船再次安装基于风帆的推进系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                被现代商船逐渐淘汰的风帆正以新的形式再次回归。散货船、油轮到集装箱船等各类商船正在安装高耸的转子帆、刚性翼帆以及吸风式推进系统。此举并非是要将现代船舶重新变成帆船，而是让基于风帆的系统与现代推进系统协同合作，在条件允许时利用风力降低油耗。International Windship Association 协会的数据显示，已有逾百艘大型商船配备了现代风力推进系统，总载重吨位逾 500 万吨。Maersk 公司计划在一艘有 8700 个标准箱的集装箱货船上安装一座 35 米高的转子帆，预计于 2027 年在大西洋常规航线上启动测试。它有望成为第一艘安装转子帆的集装箱货船。Vale 旗下一艘载重吨位达 40 万吨的巨型矿砂船 Sohar Max 已经安装了五座 35 米高的转子帆，风帆系统将油耗降低多达 6%。韩国船舶制造公司最近宣布研究在液化天然气货船（LNG）上安装风帆系统。如果研究取得成功，那么将进一步证明风帆技术重新迈向主流。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85415" target="_blank"&gt;NASA 和 IBM 开源月球模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 和 IBM 开源了首个月球模型 NASA-IBM Lunar Foundation Model，模型权重与代码向全球研究者开放，以供下载、微调和试验。这是首批专门面向月球科学、可公开使用的智能分析工具之一，目标是把数十年来分散的月球观测数据转化为可复用的分析工具，用于陨石坑测绘、&lt;span&gt;火山地&lt;/span&gt;貌识别和极区水冰潜力评估。模型的训练数据以 NASA 月球勘测轨道飞行器为主。LRO 在轨约 17 年，覆盖大部分月面，其数据规模超过 NASA 其他行星任务总和。模型使用约 200 万个月球图像切片，其中包括逾 100 万张 1 米分辨率窄角相机图像和近 96.4 万张 100 米分辨率多光谱图像，并融合 GRAIL 重力、Lunar Prospector，以及日本 JAXA SELENE 等任务的地形与遥感数据。配合发布的数据集整合 9 台仪器、4 项任务、30 多个空间对齐数据层，解决不同分辨率、不同载荷难以统一调用的问题。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85405" target="_blank"&gt;人脑类器官在小鼠体内形成神经网络&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85416" target="_blank"&gt;新疆东天山古人主要来自东亚和北亚&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《科学》期刊上的一项研究，中科院等机构的研究人员通过古基因组学技术系统研究了新疆东天山地区青铜时代至铁器时代的人群遗传历史。研究使用了 135 例古代个体的全基因组数据，年代跨度约为距今 3,580 年至 1,546 年。东天山是连接河西走廊及欧亚地区的重要通道。遗传学分析表明，青铜时代主体人群约一半的祖先成分来自与黄河流域中晚期新石器时代粟作农业人群相关的东亚祖源，另一半则来自北亚阿尔泰山—准噶尔地区切木尔切克文化相关人群。进入公元前一千纪以后，随着区域间人口流动和文化交流进一步加强，东天山地区的人群遗传结构呈现出更加丰富的多样性。研究发现，尽管这一时期东天山与周边地区的人群交流明显增强，青铜时代形成的东亚和北亚的混合的遗传基础仍然得到高比例延续。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85406" target="_blank"&gt;GNOME 51 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                GNOME 桌面环境项目释出了代号为 A Coruña 的 GNOME 51，该代号旨在感谢 GUADEC 2026 的主办城市。GNOME 51 主要变化包括：Mutter 重新设计了调度和屏幕帧交付系统，即使系统处于高负荷下，动画仍然流畅；全面提升了屏幕录制性能；记住显示器的亮度设置；移除了基于 EGLStreams 的旧 NVIDIA 驱动接口支持；支持新 Wayland 协议如 ext-background-effect-v1；支持自定义指针加速配置文件；GNOME Maps 支持离线地图；GNOME Software 启动更快，GNOME File Previewer UI 重构，等等。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85417" target="_blank"&gt;美国政府网站使用了阿里巴巴的千问模型&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 AI 工具未必会构成国家安全风险，但这引发了质疑：联邦政府的做法是否与其针对中国 AI 模型所传达的立场相矛盾。Information Technology and Innovation Foundation 主席 Daniel Castro 指出，美中在构建顶尖 AI 模型上展开激烈竞争，而美国政府机构却选择使用中国的 AI 模型，这太荒诞了。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85407" target="_blank"&gt;地球正变得不那么扁平&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                地球并非是完美的球形，自转以及围绕太阳公转使其赤道部分隆起，两极部分扁平。根据一项新研究，可能是由于极地地区的冰雪融化，地球两极在隆起，与此同时赤道地区则在加速下沉，地球的整体形状变得不那么扁平。研究人员利用了 GNSS 导航网络地面站在 1997-2015 年间的测量数据，绘制了地球固体部分的升降变化。结果显示，1997-2000 年间地球两极以每年约 0.5 毫米的速度隆起。到 2015 年，隆起速度已增至每年 1 毫米。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85418" target="_blank"&gt;韩国的超老龄化问题&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一个社会中 65 岁及以上人口占到总人口的 7%-13%，即被认为是老龄化社会；如果该比例超过 20%，则被认为是超老龄化社会。2024 年 12 月韩国老年人口比例首次超过 20%，进入了超老龄化社会。到 2026 年 8 月，该比例进一步提高到了 22.1%。人口老龄化本身并非问题。某种程度上它反映了人口结构的进步：由于生活条件的改善，过早死亡的人数减少，同时寿命也延长了。人口老龄化完全可能标志着社会变得更安全、健康，在人口结构上更成熟。问题的核心在于老龄化的速度以及社会是否为此做好了准备。韩国从老龄化社会到超老龄社会仅用了 24 年，而日本是 35 年。到 2060 年美国老年人口比例预计会达到 23.4%，相比下韩国届时将会达到 41%，成为全世界老龄化程度最高的国家。韩国将在养老金、医保、劳动力市场及照护体系等方面面临日益严峻的压力。该国的养老保障体系主要由两部分构成：其一是个人和雇主承担的国家养老基金 National Pension Service，其二是由税收提供的福利金 Basic Pension。如果不采取变革措施，国家养老基金将在 2054 年耗尽。由于许多人的养老金不足以维持生活，韩国老年人有很高的就业率。韩国男性通常在 51 岁左右离开其任职时间最长的工作岗位，他们往往还会继续工作到 72 岁左右。他们在这一时期从事的是通常是薪资较低、缺乏保障的第二职业。韩国正讨论将法定退休年龄从 60 岁逐步提高到 65 岁，改革养老金制度。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85408" target="_blank"&gt;今年上线的微短剧逾九成是 AI 剧&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe 工作室，创始人 Sun Wei 表示，之所以为一部唐朝背景的 AI 电影项目获取真人肖像授权主要是担心无意中窃取他人肖像。她指出，受 AI 训练数据偏差的影响，AI 生成的演员通常面部特征相似，长相千篇一律。这促使她和其他中国 AI 电影制作人去搜寻和购买新面孔，将演员的真实表情数字化。根据广电总局的数据，今年首八个月，中国上线微短剧共 43 万部，是去年全年的 13 倍，其中 AI 剧占比超过九成。Sun Wei 的团队则计划以 50 万美元的预算制作一部 90 分钟的 AI 长片。
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85419" target="_blank"&gt;美国的富裕社区更可能发生火灾&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                加州河滨的研究人员分析了 1984 年以来发生的 141 起火灾，并结合人口数量、开发状况、气候及人口统计数据进行分析。研究发现，富裕社区面临火灾的几率高约 30%。原因是富裕社区通常位于森林环绕的山坡或峡谷地带，因此更容易遭受火灾。一旦社区遭遇火灾，恢复过程会十分缓慢。约 78% 的严重过火区域在五年内未能恢复到火灾前的温度范围，而 73 %的区域未能恢复到此前的植被覆盖水平。总体而言，过火后的城市区域变得更热，植被更少，且影响会持续数年之久。富裕社区通常会更快恢复到火灾以前的水平。全美范围白人居民比例高的社区发生火灾的几率较低。干燥地区不存在这种关系。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-17</guid><pubDate>Thu, 17 Sep 2026 14:08:00 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85420" target="_blank"&gt;科学家识别了一种新猫科动物&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                研究人员识别了一种新的野生猫科动物，这是一百年来首次命名新猫科物种。新物种被命名 Leopardus tilcayo（或 Tilcayo 虎猫），生活在玻利维亚的 Yungas 地区，身材纤细，布满斑点，长着圆耳朵，其体型比普通家猫要小。目前不清楚该种群的数量。虎猫是原产于中南美洲、Leopardus 属小型野生猫科动物，南美洲共有五种虎猫，全都生活在栖息地正迅速消失的地方。新发现的 Tilcayo 虎猫是在 Yungas 的一个动物保护区找到的，记录显示它由一名男子送来，该男子最初以为它是家猫，尝试喂养它，后来才发现它是野生动物，在意识到自己无法照料它后将其送到保护区。基因检测显示，这种虎猫是在 140 万年前与其它虎猫谱系分离，这种遗传差异足以将其认定为一个新物种。玻利维亚当地社区一直叫这种虎猫为 Tilcayo。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-18</guid><pubDate>Fri, 18 Sep 2026 13:26:24 +0000</pubDate></item></channel></rss>
