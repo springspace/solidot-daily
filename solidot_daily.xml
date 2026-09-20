@@ -1,20 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 19 Sep 2026 12:55:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 20 Sep 2026 13:28:28 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月20日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85421" target="_blank"&gt;安全研究人员利用 Claude 成功入侵 OpenAI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服务。他们向 OpenAI 和 Discourse 报告了 bug，从 OpenAI 获得了  6500 美元的赏金。安全研究人员利用了 OpenAI 竞争对手 Anthropic 的 Claude AI 工具去辅助发现 bug，以及实现远程代码执行 RCE。他们一开始使用的是较旧的模型 Opus 4.8，之后使用了新发布的 Opus 5.5。整个 AI 辅助 bug 发现和辅助攻击消耗的 token 支出不到 3000 美元，AI 智能体花费了数天时间，而研究人员投入的人工时间仅仅数小时，凸显了 AI 时代黑客攻击成本的低廉。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85424" target="_blank"&gt;海豚 Bubbles 被发现会强迫饱腹鱼吐出食物然后自己将其吞下&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                由于海豚的脸部看起来总是在微笑，出于拟人化心理，人类会假设海豚是大海里的好孩子。但行为类似恶棍的海豚并非不存在。根据发表在《Ecology and Evolution》期刊上的一篇论文，研究人员报告了一只生活在澳大利亚
+大堡礁南部 Lady Elliott 岛附近的雄性宽吻海豚 Bubbles。Bubbles 有着被称为盗食寄生（kleptoparasitism）的行为，它会专门追逐刚刚饱餐一顿的大眼鲹（bigeye trevally），强迫它们吐出刚吞下的食物，然后自己去吞下这些食物。盗食寄生最著名的动物可能是海鸥。研究人员在 2021 年 6 月-2025 年 10 月间记录了 20 次 Bubbles 的觅食行为，其中 11 次涉及盗食。Bubbles 首先会通过回声定位锁定一只目标鱼，然后紧跟这条鱼，对鱼群中的其它鱼视而不见，当目标鱼受惊而吐出食物时，它会停止追逐，吞食其吐出的食物。Bubbles 在半小时内可重复此过程多达 10 次，它主要针对大眼鲹，但不会去吃掉鱼。研究人员猜测这种觅食行为比海豚传统的猎物追逐，消耗的能量更少。Bubbles 可能是通过定位的回声差异区分哪些鱼刚刚饱餐一顿。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85422" target="_blank"&gt;85% 的日本游戏开发者在工作中使用生成式 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者则是偶尔使用，去年这一比例是 51%。开发者使用生成式 AI 最主要是为了“改进运营效率与生产力”，其次是“缩短开发周期”以及“降低开发与运营成本”。多数受访者表示不会直接使用 AI 生成内容。报告称，AI 最常见用途是生成视觉素材和图像，其次是故事和文本生成，最后是编程辅助。32% 的游戏公司利用 AI 协助开发自研游戏引擎。Capcom 工程师称，AI 技术主要是用于减少“日常任务”，称最聪明的 AI 在感性上也无法与创作者相比拟。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85425" target="_blank"&gt;Android 17 QPR1 引入了 Pixel 暂时独占的新 API&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Android 安全加固项目 GrapheneOS 披露，Google 向其旗舰手机 Pixel 推送了 Android 17 QPR1 更新，引入了新 API。而这些 API 没有提供给 Android 开源项目(AOSP)，这是自 Android Honeycomb (3.x) 以来从未有过的情况。新 API 为 Pixel 限时独占，其它 Android OEM 厂商无法获得。Google 现在只向 AOSP 项目提供年度版本和第二个季度更新版本 QPR2，第一个和第三个季度更新版本 QPR1 和 QPR3 都是 Pixel 独占。新 API 将通过 2026 年 12 月释出的 QPR2 提供给 AOSP 和 OEM 厂商。GrapheneOS 称，Pixel 通过固件移除了对安全特性 MTE 的支持，但硬件上仍然保留了 MTE。GrapheneOS 再次抱怨它对 Pixel 的支持变得日益困难，称与摩托罗拉的合作会更顺利。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85423" target="_blank"&gt;微软高管称 AI 的训练数据是人类历史上最大规模的劳动成果盗窃&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动成果盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如  ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显示这一预测是正确的。微软的数据指出，部分新闻出版商网站的点击率下降了 83%-93%，其它新闻机构的点击率下降了 51%-94%。Hecht 承认，“几乎没有人希望自己创作的内容被以这种方式使用，也没有人因此获得报酬。”微软 CEO 纳德拉(Satya Nadella)在作证时表示，AI 公司不应该通过绕过付费墙违反新闻网站的使用条款。但 OpenAI 的内部信息显示，当一名员工通知总裁 Greg Brockman OpenAI 爬虫找到了绕过《纽约时报》付费墙的漏洞时，Brockman 表示好极了。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85426" target="_blank"&gt;大脑由两个不同的器官构成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家几百年来一直将大脑视为单一的器官。但斯坦福大学医学院领导的一项新研究发现，大脑实际上由两个不同的器官构成，它们在数亿年里独立演化。这一发现推翻了大脑发育的主流模型。研究人员过去一直认为，在发育早期存在一个单一的祖细胞（progenitor cell），由此诞生了整个大脑。它暗示大脑的所有部分都有共同的发育起源。新的研究发现，人脑由两个古老的神经系统巧妙地结合而成——其中较原始的部分负责调节心跳、呼吸及其他生理功能；另一部分则赋予了人类特有的能力，使得人类能进行诗歌创作、数学运算以及思科自身的起源。研究人员通过观察发育中的小鼠胚胎识别出了两种不同的脑祖细胞：一种表达 Otx2 基因，发育成前脑和中脑；另一种表达 Gbx2 基因，发育成后脑。研究表明，两类细胞群从不重叠，在发育的最早阶段彼此就是互斥的。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-19</guid><pubDate>Sat, 19 Sep 2026 12:55:22 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85427" target="_blank"&gt;北美最大动物通道将动物车祸事故减少 91%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                通过美国科罗拉多州 Douglas 县和 El Paso 县的 I-25 高速公路多年来一直阻碍着动物的季节性迁徙，这条公路是许多动物的死亡之路。如今北美最大的野生动物专用通道将动物碰撞事故减少 91%。这条通道由跨越 I-25 的天桥，五条野生动物地下通道以及引导动物前往通道的围栏构成。天桥本身长 209 英尺、宽 200 英尺，于去年 12 月完工，整个工程耗资 1500 万美元。科罗拉多州交通部环境经理 Chuck Attardo 指出，减少野生动物碰撞事故不仅能挽救人类和动物的生命，还能避免财产损失、节省公共服务开支并减少交通延误。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85428" target="_blank"&gt;学习新语言可能是老年人保持大脑健康的最佳方法&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                学习另一门语言是一项高度复杂的脑力活动。它要求人们记忆单词、分辨陌生的声音、识别语言规律、推敲语法规则，在恰当的时刻提取出正确的表达。而这一切，都在人们进行倾听、理解并准备回应的同时发生。这些脑力活动也能帮助保持衰老大脑的健康吗？研究表明，答案是肯定的。愈来愈多的研究表明，语言学习和双语能力能带来认知上的益处——对老年人而言同样如此。学习另一门语言还能为沟通和社会交往创造机会。神经可塑性让大脑在一生中都具备保持改变的能力。学习陌生的语音、词汇和语法结构需要大脑形成并巩固神经连接。语言学习能同时调动多种心理过程，要求人们吸收并提取信息、察觉问题并及时调整。这种持续的脑力付出，使语言学习成为一种极其丰富的认知锻炼形式。研究表明，双语者的灰质密度更高，白质完整性更强。这表明，语言经验不仅会体现在大脑的活动中，也会反映在大脑的结构上。还有研究发现，患上痴呆症的双语者更晚出现症状。这表明，双语能力可能对大脑衰老的影响有一定的保护作用，但它不一定能预防痴呆症或相关的大脑变化。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85429" target="_blank"&gt;科学家记录到产下死婴后伤心欲绝的雌鲸&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一项罕见的观察显示，座头鲸母亲在幼鲸死亡后可能会悲痛欲绝。2025 年科学家在 Gold Coast 南部观察到一头雌性座头鲸在产下一头推测已死亡的幼鲸后，与另一头伴游鲸鱼在一起。她陪伴幼鲸长达数小时，甚至可能持续了数天。齿鲸曾被观察母亲会将死去的幼鲸托举到水面，而这只座头鲸母亲则在水下凝视着幼鲸，表现出长时间的哀悼行为。研究人员表示，“了解非人类动物如何应对死亡，能让我们深入洞察它们的情感世界、社会纽带以及认知能力。”
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85430" target="_blank"&gt;对所有亿万富翁征收 3% 的税能拯救数百万人的生命&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                面向中低收入国家的人道主义与发展援助资金 Official development assistance(ODA)过去两年被大幅削减，但如果对亿万富翁征税，将可以填补资金缺口，有望拯救数百万人的生命。全世界资产逾 10 亿美元的亿万富翁超过 3000 人，他们的总资产达到创纪录的 20.1 万亿美元，比上一年增加了 4 万亿美元。如果对这些财富征收 3% 的税，有望到 2030 年将死亡人数减少 2950 万；征收 1% 的财富税则可减少 1510 万死亡人数。研究人员表示，在贫富差距日益悬殊且财富高度集中的当今世界，研究结果显示，旨在支持全球发展的替代性财富再分配政策，有潜力缓解 ODA 资金削减带来的负面影响。他们同时强调，结果是基于模型估算。少数国家已实施了财富税。西班牙于 202 2年开征团结财富税（solidarity wealth tax），对净资产逾 300 万欧元的个人征收 1.7%-3.5% 的税款。法国也曾讨论过征收 2% 的财富税，但相关提案遭到了参议院的否决。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85431" target="_blank"&gt;Ubuntu 26.10 改用 Linux 7.3 Kernel&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                即将于下个月推出的 Ubuntu 26.10 将采用 Linux 7.3 Kernel，而不是原计划的 Linux 7.2。Linux 7.3 目前还是 RC3，预计最快于 10 月 18 日释出正式版，可能会延期一周到 10 月 25 日。而 Ubuntu 26.10 将于 10 月 1 日冻结内核，10 月 15 日释出正式版本，这意味着届时它使用的 7.3 Kernel 仍然会是 RC 状态。Ubuntu 项目此前已宣布它将会紧跟最新内核版本，而 26.10 是一个短期版本，因此 Ubuntu 团队将紧跟上游内核版本。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85432" target="_blank"&gt;西班牙下令屏蔽 Archive.today 及相关存档网站&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                西班牙政府下令屏蔽 Archive.today 及相关镜像域名 Archive.is、Archive.ph 和 Archive.li。Archive.today 等网站被广泛用于绕过付费墙，此前由于植入了 DDoS 脚本（至今还在）而被维基百科屏蔽。但西班牙的屏蔽与此无关，而是由于有人投诉该存档网站上有违规内容。此举属于行政决定，而非法院裁决。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-20</guid><pubDate>Sun, 20 Sep 2026 13:28:28 +0000</pubDate></item></channel></rss>
