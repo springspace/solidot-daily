@@ -1,57 +1,74 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 20 Sep 2026 13:28:28 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月20日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 21 Sep 2026 15:42:04 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月21日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85424" target="_blank"&gt;海豚 Bubbles 被发现会强迫饱腹鱼吐出食物然后自己将其吞下&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                由于海豚的脸部看起来总是在微笑，出于拟人化心理，人类会假设海豚是大海里的好孩子。但行为类似恶棍的海豚并非不存在。根据发表在《Ecology and Evolution》期刊上的一篇论文，研究人员报告了一只生活在澳大利亚
-大堡礁南部 Lady Elliott 岛附近的雄性宽吻海豚 Bubbles。Bubbles 有着被称为盗食寄生（kleptoparasitism）的行为，它会专门追逐刚刚饱餐一顿的大眼鲹（bigeye trevally），强迫它们吐出刚吞下的食物，然后自己去吞下这些食物。盗食寄生最著名的动物可能是海鸥。研究人员在 2021 年 6 月-2025 年 10 月间记录了 20 次 Bubbles 的觅食行为，其中 11 次涉及盗食。Bubbles 首先会通过回声定位锁定一只目标鱼，然后紧跟这条鱼，对鱼群中的其它鱼视而不见，当目标鱼受惊而吐出食物时，它会停止追逐，吞食其吐出的食物。Bubbles 在半小时内可重复此过程多达 10 次，它主要针对大眼鲹，但不会去吃掉鱼。研究人员猜测这种觅食行为比海豚传统的猎物追逐，消耗的能量更少。Bubbles 可能是通过定位的回声差异区分哪些鱼刚刚饱餐一顿。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85435" target="_blank"&gt;美国俄勒冈州数据中心用电量接近总用电量的四分之一&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据美国俄勒冈州的一份报告，该州有 111 个运营中的数据中心，建筑面积 2210 万平方英尺，2025 年用电量占到该州总用电量的 23%。该州还有 32 个数据中心处于建设中或规划中，将新增 690 万平方英尺的建筑面积。报告预测，到 2030 年该州数据中心的能耗将上升至近 25TWh，约占该州总电力需求的 31%-32%，相当于 250 万户家庭的用电量。报告称，这些数据中心直接提供了 2630 个就业岗位，占到了该州总人口的 0.06%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85425" target="_blank"&gt;Android 17 QPR1 引入了 Pixel 暂时独占的新 API&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Android 安全加固项目 GrapheneOS 披露，Google 向其旗舰手机 Pixel 推送了 Android 17 QPR1 更新，引入了新 API。而这些 API 没有提供给 Android 开源项目(AOSP)，这是自 Android Honeycomb (3.x) 以来从未有过的情况。新 API 为 Pixel 限时独占，其它 Android OEM 厂商无法获得。Google 现在只向 AOSP 项目提供年度版本和第二个季度更新版本 QPR2，第一个和第三个季度更新版本 QPR1 和 QPR3 都是 Pixel 独占。新 API 将通过 2026 年 12 月释出的 QPR2 提供给 AOSP 和 OEM 厂商。GrapheneOS 称，Pixel 通过固件移除了对安全特性 MTE 的支持，但硬件上仍然保留了 MTE。GrapheneOS 再次抱怨它对 Pixel 的支持变得日益困难，称与摩托罗拉的合作会更顺利。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85436" target="_blank"&gt;每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                英伟达在 2024 年称当年它的 GPU 产品共使用了逾 10 亿 RISC-V 核心。这些 RISC-V 核心没有被用于图形渲染，而是充当了微控制器，执行各类辅助任务，根据型号不同，每个 GPU 包含了 10-40 个 RISC-V 核心。英伟达在 RISC-V 之前使用的是私有微控制器 FAst Logic CONtroller（Falcon）。Falcon 最早于 2005 年随 G98 引入，到了 2016 年单个 GPU 芯片集成了超过 15 个不同的 Falcon 引擎，十年间使用的 Falcon 核心总数约 30  亿个，这些核心被用于视频编解码、电源管理、安全引擎等不同任务。Falcon 为 32 位核心，没有数据缓存，不再满足英伟达的需求，它开始寻找替代，在评估了 Arm、MIPS 等架构之后，它最终选择了开源指令集架构的 RISC-V。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85426" target="_blank"&gt;大脑由两个不同的器官构成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                科学家几百年来一直将大脑视为单一的器官。但斯坦福大学医学院领导的一项新研究发现，大脑实际上由两个不同的器官构成，它们在数亿年里独立演化。这一发现推翻了大脑发育的主流模型。研究人员过去一直认为，在发育早期存在一个单一的祖细胞（progenitor cell），由此诞生了整个大脑。它暗示大脑的所有部分都有共同的发育起源。新的研究发现，人脑由两个古老的神经系统巧妙地结合而成——其中较原始的部分负责调节心跳、呼吸及其他生理功能；另一部分则赋予了人类特有的能力，使得人类能进行诗歌创作、数学运算以及思科自身的起源。研究人员通过观察发育中的小鼠胚胎识别出了两种不同的脑祖细胞：一种表达 Otx2 基因，发育成前脑和中脑；另一种表达 Gbx2 基因，发育成后脑。研究表明，两类细胞群从不重叠，在发育的最早阶段彼此就是互斥的。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85437" target="_blank"&gt;新加坡付费鼓励公众读书&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                新加坡国家图书馆管理局启动了名为 ReadSG 的全国阅读运动，旨在在数字时代恢复公众的阅读习惯，它推出的鼓励阅读措施包括每天打卡看书 15 分钟即可换取“金币”和积分的奖励游戏。公众在政府科技局的 CrowdTaskSG 平台上记录到至少 15 分钟的阅读时长就能获得 20 金币。兑换比例是 1,000 金币相当于 1 新加坡元，这意味着 15 分钟阅读的价值约 0.02 新加坡元。图管局表示虽然奖励非常少，它旨在鼓励阅读而不是让民众把它当成收入来源。图管局 2024 年全国阅读习惯调查显示，89% 成人每周阅读一次以上，但阅读书籍类的只占当中 28%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85427" target="_blank"&gt;北美最大动物通道将动物车祸事故减少 91%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                通过美国科罗拉多州 Douglas 县和 El Paso 县的 I-25 高速公路多年来一直阻碍着动物的季节性迁徙，这条公路是许多动物的死亡之路。如今北美最大的野生动物专用通道将动物碰撞事故减少 91%。这条通道由跨越 I-25 的天桥，五条野生动物地下通道以及引导动物前往通道的围栏构成。天桥本身长 209 英尺、宽 200 英尺，于去年 12 月完工，整个工程耗资 1500 万美元。科罗拉多州交通部环境经理 Chuck Attardo 指出，减少野生动物碰撞事故不仅能挽救人类和动物的生命，还能避免财产损失、节省公共服务开支并减少交通延误。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85438" target="_blank"&gt;智谱准备推出数据不留存功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在开发者发现 ZCode 会将用户整个工作区打包上传后，AI 公司智谱推出数据不留存功能。智谱星期天晚在微信公众号宣布，其“模型即服务”（Model as a Service，MaaS）平台将于近期正式推出“数据内容不留存”功能，将不对用户的模型调用输入、输出内容进行任何形式的静态存储，数据仅在当次调用过程中临时使用。企业和开发者用户可通过智谱 Maa S控制台提交开通申请。零数据留存即用户提交给模型的提示词（Prompt）、模型返回的生成结果，仅在服务器内存中参与当次推理计算；一旦请求处理完成，相关数据不会存储，也不会被用于模型迭代训练。智谱同时明确，数据不留存机制存在两种例外情况。一是由产品形态决定的功能型存储，包括 Batch API（批处理接口）、Files API（文件管理接口），其存储逻辑由产品特性需求决定。另一类是合规性，根据国家法律法规要求，或为核查涉嫌违规、滥用服务的行为，平台可能留存对应数据 30 天及以上。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85428" target="_blank"&gt;学习新语言可能是老年人保持大脑健康的最佳方法&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                学习另一门语言是一项高度复杂的脑力活动。它要求人们记忆单词、分辨陌生的声音、识别语言规律、推敲语法规则，在恰当的时刻提取出正确的表达。而这一切，都在人们进行倾听、理解并准备回应的同时发生。这些脑力活动也能帮助保持衰老大脑的健康吗？研究表明，答案是肯定的。愈来愈多的研究表明，语言学习和双语能力能带来认知上的益处——对老年人而言同样如此。学习另一门语言还能为沟通和社会交往创造机会。神经可塑性让大脑在一生中都具备保持改变的能力。学习陌生的语音、词汇和语法结构需要大脑形成并巩固神经连接。语言学习能同时调动多种心理过程，要求人们吸收并提取信息、察觉问题并及时调整。这种持续的脑力付出，使语言学习成为一种极其丰富的认知锻炼形式。研究表明，双语者的灰质密度更高，白质完整性更强。这表明，语言经验不仅会体现在大脑的活动中，也会反映在大脑的结构上。还有研究发现，患上痴呆症的双语者更晚出现症状。这表明，双语能力可能对大脑衰老的影响有一定的保护作用，但它不一定能预防痴呆症或相关的大脑变化。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85439" target="_blank"&gt;霸王龙的体温和现代大象类似&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                霸王龙究竟是“冷血动物”还是“温血动物”，一直是古生物学界争论的问题。冷血动物体温随环境变化，温血动物则能靠自身代谢维持稳定体温。越来越多证据表明霸王龙可能是温血动物，但它究竟有多“热”，此前始终没有一个确切答案。霸王龙已经灭绝了6600多万年，还有方法测量它的体温吗？UCLA 的科学家给出了肯定的答案。他们从霸王龙保存至今的牙齿化石中找到了线索，并首次测出了它的具体体温。这项研究的关键，是牙釉质中的碳、氧同位素。霸王龙形成牙齿时，这些同位素会参与形成一些特殊的化学键，而化学键的数量与形成时的温度有关。温度较低时，形成的化学键更多，温度较高时则更少。测量这些化学键的数量，就能反推出牙齿形成时的温度。结果显示，霸王龙的体温约为 36℃。这个温度与现代大象类似，与人类接近，处于现代爬行动物和鸟类之间。如今大多数冷血爬行动物的体温大约为 28℃-30℃，而许多鸟类的体温可以达到 40℃-43℃。霸王龙虽然依然是长着鳞片、通过产卵繁殖的爬行动物，但它的体温已经明显高于现代冷血爬行动物。较高的体温通常与较高的代谢水平有关。科学家认为，这一结果支持了霸王龙是一种活跃动物的观点。它可能需要通过捕食或寻找腐肉获取足够能量，以维持较高的代谢水平，而不是像一些现代爬行动物那样依靠晒太阳来提高体温。这个结果还有助于解释另一个问题：霸王龙为什么能生活在寒冷地区。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85429" target="_blank"&gt;科学家记录到产下死婴后伤心欲绝的雌鲸&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一项罕见的观察显示，座头鲸母亲在幼鲸死亡后可能会悲痛欲绝。2025 年科学家在 Gold Coast 南部观察到一头雌性座头鲸在产下一头推测已死亡的幼鲸后，与另一头伴游鲸鱼在一起。她陪伴幼鲸长达数小时，甚至可能持续了数天。齿鲸曾被观察母亲会将死去的幼鲸托举到水面，而这只座头鲸母亲则在水下凝视着幼鲸，表现出长时间的哀悼行为。研究人员表示，“了解非人类动物如何应对死亡，能让我们深入洞察它们的情感世界、社会纽带以及认知能力。”
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85440" target="_blank"&gt;通过广告收集器 ChatGPT 知道你在其它网站的活动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                OpenAI 在 bzr.openai.com 上的广告收集器会设置名为 __obi、作用域为 .openai.com 的 Cookie。该 Cookie 的值在用户访问 ChatGPT 期间生效，并与用户的 ChatGPT 账户绑定。随后，__obi 会从用户访问的其它网站发送回 OpenAI。任何在 ChatGPT 上购买广告的公司，都会在其自己的网站上添加一小段 OpenAI 代码，其方式与添加 Meta 和 Google 跟踪代码的方式相同。加载该代码会将 __obi 以及有关用户浏览页面的数据（包括搜索的产品、正在阅读的文章以及购买行为）发送给 OpenAI。OpenAI 可将用户在这些网站上的行为与其 ChatGPT 账户关联起来。通过广告收集器 ChatGPT 知道你在其它网站的活动。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85430" target="_blank"&gt;对所有亿万富翁征收 3% 的税能拯救数百万人的生命&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                面向中低收入国家的人道主义与发展援助资金 Official development assistance(ODA)过去两年被大幅削减，但如果对亿万富翁征税，将可以填补资金缺口，有望拯救数百万人的生命。全世界资产逾 10 亿美元的亿万富翁超过 3000 人，他们的总资产达到创纪录的 20.1 万亿美元，比上一年增加了 4 万亿美元。如果对这些财富征收 3% 的税，有望到 2030 年将死亡人数减少 2950 万；征收 1% 的财富税则可减少 1510 万死亡人数。研究人员表示，在贫富差距日益悬殊且财富高度集中的当今世界，研究结果显示，旨在支持全球发展的替代性财富再分配政策，有潜力缓解 ODA 资金削减带来的负面影响。他们同时强调，结果是基于模型估算。少数国家已实施了财富税。西班牙于 202 2年开征团结财富税（solidarity wealth tax），对净资产逾 300 万欧元的个人征收 1.7%-3.5% 的税款。法国也曾讨论过征收 2% 的财富税，但相关提案遭到了参议院的否决。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85441" target="_blank"&gt;日本 65 岁以上老人占到总人口的近三成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本总务省公布的人口推算数据显示，截至 9 月 15 日，日本 65 岁以上老年人口较上年增加 2 万人，达到 3624 万人。老年人口时隔两年再次增加，在总人口中的占比为 29.6%，刷新历史最高纪录。截至 2025 年，日本 65 岁以上就业人数达到 943 万人，连续 22 年增加，创历史新高。按性别来看，日本的男性老年人口为 1571 万人，女性为 2054 万人。2025 年死亡老年人口多于新满 65 岁的人数，日本的老年人口总数有所减少，但 2026 年再次转为增加。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85431" target="_blank"&gt;Ubuntu 26.10 改用 Linux 7.3 Kernel&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                即将于下个月推出的 Ubuntu 26.10 将采用 Linux 7.3 Kernel，而不是原计划的 Linux 7.2。Linux 7.3 目前还是 RC3，预计最快于 10 月 18 日释出正式版，可能会延期一周到 10 月 25 日。而 Ubuntu 26.10 将于 10 月 1 日冻结内核，10 月 15 日释出正式版本，这意味着届时它使用的 7.3 Kernel 仍然会是 RC 状态。Ubuntu 项目此前已宣布它将会紧跟最新内核版本，而 26.10 是一个短期版本，因此 Ubuntu 团队将紧跟上游内核版本。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85442" target="_blank"&gt;互联网普及度与宗教信仰下降相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Sociology of Religion: A Quarterly Review》上的一项研究，互联网普及与宗教信仰下降相关。研究人员汇集了一个 81 个国家的数据集，时间跨度从 1990-2022 年。研究团队构建了一个包含六项指标的指数去衡量各国的平均宗教水平。这些指标涵盖了宗教仪式参与率、神（God）在个人生活中的重要性、宗教的总体重要性、自我认定的宗教身份、对教会的信任度以及是否正式隶属于某个教派。结果显示，一个国家的互联网普及度越高，其宗教信仰程度就会呈下降趋势。在考虑了其它因素之后这种负关联仍然存在，且独立于整体经济或教育水平的提升。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85432" target="_blank"&gt;西班牙下令屏蔽 Archive.today 及相关存档网站&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                西班牙政府下令屏蔽 Archive.today 及相关镜像域名 Archive.is、Archive.ph 和 Archive.li。Archive.today 等网站被广泛用于绕过付费墙，此前由于植入了 DDoS 脚本（至今还在）而被维基百科屏蔽。但西班牙的屏蔽与此无关，而是由于有人投诉该存档网站上有违规内容。此举属于行政决定，而非法院裁决。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85443" target="_blank"&gt;雷达证据表明图坦卡蒙陵墓有隐藏密室&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                位于埃及帝王谷的图坦卡蒙陵墓一直令考古学家困惑不已，怀疑墙壁后面有隐藏密室。借助于雷达，研究人员认为他们找到了密室存在的证据。但是否发掘密室还需要等待埃及最高文物委员会的批准。如果批准，发掘工作最快将于 11 月启动。图坦卡蒙陵墓建于公元前 14 世纪，于 1922 年被发现。英国埃及学家 Nicholas Reeves 认为，隐藏密室可能是图坦卡蒙前任统治者娜芙蒂蒂（Nefertiti）的安息地—— 娜芙蒂蒂是法老阿肯纳顿的王后，她的女儿安克姗海娜曼嫁给了同父异母的弟弟图坦卡蒙，她在阿肯纳顿死后曾短暂统治埃及。Reeves 认为图坦卡蒙陵墓最初是一座规模庞大的皇家陵墓，当年轻的图坦卡蒙意外去世时，陵墓入口被扩建并改造以供其安葬，更深处的区域则被封闭起来。探地雷达显示陵墓后有一条宽两米、填满碎石的通道。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-20</guid><pubDate>Sun, 20 Sep 2026 13:28:28 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85444" target="_blank"&gt;婴儿潮一代沉迷于社交网络&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                青少年有社交网络成瘾问题，年龄超过 60 岁的婴儿潮一代也存在类似问题。YouGov 在 2026 年进行的一项民调发现，55 岁以上人群有超过五成每周至少使用一次社交媒体。62 岁的 Tracie 女士说，拿起手机就忘记放下了，称很多同龄人都沉迷于不断向下滑动手机屏幕浏览信息。Surrey 大学副教授 Brigitte Stangl 认为，社交媒体在缓解老年人孤独感方面非常有效，“上网可消除行动不便或交通出行困难带来的问题”——这些问题对老年群体影响最为显著。61 岁的演员 Kerri Hedley-Cheney 称，社交媒体让她能加入表演组织，建立人脉和互相支持。她同时也承认可能会在社媒上浪费几小时时间。她指出，使用社交媒体也缩短了她的注意力持续时间，类似年轻人，她现在的注意力间隔只有大约 10 秒钟。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85445" target="_blank"&gt;AI 聊天机器人经常给出错误的财务问题答案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Saturn 的一项研究显示，ChatGPT、Claude、Copilot、Grok 和 Gemini 等主流 AI 模型在回答财务相关问题时，平均有 57% 会给出错误答案。研究使用了逾百个财务相关问题，分别测试了 ChatGPT、Gemini、Claude 和 Copilot 提供的免费及付费 AI 模型。每个问题最多重复提问五次，向 18 种 AI 模型共提出了逾 10,000 个问题。研究发现，AI 模型的回答中包含计算错误、遗漏即将实施的税收政策变更，或是凭空捏造规则（即幻觉）。在最严重的情况下，依赖 AI 对税务问题的回答可能导致严重的经济损失。研究发现，付费模型的回答比免费模型更准确，较新的模型表现优于较旧的模型。表现最好的是推理模式的 Claude Opus 5，但仍然有 39% 的答案存在错误。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85446" target="_blank"&gt;Googlebooks 于 10 月 4 日上市，最低 899 美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                深度集成 Gemini、运行 Android 的笔记本电脑 Googlebooks 将于 10 月 4 日上市。Google 硬件合作伙伴中除了宏碁推出一款起售价 899 美元的型号外，其余厂商的产品都超过 1000 美元。Googlebook 不同于 Chromebook 面向低端市场，它面向的是中端笔记本电脑市场。Googlebooks 的 Continue On 功能允许用户在手机或 Googlebook 之间无缝切换，但需要应用开发者支持；Cast My Apps 可以直接在 Googlebook 上使用 Android 手机已安装应用；Play Store 是 Googlebook 获取应用的主要渠道，侧载受到了限制，只能安装运行已通过 Google 验证身份的开发者的应用；通过深度集成 Gemini Intelligence，用户仅仅移动光标就能激活被称为“Magic Pointer”的 AI 功能，AI 会分析屏幕上的内容，根据上下文提供建议，能从多个应用中提取数据。比如将光标指向电邮中的日期即可创建日历预约。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-21</guid><pubDate>Mon, 21 Sep 2026 15:42:04 +0000</pubDate></item></channel></rss>
