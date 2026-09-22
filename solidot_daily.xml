@@ -1,74 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 21 Sep 2026 15:42:04 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月21日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 22 Sep 2026 13:55:12 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月22日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85435" target="_blank"&gt;美国俄勒冈州数据中心用电量接近总用电量的四分之一&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据美国俄勒冈州的一份报告，该州有 111 个运营中的数据中心，建筑面积 2210 万平方英尺，2025 年用电量占到该州总用电量的 23%。该州还有 32 个数据中心处于建设中或规划中，将新增 690 万平方英尺的建筑面积。报告预测，到 2030 年该州数据中心的能耗将上升至近 25TWh，约占该州总电力需求的 31%-32%，相当于 250 万户家庭的用电量。报告称，这些数据中心直接提供了 2630 个就业岗位，占到了该州总人口的 0.06%。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85436" target="_blank"&gt;每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                英伟达在 2024 年称当年它的 GPU 产品共使用了逾 10 亿 RISC-V 核心。这些 RISC-V 核心没有被用于图形渲染，而是充当了微控制器，执行各类辅助任务，根据型号不同，每个 GPU 包含了 10-40 个 RISC-V 核心。英伟达在 RISC-V 之前使用的是私有微控制器 FAst Logic CONtroller（Falcon）。Falcon 最早于 2005 年随 G98 引入，到了 2016 年单个 GPU 芯片集成了超过 15 个不同的 Falcon 引擎，十年间使用的 Falcon 核心总数约 30  亿个，这些核心被用于视频编解码、电源管理、安全引擎等不同任务。Falcon 为 32 位核心，没有数据缓存，不再满足英伟达的需求，它开始寻找替代，在评估了 Arm、MIPS 等架构之后，它最终选择了开源指令集架构的 RISC-V。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85437" target="_blank"&gt;新加坡付费鼓励公众读书&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                新加坡国家图书馆管理局启动了名为 ReadSG 的全国阅读运动，旨在在数字时代恢复公众的阅读习惯，它推出的鼓励阅读措施包括每天打卡看书 15 分钟即可换取“金币”和积分的奖励游戏。公众在政府科技局的 CrowdTaskSG 平台上记录到至少 15 分钟的阅读时长就能获得 20 金币。兑换比例是 1,000 金币相当于 1 新加坡元，这意味着 15 分钟阅读的价值约 0.02 新加坡元。图管局表示虽然奖励非常少，它旨在鼓励阅读而不是让民众把它当成收入来源。图管局 2024 年全国阅读习惯调查显示，89% 成人每周阅读一次以上，但阅读书籍类的只占当中 28%。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85438" target="_blank"&gt;智谱准备推出数据不留存功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在开发者发现 ZCode 会将用户整个工作区打包上传后，AI 公司智谱推出数据不留存功能。智谱星期天晚在微信公众号宣布，其“模型即服务”（Model as a Service，MaaS）平台将于近期正式推出“数据内容不留存”功能，将不对用户的模型调用输入、输出内容进行任何形式的静态存储，数据仅在当次调用过程中临时使用。企业和开发者用户可通过智谱 Maa S控制台提交开通申请。零数据留存即用户提交给模型的提示词（Prompt）、模型返回的生成结果，仅在服务器内存中参与当次推理计算；一旦请求处理完成，相关数据不会存储，也不会被用于模型迭代训练。智谱同时明确，数据不留存机制存在两种例外情况。一是由产品形态决定的功能型存储，包括 Batch API（批处理接口）、Files API（文件管理接口），其存储逻辑由产品特性需求决定。另一类是合规性，根据国家法律法规要求，或为核查涉嫌违规、滥用服务的行为，平台可能留存对应数据 30 天及以上。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85439" target="_blank"&gt;霸王龙的体温和现代大象类似&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                霸王龙究竟是“冷血动物”还是“温血动物”，一直是古生物学界争论的问题。冷血动物体温随环境变化，温血动物则能靠自身代谢维持稳定体温。越来越多证据表明霸王龙可能是温血动物，但它究竟有多“热”，此前始终没有一个确切答案。霸王龙已经灭绝了6600多万年，还有方法测量它的体温吗？UCLA 的科学家给出了肯定的答案。他们从霸王龙保存至今的牙齿化石中找到了线索，并首次测出了它的具体体温。这项研究的关键，是牙釉质中的碳、氧同位素。霸王龙形成牙齿时，这些同位素会参与形成一些特殊的化学键，而化学键的数量与形成时的温度有关。温度较低时，形成的化学键更多，温度较高时则更少。测量这些化学键的数量，就能反推出牙齿形成时的温度。结果显示，霸王龙的体温约为 36℃。这个温度与现代大象类似，与人类接近，处于现代爬行动物和鸟类之间。如今大多数冷血爬行动物的体温大约为 28℃-30℃，而许多鸟类的体温可以达到 40℃-43℃。霸王龙虽然依然是长着鳞片、通过产卵繁殖的爬行动物，但它的体温已经明显高于现代冷血爬行动物。较高的体温通常与较高的代谢水平有关。科学家认为，这一结果支持了霸王龙是一种活跃动物的观点。它可能需要通过捕食或寻找腐肉获取足够能量，以维持较高的代谢水平，而不是像一些现代爬行动物那样依靠晒太阳来提高体温。这个结果还有助于解释另一个问题：霸王龙为什么能生活在寒冷地区。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85440" target="_blank"&gt;通过广告收集器 ChatGPT 知道你在其它网站的活动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenAI 在 bzr.openai.com 上的广告收集器会设置名为 __obi、作用域为 .openai.com 的 Cookie。该 Cookie 的值在用户访问 ChatGPT 期间生效，并与用户的 ChatGPT 账户绑定。随后，__obi 会从用户访问的其它网站发送回 OpenAI。任何在 ChatGPT 上购买广告的公司，都会在其自己的网站上添加一小段 OpenAI 代码，其方式与添加 Meta 和 Google 跟踪代码的方式相同。加载该代码会将 __obi 以及有关用户浏览页面的数据（包括搜索的产品、正在阅读的文章以及购买行为）发送给 OpenAI。OpenAI 可将用户在这些网站上的行为与其 ChatGPT 账户关联起来。通过广告收集器 ChatGPT 知道你在其它网站的活动。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85441" target="_blank"&gt;日本 65 岁以上老人占到总人口的近三成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                日本总务省公布的人口推算数据显示，截至 9 月 15 日，日本 65 岁以上老年人口较上年增加 2 万人，达到 3624 万人。老年人口时隔两年再次增加，在总人口中的占比为 29.6%，刷新历史最高纪录。截至 2025 年，日本 65 岁以上就业人数达到 943 万人，连续 22 年增加，创历史新高。按性别来看，日本的男性老年人口为 1571 万人，女性为 2054 万人。2025 年死亡老年人口多于新满 65 岁的人数，日本的老年人口总数有所减少，但 2026 年再次转为增加。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85442" target="_blank"&gt;互联网普及度与宗教信仰下降相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Sociology of Religion: A Quarterly Review》上的一项研究，互联网普及与宗教信仰下降相关。研究人员汇集了一个 81 个国家的数据集，时间跨度从 1990-2022 年。研究团队构建了一个包含六项指标的指数去衡量各国的平均宗教水平。这些指标涵盖了宗教仪式参与率、神（God）在个人生活中的重要性、宗教的总体重要性、自我认定的宗教身份、对教会的信任度以及是否正式隶属于某个教派。结果显示，一个国家的互联网普及度越高，其宗教信仰程度就会呈下降趋势。在考虑了其它因素之后这种负关联仍然存在，且独立于整体经济或教育水平的提升。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85443" target="_blank"&gt;雷达证据表明图坦卡蒙陵墓有隐藏密室&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                位于埃及帝王谷的图坦卡蒙陵墓一直令考古学家困惑不已，怀疑墙壁后面有隐藏密室。借助于雷达，研究人员认为他们找到了密室存在的证据。但是否发掘密室还需要等待埃及最高文物委员会的批准。如果批准，发掘工作最快将于 11 月启动。图坦卡蒙陵墓建于公元前 14 世纪，于 1922 年被发现。英国埃及学家 Nicholas Reeves 认为，隐藏密室可能是图坦卡蒙前任统治者娜芙蒂蒂（Nefertiti）的安息地—— 娜芙蒂蒂是法老阿肯纳顿的王后，她的女儿安克姗海娜曼嫁给了同父异母的弟弟图坦卡蒙，她在阿肯纳顿死后曾短暂统治埃及。Reeves 认为图坦卡蒙陵墓最初是一座规模庞大的皇家陵墓，当年轻的图坦卡蒙意外去世时，陵墓入口被扩建并改造以供其安葬，更深处的区域则被封闭起来。探地雷达显示陵墓后有一条宽两米、填满碎石的通道。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85444" target="_blank"&gt;婴儿潮一代沉迷于社交网络&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                青少年有社交网络成瘾问题，年龄超过 60 岁的婴儿潮一代也存在类似问题。YouGov 在 2026 年进行的一项民调发现，55 岁以上人群有超过五成每周至少使用一次社交媒体。62 岁的 Tracie 女士说，拿起手机就忘记放下了，称很多同龄人都沉迷于不断向下滑动手机屏幕浏览信息。Surrey 大学副教授 Brigitte Stangl 认为，社交媒体在缓解老年人孤独感方面非常有效，“上网可消除行动不便或交通出行困难带来的问题”——这些问题对老年群体影响最为显著。61 岁的演员 Kerri Hedley-Cheney 称，社交媒体让她能加入表演组织，建立人脉和互相支持。她同时也承认可能会在社媒上浪费几小时时间。她指出，使用社交媒体也缩短了她的注意力持续时间，类似年轻人，她现在的注意力间隔只有大约 10 秒钟。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85445" target="_blank"&gt;AI 聊天机器人经常给出错误的财务问题答案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Saturn 的一项研究显示，ChatGPT、Claude、Copilot、Grok 和 Gemini 等主流 AI 模型在回答财务相关问题时，平均有 57% 会给出错误答案。研究使用了逾百个财务相关问题，分别测试了 ChatGPT、Gemini、Claude 和 Copilot 提供的免费及付费 AI 模型。每个问题最多重复提问五次，向 18 种 AI 模型共提出了逾 10,000 个问题。研究发现，AI 模型的回答中包含计算错误、遗漏即将实施的税收政策变更，或是凭空捏造规则（即幻觉）。在最严重的情况下，依赖 AI 对税务问题的回答可能导致严重的经济损失。研究发现，付费模型的回答比免费模型更准确，较新的模型表现优于较旧的模型。表现最好的是推理模式的 Claude Opus 5，但仍然有 39% 的答案存在错误。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85446" target="_blank"&gt;Googlebooks 于 10 月 4 日上市，最低 899 美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85446" target="_blank"&gt;Googlebooks 于 10 月 4 日上市，最低 899 美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
                 深度集成 Gemini、运行 Android 的笔记本电脑 Googlebooks 将于 10 月 4 日上市。Google 硬件合作伙伴中除了宏碁推出一款起售价 899 美元的型号外，其余厂商的产品都超过 1000 美元。Googlebook 不同于 Chromebook 面向低端市场，它面向的是中端笔记本电脑市场。Googlebooks 的 Continue On 功能允许用户在手机或 Googlebook 之间无缝切换，但需要应用开发者支持；Cast My Apps 可以直接在 Googlebook 上使用 Android 手机已安装应用；Play Store 是 Googlebook 获取应用的主要渠道，侧载受到了限制，只能安装运行已通过 Google 验证身份的开发者的应用；通过深度集成 Gemini Intelligence，用户仅仅移动光标就能激活被称为“Magic Pointer”的 AI 功能，AI 会分析屏幕上的内容，根据上下文提供建议，能从多个应用中提取数据。比如将光标指向电邮中的日期即可创建日历预约。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-21</guid><pubDate>Mon, 21 Sep 2026 15:42:04 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85447" target="_blank"&gt;Google 因地理位置数据处理被爱尔兰罚款 4.03 亿欧元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 因地理位置数据处理被爱尔兰数据保护委员会（DPC）罚款 4.03 亿欧元。DPC 对 Google 的调查持续了六年，涉及 Google 在 2018 年 5 月 25 日至 2020 年 2 月 4 日间 Web &amp;amp; App Activity、Location History 和 Location Accuracy 三项功能的位置数据处理。DPC 的报告认为 Google 的位置数据处理违反了 2018 年生效的数据保护法律 GDPR，可能导致用户未意识到自己的位置信息正被用于投放定向广告或推断其兴趣偏好，丧失对自己个人数据的控制权。Google 发表声明，表示它从 2019 年起就调整了位置数据管理。引入了位置数据自动删除功能。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85448" target="_blank"&gt;AMD 加入万亿美元市值俱乐部&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AMD 周一股价上涨 9.6% 至 613.31 美元，市值突破一万亿美元，成为英伟达、博通和美光之后第四家市值突破万亿美元的美国芯片公司。英伟达在 2023 年市值突破万亿美元，如今市值逾五万亿美元，是全世界市值最高的公司。AMD 被认为是英伟达在 GPU 芯片领域最强大的竞争对手。AMD 股价在 2026 年上涨 185%，远超聚集众多科技股的纳斯达克指数 15.8% 的涨幅，是标普 500 指数中表现最佳的股票之一。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85450" target="_blank"&gt;阿里巴巴下一代模型参数将扩大到 5-10 万亿规模&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                阿里巴巴 CEO 吴泳铭在阿里云年度云栖大会上透露，该公司的千问（Qwen）团队正持续研究模型架构与数据优化，目标是完成更复杂、长周期任务，向人工智能超级智能（artificial superintelligence）前进。阿里巴巴的旗舰模型 Qwen 3.8 Max 有 2.4 万亿参数，正在训练中的 Qwen 4 将会继续扩大参数规模，未来的 Qwen 4.5 和 Qwen 5 系列将扩大至 5-10 万亿参数规模。吴泳铭表示，阿里巴巴自研的 M890 AI 超级节点能处理参数规模逾 2 万亿模型的推理任务，新一代的真武 V900 性能三倍于上一代的 M890，预计于 2027 年第一季度量产。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85451" target="_blank"&gt;6 岁女孩打破女子三阶魔方还原世界纪录&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                成都六岁女童连允之在世界魔方协会（World Cube Association）在两场赛事中，三天内两次打破了女子三阶魔方世界纪录，成为全球唯一一位平均还原时间低于 4.5 秒的女子魔方选手。她分别在武汉和广州举行的比赛中以 4.52 秒和 4.27 秒的平均成绩两次刷新了纪录。她过去一年进行了高强度训练，每天投入两到三个小时练习魔方，目前已掌握逾 1300 种魔方还原算法。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85452" target="_blank"&gt;NASA 火星样本采集送回任务终止&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国国会的预算法案取消了对 NASA 火星样本采集送回任务 Mars Sample Return(MSR)的资助，虽然该法案还需要通过国会两院的批准以及总统的签署才会生效，但实际上代表着 MSR 计划的终止。MSR 计划因为不断膨胀的成本而备受争议，2024 年其成本膨胀至 110 亿美元，如果推行将占用大部分 NASA 科学预算。2025 年 NASA 设法将项目成本降至 70 亿美元，但费用仍然过高，而 NASA 同时正面临特朗普政府削减科学预算的挑战。MSR 项目的终止意味着火星漫游车毅力号收集的样本无法送回样地球实验室进行分析。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85453" target="_blank"&gt;为躲避亿万富翁税 Larry Page 等人迁出加州&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                对加州亿万富翁征收一次性 5% 税的提案 Initiative Number 25-0024 将在 11 月 3 日进行公投。胡佛研究所的研究显示，面临征税的亿万富翁们已有近三成迁出加州。Larry Page 在迈阿密 Coconut Grove 购买了两栋临水豪宅，总价 1.73 亿美元，同时将家族办公室 Koop 从加州转到注册地特拉华州、办公地址佛罗里达的公司。Sergey Brin 在迈阿密 Allison Island 购买了一栋价值 5100 万美元的临水豪宅，将内华达州登记为正式居住地，他资助了反对征税的政治行动委员会 Building a Better California。Peter Thiel 在 2025 年 12 月将其家族投资公司从加州迁至迈阿密。英伟达 CEO 黄仁宇则是少数公开表示会纳税的亿万富翁，他预计将缴纳  80 亿美元的税。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85454" target="_blank"&gt;天文学家发现已知最年轻行星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家发现了已知最年轻的行星——Elias 2-24 b。这颗不到 100 万年的木星大小行星仍被其形成时的气体和尘埃包围。其令人惊讶的形成速度挑战了关于巨行星如何形成的主流理论。现有的行星形成理论认为，一颗大质量行星不可能形成地如此迅速，尤其是在距离恒星如此遥远的地方。当前模型表明，在太阳系中木星的位置形成一颗木星大小的行星大约需要 500 万年，那么距恒星更远的巨行星形成时间应该更长。然而 Elias 2-24 系统中这个微弱天体到恒星的距离约为地球到太阳距离的 55 倍，而且已经显示出行星形成的迹象。Elias 2-24 b的质量与木星相当，围绕一颗距离地球约 450 光年的恒星运行。由于该系统还很年轻，天文学家通过研究它可以一瞥数十亿年前太阳系的样子。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-22</guid><pubDate>Tue, 22 Sep 2026 13:55:12 +0000</pubDate></item></channel></rss>
