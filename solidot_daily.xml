@@ -1,50 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 24 Sep 2026 14:03:42 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月24日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 25 Sep 2026 14:26:59 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85465" target="_blank"&gt;英国准备施压 Google 向 Android 和 Chrome 用户展示 AI 助手选择屏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                英国竞争监管机构 CMA 想要让 Android 和 Chrome 用户对 AI 助手和搜索引擎有更大的选择权和控制权。CMA 公布了一份提案，要求 Google 在用户首次设置 Android 手机或打开 Chrome 浏览器时，向其展示多种搜索引擎供选择，并且每年提示用户选择一个默认搜索引擎；符合技术与安全标准的 AI 助手也必须获准出现在选择屏上上。该提案目前进入公众咨询阶段，截止日期为 10 月 9 日，CMA 预计将在今年底前做出最终决定。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85473" target="_blank"&gt;蝙蝠起源于欧洲&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                发表在《自然》期刊上的一项研究结合基因组和化石证据，重建了蝙蝠长达 6500 万年的演化历史。最新研究推翻了此前蝙蝠起源于亚洲、非洲或北美的假说，蝙蝠最早起源于欧洲，之后进入非洲，然后向亚洲、美洲和澳大利亚扩散。澳大利亚昆士兰州东南部 Murgon 发现的蝙蝠化石 Australonycteris 距今已有 5500 万年，仅比欧洲的化石稍晚。蝙蝠是唯一能真正进行动力飞行的哺乳动物。大多数蝙蝠仅靠声音就能在漆黑的环境中辨别方向和捕食。全世界分布着逾 1500 个蝙蝠种类，占现存哺乳动物总数的五分之一，它们通过为植物授粉、传播种子以及捕食害虫，在维持生态系统健康上发挥着重要作用。研究还发现回声定位和飞行都是蝙蝠在早期演化出来的。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85466" target="_blank"&gt;不要被 AI 炒作愚弄&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Anthropic 声称其模型 Claude Mythos 在发现软件漏洞上胜过大多数安全专家。随后发生了 OpenAI–Hugging Face 安全事件，此后 Anthropic（自豪）和 Meta（不情愿）也披露了各自模型的类似事件。紧接着 Anthropic 宣称其模型取得了数学领域的突破；OpenAI 也声称自己取得了数学突破。Anthropic 工程师 Jacob Coxon 在宣布离职时引发了广泛关注，他声称该公司与 OpenAI 正“冲向自我进化的超级智能，并拿我们的生命在赌博”。媒体大肆报道了这些事件，且沿用了相关公司赋予其软件的拟人化叙事——即把软件描绘成不仅功能强大，而且已初具通用人工智能（AGI）雏形的产物。但深入研究的专家则给出了不同的答案，虽然这些发现并不能吸引眼球。网络安全专家指出，涉及模型的安全事件更多是 OpenAI 的疏忽大意，未能采取基本的安全措施，而不是“模型失控”或“AI 智能体创造文明”。OpenAI 模型在解决数学难题上的突破其原创性也相当可疑。数学家公开对 AI 企业利用其专业领域进行炒作提出了警告。AI 公司通过炒作模型失控也将自己置身事外，将责任归咎于大模型而不是公司本身，逃避应承担的责任。以 OpenAI 为例，当该公司开发的恶意软件被用于入侵另一家公司时，媒体、名人和议员谈论是“失控模型”而不是 OpenAI 的责任，仿佛大模型真的会自动发动攻击，公众的注意力被转移到虚构的“超级智能”的恐惧之上。我们不要被 AI 公司的炒作所愚弄。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85474" target="_blank"&gt;F-Droid 2.0 发布&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Android 自由软件应用商店 F-Droid 宣布发布 2.0 版本。F-Droid 2.0 对 UI 进行了重新设计，旨在更容易的发现，安装和管理应用。主要界面简化为了三个核心区域：发现，搜索和“我的应用”。类别现在整合进了发现，使其更容易浏览和探索，而“我的应用”提供了一个一站式管理已安装应用、更新和潜在问题的地方。设置和附近交换在顶栏的一级菜单里，但不再占据主界面的空间。F-Droid 2.0 不再将所有游戏放在一起，而是分成了 17 个不同的游戏类型，让用户更容易找到真正想玩的游戏。F-Droid 2.0 还改进了搜索，除了应用名称，现在也能搜索应用描述、类别和翻译内容，新版本改进了中日韩语言搜索，对 CJK 文字系统提供了更好的支持，帮助用户用他们自己的语言找到相关应用。F-Droid 2.0 将在未来几周内推送给用户。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85467" target="_blank"&gt;年检显示高里程电动车比汽油车更可靠&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                对 4740 万英国机动车年检（MOT test）数据的分析发现，当汽车行驶里程达到 9-12 万英里时，电动汽车的年检不合格率为汽油车同类车型的 75%（16.5% 对 22.1%）。行驶里程超过 12 万英里后，电动汽车的不合格率为 16%，而汽油车为 23.5%。研究发现，较低行驶里程两种动力类型的汽车之间的不合格率差异相对较小。研究还发现，电动汽车的一大问题是其轮胎磨损问题两倍于燃油车。英国机动车年检没有检查电池的健康状况，因此电动汽车电池健康情况未知。研究人员表示他们的研究驳斥了高里程电动汽车应该报废的观念。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85475" target="_blank"&gt;中国各地推动 AI 视频产业化&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV 报道 2026 年上半年，AI 短剧的制作成本从每分钟 5,000 元降至几百元。可能和太阳能等领域一样，AI 视频行业也正面临产能过剩。DataEye 的数据显示，今年上半年，抖音上推出了 221,900 部新 AI 视频，其中只有 1,055 部播放量逾 1 亿次。国家电影局已向 90 分钟科幻史诗片《三星堆未来启示录》颁发公映许可证，这是中国大型制片厂制作的首部获批在院线上映的 AI 电影，出品方博纳影业集团表示影片计划于今年上映。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85468" target="_blank"&gt;2025 年全台每 46 名新生儿就有 1 个是台积电宝宝&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                台积电最新永续报告书显示，2025 年台厂区及采钰公司员工共迎来 2,331 名新生儿，占全台新生儿 2.2%。台积电员工的生育率约为全台的 2 倍。台积电的高生育率被认为与该公司薪资更高相关。台积电员工薪资中位数为 300 万台币，平均数为 400 万台币，四倍多余全台的薪资。研究显示收入与生育率呈现 U 型曲线，从贫穷进入小康阶段时，生育意愿下降，但从小康变得富有后，生育意愿又开始提高。这是因为生育成本会随着经济发展增加，薪资与房价让多数年轻人不敢生，但更富有的人能够负担生育成本，因此比较愿意生育。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85469" target="_blank"&gt;arXiv 项目获得 1720 万美元的捐赠承诺&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                预印本平台 arXiv.org 于 7 月 1 日脱离康奈尔大学成立独立的非营利性组织。arXiv 诞生于 1991 年，创始人 Paul Ginsparg 在 2001 年加入了康奈尔大学，arXiv 网站随后由康奈尔大学图书馆接手。25 年后 arXiv 决定翻开新的篇章。arXiv 项目本周表示，Simons Foundation International、XTX Markets 和 Siegel Family Endowment 三家慈善机构承诺在 3-5 年内捐赠 1720 万美元。这笔慈善捐款将被用于 arXiv 的日常运营、持续改进、持续的技术开发、AI 生成内容的管理、非营利组织的建设等等。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85470" target="_blank"&gt;阿根廷生育率十年内下降五成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2025 年阿根廷的总和生育率为 1.05，2024 年为 1.23，而 2014 年的这一数字是 2.3，这意味着十年内阿根廷生育率下降五成。如此显著的生育率下降难以用一种原因去解释，这也不是特定国家的现象，全世界可能除了以色列外生育率都明显下降。地球的人口峰值预计会提前在 2050 年到来。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85471" target="_blank"&gt;微软放弃封禁 Microslop&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软 CEO 纳德拉（Satya Nadella）关于 AI 的著名评论促使网民为微软起了 Microslop 的绰号，绰号的流行和随处可见促使微软今年早些时候在官方 Copilot Discord 服务器将其封禁，用户输入 Microslop 后会收到警告称根据服务器规定其输入包含了不合适的短语。但用户很快找到了应对之策，创造了无数 Microslop 的变体，比如用数字“0”代替字母“o”的“Microsl0p”。在猫与老鼠的文字游戏中，微软显然是失败的一方。半年之后，微软 Copilot Discord 频道被发现已经解除了对 Microslop 的封禁，搜索显示过去几周用户发布了数百则与 Microslop 相关的评论。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85472" target="_blank"&gt;部分三星智能冰箱在升级固件之后停止工作&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                本周二，部分三星智能冰箱在升级固件之后停止工作。受影响的是三星 Bespoke AI 系列冰箱，大部分是 2024 年或之后生产的四门冰箱。受影响的冰箱在尝试通过三星智能家居平台 SmartThings 进行固件更新后，突然断电并立即停止工作。随后 SmartThings 应用显示这些冰箱处于离线状态。用户抱怨他们不得不扔掉冰箱里的所有食物。韩国正处于中秋假期，三星客服告诉客户可能要到下个月维修人员才能上门维修。三星在一份声明中表示他们正致力于解决该问题，确保客户能过好中秋假期。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-24</guid><pubDate>Thu, 24 Sep 2026 14:03:42 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-25</guid><pubDate>Fri, 25 Sep 2026 14:26:59 +0000</pubDate></item></channel></rss>
