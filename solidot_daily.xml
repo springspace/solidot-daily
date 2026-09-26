@@ -1,20 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 25 Sep 2026 14:26:59 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 26 Sep 2026 13:37:58 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月26日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85473" target="_blank"&gt;蝙蝠起源于欧洲&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                发表在《自然》期刊上的一项研究结合基因组和化石证据，重建了蝙蝠长达 6500 万年的演化历史。最新研究推翻了此前蝙蝠起源于亚洲、非洲或北美的假说，蝙蝠最早起源于欧洲，之后进入非洲，然后向亚洲、美洲和澳大利亚扩散。澳大利亚昆士兰州东南部 Murgon 发现的蝙蝠化石 Australonycteris 距今已有 5500 万年，仅比欧洲的化石稍晚。蝙蝠是唯一能真正进行动力飞行的哺乳动物。大多数蝙蝠仅靠声音就能在漆黑的环境中辨别方向和捕食。全世界分布着逾 1500 个蝙蝠种类，占现存哺乳动物总数的五分之一，它们通过为植物授粉、传播种子以及捕食害虫，在维持生态系统健康上发挥着重要作用。研究还发现回声定位和飞行都是蝙蝠在早期演化出来的。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85477" target="_blank"&gt;大象使用药用植物治疗自己&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究人员得出结论，大象会使用 35 种不同的植物，其中 25 种在当地已知具有药用价值。一位野生动物巡护员看到母象使用名为 Angurweet 的植物给幼象治病。Angurweet 可用于治疗包括胃痛在内的多种疾病。巡护员看到母象将植物嚼烂，与乳汁混合，喂给幼象，幼象咀嚼后吐出固体部分。公元三世纪的罗马作家 Claudius Aelian 在其作品《De Natura Animalium (On the Nature of Animals)》中最早描述了大象用植物治疗自己的记录。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85474" target="_blank"&gt;F-Droid 2.0 发布&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Android 自由软件应用商店 F-Droid 宣布发布 2.0 版本。F-Droid 2.0 对 UI 进行了重新设计，旨在更容易的发现，安装和管理应用。主要界面简化为了三个核心区域：发现，搜索和“我的应用”。类别现在整合进了发现，使其更容易浏览和探索，而“我的应用”提供了一个一站式管理已安装应用、更新和潜在问题的地方。设置和附近交换在顶栏的一级菜单里，但不再占据主界面的空间。F-Droid 2.0 不再将所有游戏放在一起，而是分成了 17 个不同的游戏类型，让用户更容易找到真正想玩的游戏。F-Droid 2.0 还改进了搜索，除了应用名称，现在也能搜索应用描述、类别和翻译内容，新版本改进了中日韩语言搜索，对 CJK 文字系统提供了更好的支持，帮助用户用他们自己的语言找到相关应用。F-Droid 2.0 将在未来几周内推送给用户。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85478" target="_blank"&gt;黑手党可能阻止了芬太尼流入意大利&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测出两例致死事件。相比之下，德国 95 例，美国近 4.8 万例。意大利整体上的毒品消费水平无法解释这一现象。根据欧洲的数据，每年约有 2.1% 的意大利青年使用可卡因，德国的这一比例为 2.2%。芬太尼在意大利尚未造成太大影响，警方也没有查获多少芬太尼，反黑手党检察官 Nicola Gratteri 认为黑手党远离了芬太尼。芬太尼相比海洛因和可卡因致死率更高，客户容易死亡对黑手党而言不是一门好生意，通常意味着更低的利润，因此黑手党选择了拒绝芬太尼。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85475" target="_blank"&gt;中国各地推动 AI 视频产业化&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV 报道 2026 年上半年，AI 短剧的制作成本从每分钟 5,000 元降至几百元。可能和太阳能等领域一样，AI 视频行业也正面临产能过剩。DataEye 的数据显示，今年上半年，抖音上推出了 221,900 部新 AI 视频，其中只有 1,055 部播放量逾 1 亿次。国家电影局已向 90 分钟科幻史诗片《三星堆未来启示录》颁发公映许可证，这是中国大型制片厂制作的首部获批在院线上映的 AI 电影，出品方博纳影业集团表示影片计划于今年上映。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85479" target="_blank"&gt;Velum：方便部署的CosyVoice推理程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Nala Ginrut 写道：&lt;i&gt;
+HardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。&lt;br /&gt;
+CosyVoice是目前比较优秀的一款 TTS 模型，但其推理程序使用的Python体系比较老旧，需要在部署的时候做一些处理，而且Python依赖占用空间较大，不利于大量能力情况下的Agent部署。要是每个agent能力都要一堆Python十几G的依赖，每一堆还有版本冲突，那就不要卖产品了，不如回家卖红薯。
+Velum编译之后只有一个可执行文件，所谓部署更新就是拷贝。一些预处理的模型相关的东西虽然需要用Python生成，但运行时是不需要任何Python的东西。
+&lt;br /&gt;
+Velum同时也是一个例证，它是由人类做架构规划，DeepSeek-v4-pro完成的项目，也就是说，DeepSeek足以做这种程度的Vibe。在目前Claude只需要两轮配额就烧干的今天，稍微复杂点的程序，如果不能用DeepSeek做，最后还是要回家卖红薯。
+&lt;br /&gt;
+希望以后Codex和Claude也能增强自己的竞争力，把价格向DeepSeek靠拢，让天下无红薯可卖，也未尝不是一件美事。&lt;/i&gt;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-25</guid><pubDate>Fri, 25 Sep 2026 14:26:59 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85480" target="_blank"&gt;YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马斯克的纪录片，X 平台拒绝能理解，但 YouTube、TikTok 以及 Meta 都拒绝令发行商感到意外，引发了少数几家公司掌控社交平台压制言论自由的担忧。YouTube、TikTok 和 Meta 都以政治内容相关的理由拒绝投放广告。Bleecker Street 对三家公司提起了上诉，Meta 已经驳回上诉，而 TikTok 和 YouTube 仍在审议中，X 平台则直接拒绝沟通。《Musk》将于 10 月 9 日上映。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-26</guid><pubDate>Sat, 26 Sep 2026 13:37:58 +0000</pubDate></item></channel></rss>
