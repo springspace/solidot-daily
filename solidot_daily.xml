@@ -1,44 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 27 Sep 2026 14:34:20 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月27日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 28 Sep 2026 17:24:02 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月28日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85481" target="_blank"&gt;荷兰政府测试本土发行版 NixOS&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAWO) 。DAWO 包含了操作系统、办公套件、协作应用、云服务及管理工具。试点项目正在荷兰政府内部展开。欧洲各地的政府以前尝试过取代微软的软件，但成功者寥寥。现在过于依赖微软软件可能导致服务被彻底切断，对欧洲政府而言风险更大，因此转向替代解决方案比以往更重要。DAWO 先后尝试了 openSUSE 和 Fedora 发行版，最终选择了自主开发的发行版 NixOS。原因是 openSUSE 的母公司 SUSE 频繁出售，而 Fedora 是 Red Hat 主导开发的发行版，而 Red Hat 的母公司 IBM 是美国公司。NixOS 是基于荷兰开发的软件包管理器 Nix，不隶属于任何商业实体，开发者计划明年发布 1.0 版本。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85488" target="_blank"&gt;玫瑰也可以是蓝色的&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                玫瑰不只是红色的，它也可以是蓝色的。玫瑰缺乏产生蓝色色素所需的基因。日本三得利集团于 1990 年启动了研发蓝色玫瑰的工作。2004 年它通过引入了能产生蓝色色素 delphinidin 的基因，成功培育出能积累蓝色的玫瑰。三得利此后继续研发色泽更蓝的玫瑰的工作。花色并非仅由色素的种类或含量决定，还会因周围的化合物及花瓣内部环境的不同而发生显著变化，其中的关键是辅色素。辅色素本身无色，但辅色素与蓝色色素发生相互作用能使得蓝色更蓝更深邃。玫瑰除了缺乏产生蓝色色素的天然基因，也缺乏蓝色色素的辅色素 C-glycosides。三得利研究人员通过将来自其它蓝色花卉的四个基因引入到玫瑰中，使得玫瑰花瓣同时积累蓝色色素和 C-glycosides，使其呈现紫蓝色的花色。而 C-glycosides 含量较高的花瓣花色会更蓝。这些发现为培育更蓝的玫瑰这一目标开辟了一条新途径。在日本的温室试验中，这些玫瑰植株连续七年开出蓝色花朵；在哥伦比亚的田间种植试验中，它们连续三年保持了这一特性。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85482" target="_blank"&gt;Excel 的单元格将支持输入多个值&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Jacob”列为三位负责人，或者 Forms 调查问卷可能会将“2:00 PM；2:30 PM；3:00 PM”作为单个回复返回。借助“列表”功能，用户既可以将这些值保留在同一个单元格中，又能彼此区分开来进行筛选、计算等操作。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85489" target="_blank"&gt;美国农药中有至少 485 种化合物与乳腺癌相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Environmental Health Perspectives》期刊上的一项研究，美国农药产品中至少有 485 种化合物与乳腺癌相关。全球早发性乳腺癌发病率激增，这一发现引发了对食品及其它产品安全性的担忧。根据美国癌症协会的数据，乳腺癌发病率正以每年 1% 的速度上升，而 50 岁以下女性的增长速度甚至达到了 1.4%。这项研究旨在调查人们在经济活动及日常生活中接触到的与乳腺癌相关化学物质。研究在常见消费商品中发现了约 500 种此类化学物质，在饮用水中发现了 462 种。人们可通过尽可能购买有机农产品或未喷洒农药的商品减少接触此类化合物，如果做不到那么可以减少购买蓝莓、西瓜、羽衣甘蓝和四季豆等水果和蔬菜，它们的农药残留量最高。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85483" target="_blank"&gt;太平洋西北下方的板块在分裂&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                科学家捕捉到了太平洋西北下方的一个大型构造系统分裂的细节。最新研究发现了一个俯冲带正在活跃分裂。俯冲带形成于一个构造板块俯冲到另一个板块下并深入地球内部，是大型地震、强火山爆发以及大陆和海洋盆地长期变化的源头。现在科学家有机会清晰观察大型构造系统如何走向终结。构造系统会持续活跃数百万年，但不会永远持续下去。利用声波回声，科学家正在观察 Cascadia 俯冲带的分裂。路易斯安那州立大学地质学家、研究主要作者 Brandon Shuck 表示，“这是我们第一次清晰看到一个俯冲带正在消亡的过程。板块没有一下子全部停止运动，而是一块接一块撕裂，产生了更小的微板块和新的边界。因此它不像是一场巨大的火车事故，更像是在看着一节车厢接一节车厢缓缓脱轨。”
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85490" target="_blank"&gt;考古学家在土耳其发现已知最古老的和平条约&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                考古学家在土耳其中北部古代 Hittite 帝国首都 Hattusha 的一处建筑物内发掘出了一块楔形文字泥板残片，其中记录了已知最古老的和平条约 Treaty of Kadesh。条约由埃及统治者法老 Ramesses II 与 Hittite 国王 Hattusili III 在公元前 1269 年左右签署，标志着两大帝国之间长期战争的结束，被认为是已知最古老的和平条约。虽然被称为 Kadesh 条约，但并没有提及之前几年发生的 Kadesh 战役，因此也被称为 Egyptian-Hittite 和平条约、 永恒条约或白银条约。该条约还包含了有关难民待遇的内容。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85484" target="_blank"&gt;龙芯 CPU 的原子加指令偶尔会丢失&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，两周后龙芯给出了修复的测试固件，确认问题解决。龙芯表示会在国庆节（10 月 1 日）之前发布固件。该问题主要影响使用 LA664 核心的 3C6000/S 和 3A6000。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85491" target="_blank"&gt;KDE 和 GNOME 考虑如何处理 AI 生成的贡献&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                众多大型自由软件开源项目近期都在讨论如何处理 AI 生成代码，其中包括了两大桌面环境 KDE 和 GNOME。两位近期没有贡献的 KDE 知名开发者在 KDE 年度 Akademy 大会上发表了 lovable, sovereign, AI-native KDE 的主题演讲，随后开发者 Nate Graham 发起了如何限制 AI 辅助贡献的讨论，但讨论很快超出了预定的范围。参与者有很多都是 KDE 开发者圈子之外的人，他们围绕 AI 的道德而不是原定的限制如何使用展开激烈争论，他们想要 KDE 项目完全禁止使用 AI。讨论失控最终导致提议被撤回，主题被隐藏，这是当前互联网围绕 AI 展开讨论的现状。&amp;nbsp;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85485" target="_blank"&gt;科学家研制出至今最精确的原子钟&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                新加坡国立大学研制出至今最精确的原子钟，运行 2600 亿年误差不到 1 秒。新设备是一台光学原子钟，靠镥离子固有而稳定的特性计时。特定频率的光，能把电子送上更高能量的激发态，而这一跃迁频率恒定不变。团队持续观测镥离子的跃迁，把激光锁定在触发跃迁的精确频率上，再以激光振荡作为计时标尺。在最新研究中，团队把镥钟频率测到小数点后 19 位，不确定度仅为 1×10^(-19)，创下所有光学原子钟的最低纪录。他们还造出两台时钟，进行了长达 200 小时的比对。团队表示，镥的特性非常适合这项工作。与原子钟常用的镱、锶等原子相比，镥对温度和磁场波动更不敏感。这些波动会干扰原子跃迁频率，进而影响时钟准确度。镥钟仅需商用激光技术，还能在室温下工作。未来精密计时，镥有望唱主角。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85492" target="_blank"&gt;小偷想要偷英伟达芯片结果偷了 20 吨沙子&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                上周小偷在加州 Fremont 偷走了两辆印有英伟达和 PlusAI 公司 logo 的拖车，他们可能以为发了大财，因为英伟达芯片一直在涨价，结果他们发现拖车装载了 20 吨沙子。警方和公司代表证实，两辆拖车属于自动驾驶卡车公司 PlusAI，于上周三深夜在 Fremont 仓库的装卸区被盗。PlusAI 高级营销经理 Jocelyn Ren 表示，两辆拖车里装载了总计 20 吨的沙子，公司在研发过程中利用沙子模拟实际货物的重量。拖车在距离失窃地点仅几分钟车程的地方找回，小偷撬开了车后门发现没有值钱的东西之后就将其遗弃了。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85486" target="_blank"&gt;Bitget 被盗走价值 3.875 亿美元加密货币&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XRP 从一个被识别为​​ Bitget 冷钱包的地址中转出，此外还有价值 6620 万美元的 ETH、3480 万美元的 USDT、1290 万美元的 USDC 以及 1280 万美元的 Tether Gold on Ethereum 等。CEO Gracy Chen 称没有发生私钥泄漏，攻击者入侵了钱包服务的一个关键后端系统，利用它伪造转账信息，启动授权签名流程，将虚拟货币转移出去。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85493" target="_blank"&gt;英伟达 GeForce RTX 5090 成为热门走私商品&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                澳门海关公布，近日积极打击水客活动，加强口岸关检执法，并运用科技手段严厉打击偷运物品进出本澳的不法行为。海关仅于一周内便破获 12 宗走私案，货物总市值达 151 万，当中包括 359 件 Apple AirPods 耳机及 2 张 GeForce RTX 5090 显卡等。12 名涉案人士年龄介乎 18 至 53 岁，当中包括 7 名内地旅客、3 名澳门居民及 2 名香港居民。澳门海关已根据《对外贸易法》对涉案人士作出起诉，相关违法行为一经证实，可被科处最高 10 万澳元罚款，所缉获的货物亦会宣告归澳门特别行政区所有。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85487" target="_blank"&gt;Meta 屏蔽了巴西总统的 FB 主页以及竞选广告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢拉的广告账户损害了其开展竞选活动的能力。此举使卢拉与其他候选人相比处于不平等的地位。卢拉竞选团队以及其所属的劳工党要求 Meta 保留所有数字证据，考虑诉诸巴西最高选举法院。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85494" target="_blank"&gt;冲动与拖延之间共享神经遗传基础&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                你是否有过这样的经历，明知截止时间越来越近，却忍不住频繁刷手机、告诉自己“明天再说”？这种情况被称为拖延。一直以来，拖延被贴上懒惰、自律不足或意志力薄弱的标签，但这种看似影响学习工作以及身心健康的行为，为什么普遍存在且在进化过程中被保留下来？中国科学院心理研究所等团队证实，拖延与冲动这两种看似相反的行为，存在部分共同的生物学基础。有理论认为，拖延其实是非计划冲动性（无预案的即时冲动）的进化副产物。在远古时代，人类在野外生存，必须对眼前的机遇或危险做出快速反应。这种即时反应的本能有助于更好地生存。而现代社会的学习和工作，大多要求人们提前做好长期规划、延迟满足并持续执行目标。当偏好即时奖赏的本能遇到需要长期投入的环境时，拖延行为便容易产生。但这一假说一直缺乏系统性的研究证据。对双生子行为的分析显示，非计划冲动性存在中等遗传倾向，拖延的遗传倾向较高，且二者存在中等水平的遗传相关。整合既往研究数据后，这种遗传关联仍然稳健。研究还发现，拖延本身存在独特的遗传影响因素。因此，拖延不能被视作冲动性的完全副产物，个人经历、生活环境及具体任务情境，同样会对拖延行为产生重要作用。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-27</guid><pubDate>Sun, 27 Sep 2026 14:34:20 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85495" target="_blank"&gt;美国逾七成沿海地区每年沉降逾 0.1 厘米&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                沿海居民不仅需要担心海平面上升，还需要担心地面沉降。研究人员分析了卫星雷达测量的逾 1.9 亿垂直地面运动数据点，发现 2007-2020 年间美国沿海地区普遍存在地面沉降。全美 71.5% 的沿海地区沉降速度每年逾 0.1 厘米，墨西哥湾沿海沉降速度最快。43% 的美国海岸线每年沉降 0.2厘米或以上，23.3% 每年沉降至少 0.3 厘米。西海岸部分地区则出现地面上升。研究指出导致沿海地区地面沉降的原因包括自然地质过程如三角洲和湿地等区域软沉积物的自然压实，过度抽取地下水等。有 6710 万人生活在低度沉降区，1400 万人生活在中度沉降区，320 万人生活在高度沉降区。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85496" target="_blank"&gt;在汽车旅馆里研究生命的起源&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Julia Van Etten 博士热衷于坐在沙发上用一台 300 美元的显微镜观察水滴，寻找其中的生命痕迹。2021 年她还是罗格斯大学的一名研究生时在位于北卡罗来纳州的家中度假。由于连日阴雨她被困在室内，母亲知道什么能让她振作起来，建议去室外采集些样本。她不抱什么希望，随便找个了公路旁的码头收集水样。但当她对其进行观察时，她震惊的发现了一种光合变形虫类原生生物 Paulinella。地球上所有能进行光合作用的植物都有色素体，色素体的起源可以追溯到 15 亿年前的一次事件，一个单细胞生物与一个光合细菌发生了融合，将其转化为一种产生能量的结构单元——科学家称之为细胞器。生物学家利用基因分析技术在 20 年前发现这种融合事件在 Paulinella 身上也发生过，但时间要晚得多，发生在一亿年前。对 Paulinella 研究有助于理解 15 亿年前导致地球遍布绿色植物的事件。Paulinella 属的第一个物种是德国生物学家 Robert Lauterborn 于 1894 年 12 月 24 日在莱茵河一处死水河湾的沉积物中发现的。他以继母 Pauline 的名字将其命名为 Paulinella 属。Van Etten 博士等人识别出了两种新的 Paulinella 物种——Paulinella marae sp. nov 和 Paulinella murrayi sp. nov。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85497" target="_blank"&gt;Starship 完成首次轨道发射&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                SpaceX 于 9 月 28 日 8:15 a.m. EDT 在德州的 Starbase 发射了其重型火箭 Starship，执行第 14 次飞行任务，也是首次轨道发射，将 26 颗 Starlink V3 卫星送到轨道上。这次发射仍然是测试飞行，SpaceX 未尝试回收火箭，上面级 Ship 41 执行了减速点火，溅落在北太平洋海上。Starship 设计能将 150 吨有效载荷送到近地轨道上，将 100 吨有效载荷送到地球同步转移轨道上。Starlink V3 重 1.9 吨，相比下 V2 只有 575 kg。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-28</guid><pubDate>Mon, 28 Sep 2026 17:24:02 +0000</pubDate></item></channel></rss>
