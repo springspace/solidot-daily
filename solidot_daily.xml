@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 29 Sep 2026 15:24:39 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月29日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 30 Sep 2026 15:41:13 +0000</lastBuildDate><item><title>【Solidot 日报】2026年09月30日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85496" target="_blank"&gt;在汽车旅馆里研究生命的起源&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Julia Van Etten 博士热衷于坐在沙发上用一台 300 美元的显微镜观察水滴，寻找其中的生命痕迹。2021 年她还是罗格斯大学的一名研究生时在位于北卡罗来纳州的家中度假。由于连日阴雨她被困在室内，母亲知道什么能让她振作起来，建议去室外采集些样本。她不抱什么希望，随便找个了公路旁的码头收集水样。但当她对其进行观察时，她震惊的发现了一种光合变形虫类原生生物 Paulinella。地球上所有能进行光合作用的植物都有色素体，色素体的起源可以追溯到 15 亿年前的一次事件，一个单细胞生物与一个光合细菌发生了融合，将其转化为一种产生能量的结构单元——科学家称之为细胞器。生物学家利用基因分析技术在 20 年前发现这种融合事件在 Paulinella 身上也发生过，但时间要晚得多，发生在一亿年前。对 Paulinella 研究有助于理解 15 亿年前导致地球遍布绿色植物的事件。Paulinella 属的第一个物种是德国生物学家 Robert Lauterborn 于 1894 年 12 月 24 日在莱茵河一处死水河湾的沉积物中发现的。他以继母 Pauline 的名字将其命名为 Paulinella 属。Van Etten 博士等人识别出了两种新的 Paulinella 物种——Paulinella marae sp. nov 和 Paulinella murrayi sp. nov。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85509" target="_blank"&gt;加州禁止公职人员发行模因币&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                加州州长 Gavin Newsom 签署了 AB 2409 法案，禁止加州公职人员发行模因币（memecoin），也禁止企业使用公职人员的肖像或形象发行模因币。这项新法规的背景是美国总统特朗普及第一夫人在正式上任前夕发行了自己的模因币，据报道百万购买特朗普模因币的投资者损失了 38 亿美元——模因币的币值与热度密切相关，因此币值波动巨大，最知名的模因币是狗币（Dogecoin）。Newsom 表示：“任何公职人员都不应利用其职位牟利——我们正在实施更强有力的保护措施，以确保此类事件不会在本州发生。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85497" target="_blank"&gt;Starship 完成首次轨道发射&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                SpaceX 于 9 月 28 日 8:15 a.m. EDT 在德州的 Starbase 发射了其重型火箭 Starship，执行第 14 次飞行任务，也是首次轨道发射，将 26 颗 Starlink V3 卫星送到轨道上。这次发射仍然是测试飞行，SpaceX 未尝试回收火箭，上面级 Ship 41 执行了减速点火，溅落在北太平洋海上。Starship 设计能将 150 吨有效载荷送到近地轨道上，将 100 吨有效载荷送到地球同步转移轨道上。Starlink V3 重 1.9 吨，相比下 V2 只有 575 kg。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85510" target="_blank"&gt;AMD CEO 苏姿丰成为清华经管学院顾问委员会委员&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                据清华大学经济管理学院官方微信公号称，今年清华经管学院顾问委员会新增委员三人，新增接任委员五人。三位新增委员分别是黄仁勋、苏姿丰，以及瑞士百达集团高级管理合伙人百达铭（Marc Pictet）。五位新增接任委员分别是宝马集团董事长聂科维（Milan Nedeljković）、沃尔玛公司总裁兼首席执行官方威翰（John Furner）、可口可乐公司首席执行官柏瑞凯（Henrique Braun）、泛大西洋资本集团联席总裁、全球成长型股权投资负责人马丁·埃斯科瓦里（Martín Escobari），以及bp集团首席执行官梅格·奥尼尔（Meg O’Neill）。清华经管学院称，这五位接任委员所在公司的前任都曾是学院顾问委员会委员，因工作变动不再担任。清华经管学院现任顾问委员会主席为苹果董事会主席库克。马斯克（Elon Musk）、扎克伯格（Mark Zuckerberg）以及微软 CEO 纳德拉(Satya Nadella)都是委员。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85498" target="_blank"&gt;中国冰川大幅减少&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国冰川主要分布在昆仑山、天山、念青唐古拉山、喜马拉雅山、喀喇昆仑山五大山系，新疆、西藏两地冰川面积与冰储量占全国总量九成左右。第三次中国冰川编目显示，截至 2020 年前后，全国冰川面积约 4.6 万平方公里，冰川共计约 6.9 万条。但对比 1960 年代基准数据，冰川总面积已经减少约 26%，有约 7000 条小冰川彻底消失；仅 2008-2020 十余年间，冰川面积又缩减约 6%，冰川进入快速退缩通道。天山乌鲁木齐河源 1 号冰川是观测时间最长的参照冰川，1959 年观测之初，冰川面积 1.95 平方公里，1993 年分裂为东西两支，2023 年总面积仅剩 1.496 平方公里。冰川被称为西部干旱区的“固体水库”，对下游河流径流起到天然调节作用。很多人简单认为冰川融化，河水就会源源不断增多，但科研观测揭示，这只是短期现象。随着冰储量持续耗损，当冰川体量下降到阈值之下，融水补给能力就会逐步衰减，流域会经历从“增水”向“减水”的转折。对于新疆、河西走廊及中亚内陆流域而言，冰川萎缩叠加降水波动，未来水资源不确定性将显著上升，农业灌溉、高寒生态系统都会承受压力。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85511" target="_blank"&gt;FBI 与荷兰合作逮捕 ShinyHunters 组织领导成员&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                FBI 与荷兰合作逮捕了疑似 ShinyHunters 组织领导成员、24 岁的 Pepijn van der Stap。他是在  9 月 16 日左右被捕的，发生在 ShinyHunters 入侵 FBI 招聘网站 apply.fbijobs.gov 纂改网页窃取逾 2TB 雇员数据之前——有一种解释是 ShinyHunters 组织的领导者换人了，该组织在新领导人的管理下变得更激进，并试图将入侵 FBI 的行动嫁祸给被捕的 van der Stap。van der Stap 曾使用化名 Umbreon，其头像就是宝可梦 Umbreon。入侵 FBI 的 ShinyHunters 黑客在纂改网页时植入了宝可梦 Umbreon 的  ASCII 艺术图。接管 ShinyHunters 的据称是约旦的少年黑客 Rey。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85499" target="_blank"&gt;Windows 10 更新 bug 远少于 Windows 11&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软每次释出 Windows 11 例行安全更新，都会给 Windows 11 用户带来一系列新问题。9 月份的安全更新带来了远程桌面、USB 音频、Linux/WSL 应用、企业域、文件历史、Explorer.exe 以及 AMD 显卡相关的新故障。微软仍然在支持上一代的操作系统 Windows 10。Windows 10 的安全更新是否也会带来新问题？对比的结果并不出人意料：Windows 10 更新 bug 远少于 Windows 11。下一次重新安装操作系统 Windows 用户也许应该考虑更稳定的 Windows 10。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85512" target="_blank"&gt;夜空每年增亮 10%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                世界正日益城市化，夜空的亮度每年都在增加10%。全球八成的人口生活在受光污染影响的夜空之下，真正的黑暗日益稀缺，对大部分人而言正变得遥不可及。享受黑暗的意义不止于观星。黑夜本身就是一个独特的生态环境。人造光会干扰依靠月光导航的动物：无论是误将停车场当成大海而迷途的幼龟，还是绕着灯泡团团转的飞蛾，都深受其害。萤火虫和青​​蛙需要黑暗环境完成求偶仪式；候鸟常因大城市的强光照射而偏离迁徙路线。研究表明，光污染正在破坏植物与授粉昆虫之间的关系，改变树木的开花时节，扰乱包括人类在内的所有生物的昼夜节律。无论是室内的灯光，还是夜间透过窗户射入的光线，研究都证实我们需要黑暗环境休息、恢复体力和保持健康。大多数光污染源自彻夜长明的路灯、建筑物、停车场和运动场，但来自天空本身的光污染威胁也日益增加。地球轨道上的卫星越来越多。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85500" target="_blank"&gt;Google 计划到 2034 年停止支持 ChromeOS&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                运行 Android 操作系统的 Googlebooks 新笔电即将上市，那么运行 ChromeOS 的旧设备将何去何从？根据 Google 支持页面“What the Googlebook announcement means for your ChromeOS devices”，搜索巨人声明：它将向 ChromeOS 设备提供定期更新和安全补丁至 2034 年年中；对于近期购买的合格设备，如果 10 年支持生命周期一直持续到 2034 年之后，那么 Google 承诺协助用户过渡到 Googlebook OS。相关措辞意味着 Google 计划到 2034 年停止支持 ChromeOS。Googlebooks 和 ChromeOS 设备一样提供十年的软件支持。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85513" target="_blank"&gt;日本老龄化达到 29.4%， 一人家庭比例首次超过 4 成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本总务省公布的 2025 年人口普查确定值显示，截至 2025 年 10 月 1 日，包含外国人在内的日本总人口为 122,972,528 人，较 2020 年的上次调查减少 3,173,571 人，降幅为 2.5%。自 2015 年的调查起连续3次负增长。65 岁以上人口在总人口中的占比（老龄化率）为 29.4%，创历史新高。较上次调查上升 0.9 个百分点。总人口中的日本人减少 3.5% 至 119,131,935 人，自 2010 年的调查起连续 4 次减少。居住在日本国内的外国人增加 39.8% 至 3,840,039 人，创历史新高。从国籍来看，越南和尼泊尔增幅显著。日本整体的家庭数量比上一次 2020 年调查增加了 149 万 4465 户，达到 5732 万 4619 户，创出有可比数据以来的新高。每户平均人数降至 2.10 人，降至最低水平。一人家庭达到 2368 万 9024 户，增加了 253 万 7982 户。其中增长最多的是 65 岁以上的老年人，占一人家庭总数的 34.4%。一人家庭中，男性有 24.6% 为 65 岁以上，女性有 44.7% 为 65 岁以上。一人家庭的比例达到 41.4%，首次超过4成。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85501" target="_blank"&gt;AMD 以 82 亿美元收购李飞飞的 World Labs&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。 World Labs 成立于 2024 年，由李飞飞与 Justin Johnson、Christoph Lassner 和 Ben Mildenhall 等人联合创办，专注于开发世界模型，但目前还没有产品问世，它先后获得了超过 12 亿美元的融资，投资者包括了 AMD 公司。交易完成后，李飞飞将加入 AMD，担任执行副总裁兼首席科学家，直接向 AMD 董事长兼 CEO 苏姿丰汇报。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85514" target="_blank"&gt;日本人身高增长停滞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本人的身高在 1896～1996 年的 100 年间，男性增长约 14.6 厘米，女性增长了约 16 厘米。但 1990 年代之后升高增长日益乏力，相比下中韩平均身高则在快速增长。2019 年日本 19 岁男性平均身高约 172.1 厘米，女性约 158.5 厘米。韩国男性为 175.5 厘米，女性为 163.2 厘米，中国男性为 175.7 厘米，女性为 163.5 厘米。日本人口身高增长停滞有三种解释：其一是能量摄入减少，日本人均每日能量摄入量在 1995 年至 2023 年间缓慢下降并趋于停滞，中国和韩国的能量摄入则比日本高出约 760-800 千卡。其二是能量摄入问题可能对正在怀孕的女性产生影响，日本每 10 名新生儿中就有 1 人出生体重不足 2500 克，高于中韩。其三可能与婴幼儿时期的睡眠时长相关，日本婴儿（11.62 小时）显著低于中国（12.49小时）和韩国（11.9小时）。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85502" target="_blank"&gt;不易变黑的香蕉准备上市&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香蕉的一个特定基因的所有三个拷贝进行了修改，减少了导致其变黑的多酚氧化酶（polyphenol oxidase）的产生。Tropic 表示，这种不易变黑的香蕉有望使整个供应链中的食物浪费及二氧化碳当量排放量减少 25% 以上。该公司称：“仅在香蕉出口市场，这一举措每年就能减少超过 900 万吨的二氧化碳排放。”新香蕉品种已在日本、巴西和菲律宾等 10 个国家获得监管批准，已在拉丁美洲投入种植。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85515" target="_blank"&gt;Windows 11 原生支持 Linux 容器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软宣布 WSL Containers GA，该工具为 Windows 11 开发者提供了一种通过 Windows Subsystem for Linux 构建、运行和部署 Linux 容器的内置方案。微软同时提供了容器管理工具 wslc.exe，GPU 支持、网络改进、健康检查、存储挂载、与 Microsoft Defender for Endpoint 和 Intune 的集成。微软还声称，当 Linux 环境访问存储在 Windows 中的文件时，性能最多可提升一倍。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85503" target="_blank"&gt;微软告诉非营利组织他们被删除的数据无法恢复&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。今年早些时候没有转为付费的账号内相关数据都被删除了。根据一封发送给受影响客户的邮件，微软承认“由于错误”它在数据保留和导出期限结束前就删除了剩余数据，且尝试恢复数据的努力均告失败，“我们已经研究了恢复方案，遗憾的是，数据无法恢复。”微软甚至无法确定具体丢失了哪些数据。软件巨人对此向受影响客户表示歉意。微软没有披露受影响客户的数量，根据此前的报道，有 17.1 万非营利组织受到影响。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85516" target="_blank"&gt;500 光年外的一颗巨行星探测到水、甲烷和氨&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围绕 M 型矮星运行的行星可能在化学上构成独特群体。HATS-6 b 体积大致相当于木星，每 3 天绕一颗体积小的低温红矮星公转一周。按现有认识，小恒星周围的气体尘埃盘既缺乏足够物质，也缺乏足够时间积聚出木星、土星级别的行星。目前人类已在太阳系外发现 6000 多颗行星，多数与太阳系内行星毫无相似之处。团队表示，弄清它们由什么构成、怎样形成，是判断其他星系是否与太阳系有共同起源的前提。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85504" target="_blank"&gt;Firefox 157 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 释出了 Firefox 157。主要变化包括：新的 Nova UI，现代化浏览器界面边框、侧边栏及菜单外观；在兼容设备上支持 WebRTC 视频通话 AV1 硬件解码，此前它一直依赖于软件解码；修复 HDR 视频问题；改进了更改视频播放速度时的音画同步；移除内置搜索引擎 Amazon；等等。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85518" target="_blank"&gt;新奥声称实现氢硼聚变反应突破&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 10^8/秒的氢硼聚变反应率，表明新奥氢硼聚变迈入燃烧等离子体相关实验阶段，是中国多路径聚变能发展的重大突破。来自全球多个国家科研院所与知名高校的十余位聚变权威专家就本次实验成果召开专题论证会，一致认为：本次实验实现了球形环装置中质子能谱及氢硼聚变反应产物α粒子的有效、可重复测量，探测方法可靠，可支撑氢硼聚变反应验证，是球形环氢硼聚变创新探索实践的里程碑突破，对全球磁约束氢硼反应的科学研究具有重要价值贡献。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85505" target="_blank"&gt;美光台工厂工会准备罢工&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                继三星、海力士之后，全球第三大 DRAM 厂美光（Micron）在台湾的两个工厂，罢工行动也蠢蠢欲动。9 月 24 日，工会人数 2100 人，占全厂七成的美光桃园工会决定依据劳资争议处理法，10 月 1 日起进行为期一周的罢工投票。一旦支持罢工者超过工会会员数一半，就取得罢工权。有 1 万 2 千人的美光台中厂，台中工会也将于10 月 22 日和资方再次协商，若破局，也可能举行罢工投票。一位台中厂员工透露，原本工会成员维持在 400 人左右。但自三星和海力士宣布和员工达成协议，决定扩大对员工发放红利后，工会成员数目迅猛成长，现在台中厂工会成员已经超过一万人！等于超过 8 成员工参加工会，比例比桃园还高。触发美光员工举行罢工投票的关键在于分润制度。2025 年美光的净利已成长至 815 亿美元，但员工平均得到的分红只有 2.3 个月的月薪。比较其他半导体公司的分润后，工会认为美光的红利分配方式并不公平。美光工会认为， 目前三星半导体部门的营业利益 12% 分给员工，海力士是 10%。美光只有 4.4%。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85519" target="_blank"&gt;CNNIC 称中国生成式 AI 用户超 7 亿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为 47.8%、37.6% 和 32.5%。数据显示，38.7%的网民近半年在网上购买过智能硬件设备。其中可穿戴设备和3C数码产品是我国网民接触智能硬件设备的首要入口。购买过智能可穿戴设备的网民比例为 20.2%；购买智能手机、平板电脑等3C数码产品的网民比例为18.2%。报告称，深度求索、月之暗面等本土企业先后发布多个万亿级参数开源大模型，全球主流大模型调用榜单上排名前六的模型全部来自中国团队。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-29</guid><pubDate>Tue, 29 Sep 2026 15:24:39 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-09-30</guid><pubDate>Wed, 30 Sep 2026 15:41:13 +0000</pubDate></item></channel></rss>
