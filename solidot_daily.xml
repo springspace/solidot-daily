@@ -1,26 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 01 Oct 2026 16:02:18 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月01日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 02 Oct 2026 15:25:57 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月02日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85520" target="_blank"&gt;PS5 越狱取得突破&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱。Relapse 利用了 PS5 浏览器的一个已知的 WebKit 漏洞，提权获取内核的写入访问权限，安装 ELF 加载器去简化任意代码的运行。越狱后的 PS5 除了能备份游戏外还能运行模拟器以及 PS4 游戏的非官方 60 帧 MOD。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85521" target="_blank"&gt;猫与幸福感正相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥有猫数量的平均值为 989 只，其中中国的幸福指数为 5.97，略高于平均水平；每万人拥有猫的数量为 376 只，显著低于平均值，中国的弓形虫感染率与平均水平相当。研究作者提出，猫对幸福感的影响可能与经济因素有关。也就是随着收入水平的提高，公共卫生条件会得到改善，虽然猫的数量增加，但感染风险不会有相应的增加。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85522" target="_blank"&gt;新加坡推出面向公务员的约会软件 FirstDate&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 1.24。政府最近成立了一个专门研究生育率下降问题的工作组，预计该作组将在 2027 年初发表研究结果。FirstDate 面向 21-35 岁的单身人士，目前仅向公务员开放，申请截止日期为 10 月 5 日。用户无需浏览海量的个人资料，而是填写一份关于兴趣、习惯、价值观和偏好的问卷。FirstDate 会在每个周期内（即双方互相接受并预计见面所需的时间）为用户推送一个匹配对象。每项匹配结果都包含匹配度评分、对方的简介和一段个人留言。该服务使用了 Gale-Shapley 稳定婚姻算法。有公务员认为该应用的一大优势可能是被诈骗的可能性较低。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85523" target="_blank"&gt;二手 CPU 导致玩家被 Riot 封禁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85523" target="_blank"&gt;二手 CPU 导致玩家被 Riot 封禁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
                 一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of Legends、Teamfight Tactics、Legends of Runeterra、2XKO 等。Riot 使用了内核级反作弊系统 Vanguard，它深度嵌入在 Windows 内核模式中。暂时不清楚 Riot 是如何唯一标识 CPU 的，CPU 会向操作系统报告硬件 ID，但该硬件 ID 不是唯一标识符，只是告诉操作系统其 CPU 型号。它可能是通过 CPU 运行产生的独特指纹标记 CPU，每个 CPU 在运行时候都会有微小的差异。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-01</guid><pubDate>Thu, 01 Oct 2026 16:02:18 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85524" target="_blank"&gt;PS5 模拟器的开发取得突破&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10 款游戏被标记为可玩，其中包括简单 2D 游戏如 Tetris Forever，也有复杂 3D 大作如 Astro Bot 和 Demon’s Souls 重制版。另一款 PS5 模拟器 KytyPS5 也于上周发布了首个公开版本，它是 PS4 模拟器 Kyty 的扩展版，能启动 2D 游戏及部分 3D 游戏，包括使用虚幻引擎 4/5、Unity 以及自研引擎开发的作品。有 134 款游戏标记为可玩，但很多存在严重 bug。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-02</guid><pubDate>Fri, 02 Oct 2026 15:25:57 +0000</pubDate></item></channel></rss>
