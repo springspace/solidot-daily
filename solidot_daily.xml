@@ -1,14 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 02 Oct 2026 15:25:57 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月02日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 05 Oct 2026 17:59:27 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月05日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85523" target="_blank"&gt;二手 CPU 导致玩家被 Riot 封禁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of Legends、Teamfight Tactics、Legends of Runeterra、2XKO 等。Riot 使用了内核级反作弊系统 Vanguard，它深度嵌入在 Windows 内核模式中。暂时不清楚 Riot 是如何唯一标识 CPU 的，CPU 会向操作系统报告硬件 ID，但该硬件 ID 不是唯一标识符，只是告诉操作系统其 CPU 型号。它可能是通过 CPU 运行产生的独特指纹标记 CPU，每个 CPU 在运行时候都会有微小的差异。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85536" target="_blank"&gt;Riot Games 否认根据 CPU 封禁玩家&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一位玩家声称在购买了一块二手 CPU Ryzen 7 5800X3D 之后，因前拥有者有作弊行为这块 CPU 被列入了封禁黑名单，导致 Riot Games 旗下的所有游戏都无法启动。Riot Games 工作室负责反作弊的高管 Phillip Koskinas 通过社交媒体否认了这一说法， 他称没有找到相关记录，该公司的硬件封禁最长持续四个月，且只针对特定游戏，不会波及该公司的其它游戏，不会因为作弊者使用了一个硬件组件就将其它硬件组件加入到封禁名单。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85524" target="_blank"&gt;PS5 模拟器的开发取得突破&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10 款游戏被标记为可玩，其中包括简单 2D 游戏如 Tetris Forever，也有复杂 3D 大作如 Astro Bot 和 Demon’s Souls 重制版。另一款 PS5 模拟器 KytyPS5 也于上周发布了首个公开版本，它是 PS4 模拟器 Kyty 的扩展版，能启动 2D 游戏及部分 3D 游戏，包括使用虚幻引擎 4/5、Unity 以及自研引擎开发的作品。有 134 款游戏标记为可玩，但很多存在严重 bug。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85537" target="_blank"&gt;2026 年诺贝尔生理学或医学奖授予了三位研究光遗传学的科学家&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜。20世纪，研究人员开始探究大脑的哪些区域影响哪些功能，但所用的方法意味着他们无法证明因果关系。光遗传学——一种能揭示神经细胞如何在活体大脑中塑造记忆、情感和行为的方法——改变了这一状况。Peter Hegemann 和 Georg Nagel 发现了通道视紫红质——一种具有独特性质的藻类蛋白质，存在于细胞表面。当它被蓝光照射时，蛋白质上会打开一个通道。带电离子随即流入细胞，产生电脉冲。他们发现，无论将这种蛋白质放入哪种细胞，那些细胞都会变得对光敏感。Karl Deisseroth 将通道视紫红质的基因导入大鼠的神经细胞中。通过用蓝光照射这些细胞，他能够触发神经信号。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-02</guid><pubDate>Fri, 02 Oct 2026 15:25:57 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85538" target="_blank"&gt;因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software Vulnerability Reward Program (OSS VRP)，该决定于 10 月 1 日生效。Google 承诺将于 2027 年第一季度提供相关更新，期间将对该项目进行调整。Google 鼓励参与者探索其它 bug 奖励计划。大模型以及 Bug 搜寻自动化脚本的流行，导致了 OSS VRP 项目涌入了大量低质量的报告，Google 和开源项目维护者因此不堪重负，很多报告声称发现了 bug，但实际上无效，而维护者们浪费了大量时间去验证这些报告，无法专注于修复真正重要的 bug。整个行业都存在相同的问题。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85539" target="_blank"&gt;科学家识别出三种叫声最响亮的鸟&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。白钟雀（white bellbird）叫声能达到 125 分贝，裸喉钟雀（bare-throated bellbird）和红腿叫鹤（red-legged seriema）叫声都超过 120 分贝。三种鸟类有着共同的生理特征：即宽大的喙口和肌肉厚实的大块头身体。研究人员表示，120 分贝可能是鸟类发声的生理极限；巴西之外的地方无疑也存在叫声洪亮的鸟类，但其音量不太可能比这些鸟高出太多。根据精确的测量标准，这三种鸟都可以被视为叫声最响亮者。但对科学家而言，谁是赢家并不是重点。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-05</guid><pubDate>Mon, 05 Oct 2026 17:59:27 +0000</pubDate></item></channel></rss>
