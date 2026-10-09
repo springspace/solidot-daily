@@ -1,66 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 08 Oct 2026 16:09:27 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 09 Oct 2026 15:51:11 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85544" target="_blank"&gt;OpenAI 针对欧洲用户在 ChatGPT 和 Codex 嵌入水印&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenAI 正在 ChatGPT 和 Codex 中嵌入机器可读的水印技术 textGrain，该水印最初将主要针对欧盟地区的用户。OpenAI 称其水印技术不逊色甚至优于其它水印方案如 Google DeepMind 的 SynthID，OpenAI 竞争对手  Anthropic 已在 8 月宣布了基于 SynthID 的水印技术，此举是为了遵守欧盟的新法律 AI Act。OpenAI 还表示，嵌入水印的文本生成性能与未嵌入水印时的性能相当。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85556" target="_blank"&gt;微软被暂停参与允许外籍员工申请绿卡的项目&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                特朗普政府暂停了微软等多家公司参与一项允许外籍员工申请绿卡的项目，副总统 JD Vance 公开抨击微软滥用 H-1B 签证。微软被暂停参与的项目要求公司在向美国劳工部申请绿卡前，必须先在美国发布招聘广告，以证明由于美国工人短缺，他们需要向外籍工人发放绿卡。JD Vance 指责了微软的做法，称微软首先在小城镇的报纸上刊登招聘广告，然后以无人应聘为由宣称需要外籍员工。Vance 称微软是最频繁滥用这套制度的美国公司。微软去年裁掉了 6000 名美国员工，同时获得了 6300 个 H-1B 签证和近 3000 张绿卡。Vance 称微软每裁掉一名美国员工，就用 1.5 名外籍“契约劳工”来替代他们。他表示，H-1B 签证持有者实际上是外籍“契约劳工”，因为一旦失去工作，他们就必须离开美国，他们的收入低于担任相同职位的美国人。微软回应称，在上个财政年度提交的约 6000 份 H-1B 签证申请中，80% 是为了“延长或变更现有微软员工的身份”。担任拜登政府美国公民及移民服务局高级顾问的 Doug Rand 称 Vance 的声明“逻辑不通”。“如果特朗普政府真的担心 H-1B 签证持有者沦为‘契约劳工’，那么他们最不该做的就是阻挠企业协助 H-1B 员工获取绿卡。一旦拿到绿卡，移民身份便不再受雇主制约——你将成为永久居民，可以无顾虑的跳槽或争取更高的薪水。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85545" target="_blank"&gt;陶哲轩认为数学 2.0 时代应降低解决难题的核心地位&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenAI 公布了一份报告，称其一款尚未发布的前沿模型解决了数百个数学难题，其中之一是四维挂谷猜想，今年的菲尔茨奖得主王虹就是因为证明三维挂谷猜想而得奖。UCLA 数学家陶哲轩对此评论说，在传统数学的 1.0 时代，知名难题的证明通常会引发一系列后续的活动，证明作者会受邀参加演讲，与该领域的专家展开讨论，相关研讨会会组织起来去探讨该证明及最新进展。通过这些活动，证明过程被消化和精简，被置于该领域其他成果的背景下，最终成为下一代数学家的教科书和讲义内容。但 AI 模型的证明则是由对数学兴趣不大的人通过提示词自主解决的，他们只关心“解决”本身，对输出结果缺乏深入理解，无法出席研讨会，与同领域专家展开讨论。AI 公司的作为迫使数学领域的开创性研究秘而不宣，以避免自己的研究成果被 AI 公司抢先发表。数学 1.0 时代极度推崇抢先解决未决难题，在数学 2.0 时代应该降低或弱化解决难题的核心作用，应该从更全面的视角去衡量数学进步，比如应提升学术阐释、社区建设以及开辟研究新方向的价值。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85557" target="_blank"&gt;定义了软件工程的计算机科学家 Margaret Hamilton 去世，享年 90 岁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                阿波罗登月计划期间担任 MIT 仪器实验室软件工程部主管的计算机科学家 Margaret Hamilton 于 9 月 30 日去世，享年 90 岁。美国总统奥巴马（Barack Obama）在 2016 年向她颁发了总统自由勋章，表扬她定义了软件工程，协助开创了一个永远改变人类历史的产业。Hamilton 于 1936 年出生在印第安纳州的 Paoli，1959 年随丈夫移居波士顿，在 MIT 气象系找到了一份临时工作，与气象学教授 Edward N. Lorenz 合作开发天气预报软件，这是她首次涉足软件编程。她于 1961 年在 MIT 林肯实验室担任程序员，参与了美国首个防空系统 Semi-Automatic Ground Environment(SAGE)项目。她负责为 AN/FSQ-7 原型机（XD-1）编写软件，在此期间她开始关注软件可靠性问题。1965 年她准备攻读研究生时其丈夫看到了一张招聘广告：MIT 仪器实验室正在寻找为登月计划开发软件的人。她提交了申请并被录用，成为 MIT 阿波罗计划的第一位程序员，也是该项目首位女程序员。Hamilton 很快成为团队负责人，领导开发阿波罗载人任务机载飞行软件。她的团队设计了优先级驱动的软件，帮助阿波罗 11 号登月飞船计算机检测到“1202 错误”之后仍然能完成登月任务。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85546" target="_blank"&gt;黑客利用 AI 攻击韩国银行&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                韩国新韩银行、KB国民银行、韩亚银行等 7家 金融企业遭遇黑客攻击，多处发现同一攻击者利用了开源渗透测试工具“ARTEX-自主渗透测试控制台”实施攻击的迹象。CrowdStrike 公布分析报告显示，嫌疑人可能为居住在广东的 26 岁人员。但这只是‌根据目前情况‌作出的推测，嫌疑人身份尚未确定。攻击者使用生成式 AI 编码工具 Claude Code 的过程中暴露了这条线索，即攻击者利用 Claude Code 制作包含其渗透测试成果的网络安全研究人员简历，在此过程中输入自己名字的首字母、社交平台电报账号、学历和居住地等个人信息。此人的电报账号同样出现在‌其他网络黑客攻击事件中。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85558" target="_blank"&gt;亚马逊 Prime Video 将直播艾美奖颁奖典礼&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 YouTube 获得美国奥斯卡奖颁奖典礼的转播权之后，另一个流媒体平台亚马逊 Prime Video 获得了美国另一个主要奖项艾美奖的转播权。Amazon Prime Video 将从 2027 年起成为艾美奖的全球独占播放平台，这一协议将持续六年。全球逾 240 个国家和地区的观众将能免费在线观看艾美奖颁奖典礼的直播，无需订阅 Prime 会员。此前艾美奖颁奖典礼由美国四大电视网 ABC、CBS、NBC 和 Fox 轮流主办，该轮流主办机制至少始于 1994 年，最近为期八年的合约将于今年到期。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85547" target="_blank"&gt;世界各地的民调认为社交媒体伤害民主&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                皮尤研究中心对 37 国民众展开的调查显示，世界各地民众认为社交媒体伤害民主的比例过去几年在上升。其中美国民众对社媒的看法尤其负面，64% 的成年人认为它对民主有害。其它国家在认识到社交媒弊端方面正赶上美国。美国等富裕国家的民众倾向于认为社媒在伤害民主。在受访国家中，认为社媒对民主产生负面影响的人数比例达到或超过半数的七个国家同时也都是最富裕的国家：澳大利亚、加拿大、法国、德国、荷兰、英国和美国。以色列和新加坡是例外——这两个高收入国家认为社媒不利于民主的人数相对较少。GDP 较低国家民众对社媒的看法不那么负面。加纳、肯尼亚、尼日利亚、菲律宾和泰国约有四分之三或更多受访者认为社媒对民主有益。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85559" target="_blank"&gt;美光台工厂工会获得罢工权，支持率 99%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美光桃园工会宣布，经过 6 天投票及 10 月 6 日晚间开票，工会已取得罢工及设置罢工纠察线的权利。工会表示，领票名册共 2258 人，投票 2012 人，其中 1994 票同意、14 票不同意、4 张废票，投票率 89.1%；同意票占全体会员 88.3%，占实际投票人数约 99.1%。工会要求建立营业利益 15% 员工分润制度，并呼吁美光董事会正面回应四大诉求。工会指出，这次抗争的核心不只是奖金多寡，而是要求企业建立公平、透明的获利分享制度。工会主张，美光应设立以营业利益 15% 为基础的员工分润机制，让分配金额随公司获利调整。美光在台湾有两座工厂，除桃园工厂工会外，另一个台中工厂工会也在准备罢工，台中工会将于 10 月 22 日和资方再次协商，如果失败预计也将举行罢工投票。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85548" target="_blank"&gt;美国计划限制留学生毕业后在美就业&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国国土安全部发布拟议规则，以保护美国公民就业岗位的名义限制留学生毕业后在美就业。留学生的学生签证可申请实习工作许可 F1-OPT，通常费用为几百美元，一般可工作 1 年，STEM 专业的学生可延长两年。现在美国政府将 F1-OPT 的许可费提高到 7 万美元，延期则收取 3 万美元。这意味着留学生在毕业后不再可能获得工作许可。该规则的公众意见截止日期为 11 月 9 日。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85560" target="_blank"&gt;SpaceX 呼吁在轨卫星加强协调&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                SpaceX 负责 Starlink 业务的副总裁、同时兼任 xAI 业务总裁的高管 Michael Nicolls 本周在土耳其举行的国际宇航大会上呼吁卫星运营商加强数据共享。Starlink 在轨卫星星座超过 1.1 万颗，占到了所有在轨人造卫星总数的三分之二。该公司计划发射多达百万颗卫星，构建名为 Starmind 的新星座，打造太空数据中心。亚马逊也在构建自己的宽带卫星星座，中国的两大巨型卫星星座也在部署之中。地球轨道将会日益拥挤，卫星碰撞的风险在上升，而一旦发生碰撞，它们释放的大量碎片将会增加其它卫星碰撞的风险，从而造成恶性循环。Nicolls 声称，Starlink 卫星发生了多次与其它卫星近距离交会的事件，他呼吁其它卫星运营商公开星历（ephemeris）数据，加强彼此的协调。他指出，Starlink 卫星每天执行约 1,000 次防碰撞机动以避开其它卫星或太空碎片。过去几个月 Starlink 卫星已避开了来自其他运营商的约 650 颗卫星。在这 650 颗卫星中，只有半数来自与 SpaceX 共享轨道数据的运营商。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85549" target="_blank"&gt;Google 多个国家顶级域名被劫持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 安全博客警告，黑客劫持了它的多个国家顶级域名，修改了权威 DNS 记录，获取了未经授权的 HTTPS 证书。受影响的域名包括了它的 .gh（加纳）、.sl（塞拉利昂）和 .as（美属萨摩亚）国家顶级域名。Google 表示攻击未危及其自身的系统，而且 Chrome 浏览器迅速屏蔽了受影响域名的相关证书。Google 称，鉴于此类攻击的性质，它不认为签发证书的 CA 机构存在违规行为。它建议使用 .gh、.sl 或 .as 域名的机构检查
-Certificate Transparency(CT) 日志条目，检查是否存在意料之外的证书。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85561" target="_blank"&gt;ARTEX 从 GitHub 下架&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在被黑客利用攻击韩国银行之后，ARTEX 开发者 Autumn-27 宣布该工具闭源，但整个软件库随后下架。Autumn-27 在一份公开声明中表示：“近期，注意到 ARTEX 工具被部分恶意行为者滥用，用于发起网络攻击。作为 ARTEX 的作者，我在此郑重声明：
+&lt;br /&gt;
+一、本次恶意攻击事件与工具作者无关。ARTEX 的设计初衷是出于学习与研究目的，旨在帮助企业、组织在获得授权的资产范围内进行安全风险测试，提升安全防护能力。
+&lt;br /&gt;
+二、该工具被恶意利用，完全违背了作者的初衷。对于任何未经授权、违反法律法规的使用行为，作者不承担任何责任，并予以强烈谴责。
+&lt;br /&gt;
+三、鉴于工具被滥用的现实情况，ARTEX 项目将不再更新，并转为闭源。后续不再对外发布任何版本或维护支持。
+&lt;br /&gt;
+感谢大家一直以来的关注与支持。也提醒每一位使用者：技术应当用于正途，请务必遵守法律法规，切勿以身试法。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85550" target="_blank"&gt;加拿大诗人 Anne Carson 赢得诺贝尔文学奖&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                加拿大诗人 Anne Carson 赢得 2026 年诺贝尔文学奖，以表彰“其大胆而富有创意的作品，通过与古典传统的妙趣横生的对话，为当代文学开创了新的形式”。Carson 毕业于多伦多大学（学士、硕士、博士），在圣安德鲁大学专攻古希腊韵律研究与文本批判，其后以古典学教授的身份开始写作诗歌与散文。2010-2016 年间她在康奈尔大学出任编外教授（professor-at-large），其后在纽约大学任驻留艺术家（artist-in-residence）至今。1986 年 Carson 出版其第一部散文集，名为《厄洛斯与甜蜜的痛苦》。该书中以莎芙把爱情（厄洛斯）称作“甜蜜的痛苦”这一有名残篇出发，从古希腊诗歌着手分析古希腊人对爱情的世界观，其中包括对莎芙的诗中“欲望的三角性”“欲望的模仿性”以及厄洛斯与孤独的关系等论点。对 Carson 来说，爱或厄洛斯在莎芙的诗中是“迁延的、被悖逆的、被阻止的、饥饿的，它围绕一个光辉的不在场来展开——将厄洛斯以缺失呈现。”该书在现代图书馆书社读者评选的史上 100 佳非虚构作品名单中排行第 57 名。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85562" target="_blank"&gt;智能咖啡机 10 天内产生 1TB 数据流量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一名男子发现父母新购买的 Keurig 智能咖啡机在 10 天内产生 1TB 数据流量。这些流量并非是传输到外部的网络上行链路流量，而是内部局域网嗅探元数据的扫描流量。也就说智能咖啡机是在收集家庭内部的数据，以便于咖啡机制造商 Keurig 能将其出售给广告商。这名男子在发现咖啡机产生的网络流量超出预期之后切断了其联网，准备为父母更换一台咖啡机。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85551" target="_blank"&gt;美国男子因利用 AI 生成音乐和机器人账号欺诈播放被判 18 个月&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                54 岁的美国北卡罗来纳州男子 Michael Smith 因 AI 辅助欺诈罪被判入狱 18 个月。他是首位涉嫌 AI 辅助流媒体欺诈而被刑事起诉的美国人。Smith 从 2017 年起利用虚假电邮账户和通过欺诈获取的借记卡在 Amazon Music 、Apple Music、Spotify 和 YouTube Music 等平台创建了数千个账号，使用软件操纵机器人程序，循环播放他声称拥有版权的歌曲——这些歌曲实际上都是 AI 生成的。到 2024 年被捕时他创作了数十万首 AI 生成歌曲，播放量多达数十亿次，从流媒体获取了数百万美元的收入。他的歌曲的总播放量甚至超过了当今最炙手可热的歌星。比如 2023 年 4 月其歌曲的播放量达到了 8090 万次，相比下 Taylor Swift 所有歌曲的总播放量同期仅为  
-930 万次。Smith 除了服刑外还必须上缴其非法获取的 8,091,843.64 美元收入。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85563" target="_blank"&gt;为何大型犬衰老速度更快&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为什么大型犬往往比体型较小的犬寿命更短？根据一项针对 894 只狗所做的新研究，答案可能就写在它们的表观基因组中。这些发现表明，体型较大的狗和雄性狗会经历分子衰老过程加速，其表现为 X 染色体和转座元件（TEs）上会出现显著的 DNA 甲基化（DNAm）。研究人员从“犬类衰老项目”（Dog Aging Project）中的由 894 只狗组成的队列中生成了 1640 个甲基化组。他们将这些分子数据与详细的遗传和人口统计学数据进行了整合。研究人员发现，在狗生命的早期，分子衰老的速度最快。此外，体型较大的狗和雄性狗——这两类狗的寿命分别短于体型较小的狗和雌性狗——在分子层面上的衰老速度更快。研究结果表明，与性别相关的变化集中在 X 染色体上，而与体型相关的变化则在转座元件（TEs）中尤为突出，这些 DNA 片段可影响基因组的稳定性和基因调控。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85552" target="_blank"&gt;已知最早的游泳哺乳动物&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                对一件早白垩世哺乳动物化石的分析证实约 1.25 亿年前的小型哺乳动物已经具备明确的半水生适应特征，这也是目前可确认的、最早具备游泳能力的哺乳动物。新发现的哺乳动物被命名为“板尾董尖齿兽”（Dongoconodon platycauda）。板尾董尖齿兽展现出了独特的半水生适应特征，是目前已知哺乳动物冠群中最早具有游泳能力的代表。其前后足具有发达的侧向扩展结构，与现生鸭嘴兽的蹼足高度相似，表明其生前可能具有发达的蹼膜；与此同时，董尖齿兽的掌骨、跖骨和指趾骨排列能够使手指和脚趾向外展开，从而增加划水时与水接触的面积，有利于游泳推进。
-
-虽然板尾董尖齿兽的手足与鸭嘴兽十分相似，但它的尾巴却采用了完全不同的结构。化石保存了至少19节尾椎，其中靠近尾巴基部和中段的尾椎具有明显扁平的椎体和较宽的横突，表明这只动物具有背腹方向扁平的尾部。不过，它的尾巴并不像现代河狸和鸭嘴兽那样形成宽大的“桨状尾”，而是从基部向末端逐渐变细，更接近现代半水生啮齿类的海狸鼠。这只生活在恐龙时代的小型哺乳动物，可能拥有“鸭嘴兽式的手足”和“海狸鼠式的尾巴”，形成了一种此前未知的游泳方式组合。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85565" target="_blank"&gt;诺贝尔和平奖授予了南非女法官 Navi Pillay&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2026 年诺贝尔和平奖授予了南非女法官 Navi Pillay，以表彰她为促进和平和维护国际法所做出的努力，她在确保战争罪、危害人类罪和种族灭绝罪受到起诉上发挥了关键作用。Pillay 出生于南非德班，有印度泰米尔人血统，是首位获得哈佛大学法学博士学位的南非人，也是南非高等法院首位非白人法官，曾任国际刑事法院法官和卢旺达问题国际刑事法庭庭长。她于 2008 年—2014 年担任联合国人权事务高级专员，2021年—2025 年担任联合国巴勒斯坦被占领土问题独立国际调查委员会主席。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85553" target="_blank"&gt;北欧饮食与长寿相关&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                众所周知，地中海饮食有利于健康长寿。现在研究人员报告另一种欧洲饮食——北欧饮食也与长寿相关。丹麦、芬兰、冰岛、挪威和瑞典等国的传统饮食与地中海饮食有很多相似之处，差不多是其寒冷版本，因此又名北方的地中海饮食。北欧饮食以植物为主，主要食用富含脂肪的鱼和根茎蔬菜。研究人员分析了于 64,000 名瑞典中老年人的健康数据，发现饮食习惯更符合北欧饮食的人的全因死亡率、心血管死亡率和癌症死亡率更低。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85566" target="_blank"&gt;人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，基于相同的底层技术但形象不同的 AI 智能体，人类参与者愿意向男性形象的智能体支付的报酬比女性形象更高。参与研究的人类共有 189 人，他们与名叫 Johan 的男性形象智能体以及名叫 Johanna 的女性形象智能体共同工作。尽管底层技术相同，对于完成相同的工作，Johanna 得到的报酬比 Johan 低 10%。Johan 还被认为比 Johanna 更像人类。不过这项研究的实验数据被认为存在严重不足，可能不足以得出上述结论。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-08</guid><pubDate>Thu, 08 Oct 2026 16:09:27 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85567" target="_blank"&gt;超强厄尔尼诺已经形成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                国家气候中心表示，一次东部型超强厄尔尼诺事件已于今年 9 月正式形成。预计未来 3 个月，赤道中东太平洋海表温度将继续升高，在秋末冬初达到峰值，此次厄尔尼诺事件将成为有系统性监测以来最强厄尔尼诺事件。今年5月以来，赤道中东太平洋进入厄尔尼诺状态，关键监测区海温持续快速升高。这一区域海温指数的三个月滑动平均值已连续五个月超过 0.5℃，其中 7-9 月的平均值达 2.54℃，超过 2.5℃，达到超强事件标准。根据海温最强增暖中心位置，厄尔尼诺可分为两种形态——暖中心位于赤道东太平洋为东部型厄尔尼诺（传统型）；暖中心位于赤道中太平洋为中部型厄尔尼诺。厄尔尼诺通常会推高全球气温，并扰乱大范围地区的降雨格局，导致部分地区干旱，另一些地区则出现强降雨。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85568" target="_blank"&gt;Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Let’s Encrypt 去年宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。Let’s Encrypt 将分多个阶段逐步缩短至 45 天有限期，它宣布从 2027 年 2 月 10 日起签发的证书有效期缩短为 64 天，意味着自该日期起签发或续期的任何证书，其有效期都将为 64 天，最后一批 90 天有效期的证书预计将于 2027 年 5 月 11 日到期。在此期间 Let’s Encrypt 表示不会吊销有效证书。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-09</guid><pubDate>Fri, 09 Oct 2026 15:51:11 +0000</pubDate></item></channel></rss>
