@@ -1,82 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 09 Oct 2026 15:51:11 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 10 Oct 2026 15:04:24 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85556" target="_blank"&gt;微软被暂停参与允许外籍员工申请绿卡的项目&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                特朗普政府暂停了微软等多家公司参与一项允许外籍员工申请绿卡的项目，副总统 JD Vance 公开抨击微软滥用 H-1B 签证。微软被暂停参与的项目要求公司在向美国劳工部申请绿卡前，必须先在美国发布招聘广告，以证明由于美国工人短缺，他们需要向外籍工人发放绿卡。JD Vance 指责了微软的做法，称微软首先在小城镇的报纸上刊登招聘广告，然后以无人应聘为由宣称需要外籍员工。Vance 称微软是最频繁滥用这套制度的美国公司。微软去年裁掉了 6000 名美国员工，同时获得了 6300 个 H-1B 签证和近 3000 张绿卡。Vance 称微软每裁掉一名美国员工，就用 1.5 名外籍“契约劳工”来替代他们。他表示，H-1B 签证持有者实际上是外籍“契约劳工”，因为一旦失去工作，他们就必须离开美国，他们的收入低于担任相同职位的美国人。微软回应称，在上个财政年度提交的约 6000 份 H-1B 签证申请中，80% 是为了“延长或变更现有微软员工的身份”。担任拜登政府美国公民及移民服务局高级顾问的 Doug Rand 称 Vance 的声明“逻辑不通”。“如果特朗普政府真的担心 H-1B 签证持有者沦为‘契约劳工’，那么他们最不该做的就是阻挠企业协助 H-1B 员工获取绿卡。一旦拿到绿卡，移民身份便不再受雇主制约——你将成为永久居民，可以无顾虑的跳槽或争取更高的薪水。”
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85557" target="_blank"&gt;定义了软件工程的计算机科学家 Margaret Hamilton 去世，享年 90 岁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                阿波罗登月计划期间担任 MIT 仪器实验室软件工程部主管的计算机科学家 Margaret Hamilton 于 9 月 30 日去世，享年 90 岁。美国总统奥巴马（Barack Obama）在 2016 年向她颁发了总统自由勋章，表扬她定义了软件工程，协助开创了一个永远改变人类历史的产业。Hamilton 于 1936 年出生在印第安纳州的 Paoli，1959 年随丈夫移居波士顿，在 MIT 气象系找到了一份临时工作，与气象学教授 Edward N. Lorenz 合作开发天气预报软件，这是她首次涉足软件编程。她于 1961 年在 MIT 林肯实验室担任程序员，参与了美国首个防空系统 Semi-Automatic Ground Environment(SAGE)项目。她负责为 AN/FSQ-7 原型机（XD-1）编写软件，在此期间她开始关注软件可靠性问题。1965 年她准备攻读研究生时其丈夫看到了一张招聘广告：MIT 仪器实验室正在寻找为登月计划开发软件的人。她提交了申请并被录用，成为 MIT 阿波罗计划的第一位程序员，也是该项目首位女程序员。Hamilton 很快成为团队负责人，领导开发阿波罗载人任务机载飞行软件。她的团队设计了优先级驱动的软件，帮助阿波罗 11 号登月飞船计算机检测到“1202 错误”之后仍然能完成登月任务。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85558" target="_blank"&gt;亚马逊 Prime Video 将直播艾美奖颁奖典礼&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 YouTube 获得美国奥斯卡奖颁奖典礼的转播权之后，另一个流媒体平台亚马逊 Prime Video 获得了美国另一个主要奖项艾美奖的转播权。Amazon Prime Video 将从 2027 年起成为艾美奖的全球独占播放平台，这一协议将持续六年。全球逾 240 个国家和地区的观众将能免费在线观看艾美奖颁奖典礼的直播，无需订阅 Prime 会员。此前艾美奖颁奖典礼由美国四大电视网 ABC、CBS、NBC 和 Fox 轮流主办，该轮流主办机制至少始于 1994 年，最近为期八年的合约将于今年到期。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85559" target="_blank"&gt;美光台工厂工会获得罢工权，支持率 99%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美光桃园工会宣布，经过 6 天投票及 10 月 6 日晚间开票，工会已取得罢工及设置罢工纠察线的权利。工会表示，领票名册共 2258 人，投票 2012 人，其中 1994 票同意、14 票不同意、4 张废票，投票率 89.1%；同意票占全体会员 88.3%，占实际投票人数约 99.1%。工会要求建立营业利益 15% 员工分润制度，并呼吁美光董事会正面回应四大诉求。工会指出，这次抗争的核心不只是奖金多寡，而是要求企业建立公平、透明的获利分享制度。工会主张，美光应设立以营业利益 15% 为基础的员工分润机制，让分配金额随公司获利调整。美光在台湾有两座工厂，除桃园工厂工会外，另一个台中工厂工会也在准备罢工，台中工会将于 10 月 22 日和资方再次协商，如果失败预计也将举行罢工投票。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85560" target="_blank"&gt;SpaceX 呼吁在轨卫星加强协调&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                SpaceX 负责 Starlink 业务的副总裁、同时兼任 xAI 业务总裁的高管 Michael Nicolls 本周在土耳其举行的国际宇航大会上呼吁卫星运营商加强数据共享。Starlink 在轨卫星星座超过 1.1 万颗，占到了所有在轨人造卫星总数的三分之二。该公司计划发射多达百万颗卫星，构建名为 Starmind 的新星座，打造太空数据中心。亚马逊也在构建自己的宽带卫星星座，中国的两大巨型卫星星座也在部署之中。地球轨道将会日益拥挤，卫星碰撞的风险在上升，而一旦发生碰撞，它们释放的大量碎片将会增加其它卫星碰撞的风险，从而造成恶性循环。Nicolls 声称，Starlink 卫星发生了多次与其它卫星近距离交会的事件，他呼吁其它卫星运营商公开星历（ephemeris）数据，加强彼此的协调。他指出，Starlink 卫星每天执行约 1,000 次防碰撞机动以避开其它卫星或太空碎片。过去几个月 Starlink 卫星已避开了来自其他运营商的约 650 颗卫星。在这 650 颗卫星中，只有半数来自与 SpaceX 共享轨道数据的运营商。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85561" target="_blank"&gt;ARTEX 从 GitHub 下架&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在被黑客利用攻击韩国银行之后，ARTEX 开发者 Autumn-27 宣布该工具闭源，但整个软件库随后下架。Autumn-27 在一份公开声明中表示：“近期，注意到 ARTEX 工具被部分恶意行为者滥用，用于发起网络攻击。作为 ARTEX 的作者，我在此郑重声明：
-&lt;br /&gt;
-一、本次恶意攻击事件与工具作者无关。ARTEX 的设计初衷是出于学习与研究目的，旨在帮助企业、组织在获得授权的资产范围内进行安全风险测试，提升安全防护能力。
-&lt;br /&gt;
-二、该工具被恶意利用，完全违背了作者的初衷。对于任何未经授权、违反法律法规的使用行为，作者不承担任何责任，并予以强烈谴责。
-&lt;br /&gt;
-三、鉴于工具被滥用的现实情况，ARTEX 项目将不再更新，并转为闭源。后续不再对外发布任何版本或维护支持。
-&lt;br /&gt;
-感谢大家一直以来的关注与支持。也提醒每一位使用者：技术应当用于正途，请务必遵守法律法规，切勿以身试法。”
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85562" target="_blank"&gt;智能咖啡机 10 天内产生 1TB 数据流量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一名男子发现父母新购买的 Keurig 智能咖啡机在 10 天内产生 1TB 数据流量。这些流量并非是传输到外部的网络上行链路流量，而是内部局域网嗅探元数据的扫描流量。也就说智能咖啡机是在收集家庭内部的数据，以便于咖啡机制造商 Keurig 能将其出售给广告商。这名男子在发现咖啡机产生的网络流量超出预期之后切断了其联网，准备为父母更换一台咖啡机。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85563" target="_blank"&gt;为何大型犬衰老速度更快&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                为什么大型犬往往比体型较小的犬寿命更短？根据一项针对 894 只狗所做的新研究，答案可能就写在它们的表观基因组中。这些发现表明，体型较大的狗和雄性狗会经历分子衰老过程加速，其表现为 X 染色体和转座元件（TEs）上会出现显著的 DNA 甲基化（DNAm）。研究人员从“犬类衰老项目”（Dog Aging Project）中的由 894 只狗组成的队列中生成了 1640 个甲基化组。他们将这些分子数据与详细的遗传和人口统计学数据进行了整合。研究人员发现，在狗生命的早期，分子衰老的速度最快。此外，体型较大的狗和雄性狗——这两类狗的寿命分别短于体型较小的狗和雌性狗——在分子层面上的衰老速度更快。研究结果表明，与性别相关的变化集中在 X 染色体上，而与体型相关的变化则在转座元件（TEs）中尤为突出，这些 DNA 片段可影响基因组的稳定性和基因调控。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85565" target="_blank"&gt;诺贝尔和平奖授予了南非女法官 Navi Pillay&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2026 年诺贝尔和平奖授予了南非女法官 Navi Pillay，以表彰她为促进和平和维护国际法所做出的努力，她在确保战争罪、危害人类罪和种族灭绝罪受到起诉上发挥了关键作用。Pillay 出生于南非德班，有印度泰米尔人血统，是首位获得哈佛大学法学博士学位的南非人，也是南非高等法院首位非白人法官，曾任国际刑事法院法官和卢旺达问题国际刑事法庭庭长。她于 2008 年—2014 年担任联合国人权事务高级专员，2021年—2025 年担任联合国巴勒斯坦被占领土问题独立国际调查委员会主席。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85566" target="_blank"&gt;人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，基于相同的底层技术但形象不同的 AI 智能体，人类参与者愿意向男性形象的智能体支付的报酬比女性形象更高。参与研究的人类共有 189 人，他们与名叫 Johan 的男性形象智能体以及名叫 Johanna 的女性形象智能体共同工作。尽管底层技术相同，对于完成相同的工作，Johanna 得到的报酬比 Johan 低 10%。Johan 还被认为比 Johanna 更像人类。不过这项研究的实验数据被认为存在严重不足，可能不足以得出上述结论。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85567" target="_blank"&gt;超强厄尔尼诺已经形成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                国家气候中心表示，一次东部型超强厄尔尼诺事件已于今年 9 月正式形成。预计未来 3 个月，赤道中东太平洋海表温度将继续升高，在秋末冬初达到峰值，此次厄尔尼诺事件将成为有系统性监测以来最强厄尔尼诺事件。今年5月以来，赤道中东太平洋进入厄尔尼诺状态，关键监测区海温持续快速升高。这一区域海温指数的三个月滑动平均值已连续五个月超过 0.5℃，其中 7-9 月的平均值达 2.54℃，超过 2.5℃，达到超强事件标准。根据海温最强增暖中心位置，厄尔尼诺可分为两种形态——暖中心位于赤道东太平洋为东部型厄尔尼诺（传统型）；暖中心位于赤道中太平洋为中部型厄尔尼诺。厄尔尼诺通常会推高全球气温，并扰乱大范围地区的降雨格局，导致部分地区干旱，另一些地区则出现强降雨。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85568" target="_blank"&gt;Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85568" target="_blank"&gt;Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
                 Let’s Encrypt 去年宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。Let’s Encrypt 将分多个阶段逐步缩短至 45 天有限期，它宣布从 2027 年 2 月 10 日起签发的证书有效期缩短为 64 天，意味着自该日期起签发或续期的任何证书，其有效期都将为 64 天，最后一批 90 天有效期的证书预计将于 2027 年 5 月 11 日到期。在此期间 Let’s Encrypt 表示不会吊销有效证书。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-09</guid><pubDate>Fri, 09 Oct 2026 15:51:11 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85570" target="_blank"&gt;Cloudflare 收购 Deno，Deno 停止开发&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Cloudflare 收购了开源 JS 运行时项目 Deno，Deno 宣布该项目将停止开发，但会继续维护一年时间，期间会释出 bug 修复和安全更新，但不会有新功能，一年之后终止支持。它欢迎其他人接手该项目。使用 Deno 的一个知名项目是 YouTube 视频下载工具 yt-dlp，它是在 2025 年宣布选择 Deno 作为其 JavaScript 运行时，但随着 Deno 终止支持它可能需要再次选择新的运行时。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85571" target="_blank"&gt;Cloudflare 公共 DNS 服务不需屏蔽盗版网站域名&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Cloudflare 的公共 DNS 解析服务 1.1.1.1 没有屏蔽盗版体育直播网站的域名，而是通过其 CDN 服务屏蔽相关网站。巴黎司法法院（Paris Judicial Court）站在了 Cloudflare 这边，驳回了法国付费电视提供商 Canal+ 提出的每个盗版网站日罚 5 万欧元的索赔要求。Canal+ 仍然可以对此提起上诉。Cloudflare 通过其透明度报告披露，虽然收到了法国和意大利法院的命令，但它没有通过 1.1.1.1 屏蔽任何内容，而是通过其 CDN 服务在 2025 年下半年于法国对 1,238 个域名实施了地理封锁，上半年根据七项命令封锁了 662 个域名。Cloudflare 强调，公共 DNS 解析服务不应被用于屏蔽或限制访问。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85572" target="_blank"&gt;全球 PC 出货量三季度暴跌逾 20%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                因 AI 热导致内存和存储器价格暴涨，全球 PC 出货量三季度暴跌逾 20%。Omdia 的最新数据显示 2026 年第三季度全球台式机、笔记本电脑和工作站的总出货量同比下降 21.2% 至 5810 万台。IDC 的数据类似估计出货量下降 20.1% 至 6270 万台。IDC 指出，全球 PC 第三季度出货量比第二季度下降了 9.1%，违背了通常的季节性规律——即开学季需求会提振 PC 市场。Omdia 估计，由于价格上涨了四倍多，内存和 SSD 的成本已占到 PC 零部件总成本的近 40%，此前这一比例仅为 15% 左右。处理器、显卡等的短缺也进一步加剧了 PC 制造商的困境。行业各大巨头均感受到了这波冲击。联想保住了全球最大 PC 供应商的地位，出货量为 1490 万台，较上年同期下降了 22.6%。惠普情况更严峻，出货量下降近 31% 至 1030 万台。戴尔出货量下降 25% 至 760 万台，苹果受到的冲击相对较小降幅为 11%。Omdia 预计第四季度全球 PC 出货量将同比再下降 24%，2027 年全年将进一步下滑7%。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85573" target="_blank"&gt;特斯拉在欧洲将 Full Self-Driving 改名为 Tesla Assisted Driving&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                特斯拉在欧洲将其辅助驾驶系统从 Full Self-Driving 改名为 Tesla Assisted Driving。德国交通部长 Steffen Bilger 本月早些时候指出，将辅助驾驶系统命名为 Full Self-Driving 具有误导性，因为它并不能真正完全自动驾驶。Bilger 与特斯拉公司进行了沟通，该公司因此提出了改名建议。Bilger 表示将会推动 Tesla Assisted Driving 在整个欧洲获得批准。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85574" target="_blank"&gt;DDR4 内存条再次回归&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                由于 DDR5 内存条过于昂贵，上一代的 DDR4 内存条再次回归。技嘉宣布将于 2027 年初上市支持 DDR4 内存的新的 Intel LGA 1700 主板，而今年八月技嘉宣布推出了支持 DDR4 内存的新 AMD AM4 主板。DDR4 内存于 2014 年上市，很快被新一代的 DDR5 内存取代。由于 AI 热耗尽了主要内存厂商的内存产能，DDR5 内存的价格在一年内飙升了可能高达 10 倍。今天一套 32GB 的 Corsair 品牌 Vengeance DDR5 内存售价为 620 美元，而同规格的 DDR4 内存只需要 260 美元。DDR5 内存价格两倍多于 DDR4 内存。内存价格可能还需要几年时间才会下跌。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-10</guid><pubDate>Sat, 10 Oct 2026 15:04:24 +0000</pubDate></item></channel></rss>
