@@ -1,20 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 11 Oct 2026 15:21:17 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月11日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 12 Oct 2026 18:40:04 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月12日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85578" target="_blank"&gt;《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                《星际公民(Star Citizen)》的独立单机战役《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售 。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行募资，许多募资其实就是销售游戏内的虚拟物品如各种型号的飞船。和多人网游《星际公民》一样，单机战役《Squadron 42》的交付时间也不断延期，2024 年宣布将于 2026 年发布，但前不久以避开《侠盗猎车手6》为由延期到 2027 年第二季度，暂时不清楚是否会按时发售。《Squadron 42》据称游戏时长将达到 30-40 小时，游戏内容包含太空战斗和 FPS 射击。《星际公民》已筹集 10.5 亿美元，是至今为止开发费用最昂贵的游戏。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85583" target="_blank"&gt;FAST 发现一个脉冲星三星系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中国天眼（FAST）已发现超千颗脉冲星。中国科学院国家天文台联合国内外科研人员，结合 FAST 射电观测数据与国际光学、伽马射线望远镜多波段天文数据，证实 FAST 发现的脉冲星 J0435+3233 为首例处于演化阶段的原生脉冲星三体系统，这也是第二例被确认的脉冲星三体系统。脉冲星 J0435+3233 于 2020 年由 FAST 观测发现，自转周期仅 3.2 毫秒。后续研究团队依托 FAST 开展五年连续监测，获取 192 次测量数据。分析结果表明，这颗脉冲星与另一颗白矮星构成双星系统，二者以 8 天为周期沿圆形轨道环绕共同质心运行。研究同时发现，该脉冲星自转周期每年增加 1 纳秒，比同类型的脉冲星高出两个数量级。研究人员通过分析 FAS T开放的射电数据以及多家国际望远镜的红外、光学、伽马射线观测的档案数据，精准锁定脉冲星的光学伴星，证实其为罕见的脉冲星三体系统。该脉冲星的第二伴星是一颗处于演化阶段的类太阳恒星，质量与太阳基本相当，以 73.5 年为周期、偏心率 0.6 的椭圆偏心轨道，环绕脉冲星-白矮星这一双星系统运动。正是这颗三体伴星的引力作用，造成脉冲星自转周期异常增大。根据恒星演化理论推断，该三体系统源于同一原始星云，是天然形成的恒星原生“三胞胎”。其中初始质量最大的恒星（约为太阳质量的20倍）率先完成演化，经超新星爆发后坍缩，形成现有的脉冲星。而初始质量为数倍太阳质量的“二弟”（第二颗恒星）也已演化终结，成为伴随脉冲星运行的白矮星。质量最小的“三弟”（第三颗恒星）与太阳质量持平，且与另外两颗恒星间距较远，未受早期超新星爆发影响，仍处于平稳演化状态，未来它也将演化终结，最终形成由一颗脉冲星和两颗白矮星构成的稳定三体系统。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85579" target="_blank"&gt;LineageOS 24 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Android 社区发行版项目 LineageOS 释出了基于 Android 17 的 LineageOS 24。2026 年 12 月 24 日，LineageOS 将迎来十周年纪念。开发者表示这是一个重要的里程碑，期望继续走向下一个十年。LineageOS 24 主要变化包括：合并了截至 2026 年 10 月的安全补丁，新的图像编辑器 Canvas 可满足基本的照片编辑需求，Android TV 启动器 Catapult；为移动设备和掌机添加电量指示器；一系列应用更新，等等。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85584" target="_blank"&gt;微软在 Qwen 模型基础上推出决策模型 Microsoft-Decision-1&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软加入了 Jev 粉丝俱乐部，推出了自己的决策模型。Jev 针对特定问题对大模型进行调优，减少“幻觉”，适用于各种商业应用场景。微软在阿里巴巴的开放权重模型 Qwen3.5-9B 基础上推出了 Microsoft-Decision-1。软件巨人表示未来会用自研模型及 OpenAI 的模型取代 Qwen 模型。微软称，其模型在延迟测试中速度分别是 H2O-Lightning-4B 的 2.5 倍和 Jev 的 2.8 倍；在 36 项基准测试中准确率（83.5%）位居榜首；置信度得分（92.2%）排名第二（仅次于 Quyet-1.0-Large）；在文本分类任务中，其成本不到 OpenAI GPT-6 Sol 的 1/20。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85580" target="_blank"&gt;英国水果蔬菜营养价值下降最高五成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Deep Science Ventures 的研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。英国民众现在需要食用两倍数量的蔬菜，才能摄入与 60 年前同等水平的矿物质如钾、镁或铜。许多农作物中几种关键营养素的含量减少了 20%-50%。营养和维生素含量的下降主要归因于土壤质量的退化，以及作物在育种时过度追求快速生长，而忽视了其营养价值。正使用减肥药物的人群面临的营养匮乏风险可能最大，因为减肥药会导致他们的食物摄入量显著减少。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85585" target="_blank"&gt;全球汽油汽车销量首次低于五成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Mobility Global 的数据显示，2026 年上半年汽油车占全球新车销量的 49%，相比下 2021 年这一比例是 73%，有记录以来首次跌破五成。汽油汽车的份额一年内减少了 3%，52% 降至 49%；纯电汽车销量增长 12% 达到 687 万辆，市场份额升至 17%（增长 3 个百分点）。传统混动销量增长 10% 达到 727 万辆，占市场份额的 18%；其余份额则由柴油车、插电混动等构成。汽油车销售份额下降被认为由中东石油危机驱动。国际能源署（IEA）的数据显示，上半年整体汽车市场萎缩了约 5%。纯汽油车销量降幅最大的是中国（下降 26%），其次是欧洲（下降 13%）；欧洲纯电动汽车销量增长 32% 至 181 万辆，东南亚增长 81% 至 35 万辆，大洋洲则翻一番以上至 11 万辆。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-11</guid><pubDate>Sun, 11 Oct 2026 15:21:17 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85586" target="_blank"&gt;固态硬盘价格一年翻了两番&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                PC 设备广泛使用的固态硬盘（SSD）价格一年翻了大约两番。由于 AI 热，厂商优先向 AI 公司供应 SSD，导致 PC 使用的 SSD 严重缺货。今年第三季度 256GB TLC 产品为每个 134.2 美元左右，512GB 产品为每个 252.0 美元左右。价格已连续 6 个季度上涨，并刷新历史最高纪录。三季度价格涨幅已相较于二季度约 60% 有所收窄。背后原因是 PC 等最终产品的需求略显疲软。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85587" target="_blank"&gt;日本 BitTorrent 用户下载成人视频频繁收到罚单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                东京的一名 40 多岁的男子习惯于睡前启动 BitTorrent 下载成人视频，第二天早上关闭软件。但从今年五月起他先后收到了两封信函，勒令他支付 50 万日元否则将面临民事诉讼。他一开始以为是诈骗，但很快发现是真的。越来越多的日本人因为使用 BitTorrent 下载成人视频而收到罚单。东京地方法院知识产权部门的数据显示，它收到的披露身份信息的申请数量从 2023 年的 814 起增至 2024 年的 2454 起，2025 年进一步达到 5320 起。2024 年主要 ISP 机构收到的信息披露请求中 95.6% 都涉及成人视频的版权侵权指控。相关诉讼显示，成人视频制作公司引入了能识别涉嫌通过文件共享软件传播受版权保护内容的用户的 IP 地址的系统。由于相关纠纷增加，日本通信部门已建议用户不要随意使用 BitTorrent 之类的软件。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85588" target="_blank"&gt;美国畜牧业采用石化行业相同的策略淡化气候暖化&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                早在 1970 年代，面对石化产品在全球暖化中的作用，美国石化行业制定了一系列策略，旨在推迟气候行动以维护自身经济利益。行业组织 American Petroleum Institute 在 1980 年发布了一份政策手册，歪曲了科学研究结果并淡化全球变暖的严重性。研究发现，2008-2018 年间美国石化行业组织在与气候变化相关的政治活动上总共投入了约 34 亿美元。牲畜业排放的甲烷对全球暖化也有重要影响。发表在 PLOS Climate 期刊上的一项研究发现，美国主要畜牧业行业组织 National Cattlemen’s Association(NCA)采用了与石化行业相似的策略。美国在很长时间里是全球最大的牛肉生产国，最近几年被巴西超越。该组织早在 1989 年就知道了牲畜对全球变暖的贡献，但一直致力于淡化甲烷的排放问题、质疑气候科学，以及反对减少牛肉消费。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85589" target="_blank"&gt;AI 编程智能体生成了更多代码，但并没有生成更多软件&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一项对数百家公司编程实践的研究发现，人工代码审查是 AI 编程工具整体效率的一大瓶颈，导致几乎没有证据表明企业使用 AI 工具能提高软件产量或减少就业。研究涵盖了 2021-2026 年 3 月间逾 700 家软件开发公司逾 70 万员工的 3 亿条工作事件（如 commits 和 pull requests）以及问题管理软件数据。公司在引入 AI 编程智能体后，代码总行数平均增加了 30%，commit 总数增加了 20%，pull requests 总数平均增加了 23%。但代码行数的增加并没有直接转化为软件产出的提升。原因在于代码审查流程，引入 AI 编程智能体后，代码审查的平均耗时明显延长。总体而言，引入 AI 智能体后，代码审查流程时间平均增加了 49%。引入 AI 智能体后，代码审查的员工人数增加了 14%。虽然 AI 智能体贡献了部分代码审查意见和 pull requests，绝大部分审查工作仍然是由人类完成的。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85590" target="_blank"&gt;诺贝尔经济学奖授予了两名美国经济学家&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2026 年诺贝尔经济学奖授予了斯坦福大学的 Robert E. Hall 和哥伦比亚大学的 Michael Woodford，以表彰两人突破传统凯恩斯主义框架，从家庭和企业等微观主体行为出发建立经济模型，证明无数家庭和企业的日常决策最终会塑造整个经济运行方向。这套理论如今已成为全球央行决策的重要基础，也成为应对衰退、通胀和能源危机的重要工具。数十年来对凯恩斯模型的应用已暴露出其局限性，包括未能有效抑制失业，反而推高通货膨胀。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85591" target="_blank"&gt;亚马逊放弃 Fire 品牌改为推出 Alexa 平板&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                亚马逊最近更新了一系列自有品牌产品线，其中自有品牌平板产品发生了重大变化。过去 15 年亚马逊一直销售 Fire 平板电脑，如今 Fire 品牌名被放弃，亚马逊改为推出 Alexa 平板，而且运行的是经过 Google 认证的  Android 操作系统。以前 Fire 平板运行的 Fire OS 是亚马逊定制的 Android 版本，亚马逊还提供了自己的应用商店，如今应用商店已经关闭，Alexa 平板运行的是完全 Google 化的 Android 操作系统，以及 Google Play 商店和其它常规应用。Alexa 平板共三款：Alexa Tablet 8 起售价为 230 美元，Tablet 11 起售价 330 美元，Tablet 12 Pro 起售价为 500 美元。前两款使用了联发科入门级处理器 8189，第三款使用了联发科的天玑 8400。该平板的一大亚马逊特色是用户可通过唤醒词 Alexa 与 AI 机器人进行对话。这些平板将于 10 月 14 日上市。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85592" target="_blank"&gt;美国核反应堆开始整合 AI 助手&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                加州公司 Atomic Canyon 与核工业组织合作推出了针对核反应堆运营的 AI 助手 NIVA——代表 Nuclear Industry Virtual Assistant。该 AI 助手已进行试点，目前向美国全部 94 座核反应堆开放使用。另一家核能领域的 AI 初创公司 Nuclearn 表示其产品已服务于逾 65 家美国合作伙伴，其中包括传统核电站，也包括开发先进小型核反应堆的公司如 NuScale Power。Nuclearn 首席财务官兼联合创始人 Jerrold Vincent 指出，AI 是解决核工业最紧迫难题的理想工具。核反应堆运营面临的难题包括了繁琐的监管规定以及复杂的管理与维护系统，这恰恰是 AI 擅长处理的任务。核反应堆的运营需要处理大量文书工作。核电站会产生海量文档，用于证明符合监管要求，记录针对各种潜在问题的应对过程。Nuclearn 的 AI 产品能帮助核电站更高效检索数据库，更快向联邦政府提交文件，或查找过去是如何解决特定问题的，它称得上是核能领域的 ChatGPT。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-12</guid><pubDate>Mon, 12 Oct 2026 18:40:04 +0000</pubDate></item></channel></rss>
