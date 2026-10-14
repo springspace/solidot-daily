@@ -1,62 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 13 Oct 2026 16:44:57 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月13日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 14 Oct 2026 14:21:29 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月14日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85593" target="_blank"&gt;黑客加热联网的超市冰箱，导致食物变质和设备起火&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                黑客远程控制了法国数百家超市的联网制冷系统，部分冷藏和冷冻设备的温度被调高至 50C，导致食品变质，甚至引发火灾。法国下令对此展开调查。欧洲其它国家如西班牙、葡萄牙、波兰、德国和比利时也报告了类似的案件。在法国，家乐福报告有 80 家门店受到影响，不二价（Monoprix）有 5% 的门店遭到攻击，Les Mousquetaires 旗下约 150 家 Intermarché 超市的制冷设备温度被调高至 50C 并持续了六小时。超市的制冷系统通常由控制面板管理，这些控制面板负责调控全店的冷藏和冷冻设备，支持互联网访问，允许维护公司在任何地点进行远程调节。丹麦 Danfoss 公司提供的控制软件此前发现有漏洞。安全公司 Claroty 今年八月披露 Danfoss 的 AK-SM 800A 控制器存在的漏洞，允许攻击者绕过身份验证控制，在入侵设备上执行代码。该公司释出的软件更新修复了这些问题。Danfoss 声称受影响的超市设备运行的都是过时的固件，它一直建议客户更新到最新固件。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85594" target="_blank"&gt;Firefox 158 释出，默认启用 JPEG XL 支持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 释出了 Firefox 158。主要变化是默认启用了 JPEG XL 图像格式的支持。JPEG XL 是一种免版税的位图文件格式，支持有损和无损压缩。默认支持 JPEG XL 表明它不再是一项实验性功能，意味着其图像格式 .jxl 成为 WebP、JPEG、PNG 和 GIF 等图像格式之外的又一选择。图像请求的默认 HTTP Accept 请求头如今也支持了 JPEG XL 图像格式 image/jxl。其它变化包括点击表单字段或选择从来源填充时 Smart Window 能更快的填写表格，CSS 类型化算术支持使用 calc()等函数，等等。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85595" target="_blank"&gt;巨龟乔纳森长寿的秘密&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                生活在英国海外领地圣赫勒拿岛的巨龟乔纳森是已知最长寿的陆生动物，它估计是在 1832 年孵化的，目前年龄 194 岁。对其基因组的研究发现，它基因组中与线粒体功能相关的部分的活性堪比该物种 5 岁个体的水平。高效运转的线粒体可以为 DNA 修复系统供给更多能量，以对抗衰老带来的损伤。这或许就是它预估寿命达到 194 岁的原因。乔纳森是一只阿尔达布拉巨型陆龟，而阿尔达布拉巨龟的平均寿命约 80 年。研究团队将其与另外 4 只阿尔达布拉巨龟的 DNA 作比对，找到了287处专属于乔纳森的基因变异，其中 41 处变异被认为具有实际功能意义，会切实影响生物体的生理活动、生存状态与生命调控。有 12 处变异同样出现在其他长寿动物物种的基因数据库中。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85596" target="_blank"&gt;WHO 称俄罗斯实验室工作人员的死因仍然未知&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                WHO 发布报告称，俄罗斯西伯利亚伊尔库茨克州一所鼠疫防治研究中心的实验室工作人员本月因肺炎死亡，病因仍未查明，当地未报告鼠疫病例。由于存在关键的不确定因素，WHO 无法评估事件风险，无法判断俄罗斯的公共卫生措施是否足以防止不明疾病的传播。WHO 称它是在 10 月 2 日通过媒体报道获悉了实验室女研究员的死亡事件，它随后在 10 月 3 日、6 日、7 日和 8 日索取相关信息。俄罗斯于 10 月 6 日和 9 日回应了信息索取请求，称未记录到鼠疫病例。该研究员是在出现急性呼吸道病毒感染症状后，因严重肺炎死亡。医生将死因归类为病因不明的肺炎，多种高威胁病原体检测结果均为阴性。密接者也均未携带高威胁病原体。俄罗斯当局对接触者进行了 5500 次检测，所有接触者身上均未检测到实验室研究项目涉及的高威胁病原体。俄罗斯否认研究员的死因是鼠疫，称她接种了鼠疫疫苗，实验室没有发生鼠疫杆菌泄露事件。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85597" target="_blank"&gt;美国准备将叠层太阳能电池板投入商用&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国太阳能板生产商表示，他们即将迎来一项技术突破，这项突破可能颠覆整个行业，甚至威胁到中国在该行业的垄断地位。这些制造商正在竞相开发新型太阳能板，其发电量比目前市面上大多数同类产品高出 25%。如果成功，这一进步将使世界能以更少的土地和屋顶面积来满足迅速增长的电力需求。新技术被称为叠层太阳能，通过像层层蛋糕一样添加第二层和第三层材料，使太阳能电池板能够将更多的太阳辐射转化为电能。研究人员多年来一直致力于完善叠层太阳能电池板，包括 Tandem PV、First Solar 和韩华 Qcells 在内的几家公司表示，在成功测试这些设备并获得技术机构认证后，他们正准备很快将此类电池板投入商业销售。但新的叠层太阳能板及其制造商将面临许多挑战。电力生产商将不愿购买过于昂贵的新设备，除非制造商能让他们相信，叠层太阳能电池的性能衰减速度不会比传统太阳能电池更快。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85598" target="_blank"&gt;美国麻疹病例突破 4080 例&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国曾在 2000 年宣布消灭了麻疹，但因为虚假信息和接种率下降，麻疹疫情正卷土重来，今年至今麻疹病例总数已达到 4080 例，创 1991 年以来的最高纪录。其中宾夕法尼亚州的疫情最为严重，该州今年已经累计报告 1136 例病例，六人死亡。死者包括一名新生儿、一名 6 周大的婴儿、一名 18 岁青年、一名 20 岁青年、一名 40 岁成年人以及一名 39 岁女性。所有死者都未接种疫苗，两名婴儿尚未达到接种疫苗的年龄。宾夕法尼亚州的疫情无放缓迹象，过去一周新增 157 例病例。美国现任卫生部长 Robert F. Kennedy Jr. 是坚定的反疫苗者。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85599" target="_blank"&gt;《RimWorld》将游戏引擎从 Unity 切换到 Waylith Engine&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                著名基地建造与管理游戏《RimWorld》开发商 Ludeon Studios 宣布释出 v1.7 版本，将游戏引擎从 Unity 切换到自研的 Waylith Engine，性能提升了 2-4 倍。Ludeon Studios 称，游戏的外观和玩法完全一致。相比 v1.6 版本，v1.7 在启动速度、加载大量模组时的速度、地图生成、世界生成、每秒更新次数（TPS）以及几乎所有其它方面都有显著提升。开发商表示，一个多达 1500 个模组的模组包加载速度从 14 分钟缩短到 6 分钟。虽然引擎变了，但存档都能向前向后兼容，v1.6 的存档能在 v1.7 中正常加载，反之亦然。模组开发者无需为 v1.7 修改模组，只需要测试之后标记下兼容 v1.7 即可。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85600" target="_blank"&gt;ESA 想要将 voices38 列入恶名盗版市场名单&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                代表美国游戏业的行业组织 Entertainment Software Association (ESA) 向美国贸易代表办公室提议将最近炙手可热的游戏破解黑客 voices38 列入恶名盗版市场名单。匿名黑客 voices38 在短时间内发布了一系列使用 Denuvo DRM 的游戏破解补丁，其中包括《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。ESA 的理由是，游戏破解黑客在盗版生态系统中扮演着重要角色，没有破解，盗版网站就无法提供可运行的盗版游戏。ESA 认为将其列入名单有助于版权所有者打击破解活动。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85602" target="_blank"&gt;气候暖化速度过去十五年加倍&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85602" target="_blank"&gt;气候暖化速度过去十五年加倍&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
                 《巴黎协定》对全球气温上升幅度设定了一个比工业化前水平高 1.5°C 的阈值。现有气候模型预测这一阈值会在 2030 年代突破。但根据《npj Climate and Atmospheric Science》期刊上发表的一项研究，突破时间可能比预期的更快。对截至 2025 年的气温记录的分析显示，2011-2025 年间的全球变暖速率达到了每 10 年上升 0.40°C，比 1971-2025 年间每 10 年暖化速率 0.20°C 翻了一倍。这意味着 1.5°C 的阈值会在 2028 年突破，比此前的预测早了十年。暖化加速主要归因于东亚-北太平洋、欧亚中纬度地区以及南大西洋-南极洲区域变暖趋势的加剧。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85603" target="_blank"&gt;蜜蜂的螫针如何泵送毒液&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85603" target="_blank"&gt;蜜蜂的螫针如何泵送毒液&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
                 众所周知，工蜂蜇人之后会将螫针留在皮肤上自己飞走，而螫针会自行穿透皮肤组织泵送毒液。发表在 PNAS 期刊上的一项研究利用高速摄像技术揭示了蜜蜂螫针如何泵送毒液的过程。工蜂留下螫针的现象被称为自切（autotomy），自然界里相当罕见。螫针由三个互锁部件组成，共同构成了排毒管：一个向外扩展形成主泵室的管心针（stylet），以及两根尖锐的、可前后滑动的刺针（lancets），它们刺入组织并将毒液注入目标。研究人员利用镊子取下活工蜂的螫针，将其插入人工凝胶块，利用体视显微镜和高速彩色摄像技术捕捉了排毒动作。视频显示，连接在每根刺针上的瓣膜在前后滑动泵送时会改变形状。它们在向下冲程时像降落伞一样充气，通过类似活塞的动作形成密封，对泵室施加向下压力以挤出毒液；在向上冲程时则会瘪下去。当这些瓣膜在中间相遇时，它们的形状会再次改变，以便能彼此错开通过。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-13</guid><pubDate>Tue, 13 Oct 2026 16:44:57 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85604" target="_blank"&gt;Ledger 证实其硬件钱包被植入间谍芯片&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                提供硬件和软件钱包的 Ledger 公司证实由 CryptoBilis 经销的部分硬件钱包被植入间谍芯片，导致客户钱包里的加密货币被盗，它已经要求 CryptoBilis 停止销售硬件钱包。CryptoBilis 是一家总部位于马来西亚、业务遍及东南亚的大型硬件钱包零售商。CryptoBilis 经销的部分被篡改 Ledger X 钱包售价仅是原型号的一半，Tibane Labs 的安全研究人员对其进行的分析发现，原装电池被替换为体积更小的电池，以腾出空间安装恶意电路。该电池同时为间谍芯片和 Ledger X 供电。恶意电路是一颗基于 Arm Cortex-M4 架构、配备 128 KB 闪存以及采用 UFQFPN32 封装的 ST STM32G431KBU6 芯片，位于电池和天线下方。攻击者在微控制器单元（MCU）旁边安装了一个微型 eSIM，使用一个屏蔽式 LTE 模块发送信号。Tibane Labs 还发现攻击者使用了多个版本，第二种篡改的硬件钱包使用了原装电池供电，间谍芯片安装在 OLED 显示屏下方原本用于放置泡沫衬垫的空间内。攻击者利用间谍芯片通过 OCR 技术读取硬件钱包屏幕上显示的字体，在受害者设置过程中窃取密钥。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85605" target="_blank"&gt;OpenAI 工程师因在高管会议室放置监听设备被捕&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                35 岁的沙特籍 OpenAI 工程师 Abdulrahman Alfozan 因在高管会议室内放置监听设备遭到逮捕。Alfozan 是一家专注于中东和北非市场的风投公司 Raed Ventures 的合伙人，该风投的合伙人还包括沙特王室成员 Khalid Bin Bader Al Saud 亲王。Alfozan 曾在 Meta、微软和 SAP 任职，曾在 MIT 攻读计算机科学与工程专业。OpenAI 在其公告中表示，目前尚无迹象表明这名工程师曾不当访问或窃取模型权重、源代码或客户数据，“我们高度重视对技术、数据及人员的保护，将其视为国家级的重要事项。”Alfozan 已被 OpenAI 解雇。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85606" target="_blank"&gt;存在比地球更宜居的星球&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                几年前，在柏林一间实验室里，天体生物学家伊娃·维洛维奇观察到花园水芹在模拟“K型矮星”光照的条件下发芽，兴奋不已。K型矮星是一种橙色调恒星，比我们的黄色太阳温度更低、燃烧更慢。令她意外的是，水芹的生长速度甚至比在模拟太阳光照下更快，植株也更高。她的结果表明，光合作用——为地球整个食物网提供能量的过程——可以在围绕这些橙色恒星运行的行星上发生。尤其值得注意的是，在这些恒星的光照下，外星生命可能在比地球稍大的行星上繁盛生长，这类行星被称为超级地球。像维洛维奇这样的科学家认为，围绕K型矮星运行的超级地球或许才是银河系中最有生机的地方，甚至可能比地球更适合生命。科学家们将这些行星称为“超级宜居世界”，即允许碳基生命比在地球上存续更久、变得更复杂和更多样的行星。按科学家的想象，一个超级宜居世界比地球宽约 20%至30%，质量是地球的两倍，与恒星的距离恰到好处，使水能在其表面流动。这个更大的“地球”引力更强，比地球更紧地留住周围分子，赋予该行星更厚的大气层和更温暖、更稳定的气候，从而推动外星植物和动物（或它们的等同物）的生长。超级地球更大的铁核会在其周围形成更强的磁场，更好地阻挡宇宙辐射。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85608" target="_blank"&gt;NetBSD 成为反 AI 开发者青睐的开源操作系统&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                随着 Linux 阵营拥抱亲 AI 路线，NetBSD 意外成为抵触 AI 的开发者青睐的开源操作系统。NetBSD 项目透露，上个月它收到了 120,282 美元捐款，远超 50,000 美元的筹款目标。过去几个月，Linux 作者 Linus Torvalds、社区发行版项目 Debian、商业发行版 Ubuntu 和 Red Hat 都展现了亲 AI 立场，相比下 NetBSD 项目则早在 2024 年表达了拒绝 AI 的坚定立场，认为 AI 生成的代码会污染代码库，GitHub/Microsoft 的 Copilot、OpenAI 的 ChatGPT 或 Facebook/Meta 的 Code Llama 等大模型生成代码均被视为污染代码，未经核心团队事先书面批准，严禁提交此类代码。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85609" target="_blank"&gt;韦伯望远镜发现一颗熔岩行星存在大气&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                天文学家利用韦伯望远镜，在一颗类似早期地球的系外行星上找到了大气层存在的有力证据。这颗名为 HD 3167b 的星球属于熔岩行星，但对熔岩行星来说它很冷，对生命来说它又太热了。此前学界普遍认为，如此靠近恒星的岩石行星，大气会被恒星辐射剥离殆尽。HD 3167b 位于双鱼座方向，距地球约 154 光年。它绕宿主恒星公转一周只需 0.96 个地球日，不到 24 小时，并被潮汐锁定：一面永远朝向恒星，另一面永为黑夜。理论计算显示，其向阳面的平衡温度可达 1786K，足以熔化硅酸盐岩石。该行星半径约为地球的 1.6 倍、质量约为地球的 4.84 倍，是一颗岩石质地的“超级地球”。其宿主恒星 HD 3167 比太阳略小，但由于轨道极近，行星接收到的辐射强度依然很高。研究团队使用望远镜的 MIRI 中红外设备，在行星发生次食的窗口期测量了向阳面的热辐射。结果显示，白昼侧的亮度温度明显低于无大气裸岩星球的理论预期。最合理的解释是大气起到了降温作用：一部分恒星辐射被反射回去，大气流动还能把热量从白昼侧输送到背阴半球，从而压低向阳面的峰值温度。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85610" target="_blank"&gt;水产养殖未减轻过度捕捞问题&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                过去 60 年全球鱼类消费量增加了一倍多。随着需求上升，过度捕捞也达到了危险程度：目前全球三分之一的鱼类资源正以不可持续的方式被捕捞。水产养殖原本被寄望于帮助解决这一问题，减轻海洋因过度捕捞而承受的压力。但养殖鱼最有效的喂养方法是捕捞其他体型较小的鱼类，再将其加工成营养丰富的粉末，也就是鱼粉，或者制成相应的液态产品——鱼油。结果是水产养殖非但没有减轻过度捕捞的压力，反而让问题更糟。三文鱼和虾等海鲜主要依赖使用鱼粉饲料的海外养殖场供应。而这些养殖场存在众多问题。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85611" target="_blank"&gt;荷兰税务与海关总署放弃部署微软公有云，采用开源替代&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                荷兰税务与海关总署放弃了部署微软 Microsoft 365 公有云的计划，改为采用本地部署/开源替代方案。根据 Linux 基金会在欧洲开源峰会上发布的报告，94% 的欧盟组织认为数字主权重要，其中 61% 认为非常重要。除了税务机关，荷兰还在探索全面从 Windows 和私有软件转向 Linux 和开源软件。荷兰原计划于 2025 年转向 Microsoft 365，计划在 2026 年底前完成全面部署。但 Dutch Advisory Council on ICT Assessment 在今年 6 月建议叫停部署。政府于 7 月暂停了该计划，现在决定转向开源方案。税务与海关总署目前还不会全面转向开源替代，而是暂时保留现有的微软软件。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-14</guid><pubDate>Wed, 14 Oct 2026 14:21:29 +0000</pubDate></item></channel></rss>
