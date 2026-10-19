@@ -1,20 +1,75 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 18 Oct 2026 13:00:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月18日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 19 Oct 2026 16:14:27 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85636" target="_blank"&gt;GNOME 面向普通用户发布 GNOME OS Preview&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                GNOME 项目已推出发行版项目 GNOME OS 一段时间，但它只提供基于最新代码的 Nightly 版本，主要面向开发者。现在它推出了面向普通用户的 GNOME OS Preview。GNOME OS Preview 基于 Nightly 版本，但去掉了 Nightly 特性，基于最新的 GNOME 51.1 构建。开发者表示该版本尚未经过充分的实际使用测试，可能会遇到问题，但稳定性肯定高于 Nightly 版本，对想要尝鲜的普通用户而言足够稳定，可用于日常使用。但它还需要进一步完善。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85644" target="_blank"&gt;Linux 7.3 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.3。新版本包含了来自 3,021 名开发者的 18,765 个 non-merge commits，其中 807 人是首次参与内核开发。主要更新包括：扩展 binfmt_misc 格式注册；旨在提升大型系统性能的组调度优化，使所有操作均返回失败的 failfs 文件系统，fchroot() 系统调用，sched_ext 子调度器功能的完善，虚拟机工作集追踪，ntfs3 文件系统备用数据流支持，等等。更多可浏览 KernelNewbies 7.3。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85637" target="_blank"&gt;天文学家发现第一颗绿色恒星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                天文学家可能发现了第一颗绿色恒星——名为 WD J1330+6435 的白矮星，位于地球 326 光年外。部分死亡恒星——即白矮星——在吞噬围绕其运行的行星后，可能会呈现出绿色。WD J1330+6435 一直在吸积其行星伴星上的岩石物质。这一过程使其大气中富含钙、锂和钠元素。模型表明这些元素的存在使得 WD J1330+6435 呈现绿色。WD J1330+6435 是已知首颗真正呈现绿色的恒星。研究人员称，白矮星大气中残留的钠元素吸收了光谱中的橙色部分，留下了幽灵般的绿光。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85645" target="_blank"&gt;SonicBoom发布：AI框架告别手工调优&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Nala Ginrut 写道：
+&lt;i&gt;
+SonicBoom是全新的AI运行时框架[0]，采用 GPLv3 许可证，由 HardenedLinux 社区主导开发。它提供语言无关的C API接口，这意味着你可以用任意语言绑定这个库，从而实现任何编程语言都能进行高性能AI研发。目前 GNU Guile 是官方支持的语言，同时利用 Guile 的 delimited continuation 实现了应用层的“死计算消除”，只有真正有效的计算才会进入运行时。
+&lt;br /&gt;
+而运行时包含 LLVM MLIR，它将会把计算图再次优化，进一步去掉无效的计算图，并利用 LLVM 根据硬件具体生成 kernel，而不是手工根据硬件去优化 kernel。
+&lt;br /&gt;
+对于 AI 研究而言，应用层绑定的动态语言将提供 pytorch 的灵活性，以及超越 llama.cpp 的单点推理性能。其实际运行的时候会自动将计算图进行编译优化，这样同时实现了 pytorch 的动态图弹性，以及 tensorflow 的静态图性能。
+&lt;br /&gt;
+对于推理部署而言，无需应用层动态语言的支持，可以直接加载模型进行高效推理。但研究和生产部署使用的是完全相同的运行时图编译器优化栈，这意味着你研发完就能直接部署到产品。部署成本压缩到一个三百多MB的 .so 文件。没有几十个G的 python 全家桶。
+&lt;br /&gt;
+llama.cpp 依靠非常有经验的工程师进行 kernel 调优，已经将性能优化到极致。而 SonicBoom 直接利用 llama.cpp 已有的 kernel，在 kernel 优化不变的情况下，依靠图编译器的优化，将原始性能提升20%（rtx3050 8G)，并且还在持续增加中。
+&lt;br /&gt;
+目前 SonicBoom 社区版仅提供单点推理的能力，分布式推理能力计划于企业版提供。SonicBoom 的野心并不局限于 LLM 推理，它对标 pytorch，将在之后将更高的性能推向 image, video, tts 计算。
+&lt;br /&gt;
+目前 SonicBoom 仅支持 CPI 和 CUDA，之后计划支持 Vulkan，为 non-nvidia 和纯自由软件爱好者提供更好的选择。我们目前缺乏足够多样的 GPU 评测数据用于优化，所以在 rtx 3050 之外可能测试数据会发生波动，您的评测数据能帮助我们把优化扩散到更多 GPU。
+&lt;br /&gt;
+目前 v0.0.3 正在邀请社区贡献者参与不同 Nvidia 平台的评测，我们准备了非常简单那的脚本一行就能完成，不过测试时间可能比较长，请安排好自己的时间再参与，每位测评贡献者都会出现在贡献者名单中。[1]
+&lt;br /&gt;
+如果您暂时没有硬件条件或者时间参与贡献，欢迎star，或者转发让更多有兴趣的朋友一起来玩。&lt;/i&gt;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85638" target="_blank"&gt;游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解，无法再区分哪些项目是以人工为主导的，哪些是由 AI 完成的。decomp.dev 管理员 Encounter 在官网声明中表示，从历史上看，匹配反编译一直是极其困难且耗时的任务，即便是对那些有适量活跃贡献者的中等规模游戏来说，反编译要以“年”为单位计时，但 GPT-6-Astra 之类的前沿 AI 模型最近已让反编译游戏变得极其轻松：它们在遵循复杂指令、为符号或调试信息交叉检索资源，以及在获得充分指引的情况下编写自然代码方面，要强得多。显而易见，只要有合适的指导、人类输入和代码审查，AI 能以非常显著的方式加速反编译。同样显而易见的是，反编译的社区属性已经被结束了。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85646" target="_blank"&gt;美国四分之一冰川消失，冰量缩小 35%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                冰川是天然的固体水库，是下游淡水和水资源的重要来源。全球暖化导致冰川快速萎缩，削弱了下游生态系统应对干旱的能力。根据发表在 PNAS 期刊上的一项研究，对美国逾 1000 座冰川的全面评估发现，自 1950 年代中期以来，四分之一的冰川消失，冰川面积缩小了 35%——195.29 平方公里、55.3 亿吨冰——平均每十年减少 8%。美国本土的冰川多数规模较小，平均面积仅为 0.35 平方公里，主要依赖于局部地形条件维持存在。美国冰川萎缩的速度高于其它地方的冰川，如喜马拉雅山东部冰川面积 1962–2006 年之间减少了 19%，平均每十年减少约 5%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-18</guid><pubDate>Sun, 18 Oct 2026 13:00:22 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85647" target="_blank"&gt;歌词随着时间日益减少情感表达&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                密歇根州立大学的一项研究发现，无论是跨越不同世代的音乐人，还是在同一位音乐人的职业生涯，流行乐在表达情感和人际关系方面日益变得不再那么直接与明显。研究表明，随着时间的推移，歌词中的情感色彩和社交导向都有所减弱。在音乐人的职业生涯中，表达积极和消极情绪的词汇使用量均有所下降，对家人和朋友的提及也同样减少了。歌词中与焦虑相关的词汇有所增加，而与悲伤相关的词汇则呈下降趋势。研究人员希望通过音乐等去探讨人们在表达情感的方式以及人际关系随着时间演变的过程。“音乐不仅仅是娱乐工具。人们借助歌曲调节情绪、认识自我、塑造身份认同并与他人建立情感纽带。这使得歌词成为了一个极具研究价值的载体，记录了艺术家——以及他们周围的听众与文化氛围——选择探讨的话题。”研究的共同作者、心理学系前副教授 William Chopik 说道，“因此，当我们看到情感和社交相关的语言表达呈现出大规模下降的趋势时，这就引出了一个非常有趣的问题：我们表达情感和理解人际关系的方式，是否在更广泛的层面发生了变化？”
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85648" target="_blank"&gt;陶哲轩谈数学的生存危机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 UCLA 举办的一场数学研讨会上，陶哲轩说，“我正处于战时状态。”研讨会讨论了 AI 对数学带来的生存危机。51 岁的陶哲轩指出现在不再存在规则。10 月 6 日 OpenAI 发布了 350 多项研究成果，涵盖了代数、数论、理论计算机科学、数理逻辑和拓扑学等几乎所有数学分支。数学家们震惊不已——部分人已接近攻克他们钻研多年的难题，却发现自己瞬间被 AI 击败了。陶哲轩 24 岁时便已成为终身教授，他认为刚入行的年轻数学家面临的威胁更大。他早从 2023 年就开始使用 OpenAI 的模型，曾希望双方能互补，如今他认为自己被利用了。他指出 OpenAI 急于发布新成果的行为，暴露了其真实意图。他认为双方已经没有进行建设性合作的可能。数学所面临的危机核心：如果解决难题是数学的使命，那么当机器能比人类更快完成这项任务时会发生什么呢？高等数学领域的诸多方面——包括人员聘用、晋升、研究生培养以及学术声誉——很大程度上都取决于数学家所撰写论文（阐述证明过程的文献）的难度、质量及其影响力。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85649" target="_blank"&gt;网站对 AI 智能体关上大门&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                OpenAI、Meta、Google、Instinct 等公司承诺，AI 智能体能代你浏览互联网，完成从预订餐厅、清理邮箱到购买新鞋等任务。但如果平台不予以配合会怎样？使用 Meta 的 Muse、xAI 的 Grok、OpenAI 的 Dots 以及 Instinct 等智能体服务的用户最近几周发现其智能体在访问部分主流网站时遭到屏蔽，无法执行任务。Yelp 表示该平台仅允许付费参与其数据许可计划的智能体进行访问；达美航空阻止了智能体代用户预订机票。摩根大通和嘉信理财也证实出于安全考虑正阻止智能体访问用户账户。此前曾支持智能体访问的网站如 Cars.com 和 Amtrak 如今已无法访问，表明其它公司也逆转了立场。亚马逊屏蔽了 Meta 的 Muse、xAI 的 Grok、Instinct 的 AI 智能体以及 OpenAI 的 Dots。AI 智能体无法访问的平台越多，人们就越会质疑其实用性。Meta 改为与沃尔玛、Gap、Sephora、百思买等零售商达成合作，允许 Muse 在这些平台进行购物。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85650" target="_blank"&gt;LinkedIn 清理其平台上的 AI slop&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软旗下的职业社交网络 LinkedIn 正在清理其平台上的 AI slop。Pangram 在 7 月曾发表报告称，LinkedIn 四成的长文由 AI 生成，相比下 X 和 Medium 上的这一比例为 30%，而 Reddit 和 Substack 比例更低。对 LinkedIn 而言，低质量 AI slop 正演变成商业问题。平台主编 Dan Roth 指出，AI slop 读起来千篇一律。如果用户在平台上看到太多同质化的 AI 生成帖子，无法获取真正有价值的知识，也无法借此深入了解职场人脉，那么 LinkedIn 面临着用户流失至其它平台的风险。LinkedIn 于 8 月上线了允许用户标记看起来像 AI slop 的帖子。LinkedIn 还在利用自己的 AI 系统去清理 AI slop，限制 AI slop 的传播。LinkedIn 上个月表示 AI slop 的浏览量下降了四成。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85651" target="_blank"&gt;Wine 移植到 OpenBSD&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                旨在让类 Unix操作系统如 Linux 能运行 Windows 应用的 Wine 项目移植支持 OpenBSD 操作系统。测试显示能正常运行大部分 64 位 Windows 应用，甚至包括最近才发布的《Witcher 3》的重制版本（需要 vkd3d-proton）。但由于支持 32 位甚至 16 位应用的 WoW64 模式不能正常工作，意味着 Wine 还无法在 OpenBSD 上运行 32 位应用。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85652" target="_blank"&gt;ESA Hera 探测器准备飞越 DART 撞击的小行星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                ESA Hera 探测器将在一个月后书写历史，它即将与执行首次行星防御测试的两颗小行星交会。NASA 执行双小行星重定向测试（Double Asteroid Redirection Test ，DART）任务的探测器于 2022 年 9 月撞击了 Didymos-Dimorphos 双小行星之一的 Dimorphos。Didymos 是双小行星系统中的主体，直径约 780 米，Dimorphos 直径约 
+151 米。DART 的撞击使得 Dimorphos 的轨道周期缩短了约 32 分钟。Hera 探测器于 2024 年 10 月 7 日发射，其任务之一是近距离观察这次撞击成果。Hera 携带了两颗立方星 Juventas 和 Milani，分别由卢森堡的 GomSpace 和意大利都灵的 Tyvak International 制造。它们将在 Hera 抵达目标区域之后分离，其中 Milani 将负责分析两颗小行星周围的尘埃环境并研究其光谱成分；Juventas 将对比两颗小行星的内部结构，甚至可能尝试靠近 Dimorphos 并最终在其表面着陆。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-19</guid><pubDate>Mon, 19 Oct 2026 16:14:27 +0000</pubDate></item></channel></rss>
