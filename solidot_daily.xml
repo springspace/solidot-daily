@@ -1,8 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 24 Oct 2026 13:07:59 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月24日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 25 Oct 2026 13:35:17 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85698" target="_blank"&gt;Google 修改隐私条款将 Gmail 和照片数据用于个性化广告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中的内容向您展示个性化广告，除非您选择允许其他支持个性化广告的 Google 服务使用这些服务中的数据。”也就是如果用户不希望 Gmail 和 Google 相册中的内容被用于个性化广告需要切断关联服务，方法是：Google 账号 —— 数据和隐私设置——个性化设置——搜索服务个性化——更多个性化智能服务——关联的内容应用，切断 Google Workspace 关联。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85700" target="_blank"&gt;研究揭示丹尼索瓦人的长相&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表 16 个不同年龄阶段的个体。许家窑人化石历经十余万年的埋藏，古 DNA 提取近乎无望，研究团队转向古蛋白质组学这一相对新兴的技术路径，从许家窑地点保存的 20 件标本中，无损获取内源性蛋白质开展系统发育研究，以古蛋白质证据明确支持许家窑人属于丹尼索瓦人。在此基础上，研究团队系统总结出丹尼索瓦人在颅骨、下颌骨和牙齿上的典型形态特征。综合研究推测，丹尼索瓦人具有低矮后倾的额头、粗壮眉脊、面部扁平、突颌减弱等面部特征。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-24</guid><pubDate>Sat, 24 Oct 2026 13:07:59 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85701" target="_blank"&gt;为让数据中心有充足电力 Google 将付钱给其他人少用电&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的能源服务公司 Voltus 表示，通过聚合成千上万家企业和家庭的用电，该项目能在最需要用电的时候可靠提供大量额外电力容量，而且能在几年内实现。尽管科技公司若想持续建设大型数据中心，最终仍需建造传统的发电厂，但在过渡阶段虚拟电厂方案不失为一种更快捷、更经济且污染更少的选择。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85702" target="_blank"&gt;一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                人类与黑猩猩虽然差异巨大，但在与共同祖先分化并各自演化了约 500-600 万年后，双方只有 1.2% 的 DNA 不同。而一种远古病毒可能在其中扮演了重要角色，阻碍黑猩猩演化出与人类相似的大脑。大约 400 万年前，逆转录病毒 PTERV1 (Pan troglodytes endogenous retrovirus-1) 感染了黑猩猩但没有感染人类，它对黑猩猩的 DNA 进行了细微的改动，导致黑猩猩的大脑发育方式与人类出现重大差异。至于为何人类未曾感染 PTERV1，一种解释是人类体内的一种独特抗病毒蛋白 TRIM5α 保护了我们免受该病毒的侵害；另一种解释是，该病毒大流行时黑猩猩与人类的祖先生活在不同的地理区域。发表在《Science Advances》期刊上的一项研究未试图解答这一问题，而是揭示了病毒如何改变黑猩猩的大脑。人类和黑猩猩都有名叫 LINC00662 的分子，它为细胞提供构建特定蛋白质的指令。LINC00662 在人类大脑发育的早期阶段非常活跃，它有助于人类脑细胞成熟并生长。病毒的 DNA 则将黑猩猩的 LINC00662 基因失活。实验室研究发现，LINC00662 被关闭时，神经元及其延伸部分无法像 LINC00662 正常工作时充分成熟与生长。移除病毒插入的 DNA 后，LINC00662 的活性恢复了。研究人员表示，这证明
+病毒确实参与了对该基因的抑制，但这并不意味着移除它就能改变大脑的发育进程。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85703" target="_blank"&gt;撸狗有助于抵抗下一次压力&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                自古以来，人类就从抚摸狗中获得慰藉。大量研究承认养宠物对福祉的益处，但驱动这些益处的机制仍不清楚。在一项研究中，研究人员邀请了 64 名狗主人及其宠物来到实验室，研究抚摸狗是否能帮助人们更好地应对压力，以及身体接触是否是这种对大脑和身体产生影响的关键。研究人员设计了实验，以分离触摸狗如何影响人在压力期间和之后的大脑、心脏和情绪状态。51 名女性和 13 名男性，平均年龄 34 岁，带着自己的宠物狗参加了研究。狗必须至少 2 岁、健康，并在新环境中感到舒适。团队追踪了参与者的大脑活动，并使用心电图监测测试前、测试中和测试后的心脏活动。他们还询问参与者在关键时间点的感受，从平静到兴奋、从负面到正面、从失控到掌控。研究人员最初预测，在高压力任务后立即抚摸狗会帮助身体恢复，但身体触摸没有提供即时恢复优势。无论参与者抚摸狗还是不触摸狗坐在狗附近，脑波模式和心率指标都以相似速度恢复到静息水平。然而，在压力任务后的五分钟休息期间抚摸狗，在参与者再次面对压力时产生了差异。当参与者后来面对第二项压力任务时，他们的身体表现出弱得多的压力反应。这在脑记录中很明显，显示在参与者触摸狗后，α 波活动在整个第二实验区组中保持更高，表明大脑激活减少。在第一区组中没有触摸狗而恢复的参与者没有表现出类似效果。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-25</guid><pubDate>Sun, 25 Oct 2026 13:35:17 +0000</pubDate></item></channel></rss>
