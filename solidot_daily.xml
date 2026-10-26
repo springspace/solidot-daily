@@ -1,27 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 25 Oct 2026 13:35:17 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 26 Oct 2026 15:53:40 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月26日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85700" target="_blank"&gt;研究揭示丹尼索瓦人的长相&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表 16 个不同年龄阶段的个体。许家窑人化石历经十余万年的埋藏，古 DNA 提取近乎无望，研究团队转向古蛋白质组学这一相对新兴的技术路径，从许家窑地点保存的 20 件标本中，无损获取内源性蛋白质开展系统发育研究，以古蛋白质证据明确支持许家窑人属于丹尼索瓦人。在此基础上，研究团队系统总结出丹尼索瓦人在颅骨、下颌骨和牙齿上的典型形态特征。综合研究推测，丹尼索瓦人具有低矮后倾的额头、粗壮眉脊、面部扁平、突颌减弱等面部特征。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85706" target="_blank"&gt;在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物全都离开了，狼进村了。Google 还在另一个数据中心选址砍伐了 15 万棵树。芬兰不是唯一一个为建造数据中心而生态系统遭到破坏的地方。美国西弗吉尼亚州的栗子树林以及印第安纳州的一处湿地都面临为数据中心让路。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85701" target="_blank"&gt;为让数据中心有充足电力 Google 将付钱给其他人少用电&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的能源服务公司 Voltus 表示，通过聚合成千上万家企业和家庭的用电，该项目能在最需要用电的时候可靠提供大量额外电力容量，而且能在几年内实现。尽管科技公司若想持续建设大型数据中心，最终仍需建造传统的发电厂，但在过渡阶段虚拟电厂方案不失为一种更快捷、更经济且污染更少的选择。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85707" target="_blank"&gt;2025 年老年抚养比首次超过少儿抚养比&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据国家统计局编著出版的《中国统计年鉴 2026》，2025 年全国 0-14 岁人口 21276 万人，占总人口比重为 15.1%；65 岁及以上人口 22365 万人，占总人口比重为15.9%。2025 年，全国总抚养比为 45.1%，其中少儿抚养比为 22%，老年抚养比为 23.1%，老年抚养比首次超过少儿抚养比。2016 年，我国老年抚养比为 15%，到 2021 年首次突破 20% 达到 20.8%。2024 年老年抚养比升至 22.8%，当年少儿抚养比为 23%、老年抚养比已经十分接近少儿抚养比。至 2025 年老年抚养比首次超过少儿抚养比。此外家庭规模也在持续缩小。今年 5 月公布的《2025 年全国 1% 人口抽样调查主要数据公报》显示，全国共有家庭户 51465 万户，家庭户人口为 129685 万人。平均每个家庭户人口为 2.52 人。在平均每个家庭户人口方面，与 2000 年第五次全国人口普查的 3.44 人相比，25 年来减少 0.92 人。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85702" target="_blank"&gt;一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                人类与黑猩猩虽然差异巨大，但在与共同祖先分化并各自演化了约 500-600 万年后，双方只有 1.2% 的 DNA 不同。而一种远古病毒可能在其中扮演了重要角色，阻碍黑猩猩演化出与人类相似的大脑。大约 400 万年前，逆转录病毒 PTERV1 (Pan troglodytes endogenous retrovirus-1) 感染了黑猩猩但没有感染人类，它对黑猩猩的 DNA 进行了细微的改动，导致黑猩猩的大脑发育方式与人类出现重大差异。至于为何人类未曾感染 PTERV1，一种解释是人类体内的一种独特抗病毒蛋白 TRIM5α 保护了我们免受该病毒的侵害；另一种解释是，该病毒大流行时黑猩猩与人类的祖先生活在不同的地理区域。发表在《Science Advances》期刊上的一项研究未试图解答这一问题，而是揭示了病毒如何改变黑猩猩的大脑。人类和黑猩猩都有名叫 LINC00662 的分子，它为细胞提供构建特定蛋白质的指令。LINC00662 在人类大脑发育的早期阶段非常活跃，它有助于人类脑细胞成熟并生长。病毒的 DNA 则将黑猩猩的 LINC00662 基因失活。实验室研究发现，LINC00662 被关闭时，神经元及其延伸部分无法像 LINC00662 正常工作时充分成熟与生长。移除病毒插入的 DNA 后，LINC00662 的活性恢复了。研究人员表示，这证明
-病毒确实参与了对该基因的抑制，但这并不意味着移除它就能改变大脑的发育进程。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85708" target="_blank"&gt;欧洲夏季热浪导致逾 5 万城市居民死亡&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                今年夏天热浪席卷了欧洲大部分地区，多地气温超过 40°C。学校关闭，沥青路变形，电网不堪重负，紧急求助电话激增。多国报告死亡人数大幅增长。德国 Robert Koch 研究所统计，4-9 月有 1.6 万人死因与高温相关。西班牙报告 7-8 月期间 5100 人死于高温。英国卫生安全局数据显示，5-6月 有近 2900 人死于高温。根据英国研究人员在《Nature Health》期刊上发表的最新研究，今年欧洲夏季的热浪导致逾 5 万城市居民死亡。高温对年长者尤其致命，85 岁及以上人群死亡人数约 22,500 人，75-84 岁人群死亡人数 14,100 人。南欧地区受到的冲击更为严重，部分原因是该地区的气温创下高温记录。南欧每百万人有 380 人死因高温相关，北欧为 129 人，东欧和西欧为 277 人。研究人员认为欧洲的热浪主要是人为全球气候暖化导致的，全球暖化加剧了极端高温天气。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85703" target="_blank"&gt;撸狗有助于抵抗下一次压力&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                自古以来，人类就从抚摸狗中获得慰藉。大量研究承认养宠物对福祉的益处，但驱动这些益处的机制仍不清楚。在一项研究中，研究人员邀请了 64 名狗主人及其宠物来到实验室，研究抚摸狗是否能帮助人们更好地应对压力，以及身体接触是否是这种对大脑和身体产生影响的关键。研究人员设计了实验，以分离触摸狗如何影响人在压力期间和之后的大脑、心脏和情绪状态。51 名女性和 13 名男性，平均年龄 34 岁，带着自己的宠物狗参加了研究。狗必须至少 2 岁、健康，并在新环境中感到舒适。团队追踪了参与者的大脑活动，并使用心电图监测测试前、测试中和测试后的心脏活动。他们还询问参与者在关键时间点的感受，从平静到兴奋、从负面到正面、从失控到掌控。研究人员最初预测，在高压力任务后立即抚摸狗会帮助身体恢复，但身体触摸没有提供即时恢复优势。无论参与者抚摸狗还是不触摸狗坐在狗附近，脑波模式和心率指标都以相似速度恢复到静息水平。然而，在压力任务后的五分钟休息期间抚摸狗，在参与者再次面对压力时产生了差异。当参与者后来面对第二项压力任务时，他们的身体表现出弱得多的压力反应。这在脑记录中很明显，显示在参与者触摸狗后，α 波活动在整个第二实验区组中保持更高，表明大脑激活减少。在第一区组中没有触摸狗而恢复的参与者没有表现出类似效果。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85710" target="_blank"&gt;Systemd 支持 Rust 程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Systemd 支持用 Rust 语言开发程序。核心 systemd 代码如 systemd 库目前尚不支持 Rust 代码，但对于systemd 程序/末端组件已支持使用 Rust 语言。Systemd 开发者并不计划将现有的 C 代码移植到 Rust，所有 Rust 代码都是通过 Meson 构建的（不使用 Cargo），仅强制要求使用 C 语言链接。Systemd 的 Rust 组件体积比 C 语言略大，一个测试程序的体积为 32KB，而其 C 语言对应程序的体积为 20KB。目前 systemd 的 Rust 支持是可选的。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-25</guid><pubDate>Sun, 25 Oct 2026 13:35:17 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85711" target="_blank"&gt;Netflix 用户观看量下降，应用打开量下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                流媒体巨头 Netflix 正通过提高订阅费用去应对用户增长停滞。内部数据显示，Netflix 订户的观看量下降，应用每月打开的天数也略有下降。目前下滑幅度尚属适度，未引起订户大规模流失。为吸引新用户并留住现有用户，Netflix 增加了内容制作预算，正向播客和体育直播等领域扩展。Apptopia 的数据显示，第三季度美国订户中，未打开过 Netflix 应用的用户比例较上年同期增长了 16.6%。Netflix 最近对管理内容的领导层进行了重组，解雇了首席内容官 Bela Bajaria 和电影业务负责人 Dan Lin ，裁减了 6% 的员工，由曾任职于迪士尼和 21 世纪福克斯的高管 Peter Rice 主管内容战略。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85713" target="_blank"&gt;科学家重现古罗马的分色玻璃&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                制作于公元四世纪的罗马玻璃笼子杯 Lycurgus Cup 会根据光源位置的不同而呈现不同的颜色，从前方照射呈绿色后方则呈红色。这一令人惊叹的光学工程成就数世纪以来令历史学家和玻璃工匠感到困惑。现在英国谢菲尔德大学的科学家成功复现了这一光学特性。研究人员将金和银纳米颗粒嵌入到玻璃，他们制备出高粘度熔融玻璃，当其自 1000 °C 以上的高温逐渐冷却时，金与银纳米晶体开始围绕其内部微粒结晶生长。当光线穿过玻璃时，其中的金银颗粒会阻挡蓝光和绿光，只让红光和橙光通过。而当光线从玻璃表面反射时，金银颗粒会产生散射效应，呈现出绿色。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-26</guid><pubDate>Mon, 26 Oct 2026 15:53:40 +0000</pubDate></item></channel></rss>
