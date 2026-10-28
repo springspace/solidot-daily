@@ -1,56 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 27 Oct 2026 15:09:32 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月27日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 28 Oct 2026 15:45:05 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月28日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85717" target="_blank"&gt;Anthropic 公布了 S1 文件&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Anthropic 已经向 SEC 递交了 S1 文件，最早下个月上市。Anthropic 的 IPO 不仅仅会是一家 AI 公司的亮相派对，还将成为对经济的一次试金石考验，关乎数万亿美元的利益。制造 Claude 聊天机器人的Anthropic是人工智能行业的一根台柱。它在私募市场估值近 1 万亿美元，并获得超过 1300 亿美元融资支持，可能在其发行中筹集 1000 亿美元，从而迅速成为世界上最大的上市公司之一。而此事还关系到更大的利益。Anthropic 及其主要竞争对手 OpenAI 位于一个由商业伙伴和供应商组成的金字塔顶端——基础设施提供商、芯片制造商、能源公司和 AI 初创企业——它们在过去的四年里都投入巨资，因为它们相信对 AI 产品的需求将持续增长。Anthropic 的挂牌上市，将让外界首次得以深度审视支撑此轮 AI 繁荣的关键企业的健康状况，同时也将检验其增长的持续性。市场对 AI 服务的需求是否真如无底洞般旺盛，足以证明在芯片、数据中心及其他基建上的庞大开支是合理的？抑或 Anthropic 的表现将表明，这一切是有局限的？
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85728" target="_blank"&gt;2025 年二氧化碳浓度创新高&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                世界气象组织周二表示，2025 年因燃烧化石燃料导致的大气中二氧化碳及其他主要温室气体的浓度达到创纪录高位，这将导致全球变暖趋势进一步固化。2025 年全球二氧化碳平均浓度为百万分之426.8（ppm），相当于 1750 年工业化前基准值的 153%。同样令人担忧的是，甲烷和一氧化二氮——这两种由人类活动产生的、在长寿温室气体中排名第二和第三的气体——其浓度在 2025 年也创下了新高。2004 年测得的二氧化碳年均浓度为 377.5 ppm，而如今已接近 427 ppm。自 1960 年代以来，二氧化碳浓度增长率已增至三倍，在 2011-2020 年的十年间，年均增幅从 0.8 ppm 加速至 2.4 ppm。1990-2025 年间，温室气体对气候造成的变暖效应增加了 56%，其中二氧化碳约占这一增幅的 81%，这一效应被称为“辐射强迫”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85718" target="_blank"&gt;微软向 6 万员工提供自愿离职方案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软向 6 万名符合条件的员工提供自愿离职方案。涉及员工人数占到了公司员工总数的四分之一。微软将向美国、印度、加拿大和英国符合条件的员工提供自愿离职方案（Voluntary Exit Offer，VEO）。职级在 70 级及以下的微软员工都有资格参与该计划。微软的 65-67 级员工对应的是首席（Principal）职位，68-70 级则属于合伙人/杰出（Partner/Distinguished）级别。这是微软在 2026 年内第二次实施自愿性员工缩减计划。今年 4 月微软向 8750 名美国员工提供了自愿退休方案。7 月 Xbox 部门裁减了 3200 名员工，约占整个游戏部门员工总数的 20%。符合 VEO 条件的员工将于周一收到电子邮件通知。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85729" target="_blank"&gt;字节跳动旗下应用使用率超过竞争对手&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据野村证券的数据，今年 7 月在中国移动互联网使用时长排名前 50 的应用中，抖音首次超过微信，占总时长的 19.4%，微信占 18.8%；整个字节系的时长份额达 40.9%，腾讯系占 28.6%。字节旗下红果免费短剧的日活跃用户达到 1.68 亿人，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的总和。红果短剧的日均使用时长约 125 分钟，抖音约 112-120 分钟，均超过腾讯系产品微信的 82=85 分钟。字节跳动抖音海外版 TikTok 以及 AI 助手豆包都非常受欢迎。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85719" target="_blank"&gt;Mozilla 推出新广告，呼吁重返互联网的美好旧时光&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 在 YouTube 上推出了一则广告《It’s time to come back to Firefox. The Internet you loved is still here.》，试图通过唤起对互联网早期黄金时代的怀旧之情吸引新用户安装 Firefox 浏览器。Mozilla CEO Anthony Enzor-DeMeo 在 Linkedin 上发文指出，“如今的互联网会追踪你、干扰你，索要它其实早已获取的权限。但互联网并非一直如此，也不该是这副模样。这只是少数几家公司为牟利而强行设定的运作方式。”
-“Firefox 选择了不同的道路。还记得我们吗？我们依然在这里，而且我们认为互联网本不该是现在这样……”广告邀请了多位昔日的网红出演。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85730" target="_blank"&gt;Swift 天文台预计于 11 月 2 日重返大气层&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                拯救失败的 NASA Neil Gehrels Swift 天文台正在坠落，预计于 11 月 2 日重返大气层。10 月 20 日，轨道高度 275 公里的 Swift 天文台无法再应对高层大气日益增强的阻力，它进入了安全模式。运营该天文台的宾夕法尼亚州立大学团队随后发送指令，正式结束其科学使命，为再入大气层做准备。NASA 于 10 月 23 日宣布天文台的任务结束。Swift 天文台的坠落速度在加快。10 月 27 日的轨道高度为 255 公里，比一周前下降了接近 23 公里，平均每天下降超过 3 公里。根据目前的轨道衰减速度，Swift  预计将于 11 月 2 日再入大气层。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85720" target="_blank"&gt;IBM CEO 称开放权重模型性能优秀成本低廉&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                IBM CEO Arvind Krishna 表示在企业内部部署开放权重模型极具价值。他指出，2024 年闭源前沿模型在性能上显著优于开源方案。前沿模型在基准测试中可能会得到 70 分，而开放权重模型可能只有 20 或 30 分。但到了 2025 年末双方的差距缩小了，不再是 70 分对 20 或 30 分，而是 70 分对 50 分。今天的开放权重模型的 Token 成本仅为前沿模型的 10% 到 25%，而在有效性上达到了前沿模型的 90%。“对任何企业来说，这都是一个简单的问题：如果有一种方案成本仅为顶尖方案的 10%，且有效性达到后者的 90%，你会选择它，还是愿意支付高出 10 倍的成本？”他认为大多数企业会选择避免承担额外的成本。绝大多数常规任务可以使用开放权重模型，而少数任务可以使用前沿模型。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85731" target="_blank"&gt;尼安德特人发生了什么？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在人类演化史的大部分时间里，地球同时存在多个人种。以过去 10 万年为例，尼安德特人曾活跃在欧洲和西亚，丹尼索瓦人生活在亚洲，形似霍比特人的弗洛勒斯人（Homo floresiensis）居住在印尼的弗洛勒斯岛，爪哇岛上最后的直立人刚刚灭绝。现代人类/智人只是其中之一。我们自己可能会认为如今单一的的人类世界是常态，研究远古历史的科学家则认为如今才是奇怪的时代，为什么现代人类成为最后幸存的一支人种？其他人种都经历了什么？在一种叙事中，人类认为其近亲过于原始而理所当然被淘汰，认为现代人类有着更大的大脑、熟练的工具使用能力以及复杂的社会结构而注定要统治地球，我们是最优秀的。但越来越多的证据显示，我们与近亲的智力差距其实很小。尼安德特人由于生存年代较近而被研究的最为充分。那么尼安德特人究竟发生了什么？一种回答是：他们仍然活着，尼安德特人与现代人类融合，他们的 DNA 留在我们的 DNA 里。丹尼索瓦人的情况类似。当然尼安德特人自己可能不会这么认为，他们作为独立的人种已经消失了。那么为什么如今只剩下现代人类？我们的成功有多少源于自身独特的能力？又有多少仅仅归于运气？澳大利亚研究组织 Australian Research Council’s Centre of Excellence for Transforming Human Origins Research 主任 Michael Petraglia 指出，我们必须认识到，智人在地球上存在的时间其实并不长，我们的生存并非理所当然。智人最终能否被视为成功的物种仍未成定论。直立人曾在地球上生存了逾一百万年，尼安德特人则存在了四十万年。尽管科学界对于智人的起源仍存争议，但许多学者认为，智人作为一个物种至今仅存在了约三十万年。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85721" target="_blank"&gt;接受更多教育降低了几十年后的痴呆风险&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                1972 年英格兰、苏格兰和威尔士改革了义务教育法，将最低离校年龄从 15 岁提高到了 16 岁，1957 年 9 月 1 日或之后出生的学生必须完成更长时间的教育；而截止日期前出生的人仍然可以在 15 岁离校。这一教育政策改革在几十年后带来了意想不到的结果：痴呆症的诊断率下降。研究人员利用英国生物银行的数据，通过医院记录、死亡登记和参与者自述病史，追踪他们直至 65 岁。结果发现，出生在义务教育改革截止日期之后——因此需要接受更长时间教育——的人，比出生在截止日期之前的人，患痴呆症的概率更低。研究还发现，高遗传易感人群痴呆症的发病率也出现了下降。研究结果表明，教育可能对痴呆症遗传风险最高的人群具有特别的保护作用。研究首次记录了教育与痴呆症诊断之间的因果关系，表明教育可以降低痴呆症的遗传风险。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85732" target="_blank"&gt;游戏行业缺乏专门为女性打造的游戏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                模拟服装制作的游戏《针影裁梦（Dressmaker）》于 9 月 21 日发售，一个月后在 Steam 平台玩家留下了逾 1.7 万评论，好评率 98%，同时在线玩家人数稳定在 1.5 万以上，对于一款小型独游而言称得上现象级了。游戏主要开发者是 Jonathan Hau-Yoon 及其伴侣 Sabrina Becker，其中 Becker 是服装设计师，她对服装制作工艺的深入理解成为游戏设计的重要依据。Becker 认为，除了游戏本身极具沉浸感和满足感之外，它成功的部分原因在于触及了一个在游戏领域长期被忽视的群体——女性。在游戏领域，女性群体一直未得到足够的重视，尽管她们其实非常热爱游戏。人们往往误以为女性不玩游戏是因为她们不喜欢，但事实是市场缺乏针对她们兴趣点的游戏作品。她观察到在 Roblox 等平台上有庞大的女性群体热衷于换装类游戏。“尽管这些平台上的体验不尽如人意，但她们依然乐此不疲，因为她们确实非常渴望此类玩法，而其他地方又无法提供。这正是我们开发《针影裁梦》的灵感来源之一。既然这是她们想要的，那我们就为她们提供这样的体验。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85722" target="_blank"&gt;Reddit 开源社区争议是否禁止 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国社交新闻平台 Reddit 专注于讨论开源项目的社群 r/opensource 公布了禁止 AI 的政策《Your tokens aren't valuable: No more AI》，理由是 AI 与该社群不兼容，要求递交到该社群的开源项目必须至少存在一年、有多名贡献者，发帖者必须会说英语而不是用 AI 翻译。这一政策引发了激烈的讨论，随后有人创建了新的允许 AI 的开源社群如 r/OpenSourceAIAllowed。r/opensource 的版主（moderator）表示该政策未来会进行调整，该社群主要禁止的是那种用 AI 工具生成的个人项目，而不是 Linux 内核之类的知名项目。Linux 作者 Linus Torvalds 最近公开表达支持 AI，而内核也不再强制要求 AI 生成代码打上标签。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85734" target="_blank"&gt;生育后不久再次分娩可能加速衰老&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                哈佛医学院、麻总百瀚的科学家探讨了妊娠与生物衰老之间的关联。研究者提出假设：若妊娠间隔过短，身体可能缺乏足够的恢复时间，从而导致与生物衰老相关的变化不断累积。研究者提出，两次妊娠之间的恢复时间最终可能影响母亲的长期健康。间隔较短的反复妊娠可能会阻碍身体的完全恢复，致使某些变化在连续妊娠中逐渐累积。世界卫生组织目前建议，在活产之后至少等待 24 个月再受孕，以降低母婴的健康风险。但研究者指出，若要基于生物学衰老而非妊娠结局提出具体建议，则需要开展额外研究，以在多次妊娠中测量生物学年龄，并在随后数十年间对这些母亲进行长期追踪。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85723" target="_blank"&gt;广电总局发布规定限制电视开机广告&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                广电总局周二公布了《交互式网络电视运营服务管理暂行规定》，该暂行规定将从 2026 年 11 月 27 日起施行。新规包括：&lt;br /&gt;
-第十一条 交互式网络电视集成播控服务提供者应当坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。智能电视机应支持优先呈现直播频道功能，提供便捷设置入口。酒店等集团用户应当坚持直播优先原则，并符合国务院广播电视主管部门相关规定。
-&lt;br /&gt;
-第十二条 交互式网络电视集成播控服务提供者应当向用户提供便捷设置入口，方便用户自行选择开机进直播或者电视交互主页。电视交互主页的页面、导航栏、状态栏、推荐位等内容应当符合国务院广播电视主管部门相关要求。
-&lt;br /&gt;
-第十三条 交互式网络电视集成播控服务提供者应当在交互式网络电视首页设立免费专区，对优质免费内容进行重点推荐，精简收费栏目数量，明示节目收费信息，规范应用专区运营和订购支付管理。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85735" target="_blank"&gt;天文学家在柯伊伯带发现一颗巨大的矮行星候选天体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2025 年 6 月正式启动观测的 Vera C. Rubin 天文台其任务之一是绘制太阳系内小天体地图，尤其是柯伊伯带天体。现在天文学家报告利用天文台的观测设备在柯伊伯带发现了一颗巨大的矮行星候选天体。矮行星是指不完全符合行星定义但也不是卫星的行星质量天体，目前国际天文学联合会确认的太阳系矮行星共五颗：冥王星、阋神星、妊神星和鸟神星，以及谷神星，此外还有十几颗候选天体。最新发现的天体编号为 2026 ED138，其直径在 600-1500 公里之间，大小可能与妊神星和鸟神星相当。ED138 绕太阳运行一周大约需要 281 年，其近日点距离太阳 36.8 6个天文单位，远日点 49.04 个天文单位。通过进一步观测，尤其是红外波段的观测，天文学家将能更精确确定其大小，评估是否符合矮行星的标准。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85724" target="_blank"&gt;宇航员的心脏能承受飞往火星的数个月之旅&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                火星之旅对人类心脏的挑战可能没有科学家曾经担忧的那么大。一项研究表明，宇航员能够很好地适应数月的失重状态。在研究中，科学家监测了 13 名在国际空间站停留了约 6 个月的宇航员的心脏状况。结果显示，尽管太空飞行最初会影响心脏功能，但宇航员会逐渐适应这种环境，而每日高强度锻炼在维持心血管健康方面发挥了重要作用。在地球上，心脏需持续对抗重力来泵血，而肌肉需要支撑体重；在太空中，这些负荷大幅降低，久而久之，肌肉乃至心脏都会出现萎缩。但重返重力环境后，血液会被拽向下半身，宇航员着陆后常出现头晕、眼前发黑，甚至血压骤降的症状，这被称为直立性低血压。作为NASA“运动对抗措施”项目的一部分，宇航员每天最多锻炼两个小时，训练内容包括 30 至 45 分钟的耐力训练，以增强心血管系统；60 至 75 分钟的抗阻训练，以保持肌肉质量和力量。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85736" target="_blank"&gt;加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                统计数据显示，至少 30 位加州亿万富翁累计投入逾 2.93 亿美元反对亿万富翁税。亿万富翁税将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。在反对该税的亿万富翁中，Google 联合创始人 Sergey Brin 出资最多，投入巨资的还有 Google 前 CEO Eric Sc​​hmidt、风险投资人 John Doerr、Stripe CEO Patrick Collison、加密货币行业高管 Chris Larsen 等。另一位支持亿万富翁税的亿万富翁 Tom Steyer 也投入了大量资金。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-27</guid><pubDate>Tue, 27 Oct 2026 15:09:32 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-28</guid><pubDate>Wed, 28 Oct 2026 15:45:05 +0000</pubDate></item></channel></rss>
