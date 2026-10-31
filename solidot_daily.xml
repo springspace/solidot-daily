@@ -1,56 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 30 Oct 2026 15:36:35 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月30日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 31 Oct 2026 15:06:40 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月31日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85749" target="_blank"&gt;币安多达 30 亿美元数字货币被盗&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                黑客从全球最大加密货币交易所币安的多个热钱包里转移了价值约 55 亿美元的加密货币资产，部分加密货币已被稳定币发行方冻结，但黑客手中仍然掌握着多达 30 亿美元的加密货币。在被盗的 55 亿美元的加密货币中，Tether 冻结了被盗的 17.68 亿美元 USDT 中的至少 15.67 亿美元，Circle 冻结了被盗的 8.23 亿美元中的 8 亿美元。World Liberty Financial 冻结了 2700 万美元 USD1，Arbitrum 冻结了 3050 万美元。币安创始人赵长鹏在社交媒体上对 Tether 和 Circle 表示了感谢，他声称作为币安股东，向客户承诺所有被盗资金都将得到全额赔付。他表示币安的损失可能超过 10 亿美元。币安托管的加密货币资产规模为 1440 亿美元，其应急基金规模约 13 亿美元，除非能追回更多资金，否则币安将需要动用自己数十亿美元的资产。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85760" target="_blank"&gt;Kogui 族人谈 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关切，那么这项技术便有助于保护生命。
+如果它源于野心、竞争、积累，或是支配的欲望，那么它所展现并放大的也将是这些东西。AI 就是一面镜子。如果一面镜子仅仅是反射，那么它是无害的。但 AI 这面镜子有潜力将它所反射出的一切无限放大...除了人类的价值观，AI 还能拥有什么价值观？人类就是它唯一的参照样本。它变成什么必然源于人类。一切皆是人类所为，一切责任也由人类承担...自然本身存在着一种秩序。这种秩序在人类到来之前便已存在。水有其流经的路径。山峦有其各自的高度。种子各有其时节，动物各有其功用，人类亦然。那些构建技术的人是否理解这种秩序？还是说，他们仅仅利用了其中可供开发的部分，却并不知晓其真正的源头？...AI 不能取代人类的良知，也不应被用来做出人类不愿承担后果的决策。知识必须与意识同行。权力必须与界限同行。创新必须与责任同行。唯有集体的道德力量，才能将世界凝聚在一起...
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85750" target="_blank"&gt;Patrick Stewart 去世，享年 86 岁&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                演艺生涯横跨舞台与银幕逾 60 年的英国演员 Patrick Stewart 去世，享年 86 岁。他最为人熟知的角色是在《星际迷航》系列中扮演 Jean-Luc Picard 舰长以及在《 X 战警》系列扮演 X 教授。Patrick Stewart 的职业生涯始于戏剧，于 1966 年加入皇家莎士比亚剧团，于1971年凭借《仲夏夜之梦》的演出首次登上百老汇剧院舞台。1987 年出演《星际迷航：下一代》，2000 年出演《 X 战警》。他还参加了至少 25 部游戏，其中最知名的是在《上古卷轴IV：湮没》中为皇帝 Uriel 配音。2010 年因对戏剧界的贡献，获英国女王伊丽莎白二世授予下级勋位爵士。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85761" target="_blank"&gt;黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的比特币、以太币和 XRP，可能难以追回了，币安的损失可能超过 30 亿美元。加密货币追踪公司 TRM Labs 的分析显示，币安在以太坊、比特币、波场和 Solana 等 10 个区块链上的钱包全部被清空，资金转移到了攻击者控制了多个钱包。攻击者的准备工作至少在窃案发生前 36 小时就开始了。攻击者在实施入侵前在多个钱包上测试了攻击代码。测试后四个小时将攻击代码植入到币安的一个热钱包。攻击者被认为是 TraderTraitor——该组织此前曾从 Bybit 交易所窃取了价值 15 亿美元的加密货币。币安称攻击者可能是从一名工程师的笔记本电脑开始的。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85751" target="_blank"&gt;海鸟在长途飞行中会经历时差反应&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                跨越经度的长途快速飞行可在野生海鸟中诱发一种“时差反应”，使它们在依靠太阳导航时偏离航线。动物在导航时依赖包括地球磁场、星辰和太阳在内的罗盘线索来保持方向。为了将太阳用作可靠的导航参照，这些动物必须利用主要由昼夜光暗周期校准的体内生物钟来补偿太阳在天空中的移动。当动物跨越经线向东或向西迁徙时，其体内生物钟可能与当地的太阳时间不同步，从而可能引发可预测的导航偏差。例如向东迁徙预计会产生相对于预定方向的顺时针偏差，而向西迁徙则会导致逆时针偏差。研究人员分析了 1045 只野生曼岛鹱（Puffinus puffinus）的 GPS 追踪数据，旨在探究跨越经度的东西向快速飞行是否会直接扰乱其体内时钟，并导致太阳罗盘导航出现偏差。这些曼岛鹱经常在东北大西洋的觅食地与英国的繁殖地之间飞行 1000 公里以上。他们发现，当快速向东或向西飞行扰乱了这些鸟体内的生物钟与当地太阳时间之间的同步性时，它们的导航会出现可预测的偏离。这些方向上的偏差与太阳罗盘误差所预期的高度吻合，表明它们在看不到陆地时严重依赖太阳进行导航。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85762" target="_blank"&gt;中国首次载人登月计划由三人组成其中两人将着陆月球表面&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。这种模式将采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对接，航天员进入着陆器并与载人飞船分离着陆月面，开展有关科学探测活动。完成任务后，航天员乘坐着陆器从月面上升，在月球轨道上与载人飞船实现二次交会对接，航天员乘坐载人飞船返回地球。王翔还透露，中国首次载人月球探测任务乘组计划由三人组成，其中两人着陆月球表面。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85752" target="_blank"&gt;Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 在公布三季度财报之后遭遇了它自 2004 年上市以来最大的单日跌幅，市值蒸发逾 5000 亿美元。在股价最低点，Google 市值蒸发 5240 亿美元，这是美股上市公司有史以来第二大单日市值缩水。仅次于英伟达在 2025 年 1 月 27 日因 DeepSeek 模型引发的市场震荡其市值单日缩水约 5930 亿美元。此前排名第二的单日跌幅由 SpaceX 创造，该公司在 6 月 22 日经历了 4000 亿美元的市值缩水，Google 超越了这一记录。美股市场今年至今已出现 18 次单日市值缩水 2000 亿美元或以上的情况，超过了 2025 年全年的 13 次。Google 的市值自 5 月创下高点以来已累计缩水约 1.4 万亿美元。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85763" target="_blank"&gt;Sam Altman 认为 PC 内存闲置太糟糕&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应极度受限的环境下，我们理应追求云端算力的最大化利用。然而许多人的直觉却恰恰相反。”AI 芯片使用的内存主要是 HBM，和 PC 使用的 DDR4 或 DDR5 并不相同。内存短缺的主要问题是内存厂商将产能转移到了利润更高的 HBM 上。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85753" target="_blank"&gt;Reddit 将强制要求所有用户登录&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在强制要求旧版本 Old Reddit(old.reddit.com)的用户必须登录之后，Reddit 宣布接下来将强制要求所有用户必须登录。Reddit 成为最新一个限制非登录用户浏览的社交平台，而它也准备推出类似其它社交平台的算法推荐信息流 For You 以及 Following 功能。CEO Steve Huffman 在致股东的信中称，此举有助于确保用户获得最佳的 Reddit 体验，对广告定向投放也更有利，能带来更高的用户参与度，更好的留住新用户。Reddit 将于第四季度在部分非美国市场测试强制登录要求。Huffman 还披露 10 月来自搜索引擎的引流流量平均每周减少逾 100 万次。如果这种下滑速度持续下去，根据目前的趋势，第四季度的日活跃独立用户数可能会较当前 1.3 亿的基数下降 10% 到 20% 左右。他表示，已登录用户以及使用应用的用户是 Reddit 最有价值的用户群，也是关注的重点。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85764" target="_blank"&gt;思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他给自己争取了四周时间来证明这一想法，最终目标是在 24 个月内重构思科 98% 的遗留代码。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85754" target="_blank"&gt;芬兰对 Google 砍伐 25 万颗树展开调查&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                作为 130 亿欧元投资计划的一部分，Google 正在芬兰的 Muhos 和 Kajaani-Otanmäki 建造两座数据中心。上周芬兰监管机构以未完成必要的环评为由下令工程停工。Google 芬兰子公司 Tuike Finland 遵守了命令。应监管机构的要求，Oulu 警方针对 Muhos 数据中心建设工地的活动（Google 在当地砍伐了 25 万颗树）展开初步调查。警方表示，此案正以涉嫌环境损害这一刑事罪名进行调查。警方指出，随着调查的深入，未来可能会明确其他潜在的指控。警方称，根据目前掌握的信息，数据中心项目工地在排水和水资源管理方面存在违规及缺陷。警方表示，初步调查工作力争在 2027 年内完成。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85755" target="_blank"&gt;LibreOffice 项目递交的代码发现使用LLM 的明确标记&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或  GitHub Copilot 等工具。这一结果并不出人意料，大型开源项目基本上不太可能完全避开 LLM。TDF 对这一发现回应称，他们确实要求贡献者在使用 LLM 时必须进行披露，且总体上并不鼓励使用 LLM。和 Debian 类似，LibreOffice 要求开发者理解自己的代码，确保代码质量。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85756" target="_blank"&gt;Claude Code for VS Code 官方扩展被植入后门&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.1.313，共上线了大约 11 小时，受影响用户估计有 5,000 名，该扩展会试图植入一个持久 SSH 后门。恶意扩展会：收集主机和用户信息：主机名、用户名、操作系统、架构、主目录路径、环境变量名称、工作目录、已配置的 Git 邮箱以及公网 IP。尝试将攻击者控制的 SSH 键添加到 authorized_keys，启用本地 SSH 服务，并建立反向 SSH 隧道。由于恶意代码存在 bug，除非 Cursor 是以管理员权限启动的 (这种情况极为罕见) ，否则这一步会失败。尝试通过 LaunchAgent (macOS) 或计划任务 (Windows，该任务会尝试以 SYSTEM 身份运行，并以启动脚本作为回退) 使反向 SSH 隧道长期生效。后台脚本大约每 60 秒重试一次建立隧道。通过 HTTP POST 将主机详情和后门状态上报至 8099 端口上的 /beacon。如果用户是在 2026 年 10 月 29 日太平洋时间凌晨 2:27 至下午 1:35 之间，从 Cursor VS Code 扩展市场安装了 Anthropic.claude-code 2.1.313 或更新到该版本，那么需要检查下系统。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85757" target="_blank"&gt;英特尔股价暴跌 29%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                英特尔股价周五暴跌 29%，创芯片巨人最大单日跌幅，整个科技股市场受其影响呈现整体跌势。英特尔市值蒸发逾 1370 亿美元，PC 市场的持续低迷，抵消了该公司在 AI 领域及制造能力扩张方面的大规模投入。AMD、Arm Holdings、高通、英伟达、博通和美光等半导体公司股价跌幅在 2%-10% 之间。戴尔、HPE 和超微等服务器制造商的股价跌幅在 6%-10% 之间。英特尔预计第四季度营收将在 150-160 亿美元之间，低于分析师平均预期的 170.7 亿美元，英特尔首席财务官 David Zinsner 还表示，公司预计今年无法实现正向现金流。PC 市场的下行态势将至少持续到明年上半年。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-30</guid><pubDate>Fri, 30 Oct 2026 15:36:35 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-31</guid><pubDate>Sat, 31 Oct 2026 15:06:40 +0000</pubDate></item></channel></rss>
