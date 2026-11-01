@@ -1,33 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 31 Oct 2026 15:06:40 +0000</lastBuildDate><item><title>【Solidot 日报】2026年10月31日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 01 Nov 2026 15:49:25 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月01日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85760" target="_blank"&gt;Kogui 族人谈 AI&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关切，那么这项技术便有助于保护生命。
-如果它源于野心、竞争、积累，或是支配的欲望，那么它所展现并放大的也将是这些东西。AI 就是一面镜子。如果一面镜子仅仅是反射，那么它是无害的。但 AI 这面镜子有潜力将它所反射出的一切无限放大...除了人类的价值观，AI 还能拥有什么价值观？人类就是它唯一的参照样本。它变成什么必然源于人类。一切皆是人类所为，一切责任也由人类承担...自然本身存在着一种秩序。这种秩序在人类到来之前便已存在。水有其流经的路径。山峦有其各自的高度。种子各有其时节，动物各有其功用，人类亦然。那些构建技术的人是否理解这种秩序？还是说，他们仅仅利用了其中可供开发的部分，却并不知晓其真正的源头？...AI 不能取代人类的良知，也不应被用来做出人类不愿承担后果的决策。知识必须与意识同行。权力必须与界限同行。创新必须与责任同行。唯有集体的道德力量，才能将世界凝聚在一起...
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85765" target="_blank"&gt;NASA 征询拯救哈勃望远镜的方案&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道、进行维护或对其进行受控重返大气层的方案。方案递交截至日期 11 月 30 日。NASA 未承诺是否资助一次哈勃拯救任务，它想知道有多少公司对此有兴趣，以及成本多少。哈勃的轨道高度已从 2002 年的 583 公里降至目前的 470 公里，如果不进行干预，哈勃预计会在 2033 年或 2034 年坠入大气层。NASA 想要将哈勃的轨道高度重新提升至 600 公里，如果能做到，哈勃将能至少继续运行 25 年。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85761" target="_blank"&gt;黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的比特币、以太币和 XRP，可能难以追回了，币安的损失可能超过 30 亿美元。加密货币追踪公司 TRM Labs 的分析显示，币安在以太坊、比特币、波场和 Solana 等 10 个区块链上的钱包全部被清空，资金转移到了攻击者控制了多个钱包。攻击者的准备工作至少在窃案发生前 36 小时就开始了。攻击者在实施入侵前在多个钱包上测试了攻击代码。测试后四个小时将攻击代码植入到币安的一个热钱包。攻击者被认为是 TraderTraitor——该组织此前曾从 Bybit 交易所窃取了价值 15 亿美元的加密货币。币安称攻击者可能是从一名工程师的笔记本电脑开始的。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85766" target="_blank"&gt;数据中心抵消了过去 15 年美国的减排努力&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。为绕过缓慢的公用电网接入排队流程，部分科技公司建设了主要依赖化石燃料的自备发电设施。到 2030 年由数据中心开发商建设或委托建设的离网发电设施每年可能产生逾 4.6 亿公吨的二氧化碳，大致相当于墨西哥全年的碳排放量。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85762" target="_blank"&gt;中国首次载人登月计划由三人组成其中两人将着陆月球表面&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。这种模式将采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对接，航天员进入着陆器并与载人飞船分离着陆月面，开展有关科学探测活动。完成任务后，航天员乘坐着陆器从月面上升，在月球轨道上与载人飞船实现二次交会对接，航天员乘坐载人飞船返回地球。王翔还透露，中国首次载人月球探测任务乘组计划由三人组成，其中两人着陆月球表面。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85763" target="_blank"&gt;Sam Altman 认为 PC 内存闲置太糟糕&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应极度受限的环境下，我们理应追求云端算力的最大化利用。然而许多人的直觉却恰恰相反。”AI 芯片使用的内存主要是 HBM，和 PC 使用的 DDR4 或 DDR5 并不相同。内存短缺的主要问题是内存厂商将产能转移到了利润更高的 HBM 上。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85764" target="_blank"&gt;思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他给自己争取了四周时间来证明这一想法，最终目标是在 24 个月内重构思科 98% 的遗留代码。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-10-31</guid><pubDate>Sat, 31 Oct 2026 15:06:40 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-01</guid><pubDate>Sun, 01 Nov 2026 15:49:25 +0000</pubDate></item></channel></rss>
