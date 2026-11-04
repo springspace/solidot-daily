@@ -1,44 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 03 Nov 2026 16:51:09 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月03日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 04 Nov 2026 16:53:29 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月04日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85778" target="_blank"&gt;国际空间站 PrK 模块因漏气被关闭&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但 6 月报告漏气再次加剧，该模块的裂缝总数达到 16 处。俄罗斯货运飞船将改为与 Poisk 舱对接。计划于 11 月 24 日发射的 Progress MS-36 货运飞船将通过 Poisk 舱卸载货物。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85788" target="_blank"&gt;纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Graham James 在一份声明中表示：“我们支持合乎道德且负责任的使用与开发 AI，但 Brave 公然蔑视现行版权法，对《纽约时报》多次要求其停止侵权行为的诉求置之不理。我们提起此项诉讼，旨在追究 Brave 的责任——它窃取了我们的内容，不仅用于支撑其自身产品，还将其提供给部分全球最知名、资源最雄厚的生成式 AI 公司。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85779" target="_blank"&gt;北欧将可能出现 40°C 高温&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                挪威、瑞典和芬兰等北欧国家传统上经历的热浪强度低于欧洲大陆的其它地区。然而在近年的极端天气事件中，例如 2026 年的热浪，欧洲大部分地区都观测到了异常高温，40 °C 的高温天气也出现在比以往更靠北的地区。根据发表在《npj Natural Hazards》期刊上的一项研究，芬兰科学家报告，北欧出现 40°C 高温不再像以前认为的那样不可能发生。研究人员估算，2025 年北欧某个地点 40 °C 的年发生率为 0.53%，比 1981 年的概率增加了 6 倍。如果以迄今为止各国已观测到的最高气温纪录作为标准，那么在当前气候条件下，挪威突破本国历史最高气温纪录的年概率最高达到 10.9%。研究结果表明，北欧国家应当做好应对远高于历史观测记录所显示的极端峰值气温的准备。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85789" target="_blank"&gt;币安称黑客通过虚假工作面试入侵工程师笔记本电脑&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                币安官方博客披露了黑客如何窃取价值 63 亿美元加密货币的初步调查报告。报告称，攻击始于今年六月：&lt;i&gt;
+2026 年 6 月——供应链攻击。钱包开发运维团队的工程师 A 为安装一款热门 AI 编程工具，通过搜索引擎查找并下载了一个遭篡改的 Homebrew 安装程序。我们的安全团队主动检测到了这一异常，更换了该设备，同时轮换了所有相关凭证。尽管如此，工程师 A 的岗位信息，以及其钱包基础设施团队中的相关同事信息，仍已暴露给攻击者。&lt;br /&gt;
+9月——社会工程攻击。软件工程师 B 通过一个正规的求职平台，收到了一名冒充项目总监人员的联系。工程师B在该平台上的个人资料中提及了自己在币安的工作经历。对方以项目总监的身份安排了第一轮面试，由一名人力资源代表参与；随后又安排了第二轮面试，面试者自称是该虚构公司的 CEO。&lt;br /&gt;
+在第一轮面试中，冒充人力资源代表的人员与工程师B进行了实时视频面试。为了建立信任，面试者还向工程师B分享了自己的社交媒体账号，其平台帐号有个人生活照片和视频。这种方式比以往的社会工程攻击手段更复杂，也更具欺骗性。&lt;br /&gt;
+第二轮面试通过一款热门社交聊天应用进行。面试接近尾声时，工程师B被要求将一份含代码仓库的“作业”下载到工作电脑中。该代码仓库包含恶意代码，在安装过程中便会执行，进而触发了一系列未经授权的操作。&lt;br /&gt;
+该恶意软件采用了复杂的代码混淆和规避检测技术，包括用恶意版本替换某个正规开发工具组件，以执行命令并与攻击者控制的外部服务器建立通信。当时，终端安全防护工具未能检测到这一零日恶意软件。攻击者还采取了隐藏恶意行为、清除入侵痕迹等措施，进一步增加了检测和后续调查的难度。&lt;br /&gt;
+10 月 20 日——利用内部 AI 工具作为攻击跳板。攻击者利用遭入侵的工程师 B 的电脑，通过内部 AI 工具控制了钱包开发运维工程师 A，以及另一名钱包软件工程师 C 的设备。攻击者很快发现，工程师 A 的电脑上存有一个具有容器部署权限的令牌。&lt;br /&gt;
+10 月 30 日——渗透钱包签名操作。10 月 30 日 01:15 至 03:56（东八区时间）期间，攻击者登录了软件工程师 C 的电脑，使用从工程师 A 处窃取的凭证部署了一个容器，并执行恶意脚本，进而发起此次攻击。
+
+&lt;/i&gt;
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85780" target="_blank"&gt;Swift 天文台将于 11 月 4 日重返大气层&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年活跃的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。10 月 20 日其轨道高度降至 275 公里，其使命正式结束。Swift 天文台的轨道经过了澳大利亚、非洲、印度、东南亚以及中南美洲上空，最有可能的坠落地点是海洋。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85790" target="_blank"&gt;Bethesda 宣布《上古卷轴VI：哨兵》&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在 2018 年宣布《上古卷轴VI》八年之后，Bethesda 宣布了游戏的副标题《上古卷轴VI：哨兵》。知名游戏记者 Jason Schreier 称，该游戏至少还要两年时间才会面世。Bethesda 是在庆祝工作室诞生四十周年的视频中公布这一消息的。《上古卷轴VI》是与《星空》一同宣布的，2023 年 9 月《星空》发售后游戏才进入正式开发阶段，预计至少到 2028 年 Bethesda 才会公布更多游戏相关信息。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85781" target="_blank"&gt;Tor Browser 16.0 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本使用 Google 的 Material Design 3 更新了界面，停止支持 32 位 x86 Linux 系统，等等。更多变化可浏览更新日志。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85791" target="_blank"&gt;SUSE 因 AI 而计划裁员十分之一&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                德国开源软件公司 SUSE 现有员工 1900 人，它计划裁掉十分之一的员工。CEO Dirk-Peter van Leeuwen 在电子邮件里表示，自动化和 AI 降低了某些岗位的需求。他表示做出这一决定是非常痛苦的，但也是必要的。Van Leeuwen 称，在被瑞典私募股权投资公司殷拓集团收购后，公司在仔细审视了其未来战略、所需能力及团队架构后做出了裁员决定,“显而易见自动化和 AI 正从根本上改变软件公司的运营方式。AI 技术正呈指数级发展，迫使我们彻底重新构想工作模式。无论是所在行业，还是在更广泛的经济领域，我们都已经看到了这一趋势。这意味着 SUSE 目前所依托的组织架构和成本基础，已无法支撑未来的成功发展。”受影响的员工将在 11 月 4 日前收到通知，员工代表将于次日选出，一对一沟通会议则将于下周初启动。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85782" target="_blank"&gt;全球加速发展核电&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                全球在建核电站已增至 79 个机组，达到 40 年来的高水平。据世界核协会统计，2026 年全球有 11 个新核电机组开工建设，截至 10 月 16 日，在建核电机组数量达到 79 个。这是 1986 年（91 个）以来的高位。1986 年是切尔诺贝利核电站事故发生的年份，此后全球新建核电机组数量有所减少。如果将预计未来 15 年内投入运营的正在规划的核电机组也计算在内，数量将达到 201 个。目前全球在运核电机组共有 443 个。即使考虑到因老化而退役的核电机组，到 2040 年前后，全球在运核电机组数量仍有可能超过 600 个。目前全球在建的79个核电机组中，仅中国就有38个，约占总数的一半，其次是印度（8个）和俄罗斯（7个）。从处于规划阶段的核电机组来看，中国同样遥遥领先，达到 42 个，其次是俄罗斯（23个）和印度（14个）。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85792" target="_blank"&gt;出生前后大脑会清理突变神经元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《自然》上的一项研究，出生前后大脑会清理突变神经元。对 2300 多个神经细胞进行的分析显示，在从人类胎儿大脑中采样的神经元中，超过 1/4 出现了染色体片段增加或缺失的情况。相比之下，出生后婴儿大脑中的神经元中，只有约 6% 存在此类异常。研究结果揭示了一种新的机制，该机制不仅调控着一个人的神经元数量，还决定了哪些胎儿神经元能够在大脑中存活下来。针对小鼠的研究表明，在早期发育过程中，哺乳动物会通过激活一个导致细胞死亡的分子程序，清除大量脑细胞。分析结果显示，在胎儿发育过程中，存在数量惊人的、具有广泛拷贝数变异的细胞。然而出生后，这些异常神经元的比例下降至原来的 1/4，表明它们在发育过程中已被淘汰。大脑是如何分辨哪些神经元正常、哪些不正常呢？一个可能的线索是那些拷贝数变异水平较高的脑细胞，其与其他神经元建立连接（即突触）的基因也往往表现异常。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85783" target="_blank"&gt;Enlightenment 0.28.0 释出，初步支持 BSD&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设置电池阈值和支持 ACPI 电源配置等等，以及大量 bug 修复和更改。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85793" target="_blank"&gt;苹果开始在中国推出 Apple Intelligence&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果从 11 月 4 日起开始在中国推出 AI 功能 Apple Intelligence，中国用户可通过最新的 iOS 开发者 Beta 版进行测试，AI 功能将于 12 月随 iOS 27.3 的发布正式推出。中国版本的 Apple Intelligence 是苹果和阿里巴巴合作推出的，基于阿里巴巴的千问模型。首批 AI 功能包括实时翻译、写作工具、视觉智能、照片 app 的消除工具、智绘表情、照片 app 中的自然语言搜索、在照片 app 中创建回忆影片、识别优先邮件、邮件摘要、智能回复、通知摘要、首要通知、减少干扰、备忘录 app 中的音频转录摘要、通话转录文本的摘要、输⼊⽂字与 Siri 对话、Siri 能接入千问（需登录千问）、创作等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85785" target="_blank"&gt;科学家发现 1.15 亿年前的恐龙红细胞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研究人员估计，这只恐龙体长约 3 米、重约 34 公斤，死亡后遗体沉入水底，微生物生长并将其掩埋，从而保存了下来。在显微镜下，研究人员在这只恐龙的骨骼中发现化石细胞的迹象：这些结构呈圆形，中心凹陷，每个细胞平均长 23 微米、宽 20 微米，嵌在曾经让血管穿过骨骼的通道中。下一步则是寻找化学线索，以证明这些结构确实含有血细胞，而不仅仅是形似血细胞的矿物质。在他们进行的近 30 项试验中，有一项是将骨样本研磨成粉后用激光照射，从样本散射回来的光显示出血红素的存在。血红素是一种环状化合物，其中的铁元素有助于红细胞运输氧气。研究人员还发现了大量降解形式的血红素。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85794" target="_blank"&gt;Nexus Mods 公布 AI 生成内容政策&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod 的分享设定了更严格的规定。新上传 Mod 必须披露是否使用 AI，AI 辅助 Mod 必须说明如何使用 AI 以及 AI 的使用范围。现有 Mod 需在 2027 年 1 月 2 日前符合新要求。如果 Mod 作者无视平台方提出的要求，可能会面临权限受限或被下架的后果。它计划针对 AI 使用、AI 模型训练、分支和衍生 Mod 引入新的授权选项，默认选项为“需征求作者同意（Ask me）”。Nexus Mods 承诺绝不会利用用户上传的 Mod 训练 AI，也不会将其出售或授权给任何 AI 公司。Nexus Mods 严禁利用生成式 AI 生成虚假的游戏截图。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-03</guid><pubDate>Tue, 03 Nov 2026 16:51:09 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85795" target="_blank"&gt;富士胶片因 AI 热加大磁带产能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的使用，因为磁带能以相对较低的成本存储海量数据。磁带备份可以轻松与系统断开连接，存放在抽屉、保险库或独立设施内。富士胶片强调，磁带介质能实现物理隔离（air-gap），为用户数据提供最后一道防线。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-04</guid><pubDate>Wed, 04 Nov 2026 16:53:29 +0000</pubDate></item></channel></rss>
