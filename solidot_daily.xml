@@ -1,59 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 04 Nov 2026 16:53:29 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月04日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 05 Nov 2026 17:08:27 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月05日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85788" target="_blank"&gt;纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Graham James 在一份声明中表示：“我们支持合乎道德且负责任的使用与开发 AI，但 Brave 公然蔑视现行版权法，对《纽约时报》多次要求其停止侵权行为的诉求置之不理。我们提起此项诉讼，旨在追究 Brave 的责任——它窃取了我们的内容，不仅用于支撑其自身产品，还将其提供给部分全球最知名、资源最雄厚的生成式 AI 公司。”
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85799" target="_blank"&gt;AMD 营收预计将首次超过英特尔&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85789" target="_blank"&gt;币安称黑客通过虚假工作面试入侵工程师笔记本电脑&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                币安官方博客披露了黑客如何窃取价值 63 亿美元加密货币的初步调查报告。报告称，攻击始于今年六月：&lt;i&gt;
-2026 年 6 月——供应链攻击。钱包开发运维团队的工程师 A 为安装一款热门 AI 编程工具，通过搜索引擎查找并下载了一个遭篡改的 Homebrew 安装程序。我们的安全团队主动检测到了这一异常，更换了该设备，同时轮换了所有相关凭证。尽管如此，工程师 A 的岗位信息，以及其钱包基础设施团队中的相关同事信息，仍已暴露给攻击者。&lt;br /&gt;
-9月——社会工程攻击。软件工程师 B 通过一个正规的求职平台，收到了一名冒充项目总监人员的联系。工程师B在该平台上的个人资料中提及了自己在币安的工作经历。对方以项目总监的身份安排了第一轮面试，由一名人力资源代表参与；随后又安排了第二轮面试，面试者自称是该虚构公司的 CEO。&lt;br /&gt;
-在第一轮面试中，冒充人力资源代表的人员与工程师B进行了实时视频面试。为了建立信任，面试者还向工程师B分享了自己的社交媒体账号，其平台帐号有个人生活照片和视频。这种方式比以往的社会工程攻击手段更复杂，也更具欺骗性。&lt;br /&gt;
-第二轮面试通过一款热门社交聊天应用进行。面试接近尾声时，工程师B被要求将一份含代码仓库的“作业”下载到工作电脑中。该代码仓库包含恶意代码，在安装过程中便会执行，进而触发了一系列未经授权的操作。&lt;br /&gt;
-该恶意软件采用了复杂的代码混淆和规避检测技术，包括用恶意版本替换某个正规开发工具组件，以执行命令并与攻击者控制的外部服务器建立通信。当时，终端安全防护工具未能检测到这一零日恶意软件。攻击者还采取了隐藏恶意行为、清除入侵痕迹等措施，进一步增加了检测和后续调查的难度。&lt;br /&gt;
-10 月 20 日——利用内部 AI 工具作为攻击跳板。攻击者利用遭入侵的工程师 B 的电脑，通过内部 AI 工具控制了钱包开发运维工程师 A，以及另一名钱包软件工程师 C 的设备。攻击者很快发现，工程师 A 的电脑上存有一个具有容器部署权限的令牌。&lt;br /&gt;
-10 月 30 日——渗透钱包签名操作。10 月 30 日 01:15 至 03:56（东八区时间）期间，攻击者登录了软件工程师 C 的电脑，使用从工程师 A 处窃取的凭证部署了一个容器，并执行恶意脚本，进而发起此次攻击。
-
-&lt;/i&gt;
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85800" target="_blank"&gt;新型牙刷通过产生电对抗牙菌斑病原体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一款新型牙刷可通过刷毛移动产生电能，进而可对抗产生牙菌斑的病原体。在为期 3 个月、涉及 115 名志愿者的试验中，牙刷在减少口腔中导致龋齿和牙周炎的细菌方面的效果优于常规的机械刷牙法。牙刷是人类对抗牙菌斑的最强战士，它每晚都能物理性地清除牙齿上的细菌生物膜。然而细菌总会卷土重来，因此每天早晨都会重新开始这场战斗。北京大学口腔医学院的研究人员研发出一种牙刷，其压电单丝刷毛在刷牙过程中弯曲时会产生电荷。这一过程会产生活性氧，进而能破坏牙齿上的生物膜。在实验室中，该装置能有效杀灭口腔病原体，如牙龈卟啉单胞菌（Porphyromonas gingivalis，可引发牙周炎）。研究人员还在真实口腔环境中评估了这种牙刷的实用性。他们将这种牙刷分发给总计 115 名志愿者，这些人都接受了相同的刷牙指导。根据对样本的基因测序和宏基因组测序结果，志愿者口腔中有几种口腔病原体的相对丰度有所下降。总体而言，与传统尼龙刷毛牙刷相比，这种牙刷能更好地控制牙菌斑、减轻牙龈炎症和出血。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85790" target="_blank"&gt;Bethesda 宣布《上古卷轴VI：哨兵》&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在 2018 年宣布《上古卷轴VI》八年之后，Bethesda 宣布了游戏的副标题《上古卷轴VI：哨兵》。知名游戏记者 Jason Schreier 称，该游戏至少还要两年时间才会面世。Bethesda 是在庆祝工作室诞生四十周年的视频中公布这一消息的。《上古卷轴VI》是与《星空》一同宣布的，2023 年 9 月《星空》发售后游戏才进入正式开发阶段，预计至少到 2028 年 Bethesda 才会公布更多游戏相关信息。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85801" target="_blank"&gt;任天堂最大 ROM 芯片供应商准备退出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                任天堂 Switch 游戏机实体游戏卡带使用的 ROM 芯片供应也受到了 AI 热的影响。任天堂最大 ROM 芯片供应商旺宏电子在其第三季度财报中宣布它准备终止 ROM 芯片生产，脱离游戏行业。旺宏电子表示，ROM 芯片的产量在过去一年中缩减了 39%，目前仅占其业务总量的 5%。ROM 芯片正逐渐被利润更高、需求更旺盛的其它存储芯片所取代。这意味着任天堂未来只能依靠其它 ROM 芯片供应商如罗姆（Rohm）和蓝碧半导体（Lapis Semiconductor），意味着游戏卡带生产成本可能会进一步上升。任天堂已经承诺未来会继续提供实体游戏卡带，不会效仿索尼只提供游戏的数字版本。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85791" target="_blank"&gt;SUSE 因 AI 而计划裁员十分之一&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                德国开源软件公司 SUSE 现有员工 1900 人，它计划裁掉十分之一的员工。CEO Dirk-Peter van Leeuwen 在电子邮件里表示，自动化和 AI 降低了某些岗位的需求。他表示做出这一决定是非常痛苦的，但也是必要的。Van Leeuwen 称，在被瑞典私募股权投资公司殷拓集团收购后，公司在仔细审视了其未来战略、所需能力及团队架构后做出了裁员决定,“显而易见自动化和 AI 正从根本上改变软件公司的运营方式。AI 技术正呈指数级发展，迫使我们彻底重新构想工作模式。无论是所在行业，还是在更广泛的经济领域，我们都已经看到了这一趋势。这意味着 SUSE 目前所依托的组织架构和成本基础，已无法支撑未来的成功发展。”受影响的员工将在 11 月 4 日前收到通知，员工代表将于次日选出，一对一沟通会议则将于下周初启动。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85802" target="_blank"&gt;Swift 天文台从印尼上空重返大气层&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA Neil Gehrels Swift 天文台于 11 月 4 日 7:39 a.m. EST 从印尼苏门答腊上空再入大气层，坐标为北纬 3.4 度、东经 98.6 度。天文台的大部分组件在重返大气层过程中烧毁，可能有部分组件幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85792" target="_blank"&gt;出生前后大脑会清理突变神经元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《自然》上的一项研究，出生前后大脑会清理突变神经元。对 2300 多个神经细胞进行的分析显示，在从人类胎儿大脑中采样的神经元中，超过 1/4 出现了染色体片段增加或缺失的情况。相比之下，出生后婴儿大脑中的神经元中，只有约 6% 存在此类异常。研究结果揭示了一种新的机制，该机制不仅调控着一个人的神经元数量，还决定了哪些胎儿神经元能够在大脑中存活下来。针对小鼠的研究表明，在早期发育过程中，哺乳动物会通过激活一个导致细胞死亡的分子程序，清除大量脑细胞。分析结果显示，在胎儿发育过程中，存在数量惊人的、具有广泛拷贝数变异的细胞。然而出生后，这些异常神经元的比例下降至原来的 1/4，表明它们在发育过程中已被淘汰。大脑是如何分辨哪些神经元正常、哪些不正常呢？一个可能的线索是那些拷贝数变异水平较高的脑细胞，其与其他神经元建立连接（即突触）的基因也往往表现异常。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85803" target="_blank"&gt;富钾盐替换普通盐有助于每年预防数百万人死亡&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                澳大利亚乔治全球健康研究院的研究人员评估了在 193 个国家将食盐供应转换为富钾盐的健康益处。他们发现，全球每年可预防近 300 万例死亡和 1000 万例心血管疾病和肾脏疾病新发病例。富钾盐是通过用氯化钾替代部分氯化钠（即普通食盐的主要成分）制成的。它在外观、味道和烹饪方式上都与普通食盐一样。2025 年世界卫生组织（WHO）认可使用富钾盐来降低血压和心血管疾病风险。全球范围内，30-79 岁成年人中有三分之一患有高血压，相当于约 14 亿人。心血管疾病（CVD）是全球死亡和残疾的主要原因，2023 年导致 1920 万人死亡，过去 30 年增加了近 50%。虽然潜在益处很大，但一个担忧是晚期肾病患者出现高钾血症（血钾水平过高）的风险。然而，研究发现，即使在晚期肾病患者中，益处也大于风险。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85793" target="_blank"&gt;苹果开始在中国推出 Apple Intelligence&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                苹果从 11 月 4 日起开始在中国推出 AI 功能 Apple Intelligence，中国用户可通过最新的 iOS 开发者 Beta 版进行测试，AI 功能将于 12 月随 iOS 27.3 的发布正式推出。中国版本的 Apple Intelligence 是苹果和阿里巴巴合作推出的，基于阿里巴巴的千问模型。首批 AI 功能包括实时翻译、写作工具、视觉智能、照片 app 的消除工具、智绘表情、照片 app 中的自然语言搜索、在照片 app 中创建回忆影片、识别优先邮件、邮件摘要、智能回复、通知摘要、首要通知、减少干扰、备忘录 app 中的音频转录摘要、通话转录文本的摘要、输⼊⽂字与 Siri 对话、Siri 能接入千问（需登录千问）、创作等。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85804" target="_blank"&gt;Google 和 OpenAI 的模型对特定口音有偏见&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                研究人员调查了先进多模态模型如何评估面试、会议报告和英语口语能力测试中的语音，测试的模型包括了 Google 的 Gemini 2.5 Pro 和 Gemini 2.5 Flash，以及 OpenAI 的 GPT-Audio 1.5，开放权重模型 Qwen 3 Omni。这些模型对五种不同口音——美国、英国、中国、印度和尼日利亚——的英语语音进行了评分。AI 模型普遍将中国和尼日利亚口音的评分最低，印度口音居中，美国和英国口音的评分最高。即使内容完全相同，系统仍然认为美国和英国口音的表达方式和内容都更胜一筹。研究团队发现，明显的等级划分也体现在模型的解释中。研究人员说，模型反复声称中国和尼日利亚口音的英语使用者含糊不清或难以理解，但实际上它们非常擅长转录带有口音的语音，它们理解说话者，但它们只是基于口音，对说话者存在一种隐性的等级观念。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85794" target="_blank"&gt;Nexus Mods 公布 AI 生成内容政策&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod 的分享设定了更严格的规定。新上传 Mod 必须披露是否使用 AI，AI 辅助 Mod 必须说明如何使用 AI 以及 AI 的使用范围。现有 Mod 需在 2027 年 1 月 2 日前符合新要求。如果 Mod 作者无视平台方提出的要求，可能会面临权限受限或被下架的后果。它计划针对 AI 使用、AI 模型训练、分支和衍生 Mod 引入新的授权选项，默认选项为“需征求作者同意（Ask me）”。Nexus Mods 承诺绝不会利用用户上传的 Mod 训练 AI，也不会将其出售或授权给任何 AI 公司。Nexus Mods 严禁利用生成式 AI 生成虚假的游戏截图。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85805" target="_blank"&gt;Bazzite 45 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                基于 Fedora 的游戏发行版 Bazzite 释出了 v45。主要变化包括；基于 Fedora 45，更新 Open Gaming Collective(OGC)内核，支持罗技 TrueWheel 设备等等。过去几年 Linux 对游戏的支持有了显著改善，但对很多用户而言仍然需要自行配置。Bazzite 项目旨在让 Linux 桌面用户无需额外配置就能畅玩游戏，设计类似 Valve 的 SteamOS，但更适合通用桌面使用情景：SteamOS 主要支持 AMD GPU，Bazzite 包含了私有的 NVIDIA 驱动。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85795" target="_blank"&gt;富士胶片因 AI 热加大磁带产能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的使用，因为磁带能以相对较低的成本存储海量数据。磁带备份可以轻松与系统断开连接，存放在抽屉、保险库或独立设施内。富士胶片强调，磁带介质能实现物理隔离（air-gap），为用户数据提供最后一道防线。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85806" target="_blank"&gt;白宫网络监测到住宅代理活动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                安全公司 Layer3 Intel 报告，他们在分配给白宫的自治系统 AS2650 中监测到住宅代理服务的活动。住宅代理服务会将用户的网络地址租给其他人使用。Layer3 在 10 月 5 日-11 月 3 日期间观察到了 236 次住宅代理连接活动。住宅代理的源头被认为来自 Windows 11 设备安装的俄罗斯代理程序 Infatica。Layer3 Intel 指出，在30 天内有 26 天出现了源自白宫的代理出口节点流量，涉及 6 个 IP，大部分活动发生在傍晚，即下午 5 点至午夜之间。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-04</guid><pubDate>Wed, 04 Nov 2026 16:53:29 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85807" target="_blank"&gt;越南对足球直播盗版者判刑最高一年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                越南一家法院对 14 名参与盗版足球赛事直播网站 Bun Cha TV 的团队判处最高一年徒刑。4 名内容、编程和运营团队负责人被判处 12 个月徒刑，另外 5 人判处 10 个月监禁，2 人判处 8 个月监禁，3 名解说员被判处 10 个月缓刑。所有 14 名被告都承认了指控，配合了调查。Bun Cha TV 累计直播逾 15 万场体育赛事，通过博彩及赌博广告非法获利逾 200 亿越南盾（约 512 万人民币）。内容团队负责人获利逾 4.3 亿越南盾，解说员非法所得则在 3100 万到 4.8 亿越南盾不等。美国 MPAA 的代表称赞了这一判决。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-05</guid><pubDate>Thu, 05 Nov 2026 17:08:27 +0000</pubDate></item></channel></rss>
