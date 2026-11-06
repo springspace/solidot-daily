@@ -1,56 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 05 Nov 2026 17:08:27 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月05日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 06 Nov 2026 16:37:18 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月06日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85799" target="_blank"&gt;AMD 营收预计将首次超过英特尔&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85808" target="_blank"&gt;同步导致电网呈现周期为一分钟的震荡&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                今天的电网接入了数以百万计的数字控制设备，为了维持电力供需平衡，精准预测和实时控制必不可少。电力系统因此转变成为一种信息物理融合的基础设施（Cyber–Physical Infrastructure）。物理设备与数字控制系统之间形成了紧密的相互依存关系，在带来前所未有的效率与灵活性的同时也引入了新的系统性风险。根据发表在《Nature Energy》期刊上的一项研究，德国研究人员指出全球电力系统存在的一种由信息物理同步效应所引发的、周期为一分钟的相干振荡现象。除了故障和恶意攻击外，即使是良性的控制程序，当大量设备以协同一致的方式运行时，也可能产生系统层面的影响。在大规模信息物理能源系统中，非预期的同步行为可能引发反复出现且具有潜在放大效应的振荡现象。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85800" target="_blank"&gt;新型牙刷通过产生电对抗牙菌斑病原体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                一款新型牙刷可通过刷毛移动产生电能，进而可对抗产生牙菌斑的病原体。在为期 3 个月、涉及 115 名志愿者的试验中，牙刷在减少口腔中导致龋齿和牙周炎的细菌方面的效果优于常规的机械刷牙法。牙刷是人类对抗牙菌斑的最强战士，它每晚都能物理性地清除牙齿上的细菌生物膜。然而细菌总会卷土重来，因此每天早晨都会重新开始这场战斗。北京大学口腔医学院的研究人员研发出一种牙刷，其压电单丝刷毛在刷牙过程中弯曲时会产生电荷。这一过程会产生活性氧，进而能破坏牙齿上的生物膜。在实验室中，该装置能有效杀灭口腔病原体，如牙龈卟啉单胞菌（Porphyromonas gingivalis，可引发牙周炎）。研究人员还在真实口腔环境中评估了这种牙刷的实用性。他们将这种牙刷分发给总计 115 名志愿者，这些人都接受了相同的刷牙指导。根据对样本的基因测序和宏基因组测序结果，志愿者口腔中有几种口腔病原体的相对丰度有所下降。总体而言，与传统尼龙刷毛牙刷相比，这种牙刷能更好地控制牙菌斑、减轻牙龈炎症和出血。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85809" target="_blank"&gt;印度金融机构遭黑客利用 AI 工具发动的网络攻击&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别是 ARTEX、PentAGI、Cairn 和 CyberStrikeAI。ARTEX 此前曾被用于攻击韩国银行。印度计算机应急响应小组没有说明这些攻击事件由谁发动，也未透露该组织的运作地点。该机构也没有称这些攻击由国家支持或主导，且其点名的攻击工具均可在网络上免费获取。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85801" target="_blank"&gt;任天堂最大 ROM 芯片供应商准备退出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                任天堂 Switch 游戏机实体游戏卡带使用的 ROM 芯片供应也受到了 AI 热的影响。任天堂最大 ROM 芯片供应商旺宏电子在其第三季度财报中宣布它准备终止 ROM 芯片生产，脱离游戏行业。旺宏电子表示，ROM 芯片的产量在过去一年中缩减了 39%，目前仅占其业务总量的 5%。ROM 芯片正逐渐被利润更高、需求更旺盛的其它存储芯片所取代。这意味着任天堂未来只能依靠其它 ROM 芯片供应商如罗姆（Rohm）和蓝碧半导体（Lapis Semiconductor），意味着游戏卡带生产成本可能会进一步上升。任天堂已经承诺未来会继续提供实体游戏卡带，不会效仿索尼只提供游戏的数字版本。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85811" target="_blank"&gt;《尼尔：自动人形》释出更新游戏容量从 50GB 暴涨至 366GB&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                2017 年发售的《尼尔：自动人形（Nier: Automata）》释出了最新更新，加入了对简繁体中文以及韩文的支持，但游戏的打包显然存在 bug，整个游戏文件的容量从 50GB 暴涨至 366GB。《尼尔：自动人形》共有八个 DLC，每增加一个 DLC，游戏的容量就会增加 40GB，也就是每个 DLC 都包含了主游戏文件。现在想要玩《尼尔》的中韩玩家最好先等待游戏开发商释出修正，除非你的 SSD 有几百 GB 的可用空间。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85802" target="_blank"&gt;Swift 天文台从印尼上空重返大气层&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                NASA Neil Gehrels Swift 天文台于 11 月 4 日 7:39 a.m. EST 从印尼苏门答腊上空再入大气层，坐标为北纬 3.4 度、东经 98.6 度。天文台的大部分组件在重返大气层过程中烧毁，可能有部分组件幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85812" target="_blank"&gt;Kagi 开放搜索&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                付费无广告搜索引擎 Kagi 宣布了最新更新，向所有人开放搜索，但免费用户搜索次数有限额。现在任何人无需注册账号可搜索 50 次，注册账号之后再增加 100 次。Kagi 还抨击了 Google 最近的一项决定：如果美国学校选择禁用 AI 那么它的搜索引擎也将会对学校关闭。Kagi 认为：教育不应沦为广告公司的人质，应当停止将企业利润置于教育学生这一核心使命之上。它呼吁美国学校可选择包括 Kagi 在内的其它搜索引擎。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85803" target="_blank"&gt;富钾盐替换普通盐有助于每年预防数百万人死亡&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                澳大利亚乔治全球健康研究院的研究人员评估了在 193 个国家将食盐供应转换为富钾盐的健康益处。他们发现，全球每年可预防近 300 万例死亡和 1000 万例心血管疾病和肾脏疾病新发病例。富钾盐是通过用氯化钾替代部分氯化钠（即普通食盐的主要成分）制成的。它在外观、味道和烹饪方式上都与普通食盐一样。2025 年世界卫生组织（WHO）认可使用富钾盐来降低血压和心血管疾病风险。全球范围内，30-79 岁成年人中有三分之一患有高血压，相当于约 14 亿人。心血管疾病（CVD）是全球死亡和残疾的主要原因，2023 年导致 1920 万人死亡，过去 30 年增加了近 50%。虽然潜在益处很大，但一个担忧是晚期肾病患者出现高钾血症（血钾水平过高）的风险。然而，研究发现，即使在晚期肾病患者中，益处也大于风险。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85813" target="_blank"&gt;微软画图应用曝出远程代码执行漏洞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软画图应用曝出了一个越界读取导致的远程代码执行漏洞，受影响版本从 11.0.0.0 到 11.2605.91.0 之前。画图应用被预装在每一台 Windows PC 上，最近一段时间微软为画图应用引入了越来越多的新功能，其中包括 AI 生成功能，它同时也给画图引入了新 bug。微软用户目前可能需要通过 Microsoft Store 官方应用商店下载修正后的版本，Windows Update 尚未推送新版本。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85804" target="_blank"&gt;Google 和 OpenAI 的模型对特定口音有偏见&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                研究人员调查了先进多模态模型如何评估面试、会议报告和英语口语能力测试中的语音，测试的模型包括了 Google 的 Gemini 2.5 Pro 和 Gemini 2.5 Flash，以及 OpenAI 的 GPT-Audio 1.5，开放权重模型 Qwen 3 Omni。这些模型对五种不同口音——美国、英国、中国、印度和尼日利亚——的英语语音进行了评分。AI 模型普遍将中国和尼日利亚口音的评分最低，印度口音居中，美国和英国口音的评分最高。即使内容完全相同，系统仍然认为美国和英国口音的表达方式和内容都更胜一筹。研究团队发现，明显的等级划分也体现在模型的解释中。研究人员说，模型反复声称中国和尼日利亚口音的英语使用者含糊不清或难以理解，但实际上它们非常擅长转录带有口音的语音，它们理解说话者，但它们只是基于口音，对说话者存在一种隐性的等级观念。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85814" target="_blank"&gt;摩托罗拉宣布第一款支持 GrapheneOS 的旗舰手机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                摩托罗拉宣布了第一款支持安全加固发行版 GrapheneOS 的旗舰手机 Signature 27，但售价高达 1600 美元。Signature 27 配备了高通目前最强大的移动芯片骁龙 8 Elite Extreme Gen 6，内存只有 12GB 没有 16GB 版本（目前内存供应紧张而且价格昂贵），存储空间为 512G​​B (UFS 4.1）；显示屏为 6.8英寸 Extreme AMOLED Duo，120Hz刷新率，12,000 尼特峰值亮度；电池 7000 mAh，90W 有线充电，15W (Qi) 无线充电，等等。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85805" target="_blank"&gt;Bazzite 45 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                基于 Fedora 的游戏发行版 Bazzite 释出了 v45。主要变化包括；基于 Fedora 45，更新 Open Gaming Collective(OGC)内核，支持罗技 TrueWheel 设备等等。过去几年 Linux 对游戏的支持有了显著改善，但对很多用户而言仍然需要自行配置。Bazzite 项目旨在让 Linux 桌面用户无需额外配置就能畅玩游戏，设计类似 Valve 的 SteamOS，但更适合通用桌面使用情景：SteamOS 主要支持 AMD GPU，Bazzite 包含了私有的 NVIDIA 驱动。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85815" target="_blank"&gt;Salon 宣布终止出版&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，当时的互联网与今天截然不同。一小群记者开始尝试创造一些与众不同的东西：他们希望创办一种具有鲜明风格、对世界充满好奇，并且坚信互联网能以全新的方式将新闻报道与读者连接起来的出版物。他们开创了一种全新的新闻报道形式，这种形式后来成为定义了一个全新的出版时代。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85806" target="_blank"&gt;白宫网络监测到住宅代理活动&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                安全公司 Layer3 Intel 报告，他们在分配给白宫的自治系统 AS2650 中监测到住宅代理服务的活动。住宅代理服务会将用户的网络地址租给其他人使用。Layer3 在 10 月 5 日-11 月 3 日期间观察到了 236 次住宅代理连接活动。住宅代理的源头被认为来自 Windows 11 设备安装的俄罗斯代理程序 Infatica。Layer3 Intel 指出，在30 天内有 26 天出现了源自白宫的代理出口节点流量，涉及 6 个 IP，大部分活动发生在傍晚，即下午 5 点至午夜之间。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85816" target="_blank"&gt;Silver Lake 和 PIF 磋商收购 Unity Software&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                私募股权公司 Silver Lake 和沙特主权财富基金 PIF 在今年八月完成以 550 亿美元收购 EA 之后正在磋商收购游戏引擎提供商 Unity Software。Silver Lake 持有 8% 的 Unity 股权。在 Unity 发布最新财报前，收购财团论过约 250 亿美元的估值；财报发布后 Unity 市值升至约 215 亿美元。如果交易达成，Unity 将和 EA 一样私有化。Unity 的游戏引擎和开发者工具在游戏行业被广泛使用。Unity 于 2004 年在丹麦成立。自上市以来，公司业务已从游戏引擎扩大到广告技术和实时 3D 软件。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85807" target="_blank"&gt;越南对足球直播盗版者判刑最高一年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                越南一家法院对 14 名参与盗版足球赛事直播网站 Bun Cha TV 的团队判处最高一年徒刑。4 名内容、编程和运营团队负责人被判处 12 个月徒刑，另外 5 人判处 10 个月监禁，2 人判处 8 个月监禁，3 名解说员被判处 10 个月缓刑。所有 14 名被告都承认了指控，配合了调查。Bun Cha TV 累计直播逾 15 万场体育赛事，通过博彩及赌博广告非法获利逾 200 亿越南盾（约 512 万人民币）。内容团队负责人获利逾 4.3 亿越南盾，解说员非法所得则在 3100 万到 4.8 亿越南盾不等。美国 MPAA 的代表称赞了这一判决。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85817" target="_blank"&gt;中国三季度 CO2 排放下降 3%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据 Carbon Brief 的分析，中国第三季度 7-9 月的 CO2 排放量同比下降 3.1%，为 2022 年以来最大降幅。今年至今中国碳排放量累计下降 0.5%。数据显示，中国第三季度石油消费量同比下降 4%，煤炭使用量同比下降 3%。第三季度 CO2 排放量下降的关键因素之一是燃煤发电量减少 3.3%。背后的原因是电力需求增长放缓，同时风能和太阳能未被利用的发电量也有所减少。太阳能、风能和核能的发电量同比增加了 110 TWh，超过了同期电力总需求增幅的两倍。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-05</guid><pubDate>Thu, 05 Nov 2026 17:08:27 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85818" target="_blank"&gt;NASA 通过 AI 生成图像宣布 X-70 试验机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 宣布了新试验机 X-70 Fractal，它展示了一幅生成图像——即并非实图，而是 AI 生成的。NASA 称，X-70 是载人飞行器，设计巡航速度为 0.75 马赫，最大飞行高度约 13700 米，航程 2778 公里。X-70 起飞重量为 4536 公斤，设计可容纳 900 公斤的机内外试验载荷。NASA 局长 Jared Isaacman 表示，这架试验机有望在两年内首飞。关于其具体设计细节和研发时间表目前知之甚少。NASA 公布的生成图像显示 X-70 与超音速侦察机 SR-71 非常相似。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85819" target="_blank"&gt;特斯拉将停产 Cyber​​truck&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Model 3 和 Model Y 一样随处可见。然而 Cyber​​truck 研发比特斯拉的其它车型更坎坷，为量产还修改了底盘结构，而 25 万年预售目标也根本无法实现。如今马斯克的粉丝将只剩下几个月的时间购买这款奇特的电动皮卡。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-06</guid><pubDate>Fri, 06 Nov 2026 16:37:18 +0000</pubDate></item></channel></rss>
