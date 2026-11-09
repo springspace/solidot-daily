@@ -1,32 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 08 Nov 2026 15:49:00 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月08日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 09 Nov 2026 19:31:48 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月09日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85824" target="_blank"&gt;FAA 计划到 2028 年淘汰软盘&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，2011 年起不再大规模生产。去年美国国会批准了 125 亿美元资金用于更新陈旧的空管系统。FAA 目前还面临诸多技术难题，交通部长 Sean Duffy 正寻求额外 30 亿美元的资金。FAA 局长 Bryan Bedford 表示：“我们正摒弃过时的手动流程，用一套现代化系统取代曾依赖软盘的技术。新系统使管制员能即时共享关键的飞行警报、空域限制计划以及飞行员报告。”FAA 还在使用康柏（Compaq）计算机，此类计算机所需的零部件更换是靠 eBay 购买的。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85831" target="_blank"&gt;中国讨论征收糖税&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                随着肥胖与糖尿病风险上升，专家及媒体提议借当下消费税改革契机，对含糖饮料进行分级征税，促使民众减少糖分摄入。《健康时报》称，中国超重和肥胖者的比例已超 50%，精制糖摄入过量是重要诱因。文章指出，征收含糖税或许是大势所趋，并建议中国从审慎研究并有序试点开始，按含糖量设置阶梯税率，高糖高税、低糖轻税、无糖免税，并将税收定向用于校园健康饮食项目等。截至 2024 年 7 月，全球至少有 116 个国家对至少一种含糖饮料征收国家级消费税。世界卫生组织去年 7 月呼吁各国对含糖饮料征收至少达到零售价 20% 的税率，目标是到 2035 年将含糖饮料整体价格提高 50%。明年 3 月，中国新版预包装食品营养标签规定将生效，届时预包装食品的营养标签将须强制标示糖和饱和脂肪含量。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85825" target="_blank"&gt;ESA Hera 探测器发回 DART 撞击的小行星照片&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NASA DART 探测器直接撞上较小的 Dimorphos，再测量它绕行主星 Didymos 的时间改变了多少。为了进一步了解这次撞击的影响，Hera 于 2024 年 10 月 7 日发射，历经两年飞行抵达这对小行星附近。它将近距离调查撞击如何改变小行星的轨道与地表，评估这种方法将来能否用来使威胁地球的小行星偏离原有轨道。Hera 用单色小行星取景相机从 60 公里外拍下照片。较小的 Dimorphos 大部分隐没在阴影中，主星 Didymos 则清晰可见。赫拉号拍到的是主星的另一面，地貌与 DART 相机在撞击前不久拍到的那一面明显不同。这一面仍可见先前观测到的赤道隆脊，其余区域则有多块巨石、数个撞击坑，以及疑似沟槽或隆脊的地形。估计已有大量撞击喷出物从较小的 Dimorphos 飞越约 1 公里，抵达主星 Didymos，部分地表特征可能因此形成。Hera 接下来将进一步观察两个天体，有系统地绘制所辨识出的各项变化，并厘清这些地貌是否与喷出物有关。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85832" target="_blank"&gt;Asahi Linux 从 MIT 许可证切换到 GPL 许可证&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版项目 Asahi Linux 宣布从 MIT 许可证切换到 GPLv2 或以上版本的许可证。原因是有人将开发者分支尚在开发中的代码未注明出处发表，甚至利用 AI 重写代码以掩盖来源意图取代原项目和进行牟利。AI 出现前，代码洗白（Code laundering）通常涉及逐行手动重写代码、修改变量名，通过调整函数结构，使代码看起来与原版截然不同。LLM 的出现让这一过程变得更轻松、成本也更低。Asahi 团队此前已经注意到有人在利用宽松的 MIT 许可证劫持他们的工作成果。因此他们决定采用更严格的 GPL 许可证。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85826" target="_blank"&gt;台积电考虑进入内存行业&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进封装业务的副总裁徐国晋的领导。如果台积电进军先进内存芯片行业，它将不得不与三星电子、SK 海力士以及美光等公司展开竞争。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85833" target="_blank"&gt;苹果将工程师的每日 AI 预算限制在 200 美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                世界市值最高的公司也开始对 AI 预算设限。苹果据报道将部分工程师的每日 AI 预算从 300 美元削减至 200 美元。苹果市值最近再次超过英伟达跃居第一。苹果此举并非是因为缺乏现金支持内部研发，而是因为在企业级规模下生成式 AI 存在着无法回避的经济规律。如果对先进模型的使用不加限制，成本曲线将呈指数级增长，这足以摧毁任何企业的利润空间，即便苹果也不例外。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85827" target="_blank"&gt;微软移除了 PC 到 PC 的迁移功能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Windows 11 曾提供了一种 PC-to-PC 迁移工具，允许用户通过 Wi-Fi 或以太网在两台 PC 之间直接传输文件和设置。然而该工具如今已经移除。微软更新后的支持文档推荐用户使用 Windows Backup 工具。该工具不再依赖两台 PC 之间的直接连接，而是基于云存储服务 OneDrive。Windows Backup 需要用户登录个人微软账户，将支持的文件夹 Desktop、Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85834" target="_blank"&gt;脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                OpenAI CEO Sam Altman 因为一句 PC 内存浪费的评论而成为无数梗图的讽刺对象，他甚至为此自嘲，在社交媒体上将用户名改名为“Ram Altman”。现在开发者 Iain Kay 为 Linux 系统开发了一个 BASH 脚本 Ram Altman，旨在监测 PC 的闲置内存容量。闲置内存的百分比会被发送邮件给 Sam Altman。当然只是说说，具体取决于用户的设置。默认情况下脚本未预先配置电邮服务器。如果闲置内存超过了总内存的 10%，Ram Altman 会从预设讽刺邮件模板库随机选择一条发送出去。其中一则模板是：“Hi Sam。请别惊慌，我有 8.6 GiB 内存在 PC 上，.它们不在数据中心里。这占了我 PC 总内存的 56.2%，而且据我所知，它们今天也没什么别的安排。一位负责任囤积内存的用户。”
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85828" target="_blank"&gt;太平洋垃圾带海水变得更蓝更绿&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿。一项新研究表明，这可能是海水中微塑料浓度增加所致。直径小于 300 微米的微塑料颗粒造成的海洋污染难以直接测量，实验室研究表明，这一尺寸的微塑料具有特定的光学特性，或许能让人们通过遥感手段测量其在海水中的浓度。太平洋垃圾带适合用来检验这一方法，因为2016年的原位测量显示，该区域近表层海水中较大微塑料颗粒的含量可能超过每立方米 17 毫克。太平洋垃圾带位于太平洋亚热带环流中心海域，是人类丢弃的塑料垃圾在洋流作用下长期聚集形成的巨大漂浮垃圾堆积区。其面积约 16 0万平方公里，是全球最大的海洋垃圾浮积区。据估算，该区域包含约 1.8 万亿件塑料垃圾总重达 7.9 万吨。研究人员分析了 2002-2022 年间东北太平洋的 3 个卫星海洋水色数据集。他们发现，太平洋垃圾带内部及周边海域在蓝光和绿光波段显著增亮。这可能导致该区域的海水与周围海洋相比看起来更偏青（蓝绿混合色）。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85835" target="_blank"&gt;Aaron Swartz 诞辰四十周年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Aaron Swartz 出生于 1986 年 11 月 8 日，上周日原本是他四十岁生日。2011 年他因为从 MIT 网络下载数百万篇 JSTOR 学术论文计划免费公开而遭到逮捕，检方指控他犯有计算机欺诈等罪名，面临最高数十年监禁。2013 年 1 月 11 日他自杀身亡，年仅 26 岁。虽然他已去世 14 年但他的遗产仍然活着。Swartz 与 John Gruber 合作开发了 Markdown，一种简化的纯文本格式系统，允许用户使用普通文本创建结构化文档，不需要私有软件。Markdown 于 2004 年推出，二十多年后成为了最流行的文档和出版格式之一，广泛应用于论坛和维基等社区网站。LLM 产品和开发工具也广泛使用 Markdown。Swartz 还开发了 web.py，协助开发了 RSS 1.0。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-08</guid><pubDate>Sun, 08 Nov 2026 15:49:00 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85836" target="_blank"&gt;英国纯电动汽车销量即将超过汽油车&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据英国汽车行业组织 SMMT 的数据，10 月纯电汽车销量占英国新车的份额达到了 32%，而汽油车份额则降至 37.2%。按此趋势，英国纯电动汽车的销量将在一年内超过汽油车，甚至最早今年 12 月就能实现。10 月英国新车注册量为 152,730 辆，同比增长 5.4%，这一增长完全由插电式车型（包括纯电动和插电混动）驱动：纯电动汽车注册量激增 32.7% 达到 48,858 辆；插电混动汽车增长 30.1% 达到 22,898 辆。汽油车注册量下降 11.6% 至 56,876 辆；柴油车下降 15.9%；传统混动汽车下滑 5%。英国增长最快的汽车品牌多来自中国。10 月比亚迪注册量 6,065 辆同比增长 73%；Jaecoo（奇瑞旗下品牌）注册量翻了一番多达到 6,089 辆；奇瑞注册量近乎翻了三倍达到 3,707 辆；零跑汽车注册量翻了一番达到 1,773 辆；名爵增幅也达到了 85%。按照趋势，保守预测电动汽车销量在 2027 年 8 月超过汽油车销量。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85837" target="_blank"&gt;噪声污染伤害全球野生动物&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家早就知道，从喷气发动机的轰鸣到船舶螺旋桨的嗡鸣，人类活动产生的噪声会伤害动物，甚至会干扰鱼卵的正常发育。但此前人们并不清楚这一问题的普遍严重程度。一项大规模分析表明，噪声带来的影响远比研究人员预想的范围更广。研究涵盖陆地与水域共 177 个物种的数据，结果显示，人为噪声会从根本上改变动物的生理机能与行为模式，还会造成许多动物过早死亡。对野生动物而言，人为噪声绝不只是烦恼。噪声会改变鸟类的鸣叫模式，让蜘蛛心跳加速，还会迫使北极一角鲸放弃觅食下潜。总体来看，80% 的被研究物种至少有一项性状受到噪声影响而改变。对部分物种而言，噪声会改变基因表达，另一些物种的免疫功能或呼吸机能受到干扰，还有的物种会出现器官发育异常。噪声同样会改变部分动物的觅食、移动及避险行为。有时，噪声会对不同物种造成截然相反的效应。例如噪声对亲代抚育幼崽行为的影响。面对噪声干扰，有些物种会增加抚育投入，而另一些物种则会减少抚育行为。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85838" target="_blank"&gt;高盛限制交易员和银行家使用第三方 AI 智能体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                高盛限制交易员和银行家使用 Anthropic 的 Claude Code 和微软的 GitHub，此举主要是出于风险方面的考虑。AI 编程工具主要提供给软件工程师，以及负责交易、量化研究和软件工程等的策略师。交易员将无法再使用这些工具监控客户交易流、模拟市场走势和持仓，以及制作文字和图表。此次限制适用于能独立编写和运行代码的第三方智能体。以 Claude Code 为例，它能读取文件、编写程序并运行，通常拥有与使用者相同的权限。工程师用此类工具编写的代码通常会经过审查、测试和部署控制，然后才会投入使用。交易员编写的脚本则可能未经任何审查就被投入日常使用。使用智能体模拟仓位的交易员不太可能了解代码如何处理异常情况，在交易台上这可能意味着损失。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85839" target="_blank"&gt;30 公斤的巨鼠曾在三千万年前生活在今天的泰国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家根据两枚化石牙齿识别出一种体重约 30 公斤的巨型啮齿动物曾在 3300 万至 3500 万年前活跃于今天的泰国南部地区。泰国矿产资源部地质学家于 2004 年在甲米省一处煤矿中发现的一枚臼齿和一枚门齿。甲米盆地此前曾出土过古代灵长类、食肉动物和有蹄类哺乳动物的化石。当时研究团队缺乏足够的证据和技术手段确定该物种的身份。二十多年后泰国、法国和加拿大的研究人员对牙齿进行详细分析，确定该动物的体重约为 30 公斤——大约相当于现存世界最大啮齿动物——水豚体重的一半。与南美洲水豚不同的是，这种史前啮齿动物属于现已灭绝的古鼠科。该物种被命名为 Yakamys sirindhornae，致敬了支持科学研究及古生物学研究的 Sirindhorn 公主。已知体型最大的啮齿动物重达一吨，400 万年前活跃于南美洲的林区。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85840" target="_blank"&gt;世界大城市都在沉降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                北大 Lijun Wang 等人在《Nature Cities》期刊上发表了一篇论文，利用卫星雷达对地面微小位移的测量分析了全世界人口超过百万的 465 座城市城市的地面沉降。数据显示，10 座地面沉降最严重的城市分别是：墨西哥的托雷翁、墨西哥城和托卢卡，巴西的弗洛里亚诺波利斯、伊朗的伊斯法罕、孟加拉国的吉大港、缅甸的仰光、印尼的棉兰和万隆，以及中国的天津。地面沉降现象在东南亚、西亚、中亚和北美地区最为严重，南美洲和非洲也出现了类似问题。地面沉降的最主要因素是抽取地下水。真正危险的是不均匀沉降。未参与这项研究的加州伯克利地球物理学家 Roland Bürgmann 指出：如果整座城市能平稳整体下沉一英寸，这不是什么大问题，但当某个区域的下沉速度快于周边区域则会产生应力。论文主要作者 Lijun Wang 称，北京及邻近的天津通过停止开采地下水，转而使用从长江流域调来的地表水，使得该地区部分区域的地面沉降得以停止。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85841" target="_blank"&gt;火星发现存在活火山的证据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2019 年，欧空局“微量气体火星轨道器”在火星大气中探测到了氯化氢的存在。这种气体在地球上通常与岩浆喷口相关联，因此，研究人员想知道火星上是否也存在类似情况。为了进一步探究，波兰研究人员分析了仅有的少量气体数据以及新拍摄的火星表面照片。他们成功将火星阿尔巴山地区近期出现的狭窄裂缝与氯化氢排放联系起来，为地下熔岩流的存在提供了有力证据。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-09</guid><pubDate>Mon, 09 Nov 2026 19:31:48 +0000</pubDate></item></channel></rss>
