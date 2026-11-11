@@ -1,44 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 10 Nov 2026 16:49:21 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月10日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 11 Nov 2026 16:55:30 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月11日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85842" target="_blank"&gt;法国称伊朗黑客组织攻击了超市的制冷控制器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka Cyber​​Av3ngers。报告称，受影响的零售集团包括了 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份声明中表示：“就规模和攻击强度而言，这是一场前所未有的行动，这也是在法国领土上首次发生的、纯粹以破坏为目的的网络攻击行动。”
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85852" target="_blank"&gt;AMD 公布 Zen 6 CPU 细节&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AMD 披露了 Zen 6 CPU 家族的细节。从表面看，Zen 6 是 Zen 5 的自然演进，核心扩展了乱序执行结构以及其它方面的迭代改进。但深入内部会发现 AMD 对核心的多个方面进行了重构，其改进类似从 Zen 1 到 Zen 2。 Zen 6 分支预测错误开销从 Zen 5 的 3.5-4 纳秒缩短到了 3-3.5 纳秒，降低了分支预测错误延迟。Zen 6 能在 L1 指令缓存内实现每周期处理 2 个分支，指令足迹超出 L1 缓存容量后会降至每周期处理 1 个分支，Zen 6 主要提升了分支目标缓冲器（BTB）的速度而非容量。Zen 6 的分支预测单元精确度接近 Zen 5，执行速度则更快。Zen 5 单线程只能使用一个解码集群，而 Zen 6 提升到了单线程能使用两个解码集群。Zen 6 在整数运算上恢复了 Zen 4 的 NOP（空操作）配对机制，每时钟周期最多可处理 16 个 NOP，配备相同的 6 个算术逻辑单元 Zen 6 每时钟周期可完成 5.96 次 64 位加法运算而 Zen 5 为 5.25 次。AMD 将整数乘法单元的数量从 3 个减少到了 2 个，理由是 3 个整数乘法单元带来的性能提升不足以抵消占用的芯片面积成本。Zen 5 的经典核心（Classic cores）与高密度核心（Dense cores）在架构上几乎完全相同，区别在于单个 CCD 内的核心数量以及每个核心所分配的 L3 缓存大小。但 Zen 6 家族发生了变化。AMD 对 Zen 6 与 Zen 6c 进行了架构的差异性设计，Zen 6c 部分乱序执行结构的容量更大，能同时处理更多的指令，更好应对较高的延迟。Zen 6 优化了高频，而 Zen 6c 能更好容忍较高的内存延迟。Zen 6 和 Zen 6c 分别采用 12 核和 32 核的 CCD 设计，每个核心均配备 4 MB 的 L3 缓存。12 核 CCD 拥有 48 MB 的 L3 缓存，32 核 CCD 拥有 128 MB。L3 缓存延迟从 Zen 5 的约 47 个周期增加到 Zen 6 的 55 个周期和 Zen 6c 的 66 个周期，原因可能是缓存容量的增大以及网格互连节点数量的增加。Zen 6 通过更高的时钟频率抵消了延迟增幅，Zen 6c 则因为低时钟频率以及更大的 CCX 显著增加了延迟。AMD 的测试显示 zen 6 整数运算提升 14% 浮点提升 11%，Zen 6c ipc 提升 20%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85843" target="_blank"&gt;FDA 警告 GLP-1 减肥药可能增加突然失明风险&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                FDA 周一表示，GLP-1 药物生产商须在产品标签上增加一项可能导致突然失明的警示。被称为非动脉炎性前部缺血性视神经病变(nonarteritic anterior ischemic optic neuropathy，NAION)的眼部疾病会影响视神经——负责将信号从眼睛传输至大脑的神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JAMA Ophthalmology》期刊发表了一项研究，发现使用司美格鲁肽处方药的糖尿病患者患 NAION 的可能性是未使用该药患者的四倍。FDA 随后展开了调查，在审查了递交的副作用报告和多项临床试验的数据之后，FDA 发现所有 GLP-1 药物均出现 NAION 病例的报告。FDA 科学家尚未能明确药物导致 NAION 风险增加的具体机制。NAION 的某些危险因素，与 GLP-1 药物使用者中常见的健康状况——如 2 型糖尿病、肥胖症、睡眠呼吸暂停和高血压——存在重叠。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85853" target="_blank"&gt;Michael John Harrison 成为首位获得布克奖的科幻作家&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                81 岁的哈里森（Michael John Harrison）成为首位获得布克奖的科幻作家，也是获得布克奖的最年长作家。他的获奖作品是末日小说《The End of Everything》，故事设定在一场无人能正确解释的灾难后数十年，地点是英国的肯特郡海岸，讲诉了 Phillip Tennent 和年迈的姑姑 Marnie 在神秘的 iGhetti 带来的威胁下艰难求生。Ghetti 是一种庞大且能不断变形的生物，其起源和意图未给出说明。哈里森的创作生涯长达六十年，其年龄超过了 2019 年的布克奖得主 Margaret Atwood——时年 79 岁。布克奖基金会 CEO Gaby Wood 表示，尽管此前已有不少获奖者涉足过科幻文学，但哈里森是第一位真正来自科幻界的布克奖得主。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85844" target="_blank"&gt;科学家在碲化锰观察到交替磁性证据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                科学家在碲化锰中观测到一种被称为“手性交替磁振子”的集体自旋运动，为交替磁性这一新型磁态提供了关键实验证据，也意味着未来芯片和信息存储技术有了新的可能。交替磁性被认为是介于铁磁与反铁磁之间的第三类磁有序。普通磁铁内部电子自旋像一排同向排列的小磁针，整体产生明显磁场；反铁磁体中相邻自旋方向相反，磁性彼此抵消。交替磁体同样没有明显外磁场，却因原子空间排列方式特殊，保留了一些通常只在铁磁体里出现的电子自旋特性，因此被寄望于开发干扰更小、更紧凑的自旋电子器件。此次实验把目光投向磁振子。材料受热或受扰后，局部自旋变化会像水波一样向周围传递，这种集体波动的量子化单位就是磁振子。理论曾预言，交替磁体中的磁振子可能带“手性”——自旋集体运动存在顺时针或逆时针的偏好，且这种偏好会随传播方向改变。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85854" target="_blank"&gt;英伟达股价 2 天暴跌 10%&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                英伟达股价两天暴跌 10%。市场担忧该公司对黄仁勋的高度依赖，围绕“关键人物风险”的警惕情绪令相关股票走势分化。英伟达缺乏继任者并非始于今日。黄仁勋自公司创立以来已领导企业 30 多年，且不设董事长职务的治理结构。这对于如此规模的美国大型企业实属罕见。美国调查公司伯恩斯坦研究公司的 Stacy Rasgon 指出：“英伟达不是一家普通公司。黄仁勋也不是一位普通 CEO”。 分析师预测，如果英伟达出现 CEO 更迭，股价可能下跌 25%-30%。SpaceX、特斯拉的 CEO 马斯克以及 Meta 的 CEO 扎克伯格同样面临关键人物风险。SpaceX 的招股说明书中写道，“无法保证能够及时找到（马斯克的）继任者，甚至不知能否找到”。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85845" target="_blank"&gt;幼儿园小学初中学龄人口已达到峰值&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                国家发展改革委社会发展司副司长黄玮茹在周二的新闻发布会上表示，从全国层面看，目前幼儿园、小学、初中学龄人口已经达峰，高中和高等教育学龄人口还在持续增长，对资源配置提出了新的要求。十四五时期，我国幼儿园、小学、初中在校生减少将近 1700 万人。2021 年—2025 年，我国基础教育城镇和乡村在校生之比由约 8：2 提高到约 9：1，越来越多的孩子进城读书。根据教育部数据，去年全国幼儿园、小学和初中的在校生总人数约为 1 亿 8900 万人。去年中国人口出生率降至至少 1949 年以来的最低水平。与此同时 65 岁及以上老年人口突破 2 亿 2300 万人，创下历史新高。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85855" target="_blank"&gt;猫围着你叫是叫你去解决问题&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                当猫不停喵喵声时，它们不只是表达对世界的不满，更多是刻意引起你的注意，希望你能去解决问题。没留意到也没关系，毕竟人类向来以难以理解猫想要表达什么而著称。一项新研究发现，在猫的生活中，人类扮演着问题解决者的角色。巴西的研究人员针对 38 只宠物猫调查了人类主人在场和不在场时的行为。结果显示，人类铲屎官在场时，猫发出喵喵叫的次数增至四倍。结果表明，喵喵叫确实在人猫互动中起到了沟通交流的作用。在实验中，研究人员设计了一个有孔的食物盒子，猫能闻到食物气味但无法接触到里面的食物。当人类在场时，猫总共发出了 86 次叫声；而当猫独自待着时，叫声仅有 20 次。猫确实是在通过叫声表达对所处困境的不满。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85846" target="_blank"&gt;Epic Games 计划支持尽可能多的 Linux 发行版&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Epic Games 通讯主管 Jake Jones 表示，新 Epic Games 启动器目前处于预览阶段。Epic Games 计划支持尽可能多的 Linux 发行版，包括 Fedora、SteamOS、CachyOS、Omarchy 等，目前正在测试和评估各种打包格式，将于本月恢复对 AppImage 的支持。如果 Epic Games 支持 Flatpak 打包格式并将其发布到 Flathub 上，那么 SteamOS 用户将会很容易使用 Epic Games——只需要切换到桌面模式，然后在 Discover 应用中直接安装。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85856" target="_blank"&gt;CERN 如何为 LHC 研发下一代磁体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                CERN 的大强子对撞机（LHC）利用极其强大的磁体，使粒子接近光速发生碰撞，将粒子撞碎成更小的组成部分以供研究。当前状态下的 LHC 每秒能让约 60 个粒子发生碰撞，碰撞频率高达每秒 4000 万次。这一能力已经促成了本世纪粒子物理学领域一些最重要的发现。CERN 的科学家并没有止步。他们正对 LHC 进行升级，为计划于 2030&amp;nbsp; 年之后开始的实验做准备。新一代粒子对撞机被称为高亮度大型强子对撞机（High-Luminosity LHC 或 HL-LHC），高亮度指的是粒子碰撞数量的增加。CERN 的目标是每次实验将碰撞涉及的粒子数量提高到 140-200 个，增加观测到罕见粒子或特殊物理现象的机会。为实现这一目标，对撞机需要配备体积极其紧凑、性能优异的磁体。目前对撞机使用的偶极磁体内部装有由铌钛合金（NbTi）制成的线圈，其磁场强度可达到 8.3 特斯拉。这一强度约为地球磁场的 16.6 万倍。这已经是铌钛线圈所能达到的磁场强度上限。为制造 HL-LHC 使用四极磁体，科学家正在研发由铌锡化合物（Nb₃Sn）制成的线圈，其磁场强度将接近 12 特斯拉。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85847" target="_blank"&gt;生成式 AI 过度美化现实&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。为减轻文本生成图像（Text-to-Image）生成式模型中的偏见，OpenAI 等公司引入了提示词修订（Prompt Revision）机制。一种隐性的处理过程，即通过重写用户输入的提示词，添加更多细节，例如要求图像中呈现不同性别和肤色的人物，从而促进图像的多样性。然而重写用户提示词也可能引入其他偏见，在用户不知情下改变其原本的意图。发表在《Technology in Society》上的一项研究以集约化畜牧业（Intensive Livestock Farming）为例，首次提供证据表明，OpenAI 的文本生成图像模型 DALL-E 3 会通过提示词修订机制，抹去具有争议性议题的真实面貌。DALL-E 3 表现出一种明显的偏见，即倾向于将畜牧业浪漫化、美化。它生成的图像通常描绘奶牛在牧场上吃草、猪在泥地里拱土。即使研究人员明确要求生成真实的场景，这种偏见依然存在。当研究人员关闭提示词修订功能后，生成的图像便更加接近现代畜牧业的实际饲养方式，即将农场动物饲养在室内。研究人员要求模型生成北美、欧洲和大洋洲农场的图像。结果发现，无论指定哪个地区，模型生成的图像大多呈现田园牧歌式的场景在关闭提示词修订功能后，不同地区之间的差异开始显现。通过提示词修订机制将畜牧业浪漫化，掩盖其真实状况，可能会进一步强化公众对于农场动物饲养方式的错误认知，甚至传播错误信息和虚假信息。这种现实与 AI 生成内容之间的脱节，可能会阻碍社会开展有意义的对话。研究人员警告应警惕 AI 生成图像中普遍存在的、过度美化现实的倾向。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85857" target="_blank"&gt;AI 生成的代码并不可靠&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一位 100% 依赖 AI 生成代码的资深开发者认为 AI 生成的代码库无法满足高可用、高扩展性 SaaS 应用的需求。原因包括：AI 写的测试过于简单，无法覆盖真正重要的使用场景；AI 写的代码过于复杂，经常引入两三个辅助方法，实际上一个就够了，这种复杂性增加了理解代码或进行调试的难度；人类程序员难以理解 AI 生成的代码库，一家企业依赖 AI 生成代码库的时间越长，真正理解代码库的程序员就越少；AI 产出速度太快，无法维持高质量标准，人工审核的时间越来越短，从而会造成长期的技术债务。AI 生成的代码库会导致更多故障，而故障修复的时间会越来越长。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85848" target="_blank"&gt;中国 Android 厂商开始要求开发者身份验证&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析显示来自第三方源的恶意应用数量是 Google Play 的 90 多倍。现在，中国主要 Android 厂商也启动了开发者身份验证：OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（Android Developer Verification，简称 ADV），支持各方验证结果互认。ADV 旨在建立开发者与其应用之间的可信关联，为用户识别应用来源、判断应用是否安全提供依据。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85858" target="_blank"&gt;刚果埃博拉病例突破 1.1 万例&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                刚果政府周三宣布该国的埃博拉病例突破 1.1 万例达到 11,042 例，有 5,387 人死亡，这是刚果至今最致命的埃博拉疫情，感染者中近半数死亡。这场疫情已成为有记录以来扩散速度最快的埃博拉病毒爆发，其规模有可能超过 2014-2016 年席卷西非的埃博拉疫情——该波疫情有逾 1.1 万人死亡。这起疫情的病毒是罕见的 Bundibugyo 毒株，目前没有针对该毒株的获批疫苗或疗法。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-10</guid><pubDate>Tue, 10 Nov 2026 16:49:21 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85859" target="_blank"&gt;黑猩猩后天习得部分叫声&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                长期以来，人们认为野生黑猩猩的发声完全由遗传决定，无需学习。发表于 PNAS 期刊上的一项研究挑战了这一观点，首次发现了野生黑猩猩中存在任意性、习得性发声惯例的证据。该发现缩小了黑猩猩交流与人类交流之间的差距。词语在人类语言中具有任意性和习得性。这里的任意性指一个词语在不同背景或领域里含义可能完全不同。词语在使用过程中的任意性，最终形成了因社群而异的语言惯例。一个人之所以遵循这些惯例，是因为同伴都这样做；如果同伴改变了用法，个体也就会遵循这些改变。研究人员分析了野生黑猩猩和圈养黑猩猩都会发出的嘟噜声的使用情况。研究涵盖了91只年龄在0到55岁的黑猩猩，其中一部是科特迪瓦塔伊国家公园的野生黑猩猩，另一部是塞拉利昂塔库加马黑猩猩保护区中由与同龄伙伴一起长大的孤儿黑猩猩。分析结果表明，野生黑猩猩只在相互梳理毛发时才使用这种叫声，而保护区里的孤儿黑猩猩则在多种社交互动中使用它。这表明该叫声的用法需要习得，而非遗传决定的。为了进一步证明该结论，研究人员在第二阶段的实验中，将一只成年黑猩猩引入其中一个孤儿黑猩猩群体。结果随着时间推移，该群体使用嘟噜声的方式明显趋于一致，并向成年黑猩猩的用法靠拢。这表明幼年黑猩猩会像人类一样，向年长者学习叫声的功能。上述发现表明，黑猩猩的声音交流比此前认为的更接近人类。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85860" target="_blank"&gt;苹果关闭支持社区&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                苹果突然宣布关闭其支持社区 Support Community：它将于 2026 年 11 月 20 日永久关闭，即日起进入只读模式，用户无法再发新帖。想要获得帮助的苹果用户可访问 Apple Support 网站，但他们将无法互相交流。苹果支持社区创建于 1998 年，是一个用户互相交流和讨论问题的论坛，它的关闭标志着三十年积累的建议、故障排查经验以及未获解答问题都戛然而止，苹果未说明支持社区存档是否还能访问。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85861" target="_blank"&gt;Firefox 内置 VPN 服务在三个月内不限制流量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Mozilla 宣布，为迎接年底的假期 Firefox 内置的 VPN 服务从 11 月 10 日到 2027 年 1 月 31 日之间不限制流量。Firefox 内置的 VPN 不同于 Mozilla VPN，前者设计通过 Mozilla 管理的服务器路由浏览器的流量隐藏用户的真实 IP 地址；后者则是独立的付费订阅服务，可同时在五台设备上使用。Firefox 内置 VPN 服务尚未向全球推广，目前仅限于美国、法国、德国和英国等国的用户。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85862" target="_blank"&gt;假如地球没有诞生生命？&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物进行光合作用而极度缺乏氧气外，其地表温度与液态水量竟然与我们今天的真实地球相差无几。在天文学的定义中，宜居的核心标准并非空气中是否有氧气，而是地表能否维持液态水。模拟显示，即使没有生物参与，地球本身的碳酸盐-矽酸盐循环便足以扛起调节气候的重任。当太阳在数十亿年间逐渐变亮变热时，岩石风化、火山喷气与海洋化学反应所形成的机制，能自动平衡大气中的二氧化碳浓度，将地表温度死死锁定在宜居范围内。研究暗示了行星的宜居性与生命的存在在某种程度上是可以分开的。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-11</guid><pubDate>Wed, 11 Nov 2026 16:55:30 +0000</pubDate></item></channel></rss>
