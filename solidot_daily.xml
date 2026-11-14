@@ -1,44 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 13 Nov 2026 16:58:21 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月13日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 14 Nov 2026 15:36:32 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月14日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85875" target="_blank"&gt;微软云服务全球宕机&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软云服务全球宕机，受影响服务包括了 Outlook、Teams 和 OneDrive 等办公工具以及 AI 工具 Copilot。微软通过其社交媒体账号表示正全力解决该问题。根据 Downdetector 的报告，截至周四 18:00 GMT，全球报告的 Outlook 故障数量接近 14 万。目前无迹象表明此次大范围宕机是由网络攻击引起的。微软表示，受影响的用户可能无法查看部分文件，或无法在日历应用中查看详细信息。Copilot 也可能无法正常运行。即时通讯和在线会议功能基本保持正常。微软称此次事故是由部分服务器意外不可用导致的，这给其余系统造成了沉重负担。与微软有合作的 AI 巨头 Anthropic 和 OpenAI 也报告了故障。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85882" target="_blank"&gt;非洲加速发展太阳能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示，我们正见证一场自下而上的革命。多种因素共同推动了非洲太阳能的普及：光伏电池板成本的下降、市电供应的不稳定性、日益加剧的全国性能源危机，发电机所用柴油成本的上涨，以及非洲大部分地区拥有充足且稳定的日照。Deloitte 南非公司的 Jayne Mammatt 表示，非洲很多国家缺乏完善的电网或稳定的电力供应，而太阳能技术已相当成熟，成为一种可在本地直接部署的切实可行的方案。非洲太阳能增长量的 75% 是小型太阳能发电装置，Solar as a Service（缩写 SaaS）就是其中一种活跃的模式。非洲仅有 10%-20% 的家庭实现了通电，其增长空间远未见顶。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85876" target="_blank"&gt;美国扣押了从币安盗走的逾 12 亿美元加密货币&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                FBI 周四宣布扣押了价值逾 12 亿美元的加密货币。这些加密货币是黑客组织 TraderTraitor 此前从全球最大加密货币交易所币安盗走的。币安在这次事件中被盗走了价值 63 亿美元的加密货币，其中约半数的被盗加密货币——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是难以被冻结的比特币、以太币和 XRP。美国政府表示它通过法庭授权扣押或冻结了逾 12 亿美元的加密货币。它没有透露更多细节。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85883" target="_blank"&gt;旅行者 1 号距离地球的距离达到一光日&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连续两次未能收到探测器预期发出的信号。直到 20 日，信号才重新出现，异常原因仍在调查中。对于一艘运行近半个世纪的探测器而言，设备老化始终是地面团队面临的挑战。旅行者 1 号依靠三台放射性同位素热电发生器供电，利用钚-238 衰变释放的热量产生电能。随着发电功率逐年下降，电力日益紧张。两艘旅行者探测器的可用电功率每年约减少 4 瓦，工程师必须精打细算地安排每一瓦电。旅行者 1 号发射时搭载了 10 台专用科学仪器，如今仅剩磁强计和等离子体波动仪仍在运行。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85877" target="_blank"&gt;无印良品客户信用卡数据泄露&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                运营无印良品的良品计划公司社长清水智 12 日就遭遇非法访问问题在东京都内召开记者会，致歉称：“给大家带来了巨大担忧与困扰，对此由衷道歉。”包括已经解约的在内，信用卡的完整号码等可能已有约 109 万条信息泄露。清水承认信息管理存在疏漏，说明称部分系统存在漏洞，未能阻止非法访问。清水透露说“本应废弃的信用卡信息仍被保存”，表示“将推进建立不持有非必要信息的机制”。对于信息有可能泄露的信用卡，他表态说将承担换发新卡的手续费。良品计划 10 月 30 日发布消息称，官方 APP“MUJI APP”遭到非法访问，最多可能有约 2726 万条客户信息泄露。此后的调查又发现，信用卡的完整号码、货到付款的配送地址等约 44 万条客户信息也可能外泄。除了官方网上商城和官方 APP 的部分功能外，公司已暂停了相关服务，正在推进加强安全对策。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85884" target="_blank"&gt;美国历史上第三次航班大停飞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与软件升级失败有关：由 L3Harris Technologies 管理的通信网络更新时导致系统重启，进而导致系统崩溃及通信中断。L3Harris 未回应这一说法。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85878" target="_blank"&gt;英伟达员工请愿让黄仁勋复职&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                英伟达创始人黄仁勋辞职后公司内部员工发起请愿让他复职。一名员工在内部意见系统上写道：我们都是人、都会犯错，黄仁勋办了那么多好事，理应得到第二次机会。黄仁勋担任英伟达 CEO 长达 33 年，领导公司成为世界市值最高的公司之一，很多员工都认为他对公司的贡献巨大，不应因此遭到抹杀。英伟达员工还通过 LinkedIn 公开表达对他的支持，且无人公开支持罢免他。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85886" target="_blank"&gt;微软云服务宕机持续逾 24 小时&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，并将问题归咎于服务器故障。这次中断是微软历史上持续时间最长的中断之一，也是今年的第二次。英国国家网络安全中心前负责人 Ciaran Martin 认为这次宕机事故在规模上类似亚马逊 AWS 和 CrowdStrike 事故，其影响可能更为严重。日本政府的 IT 基础设施也受到影响，英国国家医疗服务体系（NHS）工作人员不得不改用纸质记录，无法调用线上存储的资料。这次中断凸显出，各国政府和企业普遍依赖极少数大型科技公司，而这种依赖充满风险。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85879" target="_blank"&gt;《幻兽帕鲁》开发商给员工五天假期畅玩 GTA 6&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                《幻兽帕鲁（Palworld）》开发商 Pocketpair 宣布了五天特别假期，让员工可以畅玩即将发售的 GTA 6。GTA 6 将于 11 月 19 日上市，有望创下游戏销售新记录，预计首周销量将高达数千万份拷贝。Pocketpair 表示，所有想要玩 GTA 6 的员工都可以利用这一特别假期。它同时表示《Palworld》和《Craftopia》的开发顺利，会按计划推进。此前游戏外设制造商罗技也宣布给所有员工放假一天去畅玩 GTA 6。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85887" target="_blank"&gt;天问四号将尝试登陆木卫四&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85880" target="_blank"&gt;地球冰冻圈不再处于安全运行空间内&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                地球上的冰冻部分——包括冰盖、冰川、海冰、积雪和永久冻土——在调节地球气候、水资源供应和碳循环等诸多生态系统服务中发挥着至关重要的作用。但根据中外研究人员的一项新分析，冰冻圈的基本功能已不再处于安全运行空间（SOS）之内；其被推越界限的程度将给地球人口带来长期挑战。作为地球界限（planetary boundaries）方法的一部分，安全运行空间（SOS）定义了地球系统保持稳定与韧性、并使人类及生态系统能够繁荣发展的环境界限。研究人员对关键控制变量（包括陆地冰体积、海冰面积、积雪面积和永久冻土温度）进行分析后得出结论：冰冻圈的完整性正在经历“加速且部分不可逆的丧失”。他们指出，这些控制变量的状况已经恶化，或已注定将恶化至超过定义冰冻圈安全运行空间的全新世水平。他们写道：“为了维护和恢复地球系统的韧性，现在需要全球采取紧急行动，停止并逆转温室气体和黑碳排放，并减少人类局部干扰的影响，例如在冰冻圈地区扩张基础设施。”
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85881" target="_blank"&gt;台积电内部员工数据泄露&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                台积电在递交到 SEC 的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上。相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正通知受影响的员工，与该云服务商、相关调查机构以及一家外部网络安全公司合作，以查明事件真相。据报道，黑客在 DarkForums、BreachForums 等地下论坛上拍卖 6.9GB 容量的台积电员工数据，起标价为 3 BTC。黑客提供的样本显示数据涵盖员工姓名、生日、职称、住址、身分证字号、手机号码、银行帐户等资讯，甚至还有紧急连络人电话。黑客称，如果一周内没有找到买家，将会公开所有数据。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-13</guid><pubDate>Fri, 13 Nov 2026 16:58:21 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-14</guid><pubDate>Sat, 14 Nov 2026 15:36:32 +0000</pubDate></item></channel></rss>
