@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 14 Nov 2026 15:36:32 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月14日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 15 Nov 2026 16:06:09 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月15日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85882" target="_blank"&gt;非洲加速发展太阳能&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示，我们正见证一场自下而上的革命。多种因素共同推动了非洲太阳能的普及：光伏电池板成本的下降、市电供应的不稳定性、日益加剧的全国性能源危机，发电机所用柴油成本的上涨，以及非洲大部分地区拥有充足且稳定的日照。Deloitte 南非公司的 Jayne Mammatt 表示，非洲很多国家缺乏完善的电网或稳定的电力供应，而太阳能技术已相当成熟，成为一种可在本地直接部署的切实可行的方案。非洲太阳能增长量的 75% 是小型太阳能发电装置，Solar as a Service（缩写 SaaS）就是其中一种活跃的模式。非洲仅有 10%-20% 的家庭实现了通电，其增长空间远未见顶。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85889" target="_blank"&gt;美国失去麻疹消除地位&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种过麻疹、腮腺炎和风疹（MMR）疫苗，或者其疫苗接种状况不明。根据美国各州的报告，至少 10 人在感染麻疹后死亡。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85883" target="_blank"&gt;旅行者 1 号距离地球的距离达到一光日&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连续两次未能收到探测器预期发出的信号。直到 20 日，信号才重新出现，异常原因仍在调查中。对于一艘运行近半个世纪的探测器而言，设备老化始终是地面团队面临的挑战。旅行者 1 号依靠三台放射性同位素热电发生器供电，利用钚-238 衰变释放的热量产生电能。随着发电功率逐年下降，电力日益紧张。两艘旅行者探测器的可用电功率每年约减少 4 瓦，工程师必须精打细算地安排每一瓦电。旅行者 1 号发射时搭载了 10 台专用科学仪器，如今仅剩磁强计和等离子体波动仪仍在运行。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85890" target="_blank"&gt;亚洲象种群数量减少变得更孤立&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                对斯里兰卡野生亚洲象的一项为期 12 年的研究显示，种群数量的逐渐减少可令动物社群跨越一个社会临界点，从而使长期形成的关系破裂，群体变得更小且更孤立，并威胁物种的长期生存。研究人员分析了斯里兰卡 443 头野生雌性亚洲象为期 12 年的个体观察数据。M他们发现，种群个体的逐渐流失使这一亚洲象种群跨越了社会临界点，从根本上重塑了其社会网络。随着死亡和永久离群的个体日益超过新加入的个体，象群规模变小、群体数量增多且日益孤立；到2018 年时，在最初被追踪的雌象中，近 69% 已从研究种群中消失。研究结果显示，这种碎片化不仅由个体丧失驱动，也由留存大象之间较弱社会纽带的断裂所驱动，从而导致整个种群个体间的联系减少。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85884" target="_blank"&gt;美国历史上第三次航班大停飞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与软件升级失败有关：由 L3Harris Technologies 管理的通信网络更新时导致系统重启，进而导致系统崩溃及通信中断。L3Harris 未回应这一说法。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85891" target="_blank"&gt;香港迪士尼乐园 1.7 万张电子门票被盗&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。报道称，乐园门票由 Cityline 负责网上票务售卖，园方资讯科技部于 11 月 12 日晚侦测到公司电脑系统有异常活动，发现一万七千个二维码在网上票务系统被盗。香港资讯科技商会荣誉会长方保侨称：以往黑客是写程序或手动追漏洞，现在 AI 发展令黑客用 AI 寻找网络漏洞，从而攻击，近期这么多事件，我们相信只会愈来愈多。因为 AI 攻击太快，人手根本抵挡不到，开始提倡用 AI 防守，而市面上亦有这些方案。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85886" target="_blank"&gt;微软云服务宕机持续逾 24 小时&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，并将问题归咎于服务器故障。这次中断是微软历史上持续时间最长的中断之一，也是今年的第二次。英国国家网络安全中心前负责人 Ciaran Martin 认为这次宕机事故在规模上类似亚马逊 AWS 和 CrowdStrike 事故，其影响可能更为严重。日本政府的 IT 基础设施也受到影响，英国国家医疗服务体系（NHS）工作人员不得不改用纸质记录，无法调用线上存储的资料。这次中断凸显出，各国政府和企业普遍依赖极少数大型科技公司，而这种依赖充满风险。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85892" target="_blank"&gt;意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用该功能，对该功能的启用额外征求用户同意。意大利约有 2000 万 Android 用户，此次罚款是意大利对科技巨头开出的金额最高的罚单之一。意大利监管机构表示，在做出处罚决定时，考虑了受影响人数巨大以及 Meta 不配合等因素。对这一处罚，Meta 已经表态将会上诉。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85887" target="_blank"&gt;天问四号将尝试登陆木卫四&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85893" target="_blank"&gt;SpaceX 成功回收火箭上面级&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。上面级 Ship 42 则绕地球飞行 14 圈历经 22.5 小时后于周六在 Starbase 被 2 号发射台的筷子臂成功捕获。此次任务发射了 22 颗 Starlink V3 卫星。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-14</guid><pubDate>Sat, 14 Nov 2026 15:36:32 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-15</guid><pubDate>Sun, 15 Nov 2026 16:06:09 +0000</pubDate></item></channel></rss>
