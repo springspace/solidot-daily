@@ -1,79 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 18 Nov 2026 17:49:27 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月18日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 19 Nov 2026 17:59:08 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月19日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85916" target="_blank"&gt;Google AI Overviews 导致搜索流量下降四成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 的 AI Overviews 服务导致流向网站的搜索流量下降大约四成。在一项随机实验中，研究人员对部分美国桌面端用户隐藏了 AI Overviews。通过对比正常看到 AI Overviews 的美国用户的搜索行为，研究发现 AI Overviews 使流向外部网站的点击量减少 40%。在 DataForSEO 跟踪美国搜索关键词中，逾五成会显示 AI Overviews，而一年前仅为 6%。用户在看到 AI 答案之后通常不再继续点击相关链接，结果就是 AI 答案给网站带去的流量仅仅占其总流量的 0.3%。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85928" target="_blank"&gt;美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国联邦破产法庭法官 Sean Lane 批准了 Google 以 1000 万美元收购破产航空公司 Spirit Airlines 内部数据的交易。廉航 Spirit Airlines 于今年五月停止运营，作为资产清算程序的一部分，Google 在八月拍下了其内部数据，这些数据包括了员工数据如电子邮件、电子表格和日历信息，以及市场营销、生产力和运营方面的数据。Google 表示它计划将这些数据用于产品开发和 AI 训练。在工会以及国会议员对该交易表达关注之后，Google 上周同意对相关数据采取额外的隐私保护措施。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85917" target="_blank"&gt;英伟达董事会拒绝黄仁勋复职&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                尽管有美国总统和多位硅谷名人的支持，黄仁勋本人也发表声明准备重返岗位，但公司董事长 Harvey Jones 在财报电话会议上明确表示，董事会不打算让他复任首席执行官，“英伟达董事会已一致接受了他的辞呈，并不打算让黄仁勋恢复首席执行官的职务。”周二早些时候，黄仁勋在社交媒体上发文称，如果董事会认为他回归符合股东、员工、公司以及国家的最佳利益，他将很荣幸响应这一呼吁。他同时也承认自己在个人生活中犯下了严重错误。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85929" target="_blank"&gt;中国发现新直立人化石&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                直立人是存在时间最长的人族物种之一，他们生存的年代从 190 万年前到 10.8 万年前。根据发表在《自然》期刊上的研究，中科院研究人员对采集自广西崇左岜仙洞、那线洞两处洞穴堆积化石地点的 9 枚古人类牙齿开展形态学和古蛋白质组学研究，发现其中 8 枚牙齿属于一个新识别出的直立人群体，该群体有别于北京周口店、安徽和县等地已知的直立人。研究结果显示，这种新直立人在 32.4 万年至 18.4 万年前曾活跃于中国南方，而该地区此前发现的最晚直立人化石生活在约 40 万年前。传统观点认为，直立人偏好开阔的疏林或稀树草原环境，很难在雨林环境中生存，本次在广西崇左的新发现则颠覆了这一认识，直立人完全可以在崇左地区雨水充沛、林冠郁闭的热带雨林中生存，且能在该环境中长距离迁移，生态适应能力较强。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85918" target="_blank"&gt;美国最近接连发生的技术故障源自为修复 AI 发现的漏洞&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                过去几天美国经历了一系列技术故障，全国航班停飞、银行在线服务中断，甚至 NSA 的一个机密通信网络瘫痪。华尔街高管和 NSA 告诉美国国会议员，一系列技术故障的起因是试图修复 AI 发现的系统漏洞。AI 模型在系统中识别了大量漏洞，为尽快修复漏洞而一次性推送了大量补丁，超出了系统的设计承载能力。摩根大通周一将其银行服务中断归咎于软件相关 bug，NSA 周二将其部分网络短暂性能下降归咎于例行维护。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85930" target="_blank"&gt;蚊子在喜马拉雅冰川地区日益常见&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                随着全球暖化冰川消退，蚊子在喜马拉雅冰川地区日益常见，将一些流行病带给了当地居民。克什米尔 Ladakh 一个名叫 Sakti 的村庄海拔 3900 米，居住着约四百户村民，大多属于 Boto 族。65 岁的村民 Phunchok Gyalpo 一生都居住在 Sakti，他说小时候每逢下雪，通常要等好几天才能清理出路。但过去二三十年这种情况再也没发生过。他提到现在的冬天也暖和多了。Ladakh 是一个高海拔寒冷沙漠地区，位于喜马拉雅山的雨影区，当地居民的饮用水和农业灌溉都依赖冰川。他们唯一的水源是融化的冰雪。很少有地方能像 Ladakh 展现全球暖化的影响，蚊子的出现就是证据。2022 年 Ladakh 报告了首批两例登革热病例。2024 年出现了两例疟疾病例，2025 年又新增三例。2026 年至今它尚未报告登革热病例，而克什米尔则报告了 17 例。Ladakh 历史上首次出现了在屋内安装吊扇的情况。市场上充斥着驱蚊产品，人们也能亲眼见到蚊子。夏季变暖、冬季更温和以及无霜期的出现，使得蚊子的活动范围向高海拔地区扩张。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85919" target="_blank"&gt;文明系列游戏开发商裁员三分之一&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                《文明》系列和《XCOM》系列策略游戏开发商 Firaxis Games 工作室裁员三分之一约 60 名员工，其中包括工作室负责人 Heather Hazen。据彭博社报道，原因是《XCOM》系列最新作开发不顺。这意味着 Firaxis Games 与最近被 EA 关闭的 BioWare 工作室一样连续三款作品出现问题。Firaxis Games 最近发布的两款作品《文明 VII》销量尚可但评价褒贬不一，《Marvel’s Midnight Suns》评价不错但销量欠佳，如今《XCOM》系列新作也出现问题。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85931" target="_blank"&gt;微软官方 agent-framework 软件包被黑客劫持安装恶意程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugging Face 等服务上的环境变量、凭据文件以及其它敏感信息。更糟糕的是软件包无需被导入，只要安装该软件包的 Python 解释器启动，恶意代码便会运行。微软发言人在一份声明中表示在调查期间它将部分软件包项目设为私有。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85920" target="_blank"&gt;Optimizely 遭入侵 BBC CNN 等知名网站传播恶意程序&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                被知名网站用于网页 A/B 测试的软件 Optimizely 遭到入侵，黑客纂改了这些网站加载的 JavaScript 代码，向访客的计算机植入恶意程序。有至少 178 个网站受到影响，其中包括 BBC、CNN、Zoom、宜家、Salesforce、汇丰银行和 TalkTalk 等知名网站。这些网站使用了 Optimizely 的 Web Experimentation，允许在不更改网站底层代码的情况下调整网页的内容和布局。黑客利用了被称为 OPTIMJACK 的漏洞向 Optimizely 客户的项目中植入恶意的 JavaScript 代码。Optimizely 表示它已经修复了漏洞，通知了受影响的客户。黑客释放了多个恶意负荷，其中包括篡改用户的加密货币钱包地址将其替换为攻击者控制的地址；窃取支付卡信息、Cookie 和屏幕截图；甚至还会利用 iPhone 和 iPad 运行的旧版本 iOS 系统漏洞。目前不清楚有多少设备被安装恶意程序。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85932" target="_blank"&gt;黄仁勋的下台可能削弱开放权重模型让闭源模型受益&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                黄仁勋的下台可能削弱开放权重模型生态，让 OpenAI 和 Anthropic 等闭源模型开发商受益。黄仁勋此前曾利用英伟达的资金打造一个广泛的 AI 生态系统。他通过投资和收购初创企业，支持开发开源和开放权重模型。黄仁勋是此类模型推广的坚定倡导者，曾游说反对华盛顿限制使用中国的开放权重模型，积极推动美国本土开放权重模型的开发。一位风险投资人表示，失去黄仁勋以及英伟达在投资上不再那么慷慨，我们可能最终会面对一个模型提供商高度集中的世界。一位业内人士表示不认为开放权重模型会就此消失，但失去黄仁勋这位最强大的财务支持者和拥护者，无疑会拖慢它们的发展进程。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85921" target="_blank"&gt;Netflix 制作的《三体》第二季于 1 月 14 日上线&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Netflix 宣布其制作的改编自刘慈欣同名小说《三体》的电视剧第二季将于 1 月 14 日上映。Netflix 的《三体》电视剧由制作《权力游戏》的 David Benioff 和 D.B. Weiss 以及《真爱如血》的 Alexander Woo 共同打造，第一季于 2024 年 3 月上线。第一季主要讲述了经历文革的天体物理学家叶文洁在收到外星人的信息之后邀请外星种族“三体人”前来殖民地球。第二季改编自《黑暗森林》，主要讲述人类严阵以待应对外星人入侵，第一季牛津五人组中的幸存者都悉数回归。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85933" target="_blank"&gt;全球专利申请量创新高&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件）、大韩民国（319,210件）和德国（132,714件）。 印度达到 105,163 件，同比增长 38%，首次突破 10 万件。计算机技术仍是专利申请量最大的技术领域，占所有已公布专利申请总量的 13%。世界知识产权组织称，部分知识产权局报告了来自个别案例的证据，表明 AI 起草工具可能影响了 2025 年的专利申请模式。它们发现，个人提交的申请占比上升，审查员也越来越频繁地注意到看似由 AI 生成或在 AI 辅助下生成的文本。因此近期专利申请量的部分增长可能反映了使用专利制度的新方式，而非创新投资有所增加，并可能影响知识产权局的工作量。产权组织将继续研究这一问题。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85922" target="_blank"&gt;Manus 成为 Godot 项目的白金赞助商&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                负责开源游戏引擎 Godot 项目的基金会宣布，AI 公司 Manus 成为其白金赞助商，即每年至少赞助 5 万欧元。Manus 联合创始人兼首席产品官张涛在一份声明中表示，“AI 正在降低游戏制作的技术门槛，但工具终究只是工具。优秀的游戏是你和朋友都喜欢、愿意一遍又一遍玩的。这背后离不开你对游戏体验的独特理解、细节的打磨，以及只有你才会想到的奇妙创意。今后真正稀缺的将不再是制作游戏的能力，而是你是否清楚自己想要创造什么。在让每个人都能掌握真正的游戏开发工具这件事上，Godot 所做的努力几乎无人能及。它是一款开源游戏引擎，由社区共同塑造，并依靠一群热爱它的贡献者和专业开发者持续推动发展。我们很荣幸能支持这项事业，也希望越来越多通过 Manus 制作人生第一款游戏的人，能进一步探索 Godot，发现自己还能创造出怎样精彩的作品。”
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85934" target="_blank"&gt;过度运动紊乱多巴胺&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                高强度运动后如果没有充足的恢复时间，带来的影响可能不只是肌肉和耐力受损。一项研究表明，过度训练还会扰乱大脑的化学环境，有可能阻碍大脑回归正常静息状态。巴西圣保罗大学的科研人员发现，长时间高强度运动会改变海马体内多巴胺的调节机制。海马体是负责记忆与情绪调控的重要脑区。研究团队观察到，按照高强度方案训练的小鼠，本该进入恢复期时，多巴胺水平却持续偏高。多巴胺在动机、警觉性方面发挥重要作用。他们认为，人类体内如果出现类似的紊乱，或许可以解释为什么过度训练有时会伴随失眠、焦虑和持续性疲劳。如果这一推论得到证实，将进一步证明充足休息对体能与心理健康都至关重要。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85923" target="_blank"&gt;新高危漏洞 Java4Shell 会导致远程代码执行&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                刚刚公开的高危漏洞 Java4Shell 会导致远程代码执行。Java4Shell 源自 OpenJDK Base64 解码器的一个内存损坏漏洞，CVSS 4.0 评分 9.2/10。该漏洞会 Keycloak、Jira、Confluence、JFrog、Jenkins 和 PingFederate 等中导致无需身份验证的远程代码执行，在 Apache Kafka、Solr、ElasticSearch、Gerrit、Netflix Spinnaker 等中导致身份验证后的远程代码执行。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85935" target="_blank"&gt;城镇夜空飞过的人造卫星数量超过肉眼可见星星数量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发现如果视野完全无遮挡，那么一个典型的英国的城镇上空，夜晚任何时刻都有 710 颗卫星掠过。Starlink 卫星轨道与赤道呈约 53 度夹角，因此卫星集中在中纬度地区上空。赤道附近的夜空较为干净，平均有 490 颗。不是所有卫星都能被肉眼看见，人造卫星只有在被太阳照亮同时地面处黑暗中时才会被看见。根据研究，在 710 颗卫星中平均有 105 颗在掠过天顶时能反射阳光，其亮度足以媲美恒星。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85924" target="_blank"&gt;韩国严打高考作弊&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                韩国高考将于 19 日开考，为防止考生在考试期间利用高科技工具作弊，韩国政府采取了多种措施，包括：&lt;br /&gt;
-禁止考生携带手机、智能眼镜、智能手表、电子烟等任何电子设备进入考场。如考生误将电子设备带入考场，须在第一场考试开始前按照监考人员的要求上交，考试结束后方可领回。若未按要求上交，被发现后将按作弊处理，考试成绩作废。&lt;br /&gt;
-考生在考试期间佩戴智能设备即被视为违规使用，当年考试成绩将被取消，参加下一年度高考的资格也将被剥夺。&lt;br /&gt;
-从 19 日上午  8 时 30 分在全国范围内发送紧急灾难短信，之后在没有预先通知的情况下不定时追加发送。该短信无法拒收，只要手机处于开机状态，手机就将持续发出 10.5 秒的提示音，此举旨在打击舞弊行为。
-&lt;br /&gt;
-自 18 日下午 6 时起，全国高考考点及周边地区临时屏蔽公共无线网络（WiFi）信号，最大限度降低考生利用智能眼镜、微型摄像头等搭载AI技术的设备实施作弊的风险。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85936" target="_blank"&gt;欧盟委员会如何向逾 4 万工作人员部署 Matrix&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。2026 年 9 月欧盟将基于 Matrix 的工具部署到了每一台笔记本电脑，该工具由欧盟委员会自行运营，服务着逾 4 万名用户。开发 Element 的公司发表博客介绍了欧盟委员会的经验。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85925" target="_blank"&gt;陆游：最早探索猫内心世界的诗人&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                如果你阅读本文，那么你的社媒信息流肯定充斥着猫咪。这并不出人意料，毕竟互联网是属于猫的。人类对家猫的喜爱其实是一种相对较近的现象。在很多地方，猫曾被视为可疑之物，遭受过残酷对待。猫最早的文学记载之一是成文于九世纪，由一位不知名爱尔兰僧侣所作的诗《Pangur Bán》。生活在 12 世纪的诗人陆游一生创作了逾 9000 篇诗作，其中有多篇是以猫为主题，有三篇甚至冠名为《赠猫》。陆游之前尚未见有以猫为赠诗对象的文学记载。陆游在诗里坦诚养猫是为保护藏书免受鼠患，“惭愧家贫策勋薄，寒无毡坐食无鱼。”他也在诗里批评了猫的懒惰，“时时醉薄荷，夜夜占氍毹。”但随之称赞猫的成绩，“鼠穴功方列，鱼餐赏岂无。”他还给猫起了名字，“仍当立名字，唤作小於菟。”於菟是老虎的意思，即称猫咪为小老虎，这个名字显然被很多人用过。他还描述了猫老年的生活，“执鼠无功元不劾，一箪鱼饭以时来。看君终日常安卧，何事纷纷去又回？”这是他去世前一年写下的。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85937" target="_blank"&gt;IEA 警告称到 2030 年数据中心碳排放量将增加七成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。截至今年 8 月，美国已有约 180 GW 的新建天然气发电项目规划为数据中心供电。这一新增天然气发电装机容量，几乎相当于目前整个欧盟已安装的天然气发电总装机量。由于数据中心对化石燃料发电的需求增长，到 2030 年数据中心碳排放量预计将增加 70%。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85926" target="_blank"&gt;特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                特斯拉宣布以 3 万美元向特选客户出售无人驾驶汽车 Cybercab，然后每月必须支付 299 美元否则汽车不会启动。Cybercab 类似 Waymo 旗下的无人驾驶出租车，没有方向盘也没有刹车踏板，但不同的是 Waymo 的汽车提供的网约车服务，而特斯拉计划将其提供给少许客户。分析师认为这类似花 3 万美元买下一个特许经营权。特斯拉称，如果 Cybercab 车主未能按时足额缴纳费用，汽车会停止工作。如果车主试图在不支持该服务的区域（目前仅限于佛罗里达州和德克萨斯州部分城市）使用汽车，它同样无法工作。如果车主有任何被认定为未经授权或不当的行为，特斯拉有权暂停或取消其订阅，届时汽车将停止工作。如果汽车失去网络连接，它同样会停止工作。此外未经特斯拉书面同意车主不得出售或转让汽车。特斯拉还建议 13 岁以下儿童不要乘坐 Cyber​​cab，并明确禁止儿童在没有成年人陪同的情况下单独乘车。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=85927" target="_blank"&gt;剑桥词典的 2026 年度单词是“人”&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                随着 AI 不断模糊人与机器之间的界限，全世界开始重新争论何谓“人”。剑桥词典的 2026 年度单词就是“人（human）”。在剑桥词典中，人被定义为“具有人特有的品质、缺点和情感，区别于神、动物或机器”。剑桥大学 AI 治理与人权专家 Rachel Adams 教授表示，AI 让我们重新面对困扰了人类几千年的问题：我们是谁？身为人类意味着什么？问题的答案从未固定，但提出问题本身正是人类所共有的特质。”“AI 将成为对人类的一场深刻考验。它确实存在加剧现有不平等的风险，但同时也具备解决这些问题的潜力。”
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-18</guid><pubDate>Wed, 18 Nov 2026 17:49:27 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-19</guid><pubDate>Thu, 19 Nov 2026 17:59:08 +0000</pubDate></item></channel></rss>
