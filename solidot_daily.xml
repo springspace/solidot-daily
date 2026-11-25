@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 24 Nov 2026 19:58:36 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月24日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 25 Nov 2026 18:59:22 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月25日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85972" target="_blank"&gt;新浏览器 Ladybird 释出首个 alpha 版本&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                SerenityOS 项目创始人 Andreas Kling 从 2025 年起带领一个团队开发一款全新的浏览器 Ladybird。Andreas Kling 在诺基亚和苹果工作时从事 WebKit 引擎相关工作。Ladybird 的引擎完全从零开始编写，不使用 Blink、WebKit、Gecko 或其它浏览器引擎的任何代码，常用功能如图像/音频/视频格式、加密、图形等将使用第三方库实现，但浏览器引擎不会使用其它浏览器引擎代码。现在 Ladybird 项目释出了第一个 Alpha 版本，支持 Linux 和 macOS 平台。既然是 Alpha 版本，它显然会存在很多问题，部分网站可能不能正常工作，软件也可能会崩溃。开发者欢迎用户将崩溃报告发送给他们。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85983" target="_blank"&gt;多样性影响鸟类对天敌的反应&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                此前有研究显示，本地生物多样性会影响授粉、害虫防治等重要的生态功能。发表在 PLOS Biology 期刊上的一项研究转向了另一个问题：多样性如何影响生态信息的传递——具体而言，就是鸟类用于防御的叫声。研究团队在中国东部的十个自然保护区开展了数百次实验。第一轮实验中，研究人员用飞行姿态的鹰模型和停歇姿态的猫头鹰模型来“挑衅”猎物鸟，观察它们的反应：是发出警戒叫声提醒同伴赶快逃离，还是发出围攻召集声，招呼其他鸟儿聚集到天敌周围，合力把威胁赶走。第二轮实验中，团队用扬声器播放录制的围攻召集声，诱发本地鸟类做出反应。播放的声音经过设计，包含的物种数量从一个到八个不等。结果发现，录音中包含的物种越多样，赶来围攻的鸟群规模就越大，回应的叫声也更快、更多。
+
+这些发现再次凸显了本地生物多样性的重要性：在物种减少的栖息地中，猎物对危险的反应可能变得更迟钝，而原因则可能是群体内部的信息流通减弱。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85973" target="_blank"&gt;Google 申请专利为用户量身定制 AI 电视频道&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术未来发展方向的最新信号：企业和广告商通过收集大量与你相关的数据，自动生成源源不断、高度精准且完全个性化的内容。该专利被称为 creating a channel of video experiences tailored to a user，通过输入提示词要求大模型为用户生成定制视频，其中用户将扮演主角。生成的视频将是基于用户画像特征、用户最常观看内容的风格和偏好。该频道还会关联广告服务器，为 AI 生成视频插入定制广告。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85984" target="_blank"&gt;Kagi 推出邮件服务&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                付费搜索引擎（有免费试用）Kagi 推出了其邮件服务 Kagi Mail 的公开 beta 版本。Kagi 承诺该服务无监控、无广告、支持开放标准，不会锁定。Kagi 表示：“这个世界还需要另一个电子邮件服务吗？我们不止一次地问过自己。市场上已有很出色的产品了，我们也十分欣赏 Fastmail 和 Tuta 所做的工作。但我们还是决定开发自己的服务，理由与打造其它 Kagi 产品相同：技术应当做好自己的工作，尽量不干扰用户的使用。使用 Kagi Mail，用户可获得一个 @kagimail.com 后缀的邮箱；该服务支持无限数量的化名和域名，提供 50GB 存储空间及内置日历功能。联系人和通讯录功能预计将于 2027 年第一季度推出，原生移动应用则要等到 2027 年第三季度。用户可享受 60 天免费试用，试用期结束后需支付每年 99 美元的费用。该服务包含在每月 25 美元的 Kagi Ultimate 订阅套餐内。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85974" target="_blank"&gt;解剖 Tor 协议&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Alessandro Greco 写道：&lt;i&gt;
-《Tor 解剖（Anatomia di Tor / Onion Routing Anatomy）》由我在意大利发起并负责编辑，已经正式公开发布。这是一本可免费下载的开源技术书籍，介绍 Tor 匿名网络的底层机制：信元、通信通道与电路、分层加密、Onion Services、流量分析及安全边界。
-&lt;br /&gt;
-全书包含 31 章、20 个可在私有 Tor 测试网络中复现的实验、176 道附解答练习题和 39 幅技术插图。简体中文版已提供 PDF 和 EPUB，采用 GNU GPL-3.0-or-later 许可；项目独立于 Tor Project。
-&lt;br /&gt;
-简体中文版及下载（Zenodo DOI）： https://doi.org/10.5281/zenodo.24207976
-&lt;br /&gt;
-开源项目主页： https://github.com/aleff-github/onion-routing-anatomy
-&lt;/i&gt;
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85985" target="_blank"&gt;梅奥诊所向每天用自己的时间启动电脑的员工补发工资&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                梅奥诊所（Mayo Clinic）同意向负责安排患者预约的员工支付逾 90.6万美元的补发工资。明尼苏达州总检察长 Keith Ellison 的调查发现，这些员工在正式上班前和下班后都承担了无偿工作，包括启动电脑以及患者电话沟通。根据和解协议，梅奥诊所将停止对员工的工作时间进行四舍五入处理，在每个班次开始时额外支付 5 分钟工资，以补偿员工启动电脑所花费的时间。梅奥诊所在一份声明中表示，达成这项协议是为了解决涉及部分专科工作人员的工时记录所引发的问题。它表示虽然不同意总检察长的立场，但认为与其拿出钱支付辩护律师的费用，不如通过和解将这笔钱支付给员工。梅奥诊所还表示，公司始终致力于准确、合理支付员工薪酬，定期审查薪酬政策。根据明尼苏达州法律，劳动者应当获得其全部工作时间对应的报酬。州法律规定，雇主必须为员工履行与工作相关职责所花费的全部时间支付薪酬，其中也包括员工在雇主工作场所内所花费的时间。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85976" target="_blank"&gt;索尼称逾 3900 万玩家玩过了 GTA6&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                索尼官方博客周一称，截至 11 月 22 日已有逾 3900 万玩家在 PS5 上体验了 11 月 19 日上市的 GTA6。GTA6 创下了 PlayStation 平台游戏同时在线玩家人数的新纪录，超过了此前多人游戏、免费游戏及单机游戏保持的纪录；累积游戏时长高达 6.83 亿小时，每位玩家平均玩了 17.4 小时；PS5 单日联网激活数量创新高，新激活的 PS5 游戏机中七成玩家选择 GTA6 作为第一款玩的游戏。根据此前 Sensor Tower 的数据，GTA6 在 PS5 和 Xbox 上的销售比是 3：1，如果这一数字正确那么 GTA6 的首周销量可能超过了 5000 万份。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85986" target="_blank"&gt;CIA 部分非机密信息泄漏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                中央情报局（CIA）和国家情报总监办公室（ODNI）最近发现了一起网络入侵事件，导致部分非机密信息遭到泄露。此次入侵影响了一个开源情报分析系统，机密信息未泄漏。开源情报旨在利用公开非机密信息搜寻情报线索，其涵盖范围广泛，包括可商业获取的数据集、社交媒体内容、卫星图像以及其它网络数据。开源情报结合其它数据源，经常能揭示出极具价值的情报。情报机构常将此类数据与其它情报来源综合使用以辅助分析判断。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85977" target="_blank"&gt;神舟二十四号计划 25 日 8 时发射&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中国载人航天工程办公室星期二（11月24日）宣布，神舟二十四号计划于星期三（11月25日）早上8时18分发射。航天员乘组由汤洪波（指令长）、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里（载荷专家）组成。其中巴基斯坦航天员穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）将成为首位到访中国天宫空间站的外籍航天员，执行短期任务后将随神舟二十三号乘组返回地球。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务。航天员武毅来自于中国第三批航天员，是首次执行飞行任务。巴基斯坦航天员在轨期间，除参与乘组日常工作外，主要承担中巴合作空间科学实验任务，重点完成实验样品及实验单元的安装，并按计划开展在轨实验。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85987" target="_blank"&gt;男性肥胖者服用 GLP-1 药物后改善了精子质量&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《Biomedicines》期刊上的一项研究，男性肥胖者在服用 GLP-1 药物之后改善了精子质量和睾酮水平。研究针对了 108 名有肥胖症和/或 2 型糖尿病男性，服用 GLP-1 药物一年后他们的精子浓度显著增加。在服用 GLP-1 前样本中仅有略超 3% 的精子形状正常，12 个月的治疗后这一比例上升至 4.5%。具有前向运动能力的精子比例也从 23% 提高到了 38%。服用者平均睾酮水平上升 30%，雌二醇水平则有所下降。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85978" target="_blank"&gt;Windows Server 移除对 32 位应用的支持&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系统上的兼容层。这意味着新操作系统不再默认包含 WoW64 兼容层——WoW64 让 32 位应用能在 64 位 Windows 环境中运行。Windows Server 最后一个 32 位版本发布于 2008 年，此后的所有版本均为纯 64 位系统。WoW64 子系统此前一直存在于 64 位 Windows 中，旨在确保 32 位应用能在 64 位系统上继续运行。但在 Windows Server 2028 中，这一 32 位兼容层将转变为可选组件，用户如有需要，可自行手动安装。微软项目经理 Elden Christensen 表示：“我们确实要移除 WoW64 子系统。此举将提升系统的安全性，特别是在防范 32 位恶意程序——这意味着 32 位恶意程序将无法在 Windows Server 2028 上运行。”此外此举也有助于减小操作系统安装后的占用空间。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85988" target="_blank"&gt;日本政府开发智能体打击盗版动漫&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                日本文化厅正在测试一款 AI 智能体去自动识别和标记可能包含非法或盗版内容的动漫网站。测试结果显示其准确率极高。2025 财年针对国内的一项调查显示，AI 标记的 1168 条可疑 X 推文有 84% 是非法内容；AI 检测的 1564 个动画网站中 89% 含有盗版动画；1935 个漫画网站中盗版漫画比例高达 94%。2026 财年日本政府将监测范围扩大至海外。日本政府计划最早于 2027 年 3 月汇总并公布最新调查结果。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85979" target="_blank"&gt;Firefox 161 释出&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                Mozilla 释出了 Firefox 161。主要新特性包括：对常用功能如复制当前标签页网址等设置快捷键，方法是在地址栏输入 about:keyboard；主题区域新增经典主题，可选择早期版本的 Proton 主题或 Firefox OLED 主题；支持 JPEG XL 图像格式，允许下载前预览完整图像；Windows 版本支持播放 HDR 视频；内置 VPN 功能支持对特定网站设置开启或关闭，允许用户在全局启用 VPN 时将特定网站排除在外；开发者功能包括支持 random() CSS 函数，支持嵌套任意替换函数，支持 CSS Typed Object Model 等等。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=85989" target="_blank"&gt;如何维护超算&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                美国橡树岭国家实验室的超算 Frontier 有数以千计的计算节点，维护其正常工作是一大挑战。无法纠正的内存错误，维护失误都会引发问题。技术人员在狭窄紧密的机架之间工作时可能会重启错误的节点，或意外触碰相邻节点的电源。硬件故障可能会影响单个节点，但对于运行在数千个处理器上的模拟任务而言，这可能导致整个进程逐渐停止工作。随之而来的问题是：计算进度最近储存的时间？多少计算工作需要重做？调度程序多久才能让该任务重新运行？Frontie 超算上 HBM 内存发生无法纠正双位错误的概率是每天 1.5 次，相比下该实验室的上一代超算 Summit 每两周才会出现一次此类错误，原因是 Frontie 的内存总容量是 Summit 的 16 倍以上。除了内存，有问题的 GPU 固件、互连故障都会导致严重问题。一个 GPU 故障，使用 1,024 个 GPU 的计算任务就可能被迫停止。有性能问题的 GPU 同样会带来问题：如果某个参与计算的 GPU 单元运行速度只有正常的 80%，其它单元需要停下来等待它。超算使用检查点（checkpointing）机制定时保存计算结果，一旦出错模拟任务无需从头开始。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85980" target="_blank"&gt;空气污染是痴呆症的一个诱因&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《Journal of Neuroinflammation》期刊上的一项研究，微小的空气污染颗粒可能会通过改变大脑免疫细胞的行为对大脑造成损害。研究结果表明空气污染是痴呆症的一个诱因。研究人员分析了英国生物样本库（UK Biobank）约 50 万名成年人的数据；该研究数据集对参与者的健康状况进行了长达 14 年的追踪。结果发现，相比生活在污染程度最低的三分之一地区的人群，居住在污染程度最高的三分之一地区的人群，患阿尔茨海默病或相关痴呆症的风险高 25%。在排除了年龄、吸烟、糖尿病等因素的影响后，这一结论依然成立。无论个人患阿尔茨海默病的遗传风险高低，空气污染都会增加其患病风险。研究团队对小鼠展开了进一步实验，让小鼠暴露在污染空气中五个月。结果发现健康的小鼠出现了记忆障碍、血脑屏障受损以及大脑炎症。研究还发现，空气污染改变了小胶质细胞基因的激活状态，干扰了大脑免疫细胞的正常功能。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=85990" target="_blank"&gt;研究显示不是所有地区的男性精子数量都大幅下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。这项研究表明男性精子数量的变化趋势可能存在地域差异。对男性精子数量的担忧始于 1992 年，《British Medical Journal》期刊当时发表的一项研究发现自 1940 年以来男性精子浓度下降了 42%。2022 年的一项荟萃​​分析显示 1973-2018 年间男性精子浓度下降了逾 50%，精子总数下降逾 60%。北美、欧洲、澳大利亚、南美、中美洲、亚洲和非洲都出现精子数量下降的现象——尽管下降幅度各不相同。丹麦的研究表明精子数量是否正在下降并没有盖棺定论。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85981" target="_blank"&gt;基因工程烟草能用于高效合成抗癌药&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                紫杉醇（paclitaxel）是临床上应用最广泛的化疗药物之一，被大量用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤。然而这种救命药最初提取自太平洋红豆杉的树皮，天然含量极低。科学家正在尝试把红豆杉合成紫杉醇的基因全部搬到生长迅速的其他植物或微生物中，像酿酒或种庄稼一样，低成本、可持续地批量生产紫杉醇。一项研究在本氏烟草（Nicotiana benthamiana）中首次完整重构并验证了紫杉醇的从头生物合成途径，使工程烟草中的紫杉醇产量飙升 500 倍以上，达到与天然红豆杉树皮相当的水平。本氏烟草是普通烟草的近亲，但它通常不被用来制作香烟，而因为生长周期短、容易进行基因工程而成为生物科学研究中的重要植物。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=85991" target="_blank"&gt;NASA 计划 2028 年发射验证核电推进技术的探测器&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                NASA 计划 2028 年发射验证深空核电推进技术的探测器 Space Reactor‑1 Freedom（SR-1）。SR-1 将利用核能和太阳能将 SkyFall 舱送往火星，SkyFall 内有三架新一代直升机，这些直升机将研究火星的地质和气候历史，探索新地形，搜寻地下冰层的迹象。SR-1 将配备一台布雷顿闭式循环裂变反应堆，使用高纯度但低浓缩的铀作为燃料，能产生 20 千瓦以上的电力。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85982" target="_blank"&gt;东北积雪天数预计将会显著减少&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据两项研究，未来东北地积雪覆盖天数将普遍减少。与 2001 年—2020 年相比，到本世纪末，中等排放情景下区域平均积雪覆盖天数预计减少约 64 天，低排放和高排放情景下分别减少约 42天 和 85 天。高排放情景下，年积雪覆盖不足 50 天的区域占比预计由 19% 增至 99%，表明大范围地区可能向短暂、间歇性积雪状态转变。研究进一步指出，未来雪季缩短具有明显的季节非对称性。雪季前期积雪变化主要与降雪条件相关，而冬末至春季积雪持续性对升温更为敏感，其损失成为较强增暖情景下雪季缩短的突出特征。
+                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=85992" target="_blank"&gt;Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。本周二 OpenAI 宣布其最新大模型成功设计出新蛋白质，在实验室合成和测试时部分新蛋白质的行为和预期一样。该研究引发了 生物 AI 未来的讨论，部分科学家预测 Claude 和 ChatGPT 之类的通用模型在蛋白质结构预测和设计等任务上可能会超越 AlphaFold 等专用工具。也有研究人员对此提出质疑，认为大模型展现出的部分能力可能只是训练数据的机械重复。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-24</guid><pubDate>Tue, 24 Nov 2026 19:58:36 +0000</pubDate></item></channel></rss>
+            
+            &lt;li&gt;
+                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=85993" target="_blank"&gt;EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内容将于 11 月 26 日上线《EA Sports FC 27》。EA 向 Motson 的家人支付了费用以获得使用其形象及重现其声音的权利，但未透露具体财务条款。
+&lt;p&gt;&lt;/p&gt;
+            &lt;/li&gt;&lt;br/&gt;
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-25</guid><pubDate>Wed, 25 Nov 2026 18:59:22 +0000</pubDate></item></channel></rss>
