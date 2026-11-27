@@ -1,81 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 26 Nov 2026 18:51:07 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月26日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Solidot 每日精选日报</title><link>https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml</link><description>将 Solidot 每天几十条资讯浓缩合并为一条</description><atom:link href="https://raw.githubusercontent.com/springspace/solidot-daily/main/solidot_daily.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 27 Nov 2026 18:42:33 +0000</lastBuildDate><item><title>【Solidot 日报】2026年11月27日 资讯汇总</title><description>&lt;h3&gt;今日 Solidot 资讯汇总：&lt;/h3&gt;&lt;hr/&gt;&lt;ul&gt;
             &lt;li&gt;
-                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=85994" target="_blank"&gt;纽约时报警告摄影师不要升级到内置 AI 功能的 Photoshop&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                《纽约时报》要求自由摄影师不要升级到内置 AI 功能的最新版本 Adob​​e Photoshop，理由是 AI 可能会以用户难以察觉的方式改变照片。《时报》摄影部门负责人 Meaghan Looram 和 Josh Haner 在邮件里指出，结果就是根据照片的元数据照片可能会被标记为 AI 生成。Adobe 过去几年在 Photoshop 等应用中集成了越来越多的 AI 功能，11 月释出的最新版本提供了 AI Assisted Editor 视图，允许用户通过单一工具栏访问 Photoshop 中所有的 AI 功能。对于《纽约时报》等媒体而言，照片编辑被严格控制在最低限度，带有 AI 元数据的照片会损害读者对媒体的信任。《时报》去年曾指出他们主要对照片的色彩进行微调，以确保准确还原图像内容。它现在要求摄影师避免在工作中使用 Adob​​e Photoshop 2027（28.0.0 及后续版本）。
+                &lt;strong&gt;1. &lt;a href="https://www.solidot.org/story?sid=86007" target="_blank"&gt;极端高温引发地表淡水急剧下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据发表在《科学》期刊上的一项研究，2023 年和 2024 年的全球极端高温导致地球地表淡水资源出现前所未有的下降，河流流量以及湖泊和水库蓄水量急剧减少，即使在湿润地区也是如此。中科院研究人员分析了 1991 年至 2025 年间全球河流流量以及湖泊和水库蓄水量的变化，发现了三个截然不同的阶段：1991 年至 2006 年间的显著波动、2007 年至 2022 年间的相对稳定期，以及 2023 年至 2024 年间的突发性中断——在此期间，河流流量和地表水蓄水量均急剧下降。与 1991 年至 2020 年的平均水平相比，全球河流流量下降了约 5.7%，湖泊和水库的有效蓄水量则下降了 9.5%。尽管河流流量自 2025 年起开始回升，但作者发现，在他们考察的历史记录中，2023–2024 年的下降幅度是前所未有的。南美洲受到的冲击尤为严重：河流流量下降了 17.8%，地表水蓄水量减少了 16.5%，而与此同时，部分地区却遭遇了极端降雨和洪涝灾害。研究人员将这些下降归因于太平洋厄尔尼诺现象与热带北大西洋同时变暖之间的一种不同寻常的相互作用。虽然厄尔尼诺现象通常会抑制亚马逊地区的降雨，但异常温暖的大西洋放大了其效应，导致大气中的水汽偏离南美洲北部，从而加速了河流流量和地表水蓄水量的下降。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=85995" target="_blank"&gt;1Password 源代码以及部分客户数据泄漏&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                密码管理器 1Password 披露了一起安全事件：2026 年 11 月 19 日黑客入侵了该公司一名员工的企业 GitHub 账户，访问了源代码，向后端服务推送恶意代码，下载了客户相关的管理数据。泄漏的数据包括了客户姓名和电子邮件地址；账户及用户标识符、账户创建时间和最后登录时间；公钥（本身就是公开的），Secure Remote Password 协议参数；邀请、配置及账户恢复邮件链接中的令牌，以及其它非机密账户元数据。1Password 称，黑客拷贝了私有库的源代码，访问了其 CI/CD 系统。源代码不包含任何用户机密信息，CI/CD 系统中包含了与基础设施相关的机密信息，它已对所有可能已泄露的凭据进行了轮换，向邮件令牌泄漏的用户发出了警告。1Password 称用户的密码库、主密码，以及私钥和账号恢复密钥都未受到影响。
+                &lt;strong&gt;2. &lt;a href="https://www.solidot.org/story?sid=86008" target="_blank"&gt;物理学家使用重力发送无法屏蔽的信息&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                昆士兰大学研究人员利用重力、电梯和一台高灵敏度重力仪成功穿墙传递信息。实验在大学的 Parnell 楼进行，研究人员让电梯在两个楼层之间往返移动，其中 1.8 公吨配重在 0 和 1 之间切换，相邻卫生间里的重力仪探测到了重力场的变化，将信号翻译为单词 Gravity（重力）。Charles Woffinden 博士表示，不同于电磁信号，重力信号无法通过在传播路径上放置普通物质屏蔽。虽然目前的系统还远未达到实用阶段，但它证明利用一种普通物理屏障无法阻挡的方式进行通信是可行的。研究人员利用的电梯来自 1950 年代，运行速度很慢，每分钟仅能传输 1 比特数据，发送一个单词需要整整一个小时。研究人员称，如果利用量子传感器，重力通信距离能提高到 500 米，数据传输速率能达到每分钟 15 比特。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=85996" target="_blank"&gt;欧几里得望远镜发现最遥远类星体&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                ESA 欧几里得空间望远镜发现迄今观测到的距离最远的类星体。这个遥远天体的中心黑洞质量约为太阳的 3.6 亿倍。它发出的光来自宇宙大爆炸后仅 6.3 亿年的时期，为研究宇宙早期超大质量黑洞的形成与演化提供了新线索。类星体是由超大质量黑洞驱动的星系核心。当星系核心附近的气体在引力作用下向黑洞聚集，并逐渐落入黑洞时，会释放出巨大能量，使星系核心发出极其明亮的光芒。这个新发现的类星体编号为 J1504+6252，红移值达到 8.13，是首个红移值超过 8 的类星体。红移值越大，通常意味着天体距离地球越远，科学家观测到的宇宙也越古老。此次观测相当于看到了约 131 亿年前的宇宙，当时距离宇宙大爆炸仅过去约 6.3 亿年，宇宙年龄还不到现在的 5%。
+                &lt;strong&gt;3. &lt;a href="https://www.solidot.org/story?sid=86009" target="_blank"&gt;旅行者 1 号发回无法解读的信息&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是一光日。但与此同时旅行者 1 号出现了技术故障，给这一里程碑时刻蒙上了一层阴影。11 月 14 日旅行者 1 号发回的信号缺乏帧同步信息，意味着 NASA 无法解读接收到的科学数据或工程数据。遥测数据的缺乏让任务控制人员无法监测其运行状态，也无法获取其在星际空间收集到的测量结果。导致此次故障的确切原因尚不明确。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=85997" target="_blank"&gt;System76 释出 Pop!_OS 26.04 LTS&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                System76 释出了基于  Ubuntu 26.04 LTS 的 Pop!_OS 26.04 LTS。主要变化包括：支持绘图板；初始设置或通过设置 Settings &amp;gt; System &amp;amp; accounts &amp;gt; System &amp;amp; application 启用自动更新；新增原生应用 COSMIC Viewer 和 COSMIC System Monitor，完全重新设计 COSMIC Store；支持远程桌面，改进辅助功能，等等。Pop!_OS 24.04 LTS 用户将在 12 月收到推送的更新。
+                &lt;strong&gt;4. &lt;a href="https://www.solidot.org/story?sid=86010" target="_blank"&gt;IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                蓝色巨人决定停止为其咨询部门员工提供美国工作签证及绿卡担保。该公司咨询部门有逾 15 万员工，受影响员工可选择到其他国家工作，或在 2026 年 12 月 31 日前离职。IBM 未披露具体有多少员工会受到影响，也未说明其中有多少人身处美国。员工有三周时间决定是否接受外派。对于不愿接受海外职位的员工，公司将提供相当于三个月的离职补偿金，将 2026 年 12 月 31 日定为他们的最后工作日。在匿名员工论坛 Blind 上，一位 IBM 员工说到印度工作可能意味着减薪 80%。 HireMe CEO George Carrillo 指出，调动工作岗位可能意味着举家搬迁。它会影响配偶的工作、子女的教育、医疗保健以及多年的规划。人力资源部门应提供明确的选择、截止日期和协调一致的支持。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=85998" target="_blank"&gt;FCC 批准 SpaceX 发射 100 万颗轨道数据中心卫星&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                FCC 批准了 SpaceX 发射 100 万颗轨道数据中心卫星 Starmind 的申请。SpaceX 发射申请遭到了亚马逊、Viasat、美国天文学会等的反对。亚马逊认为该计划不切实际，SpaceX 建成 Starmind 星座将需要数百年的时间。FCC 主席 Brendan Carr 则反驳说亚马逊的宽带卫星星座 Kuiper 的进度也并不顺利。根据批准要求，SpaceX 必须在 2033 年 11 月 25 日前将首批 Starmind 卫星送入轨道。
+                &lt;strong&gt;5. &lt;a href="https://www.solidot.org/story?sid=86011" target="_blank"&gt;一人户二人户占全国家庭构成的近六成&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                一个时代的家庭模板，正在悄悄退场。曾经被视作社会基本单元的三口之家，如今占比不足两成；一人户、二人户相加，已经接近全部家庭的六成。最新的家庭结构抽样数据，展现了一个很直观的变化：一人户占比 26.4%，二人户占比 33.2%，两者相加，已经接近六成。而曾经代表主流的三口之家，占比仅 19%。四人户 12.1%，五人及以上大家庭只剩下 9.3%。家庭这个最小单元，正在变得越来越小。很多人会把一人户、二人户简单等同于单身和丁克，但现实比标签复杂。一人户里面，既有主动选择独居的年轻人，也有子女离开后独自生活的老人；二人户里，有还没生育的年轻夫妻，也有相伴养老的老年夫妇。它不是某一类人的选择，而是一整个社会结构变迁的结果。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=85999" target="_blank"&gt;图库平台充斥着生成式 AI 图像&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《The Quarterly Journal of Economics》期刊上的一项研究，今天的大型图库平台充斥着生成式 AI 图像。研究针对了一个在 2022 年 12 月允许创作者销售 GenAI 生成图像的大型图库。该图库要求 GenAI 图像必须标记，允许特定市场禁止 GenAI。研究人员分析了这一政策产生的影响。结果发现：图像产量增长了 136%，活跃创作者数量增加了 47%；但传统非 GenAI 图像的产量下降了 15%，非 GenAI 活跃创作者数量减少了 29%。总销售额增长了82%，但非 GenAI 作品的销售额下降了 28%，销售率下滑了 3 个百分点。
+                &lt;strong&gt;6. &lt;a href="https://www.solidot.org/story?sid=86012" target="_blank"&gt;欧盟委员会称浏览器竞争是 DMA 优先事项&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                欧盟委员会回应了 Open Web Advocacy 的公开信，认可浏览器是互联网的入口，是内容出版商触达读者的主要方式，而浏览器竞争是 DMA（Digital Markets Act）的优先事项。欧盟委员会表示，目前正就相关事宜进行磋商，确保竞争对手的浏览器能在 iPhone 和 iPad 上与 Safari 展开有效竞争。苹果公司此前被指控通过合规的要求阻止竞争对手的浏览器使用自己的引擎，违反了 DMA 相关规定。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=86000" target="_blank"&gt;艾滋病疫苗终于触手可及&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                本世纪初，南非 KwaZulu-Natal 省的一名年轻女性感染了 HIV。她本可能成为统计数字的一部分，但通过参与 HIV 研究她却给数百万人带来了希望。她被发现能对 HIV 病毒产生极其强烈的免疫反应。她需要在药物的帮助下才能控制病毒，但她体内的抗体被认为至今发现的最强效 HIV 抗体之一。在科学文献里她被称为 CAP256。科学家现在认为，通过模拟她感染 HIV 过程中的部分关键元素，能训练其他人的免疫系统产生同样强效的抗体去阻断多种不同的 HIV 毒株，最终研发出一种能彻底阻断 HIV 感染疫苗。CAP256 体内广谱中和抗体的存在给科学家研发疫苗带来了希望。
+                &lt;strong&gt;7. &lt;a href="https://www.solidot.org/story?sid=86013" target="_blank"&gt;文明的历史是小麦的历史&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有面包和酒。推而广之，也就不会有城市，更不会有苏美尔文明。古苏美尔人的认识至今仍然正确：人类的历史是小麦的历史。人类食用小麦的历史比城市、文字乃至车轮的出现都要久远。现存最古老的文字记录并非史诗或宗教典籍，而是关于谷物储存与税收的行政记录。虽然世界其它地区的主导粮作物不同，比如东亚是水稻，美洲是玉米，但是小麦支撑起了罗马帝国与工业革命。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=86001" target="_blank"&gt;地球连续六天气温比工业化前水平高 2C&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据欧盟哥白尼气候变化服务中心(C3S)的数据，全球气温已连续六天比工业化前水平高 2C。本周一全球日地表气温比工业化前水平高 2.24C 创历史新高，预计未来至少几天内气温仍将维持这一高位。此前只有两次日气温升幅超过 2C 的记录，分别出现在 2023 年 11 月和 2024 年 2 月，那两次持续时间较短，升温幅度都不及这次。科学界担心全球暖化可能在加速。目前地球正处以一次超强厄尔尼诺事件中。上一次如此强度的厄尔尼诺现象发生在 1870 年代，曾引发大规模饥荒，导致 5000 万人丧生。最新的厄尔尼诺现象将在未来几个月内达到峰值，其全面影响可能要到数月后才会显现。
+                &lt;strong&gt;8. &lt;a href="https://www.solidot.org/story?sid=86014" target="_blank"&gt;Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。Take-Two 已采取行动，试图遏制这一行为：他们通过 DMCA 通知从 GitHub 上删除了逾 3000 个相关库。但这并没有放缓 PC 版本的移植速度。移植者们已经能利用 AMD 中端显卡 9070XT 和 FSR 超分辨率技术在 Linux 上实现稳定运行 30+ FPS。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
             
             &lt;li&gt;
-                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=86002" target="_blank"&gt;中国发现新古人类支系&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                中科院研究人员针对在南宁隆安穿山洞和柳州鹿寨龙船洞两处地点获得的 4 颗人类牙齿化石（分别距今至少 10.1 万年和 10.5 万年—4.3 万年）开展了古蛋白质组学和形态学综合分析。研究人员将穿山洞和龙船洞发现的牙齿，与其他人属标本进行比较。结果显示，两个组合呈现出截然不同的表型特征。研究人员对龙船洞以及穿山洞样本进行了古蛋白质提取，发现龙船洞样本可能代表华南地区一支具有丹尼索瓦亲缘关系的谱系，而穿山洞牙齿可能属于华南地区一支不同于丹尼索瓦人的独立谱系。研究提示华南可能是古老型人类的地理避难所与演化熔炉，为理解东亚古人类种群结构、区域变异与可能的基因交流提供了重要基准，代表了重建亚洲古人类种群演化历史的重要一步。
+                &lt;strong&gt;9. &lt;a href="https://www.solidot.org/story?sid=86015" target="_blank"&gt;Kimi 向科学家提供最高 2 万美元 API 免费额度&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+                Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终未能获得应有的关注与投入。我们相信 AI 能加速科学研究，拓展探索与发现的边界，帮助研究者突破时间、资源与研究方法的局限，让更多大胆而富有想象力的科学构想从可能走向现实。”月之暗面将向入选的研究人员提供最高 20,000 美元的 Kimi API 额度（约 70 亿 token），具体金额将根据研究需求及评估结果确定。
 &lt;p&gt;&lt;/p&gt;
             &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;10. &lt;a href="https://www.solidot.org/story?sid=86003" target="_blank"&gt;基因编辑猪肾在人体内正常工作一年&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                基因编辑猪肾在人体内正常工作一年。58 岁的美国新罕布什尔州居民 Molly Falco 迎来了接受猪肾移植一周年的重要时刻。去年 11 月 22 日，她在麻省总医院接受了基因编辑猪肾移植手术。过去一年里，猪肾持续承担清除体内毒素、产生尿液及调节体液平衡等功能，让长期饱受肾病困扰的她逐渐恢复正常生活。如今她重新开起了汽车，能够为家人做饭，甚至计划恢复滑雪。美国约 9 万人正在等待肾脏移植，而 2025 年实际完成的肾移植手术不足 2.6 万例。由于猪器官在大小和部分生理功能上与人体器官相近，猪成为异种器官移植的重要供体来源。
-人体免疫系统会识别猪细胞表面的特定分子，并攻击移植器官。研究人员通过基因编辑，去除猪体内部分容易引起排斥的基因，同时引入有助于提高人体兼容性的人类基因，以减轻免疫系统对移植器官的攻击。Falco 接受的猪肾来自生物技术公司 eGenesis 培育的基因编辑猪，共经过 69 处基因编辑。其中 3 处用于去除容易引发免疫排斥的猪抗原，7 处用于引入提高人体兼容性的人类基因，另外 59 处用于使猪内源性逆转录病毒失活，降低潜在的跨物种感染风险。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;11. &lt;a href="https://www.solidot.org/story?sid=86004" target="_blank"&gt;已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                2025 年 4 月 1 日去世的网络工程师 Dave Täht 获得了互联网协会颁发的 Jonathan B. Postel 服务奖。今年初路由器发行版 OpenWrt 曾为纪念他而以他的名字命名 v25.12.0。互联网协会称：在 Täht 看来，视频通话中断、网页加载缓慢、进度条冻结——这些现象统称为缓冲区膨胀（bufferbloat）——都是阻碍互联网连接的障碍。所谓缓冲区膨胀是指数据在负责转发流量的硬件设备中滞留的时间。Täht 致力于寻找并推广解决网络拥塞的方案，旨在让人们真正享受到互联网的全部潜能。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;12. &lt;a href="https://www.solidot.org/story?sid=86005" target="_blank"&gt;英国人性生活频率大幅下降&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                根据发表在《柳叶刀》期刊上的一项研究，英国人性生活频率大幅下降，从 1990 年每月四次降至如今的每月两次；三分之一的 16–24 岁年轻人表示从未有过性行为，而 1990-2010 年间这一比例是五分之一；过去十年同性性行为的报告在增加；观看网络色情非常流行，一半年轻女性和近九成年轻男性表示过一年曾看过色情；无子女女性明确表示不打算生育的比例过去十年间翻了一番；等等。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            
-            &lt;li&gt;
-                &lt;strong&gt;13. &lt;a href="https://www.solidot.org/story?sid=86006" target="_blank"&gt;今天的老年人相比上一代人记忆力衰退放缓&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
-                今天的老年人相比上一代人认知衰退更慢记忆更好。一项针对 1910-1964 年间出生的 21.9 万人的研究发现，出生年份每向后推移十年，60 岁时的记忆力得分便会提高 10%。全世界很多国家的人口正在老龄化，患有痴呆症的人数也在上升。但过去四十年美国人任何年龄患痴呆症的个人风险下降了三分之二。研究人员推测，记忆力的提升可能得益于童年时期更好的教育、医疗保健和营养状况；而认知功能衰退速度的放缓，则可能受到人生后期多种因素的影响，例如心血管疾病和代谢性疾病治疗水平的改善。
-&lt;p&gt;&lt;/p&gt;
-            &lt;/li&gt;&lt;br/&gt;
-            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-26</guid><pubDate>Thu, 26 Nov 2026 18:51:07 +0000</pubDate></item></channel></rss>
+            &lt;/ul&gt;</description><guid isPermaLink="false">2026-11-27</guid><pubDate>Fri, 27 Nov 2026 18:42:33 +0000</pubDate></item></channel></rss>
